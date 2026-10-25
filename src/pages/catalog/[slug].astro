@@ -112,6 +112,14 @@ structuredData.push({
   brand: { '@type': 'Brand', name: 'Peptides of China' },
   sku: product.data.slug,
   ...(category ? { category } : {}),
+  offers: {
+    '@type': 'AggregateOffer',
+    priceCurrency: 'USD',
+    lowPrice: '60',
+    highPrice: '180',
+    offerCount: '1',
+    availability: 'https://schema.org/InStock',
+  },
 });
 if (faq.length > 0) {
   structuredData.push({
