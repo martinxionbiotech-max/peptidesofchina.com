@@ -139,7 +139,7 @@ SLU-PP-915 is the more practical translational candidate because oral exposure c
 
 The two compounds are therefore complementary rather than interchangeable. Researchers can use 332 as the established benchmark and 915 to explore whether an orally active ERR agonist preserves the same biology over longer experiments.
 
-Peptides of China currently lists both [SLU-PP-332 oral research material](/catalog/slu-pp-332-oral/) and [SLU-PP-915 research tablets](/catalog/slu-pp-915/) for qualified laboratory procurement. Product format should be evaluated separately from published pharmacokinetic evidence.
+Peptides of China currently lists both SLU-PP-332 oral research material and [SLU-PP-915 research tablets](/catalog/slu-pp-915/) for qualified laboratory procurement. Product format should be evaluated separately from published pharmacokinetic evidence.
 
 ## The bottom line
 
