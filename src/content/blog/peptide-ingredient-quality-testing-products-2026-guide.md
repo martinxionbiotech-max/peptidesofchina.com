@@ -6,6 +6,7 @@ description: "Explore our 2026 guide to peptide ingredient quality testing produ
 
 
 
+
 ---
 This guide examines peptide ingredient quality testing products 2026 guide from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -117,7 +118,7 @@ Researchers who treat quality documentation as a procurement checkbox rather tha
 
 Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory. Buyers requiring independent verification may arrange third-party analytical testing.
 
-Peptides of China coordinates sourcing from established Chinese manufacturing facilities together with international logistics. For researchers sourcing compounds like Epithalon, KPV, or VIP for in vivo or cell culture applications, the platform provides the [laboratory verification guidance](/blog/peptide-testing-and-analysis-a-professional-guide-to-laboratory-verification) needed to assess documentation before committing to a batch. Turnaround on analytical documentation is aligned with standard independent testing timelines.
+Peptides of China coordinates sourcing from established Chinese manufacturing facilities together with international logistics. For researchers sourcing compounds like [Epithalon](/catalog/epithalon/), KPV, or VIP for in vivo or cell culture applications, the platform provides the [laboratory verification guidance](/blog/peptide-testing-and-analysis-a-professional-guide-to-laboratory-verification) needed to assess documentation before committing to a batch. Turnaround on analytical documentation is aligned with standard independent testing timelines.
 
 ## FAQ
 
@@ -144,3 +145,7 @@ The LAL assay threshold for injectable-grade peptides is less than 1 EU/mg per s
 ## China Peptides Sourcing Perspective
 
 Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+## Related Products
+
+- [Epithalon](/catalog/epithalon/)

@@ -6,10 +6,11 @@ description: "A research-based overview of systemic and local injection strategi
 
 
 
+
 ---
 This guide examines local vs systemic injections of repair peptides what animal research suggests from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
-A research-based overview of systemic and local injection strategies for repair and regenerative peptides, with emphasis on veterinary-style injury models, tissue targeting, and the differences between Thymosin β4/TB-500, ARA-290, and BPC-157.
+A research-based overview of systemic and local injection strategies for repair and regenerative peptides, with emphasis on veterinary-style injury models, tissue targeting, and the differences between Thymosin β4/TB-500, [ARA-290](/catalog/ara-290/), and [BPC-157](/catalog/bpc-157/).
 
 Repair and regenerative peptides are often discussed in two different administration strategies: systemic injections and local injections near the affected tissue.
 
@@ -41,7 +42,7 @@ In a rat model of medial collateral ligament injury, local administration of Thy
 
 This is an important point: local injection is not just a “biohacker theory.” There is preclinical evidence showing that local administration of Thymosin β4 can improve ligament healing in an animal model.
 
-## TB-500 / Thymosin β4: Best Fit for Local + Systemic Logic
+## [TB-500](/catalog/tb-500/) / Thymosin β4: Best Fit for Local + Systemic Logic
 
 TB-500 is commonly used as a market name for Thymosin β4-related products, although technically these terms are not always used consistently.
 
@@ -126,3 +127,9 @@ He L. et al. Pharmacokinetics, distribution, metabolism, and excretion of BPC-15
 ## China Peptides Sourcing Perspective
 
 Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+## Related Products
+
+- [ARA-290](/catalog/ara-290/)
+- [BPC-157](/catalog/bpc-157/)
+- [TB-500](/catalog/tb-500/)

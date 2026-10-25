@@ -6,6 +6,7 @@ description: "Brenipatide is Lilly’s dual GIP/GLP-1 agonist in major addiction
 
 
 
+
 ---
 This guide examines brenipatide lillys incretin bet moves from weight to addiction from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -23,9 +24,9 @@ Brenipatide, development code **LY3537031**, is an investigational peptide from 
 
 That receptor combination sounds familiar because tirzepatide also targets GIPR and GLP-1R. The two compounds are not interchangeable. They are different molecules with different pharmacokinetic designs and clinical-development strategies.
 
-Tirzepatide was built and validated around diabetes and obesity. Brenipatide is being developed as a longer-acting research program across metabolic, neuropsychiatric, addiction and inflammatory indications. Public trial records describe subcutaneous administration, but the clinical schedule and dose escalation belong to the controlled trial protocols—not to an improvised human-use protocol.
+[Tirzepatide](/catalog/tirzepatide/) was built and validated around diabetes and obesity. Brenipatide is being developed as a longer-acting research program across metabolic, neuropsychiatric, addiction and inflammatory indications. Public trial records describe subcutaneous administration, but the clinical schedule and dose escalation belong to the controlled trial protocols—not to an improvised human-use protocol.
 
-Brenipatide is also not retatrutide. Retatrutide activates GLP-1, GIP and glucagon receptors and is being developed primarily for obesity and related metabolic disease. Brenipatide is a dual agonist without the glucagon-receptor component.
+Brenipatide is also not [retatrutide](/catalog/retatrutide/). Retatrutide activates GLP-1, GIP and glucagon receptors and is being developed primarily for obesity and related metabolic disease. Brenipatide is a dual agonist without the glucagon-receptor component.
 
 ## Why study an incretin drug for addiction?
 
@@ -80,7 +81,7 @@ This is not evidence that one peptide treats unrelated diseases. It is evidence 
 
 The psychiatric studies are especially notable. Weight gain and metabolic disease are common complications in serious mental illness, while reward processing and motivation are central to several psychiatric symptoms. A successful result would still need to show whether benefit came from direct central effects, metabolic improvement, weight change or some combination.
 
-## Brenipatide versus tirzepatide, retatrutide and eloralintide
+## Brenipatide versus tirzepatide, retatrutide and [eloralintide](/catalog/eloralintide/)
 
 These molecules are often grouped together because they sit in Lilly’s broader metabolic pipeline. Their jobs are not the same.
 
@@ -191,3 +192,9 @@ Weight and metabolic effects are being evaluated, including in an early obesity 
 ## China Peptides Sourcing Perspective
 
 Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+## Related Products
+
+- [Tirzepatide](/catalog/tirzepatide/)
+- [retatrutide](/catalog/retatrutide/)
+- [eloralintide](/catalog/eloralintide/)

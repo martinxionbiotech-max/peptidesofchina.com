@@ -6,6 +6,7 @@ description: "Unlock the best tips on how to nootropic buy with confidence. Foll
 
 
 
+
 ---
 This guide examines nootropic buy from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -38,7 +39,7 @@ Before submitting an RFQ to any nootropic website or supplier, run through this 
 
 ## What does “nootropic buy” mean for research procurement?
 
-This guide covers wholesale procurement of research-grade cognitive and longevity compounds sold for laboratory use under RUO classification. That scope includes peptide-based nootropics, mitochondrial agents, and signaling peptides such as [SNAP-8](/blog/peptides-for-sale), 5-Amino-1MQ, Cerebrolysin, and NAD+ research materials. It does not cover retail consumer supplements, OTC brain-health capsules, or finished-dose pharmaceutical products.
+This guide covers wholesale procurement of research-grade cognitive and longevity compounds sold for laboratory use under RUO classification. That scope includes peptide-based nootropics, mitochondrial agents, and signaling peptides such as [SNAP-8](/blog/peptides-for-sale), [5-Amino-1MQ](/catalog/5-amino-1mq/), [Cerebrolysin](/catalog/cerebrolysin/), and [NAD+](/catalog/nad/) research materials. It does not cover retail consumer supplements, OTC brain-health capsules, or finished-dose pharmaceutical products.
 
 RUO compounds differ from clinical APIs in documentation expectations. Buyers should expect:
 
@@ -177,7 +178,7 @@ A customs hold that extends beyond the retest window on a COA effectively invali
 
 Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory.
 
-Submit an RFQ specifying the compound, quantity, and relevant requirements. At Peptides of China, the $10 deposit initiates manual request processing and real-time stock verification and is credited toward the final invoice. Compounds available for research procurement include [Cerebrolysin and NAD+ research materials](/catalog/epithalon), SNAP-8, 5-Amino-1MQ, and other catalog peptides.
+Submit an RFQ specifying the compound, quantity, and relevant requirements. At Peptides of China, the $10 deposit initiates manual request processing and real-time stock verification and is credited toward the final invoice. Compounds available for research procurement include [Cerebrolysin and NAD+ research materials](/catalog/epithalon), [SNAP-8](/catalog/snap-8/), 5-Amino-1MQ, and other catalog peptides.
 
 Submit a wholesale RFQ or request a pilot lot through the Peptides of China catalog to receive batch documentation and a confirmed lot number before committing to full volume.
 
@@ -221,3 +222,10 @@ The procurement discipline that actually protects a research program is insistin
 ## China Peptides Sourcing Perspective
 
 Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+## Related Products
+
+- [5-Amino-1MQ](/catalog/5-amino-1mq/)
+- [Cerebrolysin](/catalog/cerebrolysin/)
+- [NAD+](/catalog/nad/)
+- [SNAP-8](/catalog/snap-8/)

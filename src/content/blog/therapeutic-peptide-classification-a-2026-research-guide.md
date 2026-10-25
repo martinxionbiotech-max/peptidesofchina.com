@@ -6,6 +6,7 @@ description: "Discover what is therapeutic peptide classification and explore ho
 
 
 
+
 ---
 This guide examines therapeutic peptide classification a 2026 research guide from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -28,7 +29,7 @@ The most clinically active categories include:
 - **Antimicrobial peptides (AMPs):** Disrupt bacterial membranes through direct lytic action. AMPs represent one of the largest and most studied categories, with applications in antibiotic-resistant infection research.
 - **Immunoactive peptides:** Modulate innate and adaptive immune responses. This group includes thymic peptides and checkpoint-modulating sequences relevant to autoimmune and oncology research. Researchers studying [immune response peptides](/blog/peptides-in-immune-response-research-2026-guide) frequently work within this category.
 - **Metabolic regulatory peptides:** Act on insulin signaling, glucagon pathways, and lipid metabolism. GLP-1 agonists are the most commercially prominent subcategory.
-- **Growth hormone secretagogues (GHS):** Stimulate endogenous GH release via ghrelin receptor agonism. Tesamorelin is a documented example in this group.
+- **Growth hormone secretagogues (GHS):** Stimulate endogenous GH release via ghrelin receptor agonism. [Tesamorelin](/catalog/tesamorelin/) is a documented example in this group.
 - **Neuropeptides:** Modulate neurotransmitter release and central nervous system signaling.
 - **Longevity and cytoprotective peptides:** Act on telomere maintenance, mitochondrial function, and cellular repair pathways.
 
@@ -37,10 +38,10 @@ A critical feature of this classification system is multifunctionality. The same
 | Functional category | Representative example | Primary mechanism |
 | --- | --- | --- |
 | Antimicrobial | Defensins | Membrane disruption |
-| GLP-1 agonists | Semaglutide | GLP-1 receptor activation |
+| GLP-1 agonists | [Semaglutide](/catalog/semaglutide/) | GLP-1 receptor activation |
 | Growth hormone secretagogues | Tesamorelin | Ghrelin receptor agonism |
 | Immunoactive | Thymosin alpha-1 | T-cell modulation |
-| Longevity/cytoprotective | Epithalon | Telomerase activation |
+| Longevity/cytoprotective | [Epithalon](/catalog/epithalon/) | Telomerase activation |
 
 Tesamorelin illustrates the multifunctionality problem directly. It is classified under both growth hormone secretagogues and visceral-metabolic categories because it acts through multiple systems simultaneously. Researchers must check multiple functional profiles before designing a protocol around any pleiotropic compound.
 
@@ -147,3 +148,9 @@ CNN classifiers trained on over 54,000 therapeutic peptide sequences achieve a 7
 ## China Peptides Sourcing Perspective
 
 Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+## Related Products
+
+- [Tesamorelin](/catalog/tesamorelin/)
+- [Semaglutide](/catalog/semaglutide/)
+- [Epithalon](/catalog/epithalon/)

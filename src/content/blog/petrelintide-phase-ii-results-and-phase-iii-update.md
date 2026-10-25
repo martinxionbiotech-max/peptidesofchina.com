@@ -6,6 +6,7 @@ description: "Petrelintide research update: ZUPREME-1 and ZUPREME-2 weight-loss 
 
 
 
+
 ---
 This guide examines petrelintide phase ii results and phase iii update from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -85,7 +86,7 @@ Before drawing conclusions, use a consistent comparison template. Fill each fiel
 
 **Analysis method:** Which analysis population and estimand produced the figure? Is it a mean change, a subgroup result, or the result from a selected treatment arm?
 
-This framework also applies when reviewing retatrutide and other candidates in obesity research. Keep each candidate’s study details attached to its result. Avoid placing percentages side by side without showing the underlying population, duration, endpoint, comparator, and analysis.
+This framework also applies when reviewing [retatrutide](/catalog/retatrutide/) and other candidates in obesity research. Keep each candidate’s study details attached to its result. Avoid placing percentages side by side without showing the underlying population, duration, endpoint, comparator, and analysis.
 
 ### Which study details make comparisons more meaningful?
 
@@ -179,3 +180,7 @@ No. A rationale for studying a combination is not evidence about how the combina
 ## China Peptides Sourcing Perspective
 
 Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+## Related Products
+
+- [retatrutide](/catalog/retatrutide/)

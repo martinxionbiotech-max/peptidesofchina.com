@@ -6,6 +6,7 @@ description: "Discover the critical role of counterions in peptide stability. En
 
 
 
+
 ---
 This guide examines role of counterions in peptide stability from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -73,7 +74,7 @@ The overall pattern from published work is that counterion effects on peptide co
 
 | Case / Peptide | Counterions Tested | Observed Outcome | Source |
 | --- | --- | --- | --- |
-| LL-37 (antimicrobial) | SO4²−, HCO3−, CF3CO2− (TFA−) | α-helical conformation induced by specific anions; antimicrobial activity correlated with helical content | PubMed 41301485 |
+| [LL-37](/catalog/ll-37/) (antimicrobial) | SO4²−, HCO3−, CF3CO2− (TFA−) | α-helical conformation induced by specific anions; antimicrobial activity correlated with helical content | PubMed 41301485 |
 | Synthetic AMPs (antistaphylococcal) | TFA− vs. Cl− | Residual TFA− ranged 150–320 µg per mg peptide; activity and cytotoxicity differed between salt forms | Springer |
 | Leuprolide, insulin, desmopressin | Hydrophobic anions (docusate, oleate) | HIP improved encapsulation efficiency and enzymatic stability in lipid-based systems | PMC7761850 |
 | Synthetic peptides (TFA exchange study) | TFA− → Cl− (10 mM HCl) | 10 mM HCl exchange reduced TFA− below LOQ; verified by FT-IR, 19F-NMR, HPLC-ELSD | Pharmaceutics |
@@ -213,3 +214,7 @@ Core peer-reviewed references for mechanisms, methods, and case studies:
 ## China Peptides Sourcing Perspective
 
 Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+## Related Products
+
+- [LL-37](/catalog/ll-37/)

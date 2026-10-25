@@ -6,6 +6,7 @@ description: "Discover the key differences between CJC-1295 with DAC and no DAC 
 
 
 
+
 ---
 This guide examines dac vs no dac from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -94,7 +95,7 @@ Practical dosing regimens reported in community practice and vendor literature r
 
 Additional protocol considerations:
 
-- When co-administered with a GHRP (such as GHRP-2 or ipamorelin), Mod GRF 1-29 is injected simultaneously to amplify the GH pulse. DAC’s sustained background does not require this timing precision, though GHRP co-administration is still used in some stacks.
+- When co-administered with a GHRP (such as [GHRP-2](/catalog/ghrp-2/) or ipamorelin), Mod GRF 1-29 is injected simultaneously to amplify the GH pulse. DAC’s sustained background does not require this timing precision, though GHRP co-administration is still used in some stacks.
 - For GH sampling in studies, blood draws for peak GH should occur approximately 15–45 minutes post-injection with no-DAC. For IGF-1 monitoring with DAC, trough draws (just before the next weekly injection) provide the most stable and reproducible measure.
 - Reconstitution volume and injection concentration affect tolerability. Higher-concentration reconstitutions reduce injection volume but increase local peptide load at the injection site.
 
@@ -292,3 +293,7 @@ These products are supplied for research use only and are not intended for human
 ## China Peptides Sourcing Perspective
 
 Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+## Related Products
+
+- [GHRP-2](/catalog/ghrp-2/)
