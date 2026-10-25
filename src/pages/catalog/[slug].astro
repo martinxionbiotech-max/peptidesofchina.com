@@ -9,7 +9,7 @@ export async function getStaticPaths() {
 
 const { product } = Astro.props;
 const { Content } = await render(product);
-const { title, name, price, purity, specification, status, image } = product.data;
+const { title, name, purity, specification, status, image } = product.data;
 const base = `Buy ${name} | China Peptide — Peptides of China`;
 const seoTitle = base.length <= 60 ? base : `Buy ${name.slice(0, 37).trimEnd()}… | China Peptide`;
 
@@ -19,12 +19,6 @@ const structuredData = [
     '@type': 'Product',
     name: title,
     description: `${name} — research peptide from China. Research use only.`,
-    offers: {
-      '@type': 'Offer',
-      price: price,
-      priceCurrency: 'USD',
-      availability: 'https://schema.org/InStock',
-    },
   },
   {
     '@context': 'https://schema.org',
@@ -51,17 +45,17 @@ const structuredData = [
     )}
     <aside class="price-card">
       <div class="price-line">
-        <span class="price-value">${price.toFixed(2)}</span>
+        <span class="price-value">Latest Price List</span>
         <span class="badge">{status}</span>
       </div>
-      <p class="price-note">{specification || '10 vials per kit'} · B2B wholesale pricing</p>
+      <p class="price-note">{specification || '10 vials per kit'} · Prices in current catalog PDF</p>
       <dl class="spec-rows">
         <div><dt>Purity</dt><dd>{purity || '≥98%'}</dd></div>
         <div><dt>Packaging</dt><dd>{specification || '10 vials per kit'}</dd></div>
         <div><dt>Availability</dt><dd>{status}</dd></div>
       </dl>
       <div class="actions">
-        <a class="btn" href="/how-it-works/">How to Order</a>
+        <a class="btn" href="/pricelist.pdf">📄 Download Latest Price List (PDF)</a>
         <a class="btn btn-ghost" href="/contact/">Ask About This Product</a>
       </div>
     </aside>

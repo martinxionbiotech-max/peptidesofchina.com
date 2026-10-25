@@ -40,7 +40,7 @@ for (const p of products) {
               <img class="card-thumb" src={p.data.image} alt={`${p.data.name} — research peptide from China`} loading="lazy" width="240" height="240" />
             )}
             <strong class="card-title">{p.data.name}</strong>
-            <span class="price">${p.data.price.toFixed(2)}</span>
+            <a href="/pricelist.pdf" class="meta" style="color:var(--accent);font-weight:600">📄 Download latest price list (PDF)</a>
             <span class="meta">{p.data.specification || p.data.purity || '10 vials'} · {p.data.status}</span>
           </a>
         ))}

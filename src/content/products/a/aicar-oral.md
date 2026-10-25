@@ -5,7 +5,7 @@ slug: "aicar-oral"
 price: 83.0
 status: "In Stock"
 description: "AICAR is an adenosine analog that can be converted intracellularly to ZMP, an AMP mimetic used in research on AMP-activated protein kinase (AMPK) signaling. It is studied as a laboratory tool for inve"
-image: "/images/products/aicar-50mg-peptide-main.webp"
+image: "/images/products/generic-vial.png"
 ---
 aicar-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Energy & Endurance, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 100 tablets 
 
