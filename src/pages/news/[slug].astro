@@ -13,10 +13,15 @@ const full = `${item.data.title} | Peptides of China`;
 const seoTitle = full.length <= 60 ? full : (item.data.title.length <= 60 ? item.data.title : item.data.title.slice(0, 57).trimEnd() + '…');
 ---
 <BaseLayout title={seoTitle} description={item.data.description}>
-  <p class="muted"><a href="/news/">News</a> ›</p>
-  <h1>{item.data.title}</h1>
-  <article>
-    <Content />
-  </article>
-  <p class="muted"><a href="/news/">← All news</a></p>
+  <p class="crumbs"><a href="/news/">News</a> ›</p>
+  <div class="article-shell">
+    <header class="article-header">
+      <h1>{item.data.title}</h1>
+      {item.data.description && <p class="lede">{item.data.description}</p>}
+    </header>
+    <article>
+      <Content />
+    </article>
+    <p class="muted"><a href="/news/">← All news</a></p>
+  </div>
 </BaseLayout>

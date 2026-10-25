@@ -9,31 +9,70 @@ const posts = await getCollection('blog');
   title="China Peptides From China | Peptides of China"
   description="Source china peptide products and chinese peptides direct from established Chinese manufacturers: batch-tested purity, factory coordination, and international shipping for research buyers and private brands."
 >
-  <h1>China Peptides From China — Sourced at the Factory Level</h1>
-  <p>
-    Peptides of China is a B2B sourcing platform for <strong>china peptide</strong> products — finished
-    lyophilized research compounds manufactured in established Chinese facilities. We coordinate factory
-    sourcing, availability confirmation, manufacturer specifications, order processing, international
-    logistics, and delivery support for private brands, resellers, and research buyers looking for
-    reliable <strong>chinese peptides</strong> supply.
-  </p>
+  <section class="hero">
+    <div class="hero-copy">
+      <h1>China Peptides From China — Sourced at the Factory Level</h1>
+      <p class="hero-lede">
+        Peptides of China is a B2B sourcing platform for <strong>china peptide</strong> products — finished
+        lyophilized research compounds manufactured in established Chinese facilities. We coordinate factory
+        sourcing, availability confirmation, manufacturer specifications, order processing, international
+        logistics, and delivery support for private brands, resellers, and research buyers looking for
+        reliable <strong>chinese peptides</strong> supply.
+      </p>
+      <div class="hero-actions">
+        <a class="btn" href="/catalog/">Browse the Catalog</a>
+        <a class="btn btn-ghost" href="/how-it-works/">How It Works</a>
+      </div>
+    </div>
+    <div class="hero-art" aria-hidden="true">
+      <svg viewBox="0 0 360 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="24" y="34" width="312" height="232" rx="18" fill="#ffffff" stroke="#e2e8f0"/>
+        <circle cx="304" cy="54" r="6" fill="#dbeafe"/>
+        <circle cx="318" cy="68" r="4" fill="#ccfbf1"/>
+        <path d="M151 78h58l18 128h-94l18-128Z" fill="#eff6ff" stroke="#1d4ed8" stroke-width="3" stroke-linejoin="round"/>
+        <path d="M170 78h20v-18c0-8 8-16 10-16s10 8 10 16v18" stroke="#0d9488" stroke-width="3" stroke-linecap="round"/>
+        <path d="M163 78v-24c0-10 8-18 17-18s17 8 17 18v24" stroke="#1d4ed8" stroke-width="3"/>
+        <path d="M146 122h68" stroke="#1d4ed8" stroke-width="3" stroke-linecap="round"/>
+        <path d="M146 144h68" stroke="#93c5fd" stroke-width="3" stroke-linecap="round"/>
+        <path d="M139 206h22c12 0 22 8 22 20s-10 20-22 20h-22v-40Z" stroke="#e2e8f0" stroke-width="0"/>
+        <circle cx="60" cy="240" r="5" fill="#0d9488"/>
+        <circle cx="84" cy="252" r="4" fill="#0d9488" opacity="0.7"/>
+        <circle cx="108" cy="242" r="3.5" fill="#0d9488" opacity="0.45"/>
+        <path d="M56 240c9-12 22-13 33-5M80 252c6-8 17-9 25-3" stroke="#0d9488" stroke-width="2.4" stroke-linecap="round"/>
+        <path d="M250 212c10 0 18 6 18 15s-8 15-18 15" stroke="#1d4ed8" stroke-width="3" stroke-linecap="round"/>
+        <path d="M238 242h34" stroke="#1d4ed8" stroke-width="3" stroke-linecap="round"/>
+        <path d="M292 96l22 30 10-32 24 26" stroke="#0d9488" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="268" cy="170" r="4" fill="#94a3b8"/>
+        <circle cx="284" cy="162" r="4" fill="#cbd5e1"/>
+        <circle cx="292" cy="180" r="4" fill="#94a3b8"/>
+      </svg>
+    </div>
+  </section>
 
-  <div class="grid">
-    <div class="card">
-      <strong>{products.length}+ Research Compounds</strong>
-      <span class="meta">Peptides, blends, and reference compounds in stock</span>
+  <div class="stat-grid">
+    <div class="stat">
+      <span class="stat-icon">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/><path d="m3.3 7 8.7 5 8.7-5"/><path d="M12 22V12"/></svg>
+      </span>
+      <div><strong>{products.length}+ Research Compounds</strong><span>Peptides, blends, and reference compounds in stock</span></div>
     </div>
-    <div class="card">
-      <strong>Direct Factory Sourcing</strong>
-      <span class="meta">No intermediaries — manufacturer-direct access</span>
+    <div class="stat">
+      <span class="stat-icon teal">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 20h20"/><path d="M3 20 8 8l7 12"/><path d="m8 8 4 2.5L21 4"/><path d="M12 10.5 21 4"/></svg>
+      </span>
+      <div><strong>Direct Factory Sourcing</strong><span>No intermediaries — manufacturer-direct access</span></div>
     </div>
-    <div class="card">
-      <strong>Batch-Tested Purity</strong>
-      <span class="meta">Routine quality control per manufacturer specifications</span>
+    <div class="stat">
+      <span class="stat-icon">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-3.5 8-10V5l-8-3-8 3v7c0 6.5 8 10 8 10Z"/><path d="m9 11.5 2 2 4-4.5"/></svg>
+      </span>
+      <div><strong>Batch-Tested Purity</strong><span>Routine quality control per manufacturer specifications</span></div>
     </div>
-    <div class="card">
-      <strong>International Shipping</strong>
-      <span class="meta">Door-to-door logistics with tracking</span>
+    <div class="stat">
+      <span class="stat-icon teal">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10Z"/><path d="M2 12h20"/></svg>
+      </span>
+      <div><strong>International Shipping</strong><span>Door-to-door logistics with tracking</span></div>
     </div>
   </div>
 
@@ -54,7 +93,7 @@ const posts = await getCollection('blog');
   </p>
 
   <h2>How It Works</h2>
-  <ol>
+  <ol class="steps">
     <li><strong>Select compounds</strong> from the <a href="/catalog/">catalog</a>.</li>
     <li><strong>Confirm availability and specifications</strong> with the manufacturer.</li>
     <li><strong>Order and pay</strong> — public catalog minimum is $300 per supplier.</li>
@@ -66,7 +105,7 @@ const posts = await getCollection('blog');
   <div class="grid">
     {posts.slice(0, 6).map((p) => (
       <a href={`/blog/${p.data.slug}/`} class="card">
-        <strong>{p.data.title}</strong>
+        <strong class="card-title">{p.data.title}</strong>
         <span class="meta">{p.data.description || ''}</span>
       </a>
     ))}

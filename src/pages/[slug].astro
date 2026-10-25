@@ -11,10 +11,36 @@ const { page } = Astro.props;
 const { Content } = await render(page);
 const full = `${page.data.title} | Peptides of China`;
 const seoTitle = full.length <= 60 ? full : (page.data.title.length <= 60 ? page.data.title : page.data.title.slice(0, 57).trimEnd() + '…');
+
+const heroImages: Record<string, string> = {
+  'how-it-works': '/images/pages/how-it-works.svg',
+  'peptide-quality': '/images/pages/peptide-quality.svg',
+  'company': '/images/pages/company.svg',
+  'custom-peptide-services': '/images/pages/custom-peptide-services.svg',
+  'manufacturing-partners': '/images/pages/manufacturing-partners.svg',
+};
+const heroSrc = heroImages[page.data.slug];
 ---
 <BaseLayout title={seoTitle} description={page.data.description}>
-  <h1>{page.data.title}</h1>
-  <article>
-    <Content />
-  </article>
+  {heroSrc ? (
+    <section class="page-hero">
+      <div>
+        <h1>{page.data.title}</h1>
+        {page.data.description && <p class="lede">{page.data.description}</p>}
+      </div>
+      <div class="page-hero-art">
+        <img src={heroSrc} alt={page.data.description || page.data.title} width="320" height="320" loading="eager" />
+      </div>
+    </section>
+  ) : (
+    <div class="article-header">
+      <h1>{page.data.title}</h1>
+      {page.data.description && <p class="lede">{page.data.description}</p>}
+    </div>
+  )}
+  <div class="article-shell">
+    <article>
+      <Content />
+    </article>
+  </div>
 </BaseLayout>

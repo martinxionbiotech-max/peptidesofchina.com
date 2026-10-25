@@ -23,14 +23,19 @@ const structuredData = [
 ---
 <BaseLayout title={seoTitle} description={post.data.description}>
   <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
-  <p class="muted"><a href="/blog/">Blog</a> ›</p>
-  <h1>{post.data.title}</h1>
-  <article>
-    <Content />
-  </article>
-  <div class="disclaimer">
-    <strong>Research use only.</strong> Products referenced on this page are research compounds for
-    laboratory use. Nothing here is medical advice.
+  <p class="crumbs"><a href="/blog/">Blog</a> ›</p>
+  <div class="article-shell">
+    <header class="article-header">
+      <h1>{post.data.title}</h1>
+      {post.data.description && <p class="lede">{post.data.description}</p>}
+    </header>
+    <article>
+      <Content />
+    </article>
+    <div class="disclaimer">
+      <strong>Research use only.</strong> Products referenced on this page are research compounds for
+      laboratory use. Nothing here is medical advice.
+    </div>
+    <p class="muted"><a href="/blog/">← All china peptide guides</a></p>
   </div>
-  <p class="muted"><a href="/blog/">← All china peptide guides</a></p>
 </BaseLayout>

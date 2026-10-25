@@ -40,23 +40,38 @@ const structuredData = [
 <BaseLayout title={seoTitle} description={`${name}: research peptide from China. ${purity || '≥98% purity'}, batch-tested, direct factory sourcing, international shipping.`}>
   <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 
-  <p class="muted"><a href="/catalog/">Catalog</a> › {name}</p>
+  <p class="crumbs"><a href="/catalog/">Catalog</a> › {name}</p>
   <h1>{title}</h1>
 
-  <div style="display:flex;gap:1.5rem;flex-wrap:wrap;align-items:flex-start">
+  <div class="product-layout">
     {image && (
-      <img src={image} alt={`${name} — research peptide from China`} width="360" height="360" style="border-radius:8px;max-width:360px;width:100%;aspect-ratio:1;object-fit:cover;background:var(--bg-soft);border:1px solid var(--border)" />
+      <figure class="product-media">
+        <img src={image} alt={`${name} — research peptide from China`} width="380" height="380" />
+      </figure>
     )}
-    <div class="card" style="max-width:420px;flex:1;min-width:240px">
-      <span class="badge">{status}</span>
-      <strong style="font-size:1.5rem">${price.toFixed(2)}</strong>
-      <span class="meta">{specification || '10 vials per kit'} · {purity || '≥98% purity'}</span>
-    </div>
+    <aside class="price-card">
+      <div class="price-line">
+        <span class="price-value">${price.toFixed(2)}</span>
+        <span class="badge">{status}</span>
+      </div>
+      <p class="price-note">{specification || '10 vials per kit'} · B2B wholesale pricing</p>
+      <dl class="spec-rows">
+        <div><dt>Purity</dt><dd>{purity || '≥98%'}</dd></div>
+        <div><dt>Packaging</dt><dd>{specification || '10 vials per kit'}</dd></div>
+        <div><dt>Availability</dt><dd>{status}</dd></div>
+      </dl>
+      <div class="actions">
+        <a class="btn" href="/how-it-works/">How to Order</a>
+        <a class="btn btn-ghost" href="/contact/">Ask About This Product</a>
+      </div>
+    </aside>
   </div>
 
-  <article>
-    <Content />
-  </article>
+  <div class="article-shell">
+    <article>
+      <Content />
+    </article>
+  </div>
 
   <div class="disclaimer">
     <strong>Research use only.</strong> This product is a research compound intended for laboratory

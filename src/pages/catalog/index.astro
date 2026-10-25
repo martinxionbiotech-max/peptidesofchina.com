@@ -16,12 +16,14 @@ for (const p of products) {
   title="China Peptide Catalog | Peptides of China"
   description="Complete catalog of research peptides manufactured in China: peptides, blends, and compounds with batch-tested purity, direct factory sourcing, and international shipping."
 >
-  <h1>China Peptide Catalog</h1>
-  <p class="muted">
-    {products.length} research compounds in stock — manufactured in established Chinese facilities,
-    batch-tested for purity, shipped internationally. Catalog quantities start from one kit of 10
-    vials per product.
-  </p>
+  <div class="article-header">
+    <h1>China Peptide Catalog</h1>
+    <p class="lede">
+      {products.length} research compounds in stock — manufactured in established Chinese facilities,
+      batch-tested for purity, shipped internationally. Catalog quantities start from one kit of 10
+      vials per product.
+    </p>
+  </div>
   <div class="notice">
     <strong>B2B sourcing platform.</strong> Peptides of China coordinates factory sourcing, availability
     confirmation, specifications, order processing, international logistics, and delivery support for
@@ -35,9 +37,9 @@ for (const p of products) {
         {items.map((p) => (
           <a href={`/catalog/${p.data.slug}/`} class="card">
             {p.data.image && (
-              <img src={p.data.image} alt={`${p.data.name} — research peptide from China`} loading="lazy" width="240" height="240" style="border-radius:6px;width:100%;aspect-ratio:1;object-fit:cover;background:var(--bg)" />
+              <img class="card-thumb" src={p.data.image} alt={`${p.data.name} — research peptide from China`} loading="lazy" width="240" height="240" />
             )}
-            <strong>{p.data.name}</strong>
+            <strong class="card-title">{p.data.name}</strong>
             <span class="price">${p.data.price.toFixed(2)}</span>
             <span class="meta">{p.data.specification || p.data.purity || '10 vials'} · {p.data.status}</span>
           </a>
