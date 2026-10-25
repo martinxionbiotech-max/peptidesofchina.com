@@ -5,11 +5,7 @@ slug: "hgh-191aa-somatropin"
 price: 75.0
 status: "In Stock"
 description: "HGH 191AA (Somatropin) research grade, multiple IU sizes available. Sourced from verified Chinese manufacturer. HPLC-verified, purity tested per batch."
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 HGH 191AA (somatropin) is the reference growth hormone in china peptide catalogs and one of the most expensive per-vial listings, which is why documentation discipline matters most here. Counterfeit and under-filled somatropin vials circulate widely in the chinese peptides trade. Every vial we supply carries the manufacturer's specification and lot record — the standard the category should have had from the start.
 

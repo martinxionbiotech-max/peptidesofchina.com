@@ -5,11 +5,7 @@ slug: "fat-blaster-lipotropic-complex"
 price: 134.0
 status: "In Stock"
 description: "High-potency lipotropic injectable containing L-Carnitine 300mg, Methionine 25mg, Inositol 50mg, Choline 50mg, B12 1mg, B6 (Pyridoxine) 50mg, and NADH 50mg per ml. Investigated in metabolic research e"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 fat-blaster-lipotropic-complex is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management, Energy & Endurance, Blends Total variants: 1 In-stock variants: 1 of 1 Purity: >=98% Standard pack size: 10 vials 
 

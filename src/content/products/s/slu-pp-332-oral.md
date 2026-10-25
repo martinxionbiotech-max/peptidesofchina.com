@@ -5,11 +5,7 @@ slug: "slu-pp-332-oral"
 price: 27.0
 status: "In Stock"
 description: "SLU-PP-332 is an investigational synthetic agonist of the estrogen-related receptor family (ERRα, ERRβ, and ERRγ), with its highest reported potency at ERRα. It is used as a preclinical research tool "
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 slu-pp-332-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Energy & Endurance, Orals Total variants: 7 In-stock variants: 0 of 7 Standard pack size: 100 tablets 
 

@@ -5,11 +5,7 @@ slug: "sermorelin-acetate"
 price: 98.0
 status: "In Stock"
 description: "Synthetic peptide corresponding to the active fragment of growth hormone-releasing hormone, GHRH. Used in studies of the GHRH receptor and hypothalamic-pituitary regulation of growth hormone secretion"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 Sermorelin Acetate is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the GHRH Analogue — N-terminal Fragment Also Known As GHRH(1-29), GRF 1-29, Somatocrinin(1-29) CAS Number 86168-78-7 Molecular Formula C₁₄₉H₂₄₆N₄₄O₄₂S Molecular Weight 3357.9 Da (free base) Sequence Length 29 amino acids (native GHRH N-terminal sequence) Receptor Target GHRHR (Growth Hormone-Releasing Hormone Receptor) DPP-IV Sensitivity High — cleavage at His²-Ala³ bond (t½ ~10–12 min) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
 

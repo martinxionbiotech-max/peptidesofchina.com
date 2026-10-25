@@ -5,11 +5,7 @@ slug: "l-carnitine-liquid"
 price: 150.0
 status: "In Stock"
 description: "L-carnitine participates in transporting long-chain fatty acids into mitochondria for subsequent oxidation. Investigated in the context of cellular energetics, lipid metabolism, and mitochondrial tran"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 l-carnitine-liquid is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Energy & Endurance, Vitamins & Nutrients Total variants: 1 In-stock variants: 1 of 1 Standard pack size: 10 × 10 ml vials 
 

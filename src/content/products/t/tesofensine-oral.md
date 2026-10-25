@@ -5,11 +5,7 @@ slug: "tesofensine-oral"
 price: 53.0
 status: "In Stock"
 description: "Tesofensine is an investigational monoamine reuptake inhibitor that affects serotonin, norepinephrine, and dopamine transport. It has been studied in clinical and preclinical research examining appeti"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 tesofensine-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management, Orals Total variants: 2 In-stock variants: 1 of 2 Standard pack size: 100 tablets 
 

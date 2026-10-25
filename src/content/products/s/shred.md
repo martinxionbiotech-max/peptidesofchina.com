@@ -5,11 +5,7 @@ slug: "shred"
 price: 131.0
 status: "In Stock"
 description: "Composition of L-carnitine, methionine, inositol, choline, and vitamins B6 and B12. The research context of its components covers lipid metabolism, methyl group transfer, and cofactor mechanisms of ce"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 shred is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management, Vitamins & Nutrients, Blends Total variants: 1 In-stock variants: 1 of 1 Standard pack size: 10 × 10 mL ampoules 
 

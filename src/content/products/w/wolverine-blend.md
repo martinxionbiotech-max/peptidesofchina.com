@@ -5,11 +5,7 @@ slug: "wolverine-blend"
 price: 143.0
 status: "In Stock"
 description: "Wolverine Blend: BPC-157 + TB-500 combined blend. Purity tested per batch, sourced directly from China. Research use only."
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 Wolverine Blend is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Tissue Repair, Musculoskeletal, Healing & Recovery Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) CAS Number N/A — combination product Molecular Weight N/A — see individual components Molecular Formula N/A — combination product Sequence N/A — combination product 
 

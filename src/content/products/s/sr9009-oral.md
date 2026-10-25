@@ -5,11 +5,7 @@ slug: "sr9009-oral"
 price: 75.0
 status: "In Stock"
 description: "SR9009 is a synthetic research compound originally characterized as an agonist of the REV-ERBα and REV-ERBβ nuclear receptors. It is used in preclinical studies of circadian regulation, transcriptiona"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 sr9009-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Muscle & Performance, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 100 tablets 
 

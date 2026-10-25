@@ -5,11 +5,7 @@ slug: "l-carnitine"
 price: 54.0
 status: "In Stock"
 description: "Naturally occurring quaternary ammonium compound. Investigated in metabolic research for its role in long-chain fatty acid transport across the inner mitochondrial membrane and β-oxidation regulation."
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 L-Carnitine is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Quaternary ammonium compound (zwitterionic amino acid derivative) Synonyms L-Carnitine, Levocarnitine, (R)-Carnitine, Vitamin BT Molecular Formula C₇H₁₅NO₃ Molecular Weight 161.2 Da CAS Number 541-15-1 PubChem CID 10917 Primary Function Long-chain fatty acid transport across inner mitochondrial membrane (carnitine shuttle) 
 

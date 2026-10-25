@@ -5,11 +5,7 @@ slug: "ostarine-mk-2866-oral"
 price: 53.0
 status: "In Stock"
 description: "Ostarine, also known as MK-2866 or Enobosarm, is an investigational nonsteroidal selective androgen receptor modulator (SARM). Clinical and preclinical research has examined its effects on androgen-re"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 ostarine-mk-2866-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Muscle & Performance, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 100 tablets 
 

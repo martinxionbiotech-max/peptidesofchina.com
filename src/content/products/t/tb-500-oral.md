@@ -5,11 +5,7 @@ slug: "tb-500-oral"
 price: 143.0
 status: "In Stock"
 description: "TB-500 Fragment is a short peptide fragment derived from the actin-binding region of thymosin beta-4 rather than the full-length thymosin beta-4 molecule. It is studied in preclinical research examini"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 tb-500-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Healing & Repair, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 100 tablets 
 

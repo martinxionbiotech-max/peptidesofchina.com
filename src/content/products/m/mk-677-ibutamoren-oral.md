@@ -5,11 +5,7 @@ slug: "mk-677-ibutamoren-oral"
 price: 53.0
 status: "In Stock"
 description: "MK-677, also known as Ibutamoren, is an investigational orally active ghrelin-receptor agonist and growth-hormone secretagogue. Clinical and preclinical research has examined its effects on growth-hor"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 mk-677-ibutamoren-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Muscle & Performance, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 100 tablets 
 

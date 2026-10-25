@@ -5,11 +5,7 @@ slug: "mazdutide"
 price: 165.0
 status: "In Stock"
 description: "Dual glucagon/GLP-1 receptor agonist (GCG/GLP1R co-agonist) under clinical investigation. Studied for effects on body weight reduction, glucose homeostasis, and hepatic lipid metabolism in metabolic r"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 mazdutide is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management Total variants: 2 In-stock variants: 2 of 2 Purity: ≥98% Standard pack size: 10 vials 
 

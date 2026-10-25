@@ -5,11 +5,7 @@ slug: "relaxation-pm"
 price: 74.0
 status: "In Stock"
 description: "Compounded sleep-support injectable containing GABA 100mg, Melatonin 1mg, L-Arginine 100mg, and L-Glutamine 25mg per ml. Investigated in neurophysiology and sleep research for GABAergic pathway modula"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 relaxation-pm is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Neurotransmitter and neuromodulator injectable combination 
 

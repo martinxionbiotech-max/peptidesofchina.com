@@ -5,11 +5,7 @@ slug: "vitamin-b12-cyanocobalamin"
 price: 30.0
 status: "In Stock"
 description: "Cyanocobalamin — essential cofactor for methionine synthase and methylmalonyl-CoA mutase. Used as a reference compound in B12 research and as a control in metabolic and neurological study designs."
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 Vitamin B12 (Cyanocobalamin) is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Cobalamin (vitamin B12 vitamer, synthetic stable form) Synonyms Cyanocobalamin, Vitamin B12, Cobalamin (cyano form) Molecular Formula C₆₃H₈₈CoN₁₄O₁₄P Molecular Weight 1355.4 Da CAS Number 68-19-9 PubChem CID 5479203 Active Coenzyme Forms Methylcobalamin (methionine synthase), Adenosylcobalamin (methylmalonyl-CoA mutase) 
 

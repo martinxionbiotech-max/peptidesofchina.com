@@ -5,11 +5,7 @@ slug: "slu-pp-332-bam15-blend-oral"
 price: 53.0
 status: "In Stock"
 description: "This investigational blend combines SLU-PP-332, a synthetic agonist of the estrogen-related receptor family, with BAM15, a mitochondrial protonophore used as a research uncoupler. The components are s"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 slu-pp-332-bam15-blend-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Energy & Endurance, Orals, Blends Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 60 capsules 
 

@@ -5,11 +5,7 @@ slug: "melanotan-1"
 price: 74.0
 status: "In Stock"
 description: "Melanotan-1 (Afamelanotide) — full-length alpha-MSH analog for melanocortin receptor research. Linear 13-amino-acid structure. Sourced from verified Chinese manufacturer, purity tested per batch."
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 Melanotan-1 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Linear α-MSH analogue (MC1R agonist) Synonyms Afamelanotide, [Nle⁴,D-Phe⁷]-α-MSH, Scenesse (clinical formulation) Sequence Ac-Ser-Tyr-Ser-Nle-Glu-His-D-Phe-Arg-Trp-Gly-Lys-Pro-Val-NH₂ Amino Acids 13 Molecular Weight 1646.9 Da CAS Number 75921-69-6 Receptor Targets MC1R (primary), MC3R (secondary) 
 

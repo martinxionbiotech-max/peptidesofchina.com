@@ -5,11 +5,7 @@ slug: "super-shred"
 price: 131.0
 status: "In Stock"
 description: "Composition of L-carnitine, the MIC complex, ATP, vitamin B12, and albuterol. Main research areas concerning the components include energy metabolism, metabolic cofactors, and beta-2 adrenergic signal"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 super-shred is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management, Energy & Endurance, Blends Total variants: 1 In-stock variants: 1 of 1 Standard pack size: 10 × 10 mL ampoules 
 

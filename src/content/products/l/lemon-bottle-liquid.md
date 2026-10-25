@@ -5,11 +5,7 @@ slug: "lemon-bottle-liquid"
 price: 75.0
 status: "In Stock"
 description: "Lipolytic injectable formulation investigated in aesthetic medicine research for localized adipose tissue effects."
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 Lemon Bottle (liquid) is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Multi-component mesotherapy formulation Primary Components Riboflavin (B2), Lecithin (phosphatidylcholine), Bromelain Secondary Components L-Carnitine, Artichoke Extract, Thyidine 
 

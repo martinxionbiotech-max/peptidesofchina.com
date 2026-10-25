@@ -5,11 +5,7 @@ slug: "eloralintide"
 price: 220.0
 status: "In Stock"
 description: "Eloralintide (LY3841136) is an investigational selective amylin receptor agonist being studied for its effects on satiety signaling, gastric emptying, body-weight regulation, and related metabolic par"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 eloralintide is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management Total variants: 3 In-stock variants: 0 of 3 Standard pack size: 10 vials Related Research Articles Eloralintide: Weight Loss, Amylin and the Addiction Connection For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. research category, and its specification is confirmed with the manufacturer before the order ships. Like every listing on this platform, eloralintide is supplied for laboratory research use only.
 

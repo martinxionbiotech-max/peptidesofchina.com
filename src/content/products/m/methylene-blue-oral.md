@@ -5,11 +5,7 @@ slug: "methylene-blue-oral"
 price: 30.0
 status: "In Stock"
 description: "Methylene blue is a redox-active phenothiazine compound used as a research tool in cellular and mitochondrial biology. Its reversible oxidation and reduction allow it to participate in electron-transf"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 methylene-blue-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Orals Total variants: 2 In-stock variants: 1 of 2 Standard pack size: 100 tablets 
 

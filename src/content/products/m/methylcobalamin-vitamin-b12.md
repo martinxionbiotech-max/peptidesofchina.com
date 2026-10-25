@@ -5,11 +5,7 @@ slug: "methylcobalamin-vitamin-b12"
 price: 53.0
 status: "In Stock"
 description: "Methylcobalamin is a metabolically active form of vitamin B12. It serves as a cofactor for methionine synthase and supports biochemical pathways involved in homocysteine metabolism, methionine formati"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 methylcobalamin-vitamin-b12 is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Vitamins & Nutrients Total variants: 2 In-stock variants: 0 of 2 Standard pack size: 10 × 10 mL vials 
 

@@ -5,11 +5,7 @@ slug: "s-23-oral"
 price: 53.0
 status: "In Stock"
 description: "S-23 is an investigational nonsteroidal selective androgen receptor modulator (SARM). It has been studied primarily in preclinical models for androgen-receptor binding, tissue-selective signaling, bod"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 s-23-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Muscle & Performance, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 100 tablets 
 

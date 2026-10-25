@@ -5,11 +5,7 @@ slug: "kpv-oral"
 price: 60.0
 status: "In Stock"
 description: "KPV (Lys–Pro–Val) is a tripeptide fragment derived from the C-terminal region of α-melanocyte-stimulating hormone. It is used in preclinical research examining melanocortin-related signaling, inflamma"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 kpv-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Healing & Repair, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 100 tablets 
 

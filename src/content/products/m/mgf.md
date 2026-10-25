@@ -5,11 +5,7 @@ slug: "mgf"
 price: 53.0
 status: "In Stock"
 description: "Mechano Growth Factor — a splice variant of IGF-1. Studied in exercise physiology research for its role in satellite cell activation and muscle tissue repair responses to mechanical loading."
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 MGF is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the IGF-1 splice variant Ec peptide (C-terminal fragment) Synonyms Mechano Growth Factor, IGF-1Ec, Ec peptide Amino Acids 24 (C-terminal Ec domain fragment) Molecular Weight ~2867 Da CAS Number 162663-54-9 
 

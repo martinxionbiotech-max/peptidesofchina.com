@@ -5,11 +5,7 @@ slug: "dihexa-oral"
 price: 165.0
 status: "In Stock"
 description: "Dihexa is an investigational angiotensin IV-derived compound studied in preclinical neuroscience. Research has examined its interaction with hepatocyte growth factor/c-Met signaling and related pathwa"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 dihexa-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Cognitive & Neuro, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 25 tablets 
 

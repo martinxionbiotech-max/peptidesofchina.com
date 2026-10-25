@@ -5,11 +5,7 @@ slug: "andarine-s-4-oral"
 price: 53.0
 status: "In Stock"
 description: "Andarine, also known as S-4, is an investigational nonsteroidal selective androgen receptor modulator (SARM). It is used primarily in preclinical research examining tissue-selective androgen-receptor "
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 andarine-s-4-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Muscle & Performance, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 100 tablets 
 

@@ -5,11 +5,7 @@ slug: "lipo-c-120"
 price: 68.0
 status: "In Stock"
 description: "Compounded lipotropic injectable containing L-Carnitine 50mg, Methionine 15mg, Choline Chloride 50mg, and Dexpanthenol (B5) 5mg per ml. Investigated in research examining hepatic lipid export, one-car"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 lipo-c-120 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Lipotropic injectable combination 
 

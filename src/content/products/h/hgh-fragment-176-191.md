@@ -5,11 +5,7 @@ slug: "hgh-fragment-176-191"
 price: 68.0
 status: "In Stock"
 description: "HGH Fragment 176-191 research peptide sourced directly from verified Chinese manufacturer. Purity and concentration verified per batch."
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 HGH Fragment 176-191 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the GH C-terminal Fragment / Lipolytic Peptide CAS Number 66004-57-7 Molecular Formula C78H123N23O23S2 Molecular Weight 1817.12 Da Sequence Length 16 amino acids (residues 176–191 of hGH) Disulfide Bond Cys-182 — Cys-189 (essential for activity) Synonyms HGH Frag 176-191, AOD-9401, hGH fragment Half-life (research) ~20–30 min (rodent, s.c.) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
 

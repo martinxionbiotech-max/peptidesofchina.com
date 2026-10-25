@@ -5,11 +5,7 @@ slug: "acetic-acid-0-6"
 price: 11.0
 status: "In Stock"
 description: "Dilute acetic acid solution for reconstitution of certain peptides."
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 Acetic Acid 0.6% is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Dilute organic acid solution (reconstitution solvent) Concentration 0.6% v/v acetic acid in sterile water pH ~2.9-3.2 Osmolality ~100 mOsm/kg (hypotonic) Primary Application Reconstitution solvent for hydrophobic and aggregation-prone peptides Common Use Cases GHRH analogues, CJC-1295, IGF-1 LR3, sermorelin, tesamorelin, AOD-9604 Form Sterile aqueous solution Storage Room temperature; sealed to prevent evaporative concentration; discard if contaminated CAS Number N/A — formulated solution (multi-component) Molecular Weight N/A — formulated solution Molecular Formula N/A — formulated solution Sequence N/A — not a peptide 
 

@@ -5,11 +5,7 @@ slug: "ghk-basic"
 price: 53.0
 status: "In Stock"
 description: "GHK Basic is the non-copper form of the naturally occurring glycyl-L-histidyl-L-lysine tripeptide. Studied in cutaneous biology research for extracellular matrix remodeling, collagen synthesis, and ce"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 ghk-basic is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Healing & Repair, Skin, Hair & Nails Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
 

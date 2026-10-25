@@ -5,11 +5,7 @@ slug: "healthy-hair-skin-nails-blend"
 price: 68.0
 status: "In Stock"
 description: "B-vitamin and micronutrient injectable containing Thiamine HCL (B1) 50mg, Pantothenic Acid (B5) 25mg, Choline 10mg, Inositol 10mg, Niacin (B3) 5mg, Biotin 100mcg, Folic Acid 100mcg, and Riboflavin (B2"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 healthy-hair-skin-nails-blend is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the B-vitamin and micronutrient injectable combination 
 

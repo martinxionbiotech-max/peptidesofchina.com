@@ -5,11 +5,7 @@ slug: "lgd-4033-ligandrol-oral"
 price: 53.0
 status: "In Stock"
 description: "LGD-4033, also known as Ligandrol, is an investigational nonsteroidal selective androgen receptor modulator (SARM). It binds the androgen receptor and has been examined in clinical and preclinical res"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 lgd-4033-ligandrol-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Muscle & Performance, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 100 tablets 
 

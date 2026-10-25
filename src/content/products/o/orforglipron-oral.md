@@ -5,11 +5,7 @@ slug: "orforglipron-oral"
 price: 173.0
 status: "In Stock"
 description: "Orforglipron is an investigational nonpeptide small-molecule agonist of the glucagon-like peptide-1 receptor (GLP-1R). Unlike peptide GLP-1 receptor agonists, its small-molecule structure is being stu"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 orforglipron-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management, Orals Total variants: 4 In-stock variants: 2 of 4 Standard pack size: 100 tablets 
 

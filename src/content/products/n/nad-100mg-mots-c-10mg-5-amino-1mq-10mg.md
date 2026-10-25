@@ -5,11 +5,7 @@ slug: "nad-100mg-mots-c-10mg-5-amino-1mq-10mg"
 price: 195.0
 status: "In Stock"
 description: "Metabolic research blend containing NAD+, MOTS-C, and 5-Amino-1MQ. Investigated in cellular energy, mitochondrial function, and metabolic signaling research."
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 nad-100mg-mots-c-10mg-5-amino-1mq-10mg is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Energy & Endurance, Anti-Aging & Longevity, Blends Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
 

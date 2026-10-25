@@ -5,11 +5,7 @@ slug: "nad-oil"
 price: 23.0
 status: "In Stock"
 description: "Nicotinamide adenine dinucleotide is a coenzyme involved in cellular oxidation-reduction reactions. Investigated in the context of energy metabolism, sirtuin and PARP activity, and mechanisms maintain"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 nad-oil is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Energy & Endurance, Anti-Aging & Longevity, Vitamins & Nutrients Total variants: 1 In-stock variants: 1 of 1 Standard pack size: 1 × 10 ml vial 
 

@@ -5,11 +5,7 @@ slug: "rad-140-oral"
 price: 75.0
 status: "In Stock"
 description: "RAD-140, also known as Testolone, is an investigational nonsteroidal selective androgen receptor modulator (SARM). It has been studied in preclinical models for tissue-selective androgen-receptor sign"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 rad-140-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Muscle & Performance, Orals Total variants: 2 In-stock variants: 1 of 2 Standard pack size: 100 tablets 
 

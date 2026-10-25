@@ -5,11 +5,7 @@ slug: "slu-pp-915"
 price: 180.0
 status: "In Stock"
 description: "SLU-PP-915 is supplied as oral tablets at 10 mg per tablet. One bottle contains 100 tablets."
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 slu-pp-915 is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Energy & Endurance, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 100 tablets 
 

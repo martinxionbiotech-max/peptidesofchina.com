@@ -5,11 +5,7 @@ slug: "gw-501516-cardarine-oral"
 price: 53.0
 status: "In Stock"
 description: "Agonist of the nuclear receptor PPAR-delta, which participates in regulating the expression of genes involved in energy metabolism. Investigated in models of fatty acid oxidation, metabolic adaptation"
-
-
-
-
-
+image: "/images/products/generic-vial.png"
 ---
 gw-501516-cardarine-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Muscle & Performance, Orals Total variants: 2 In-stock variants: 1 of 2 Standard pack size: 100 tablets 
 
