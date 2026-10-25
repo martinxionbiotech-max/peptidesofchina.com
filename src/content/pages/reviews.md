@@ -4,7 +4,10 @@ slug: "reviews"
 description: "Read verified reviews from real clients of Peptides of China. Every review is linked to a confirmed order — no anonymous submissions."
 
 
+
 ---
+Buyer feedback on **china peptide** orders, published with identifying details removed.
+
 
 # Reviews
 

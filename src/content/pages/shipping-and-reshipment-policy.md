@@ -4,7 +4,10 @@ slug: "shipping-and-reshipment-policy"
 description: "Destination-aware shipping, tracking, delivery estimates, and reshipment rules for Peptides of China orders."
 
 
+
 ---
+Shipping and reshipment terms for **china peptide** orders, including tracking and reshipment conditions.
+
 
 # Shipping And Reshipment Policy
 

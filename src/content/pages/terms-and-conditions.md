@@ -4,7 +4,10 @@ slug: "terms-and-conditions"
 description: "Terms governing use of Peptides of China and its request-based B2B sourcing process for research products."
 
 
+
 ---
+The terms governing use of our platform and **china peptide** sourcing services.
+
 
 # Terms And Conditions
 

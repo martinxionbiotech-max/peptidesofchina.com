@@ -4,7 +4,10 @@ slug: "manufacturing-partners"
 description: "Learn how Peptides of China evaluates manufacturing partners, maintains supplier standards, and works with qualified peptide production facilities."
 
 
+
 ---
+Our **chinese peptides** catalog is supplied by established Chinese manufacturers vetted for finished-product capability.
+
 
 # Manufacturing Partners
 

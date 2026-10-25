@@ -4,7 +4,10 @@ slug: "privacy-and-cookie-policy"
 description: "How Peptides of China collects, uses, shares, and protects information submitted through the website."
 
 
+
 ---
+How Peptides of China handles data for **china peptide** buyers and site visitors.
+
 
 # Privacy And Cookie Policy
 

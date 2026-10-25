@@ -4,7 +4,10 @@ slug: "peptide-quality"
 description: "Most peptide vendors are resellers with limited visibility into what they sell. We explain how peptide sourcing really works, where products come from, and how we evaluate quality."
 
 
+
 ---
+This page sets out how we approach quality for **chinese peptides**: what is tested, what is documented, and what a buyer should ask for.
+
 
 # Peptide Quality
 

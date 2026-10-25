@@ -4,7 +4,10 @@ slug: "refund-and-cancellation-policy"
 description: "Deposit credits, cancellations, final-payment rules, and approved refunds for Peptides of China orders."
 
 
+
 ---
+Refund and cancellation terms for **china peptide** orders.
+
 
 # Refund And Cancellation Policy
 

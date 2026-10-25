@@ -4,7 +4,10 @@ slug: "research-use-disclaimer"
 description: "Research-use restrictions and website-information disclaimer for products listed by Peptides of China."
 
 
+
 ---
+The research-use terms that govern every **china peptide** in our catalog.
+
 
 # Research Use Disclaimer
 

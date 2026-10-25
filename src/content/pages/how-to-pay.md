@@ -4,7 +4,10 @@ slug: "how-to-pay"
 description: "Send PYUSD on Solana from eligible PayPal or Venmo accounts, or pay with USDC on Solana or USDT on TRC-20 using your order-specific address."
 
 
+
 ---
+Payment options for **china peptide** orders, including the methods we accept and why.
+
 
 # How To Pay
 

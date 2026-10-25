@@ -4,7 +4,10 @@ slug: "company"
 description: "Learn how PFC combines manufacturer sourcing, coordinated purchasing, international logistics, and support when confirmed supplier obligations are not met."
 
 
+
 ---
+Peptides of China is a B2B platform for **china peptides** — finished research compounds from established Chinese manufacturers.
+
 
 # Company
 
