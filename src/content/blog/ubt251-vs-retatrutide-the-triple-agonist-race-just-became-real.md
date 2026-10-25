@@ -9,9 +9,220 @@ description: "UBT251 produced up to 19.7% weight loss at 24 weeks. See how Novo�
 ---
 This guide examines ubt251 vs retatrutide the triple agonist race just became real from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
+For more than two years, Eli Lilly’s [retatrutide](/catalog/retatrutide/) has looked like the molecule everyone else would have to chase. Its triple-receptor design—and the weight-loss results that followed—made it the most visible next-generation candidate in the obesity pipeline.
 
+Then UBT251 produced a result that could not be dismissed as another early-stage promise.
 
-UBT251 vs Retatrutide: The Triple-Agonist Race Just Became Real Home › Blog › UBT251 vs Retatrutide: The Triple-Agonist Race Just Became Real 2026-09-16 UBT251 vs Retatrutide: The Triple-Agonist Race Just Became Real UBT251 produced up to 19.7% weight loss at 24 weeks. See how Novo’s triple agonist compares with Lilly’s retatrutide—and what the data show today in 2026. For more than two years, Eli Lilly’s retatrutide has looked like the molecule everyone else would have to chase. Its triple-receptor design—and the weight-loss results that followed—made it the most visible next-generation candidate in the obesity pipeline. Then UBT251 produced a result that could not be dismissed as another early-stage promise. In a randomized Phase 2 trial in China, the highest-performing UBT251 regimen produced 19.7% mean weight loss after only 24 weeks, compared with 2.0% for placebo. The drug also improved waist circumference, glucose, blood pressure and lipids. Most adverse events were gastrointestinal, predominantly mild to moderate, and tended to diminish over time. That does not prove UBT251 is better than retatrutide. The trials were not head-to-head, did not run for the same length of time and did not study identical populations. But it does establish something strategically important: retatrutide is no longer the only clinically credible triple agonist with a powerful human efficacy signal. While Lilly is fighting unauthorized retatrutide sales, pursuing biologic classification and preparing its regulatory submission, Novo Nordisk has acquired global rights to a direct mechanistic competitor. Litigation can restrict a sales channel. It cannot remove a rival molecule. UBT251 at a glance Original developer: The United Bio-Technology (Hengqin), a subsidiary of The United Laboratories International Holdings Global development partner: Novo Nordisk Drug class: long-acting synthetic peptide triple agonist Targets: GLP-1, GIP and glucagon receptors Administration studied: once-weekly subcutaneous injection Current status: investigational; not FDA-approved Chinese Phase 2 obesity trial: 205 participants, 24 weeks Highest reported mean weight loss: 19.7%, or 17.5 kg from a 92.2 kg mean baseline Placebo result: 2.0%, or 1.6 kg Global rights outside Greater China: licensed to Novo Nordisk Global trial: Phase 1b/2a study of approximately 330 participants, with results expected in 2027 UBT251 is not simply “Novo’s copy of retatrutide” UBT251 and retatrutide activate the same three receptor families: GLP-1 , associated with appetite regulation, glucose-dependent insulin secretion and delayed gastric emptying; GIP , involved in glucose-dependent insulin signaling and energy metabolism; glucagon , which can increase energy expenditure and mobilize stored energy while also carrying a potential glucose-raising effect that must be balanced by the incretin components. That shared architecture makes the two drugs direct mechanistic competitors. It does not make them interchangeable. Multi-receptor peptides differ in receptor potency, signaling balance, pharmacokinetics, molecular engineering, titration design and tolerability. The ratio of GLP-1, GIP and glucagon activity may be as important as the presence of the three targets themselves. Retatrutide is Lilly’s internally developed molecule. UBT251 originated at United Biotechnology in China. Novo Nordisk licensed exclusive development, manufacturing and commercialization rights outside mainland China, Hong Kong, Macau and Taiwan in March 2025. The transaction included $200 million upfront and up to $1.8 billion in potential milestone payments, plus royalties. Novo did not spend up to $2 billion merely to imitate Lilly. It bought a second route into the triple-agonist category after retatrutide had already shown that the category could outperform older metabolic approaches. What the 24-week Phase 2 trial actually showed The Chinese Phase 2 study enrolled 205 adults with obesity or overweight plus at least one weight-related comorbidity. Mean baseline body weight was 92.2 kg and mean BMI was 33.1 kg/m². Participants received once-weekly UBT251 at 2 mg, 4 mg or 6 mg, or placebo, for 24 weeks. The primary endpoint was percentage change in body weight. Detailed congress data later separated the treatment schedules. The reported mean reductions were: **UBT251 2 mg: **13.6% mean weight reduction at week 24. **UBT251 4 mg, lower starting schedule: **16.2% mean weight reduction at week 24. **UBT251 4 mg, higher starting schedule: **19.7% mean weight reduction at week 24. **UBT251 6 mg: **18.7% mean weight reduction at week 24. **Placebo: **2.0% mean weight reduction at week 24. The highest nominal dose did not produce the largest mean reduction. That is a useful reminder that dose, escalation and tolerability interact. A larger milligram number does not automatically translate into a better outcome. The company also reported statistically significant improvements across all UBT251 groups in waist circumference, blood glucose, blood pressure and lipids compared with placebo. The topline safety description was broadly consistent with the incretin class. Gastrointestinal events were the most common; most were mild to moderate and diminished over time. Full interpretation still requires the complete dataset, including discontinuations, dose interruptions, adverse-event rates by group and the amount of missing efficacy data. UBT251 vs retatrutide: what can—and cannot—be compared The headline numbers make an aggressive comparison tempting: **UBT251: **Up to 19.7% mean weight reduction at 24 weeks — Phase 2 in China. **Retatrutide: **Up to 24.2% mean weight reduction at 48 weeks — Phase 2 international study. **Retatrutide: **28.7% mean weight reduction at 68 weeks in the highest-dose efficacy analysis — Phase 3 obesity and knee osteoarthritis study. UBT251 reached a striking number quickly. Retatrutide has been studied for longer and now has a much larger Phase 3 program. But these percentages cannot establish a winner. The trials used different populations, protocols, estimands, dose-escalation schedules, durations and approaches to missing data. A 24-week Chinese Phase 2 result is not a head-to-head test against a 48- or 68-week retatrutide trial. The fair conclusion is narrower and more meaningful: UBT251 has demonstrated a rate of early weight reduction strong enough to justify Novo’s investment and to make the global data a major competitive event. The questions that matter now are: Does the trajectory continue after week 24? Does weight loss plateau earlier or later than with retatrutide? How much efficacy survives in a broader international population? What are the discontinuation and dose-reduction rates? How does the glucagon component affect heart rate, glucose, lean mass and longer-term tolerability? Can Novo manufacture the molecule reliably at global scale? Until those questions are answered, declaring either drug the winner is marketing, not analysis. Why UBT251 may be a bigger strategic problem for Lilly than the gray market Lilly has spent considerable energy defending retatrutide before the drug is even approved. In August 2026, the company filed six U.S. lawsuits against businesses it accused of illegally selling retatrutide for human weight loss while using “research use only” language. Lilly also said it had referred more than 200 entities to regulators and law enforcement and called on social platforms, e-commerce companies and payment processors to act. The company has also fought over retatrutide’s regulatory classification. Lilly plans to submit the molecule through the biologics pathway. That distinction matters because it affects the application framework, exclusivity and the ability of compounders to reproduce a product. Lilly’s concern about unauthorized human-use sales is understandable. Retatrutide remains investigational, and products sold under the same name outside clinical trials are not the Lilly clinical-trial product. But the strategic contrast is hard to miss. On one front, Lilly is trying to control an unauthorized market built around its molecule’s reputation. On the other, Novo is advancing a licensed triple agonist with human Phase 2 data, international development rights and the resources of one of the world’s largest metabolic-drug companies. The first problem is legal and enforcement-driven. The second is scientific and commercial. If UBT251’s global trial reproduces the Chinese result, Lilly cannot solve that problem with a cease-and-desist letter. Did UBT251 cause Lilly’s stock to fall? There is no defensible evidence that the UBT251 Phase 2 announcement caused a material decline in Eli Lilly shares. This is an important correction because the claim is attractive but unsupported. Public market movements are affected by earnings, guidance, interest rates, competing trial readouts, valuation and broader market conditions. A same-day price move alone would not prove causation. There was a documented stock reaction when Novo announced the UBT251 licensing agreement on March 24, 2025—but the stock that fell was Novo’s. Its U.S.-listed shares declined roughly 2% as investors considered the transaction price, Novo’s pipeline pressures and the risk inherent in an early-stage asset. That decline was not a verdict against UBT251, and it certainly was not evidence that UBT251 damaged Lilly. Novo subsequently received the 24-week Phase 2 result that substantially strengthened the asset’s clinical case. The more useful market signal is the deal itself: Novo committed $200 million upfront and up to $1.8 billion in milestones for rights outside Greater China. Large pharmaceutical companies do not make that commitment because a competitor looks harmless. Novo’s bet is about more than one weight-loss number UBT251 is being studied across obesity, type 2 diabetes and additional cardiometabolic conditions. In a separate Chinese Phase 2 trial in adults with type 2 diabetes, the molecule produced mean HbA1c reductions of up to 2.16% and mean body-weight reductions of up to 9.8% at 24 weeks, with improvements versus placebo and semaglutide 1 mg in reported analyses. United Biotechnology has also advanced Chinese Phase 3 studies, while Novo is running the global Phase 1b/2a program. This split-development model gives the program two paths: faster local development in China under United Biotechnology; broader international validation and commercialization under Novo. For Novo, UBT251 also fills a strategic gap. The company created the modern GLP-1 obesity market with semaglutide but ceded efficacy leadership to Lilly’s tirzepatide and then watched retatrutide raise expectations again. UBT251 gives Novo a molecule aimed directly at the same three-receptor territory. It also arrives as Lilly broadens its own pipeline beyond incretins, including the amylin-pathway candidate covered in our Eloralintide analysis . What researchers should watch next 1. The global 330-participant trial The most important next readout is Novo’s international Phase 1b/2a study. It is evaluating multiple doses for up to 28 weeks, with topline results expected in 2027. Replication across a broader population will matter more than another promotional comparison. 2. Complete adverse-event and discontinuation data “Mostly mild to moderate gastrointestinal events” is useful but incomplete. Dose-specific nausea, vomiting, diarrhea, constipation, treatment discontinuation, heart-rate changes and serious adverse events will determine how much of the efficacy is practically accessible. 3. Body-composition data Total body weight is not the whole metabolic story. Trials across the category increasingly need to show how much loss comes from fat mass versus lean mass, especially as mean reductions approach and exceed 20%. 4. Longer-duration trajectory UBT251 had not clearly plateaued in the headline 24-week data. Longer studies will show whether the curve continues, slows sharply or is limited by tolerability. 5. Manufacturing and commercial execution A sophisticated peptide can succeed clinically and still face manufacturing, cost and supply constraints. Novo’s global production experience is a meaningful asset, but scale has to be demonstrated. The bottom line Retatrutide remains ahead in global clinical development and has the deeper late-stage dataset. UBT251 has not displaced it. What UBT251 has done is end the idea that Lilly owns the triple-agonist future by default. A 19.7% mean reduction at 24 weeks in a randomized Phase 2 trial is a serious signal. Novo has global rights, United Biotechnology is moving into Phase 3 in China, and a broader international trial is already under way. Lilly may succeed in restricting unauthorized retatrutide sellers. It may also secure the regulatory classification and exclusivity it wants. Neither outcome changes the competitive fact now facing the company: another GLP-1/GIP/glucagon agonist has reached the clinic, produced near-20% mean weight loss in six months and found a global partner with the money and infrastructure to challenge it. That—not an invented one-day stock-market narrative—is why UBT251 matters. Frequently asked questions What is UBT251? UBT251 is an investigational long-acting synthetic peptide that activates the GLP-1, GIP and glucagon receptors. It was developed by United Biotechnology and is being developed globally with Novo Nordisk. Is UBT251 the same as retatrutide? No. Both are triple agonists targeting the same receptor families, but they are different molecules with different activity profiles, development programs and clinical datasets. Is UBT251 owned by Novo Nordisk? Novo holds exclusive development, manufacturing and commercialization rights outside mainland China, Hong Kong, Macau and Taiwan. United Biotechnology retained rights in those territories. How much weight loss did UBT251 produce? In a 205-participant Phase 2 trial in China, the highest-performing regimen produced 19.7% mean weight reduction after 24 weeks, compared with 2.0% for placebo. Is UBT251 better than retatrutide? That is not known. There has been no head-to-head trial. UBT251 produced a strong 24-week result, while retatrutide has longer and more advanced Phase 3 evidence. Cross-trial percentages cannot establish superiority. Is UBT251 FDA-approved? No. UBT251 remains investigational. Novo is conducting a global Phase 1b/2a study, with results expected in 2027. Did UBT251 make Eli Lilly’s stock fall? No reliable evidence supports that claim. Novo shares fell approximately 2% when the licensing agreement was announced in March 2025, but that move reflected the deal and Novo-specific market concerns—not demonstrated damage to Lilly from UBT251. Primary and supporting sources Novo Nordisk and The United Laboratories International. Triple agonist UBT251 delivers up to 19.7% mean weight loss after 24 weeks in Phase 2 trial in China . February 24, 2026. ClinicalTrials.gov. NCT07395687: A research study of different UBT251 doses in people living with overweight or obesity . ClinicalTrials.gov. NCT07648225: UBT251 Phase 3 study in overweight or obesity . Jastreboff AM, et al. Triple-hormone-receptor agonist retatrutide for obesity . New England Journal of Medicine . 2023. Reuters. Novo Nordisk and United Laboratories’ triple agonist trial shows 19.7% weight loss . February 24, 2026. Reuters. Lilly sues six companies over alleged illegal sales of experimental obesity drug retatrutide . August 12, 2026. Federal Register. Definition of the term “biological product” . February 21, 2020. Reuters. Novo Nordisk licenses UBT251 in a deal worth up to $2 billion . March 24, 2025. More from PFC For broader context on interpreting analytical documentation, see this practical guide . You can also explore the Peptides of China blog . Related Retatrutide Research Resources Review currently listed research formats on the Retatrutide catalog page . For handling evidence, degradation risks, and the limits of universal storage timelines, read our Retatrutide stability and storage guide . Related Products Buy Retatrutide
+In a randomized Phase 2 trial in China, the highest-performing UBT251 regimen produced 19.7% mean weight loss after only 24 weeks, compared with 2.0% for placebo. The drug also improved waist circumference, glucose, blood pressure and lipids. Most adverse events were gastrointestinal, predominantly mild to moderate, and tended to diminish over time.
+
+That does not prove UBT251 is better than retatrutide. The trials were not head-to-head, did not run for the same length of time and did not study identical populations. But it does establish something strategically important: retatrutide is no longer the only clinically credible triple agonist with a powerful human efficacy signal.
+
+While Lilly is fighting unauthorized retatrutide sales, pursuing biologic classification and preparing its regulatory submission, Novo Nordisk has acquired global rights to a direct mechanistic competitor.
+
+Litigation can restrict a sales channel. It cannot remove a rival molecule.
+
+## UBT251 at a glance
+
+- **Original developer:** The United Bio-Technology (Hengqin), a subsidiary of The United Laboratories International Holdings
+- **Global development partner:** Novo Nordisk
+- **Drug class:** long-acting synthetic peptide triple agonist
+- **Targets:** GLP-1, GIP and glucagon receptors
+- **Administration studied:** once-weekly subcutaneous injection
+- **Current status:** investigational; not FDA-approved
+- **Chinese Phase 2 obesity trial:** 205 participants, 24 weeks
+- **Highest reported mean weight loss:** 19.7%, or 17.5 kg from a 92.2 kg mean baseline
+- **Placebo result:** 2.0%, or 1.6 kg
+- **Global rights outside Greater China:** licensed to Novo Nordisk
+- **Global trial:** Phase 1b/2a study of approximately 330 participants, with results expected in 2027
+
+## UBT251 is not simply “Novo’s copy of retatrutide”
+
+UBT251 and retatrutide activate the same three receptor families:
+
+1. **GLP-1**, associated with appetite regulation, glucose-dependent insulin secretion and delayed gastric emptying;
+2. **GIP**, involved in glucose-dependent insulin signaling and energy metabolism;
+3. **glucagon**, which can increase energy expenditure and mobilize stored energy while also carrying a potential glucose-raising effect that must be balanced by the incretin components.
+
+That shared architecture makes the two drugs direct mechanistic competitors. It does not make them interchangeable.
+
+Multi-receptor peptides differ in receptor potency, signaling balance, pharmacokinetics, molecular engineering, titration design and tolerability. The ratio of GLP-1, GIP and glucagon activity may be as important as the presence of the three targets themselves.
+
+Retatrutide is Lilly’s internally developed molecule. UBT251 originated at United Biotechnology in China. Novo Nordisk licensed exclusive development, manufacturing and commercialization rights outside mainland China, Hong Kong, Macau and Taiwan in March 2025. The transaction included $200 million upfront and up to $1.8 billion in potential milestone payments, plus royalties.
+
+Novo did not spend up to $2 billion merely to imitate Lilly. It bought a second route into the triple-agonist category after retatrutide had already shown that the category could outperform older metabolic approaches.
+
+## What the 24-week Phase 2 trial actually showed
+
+The Chinese Phase 2 study enrolled 205 adults with obesity or overweight plus at least one weight-related comorbidity. Mean baseline body weight was 92.2 kg and mean BMI was 33.1 kg/m².
+
+Participants received once-weekly UBT251 at 2 mg, 4 mg or 6 mg, or placebo, for 24 weeks. The primary endpoint was percentage change in body weight.
+
+Detailed congress data later separated the treatment schedules. The reported mean reductions were:
+
+- **UBT251 2 mg: **13.6% mean weight reduction at week 24.
+- **UBT251 4 mg, lower starting schedule: **16.2% mean weight reduction at week 24.
+- **UBT251 4 mg, higher starting schedule: **19.7% mean weight reduction at week 24.
+- **UBT251 6 mg: **18.7% mean weight reduction at week 24.
+- **Placebo: **2.0% mean weight reduction at week 24.
+
+The highest nominal dose did not produce the largest mean reduction. That is a useful reminder that dose, escalation and tolerability interact. A larger milligram number does not automatically translate into a better outcome.
+
+The company also reported statistically significant improvements across all UBT251 groups in waist circumference, blood glucose, blood pressure and lipids compared with placebo.
+
+The topline safety description was broadly consistent with the incretin class. Gastrointestinal events were the most common; most were mild to moderate and diminished over time. Full interpretation still requires the complete dataset, including discontinuations, dose interruptions, adverse-event rates by group and the amount of missing efficacy data.
+
+## UBT251 vs retatrutide: what can—and cannot—be compared
+
+The headline numbers make an aggressive comparison tempting:
+
+- **UBT251: **Up to 19.7% mean weight reduction at 24 weeks — Phase 2 in China.
+- **Retatrutide: **Up to 24.2% mean weight reduction at 48 weeks — Phase 2 international study.
+- **Retatrutide: **28.7% mean weight reduction at 68 weeks in the highest-dose efficacy analysis — Phase 3 obesity and knee osteoarthritis study.
+
+UBT251 reached a striking number quickly. Retatrutide has been studied for longer and now has a much larger Phase 3 program.
+
+But these percentages cannot establish a winner. The trials used different populations, protocols, estimands, dose-escalation schedules, durations and approaches to missing data. A 24-week Chinese Phase 2 result is not a head-to-head test against a 48- or 68-week retatrutide trial.
+
+The fair conclusion is narrower and more meaningful: **UBT251 has demonstrated a rate of early weight reduction strong enough to justify Novo’s investment and to make the global data a major competitive event.**
+
+The questions that matter now are:
+
+- Does the trajectory continue after week 24?
+- Does weight loss plateau earlier or later than with retatrutide?
+- How much efficacy survives in a broader international population?
+- What are the discontinuation and dose-reduction rates?
+- How does the glucagon component affect heart rate, glucose, lean mass and longer-term tolerability?
+- Can Novo manufacture the molecule reliably at global scale?
+
+Until those questions are answered, declaring either drug the winner is marketing, not analysis.
+
+## Why UBT251 may be a bigger strategic problem for Lilly than the gray market
+
+Lilly has spent considerable energy defending retatrutide before the drug is even approved.
+
+In August 2026, the company filed six U.S. lawsuits against businesses it accused of illegally selling retatrutide for human weight loss while using “research use only” language. Lilly also said it had referred more than 200 entities to regulators and law enforcement and called on social platforms, e-commerce companies and payment processors to act.
+
+The company has also fought over retatrutide’s regulatory classification. Lilly plans to submit the molecule through the biologics pathway. That distinction matters because it affects the application framework, exclusivity and the ability of compounders to reproduce a product.
+
+Lilly’s concern about unauthorized human-use sales is understandable. Retatrutide remains investigational, and products sold under the same name outside clinical trials are not the Lilly clinical-trial product.
+
+But the strategic contrast is hard to miss.
+
+On one front, Lilly is trying to control an unauthorized market built around its molecule’s reputation. On the other, Novo is advancing a licensed triple agonist with human Phase 2 data, international development rights and the resources of one of the world’s largest metabolic-drug companies.
+
+The first problem is legal and enforcement-driven. The second is scientific and commercial.
+
+If UBT251’s global trial reproduces the Chinese result, Lilly cannot solve that problem with a cease-and-desist letter.
+
+## Did UBT251 cause Lilly’s stock to fall?
+
+There is no defensible evidence that the UBT251 Phase 2 announcement caused a material decline in Eli Lilly shares.
+
+This is an important correction because the claim is attractive but unsupported. Public market movements are affected by earnings, guidance, interest rates, competing trial readouts, valuation and broader market conditions. A same-day price move alone would not prove causation.
+
+There was a documented stock reaction when Novo announced the UBT251 licensing agreement on March 24, 2025—but the stock that fell was Novo’s. Its U.S.-listed shares declined roughly 2% as investors considered the transaction price, Novo’s pipeline pressures and the risk inherent in an early-stage asset.
+
+That decline was not a verdict against UBT251, and it certainly was not evidence that UBT251 damaged Lilly. Novo subsequently received the 24-week Phase 2 result that substantially strengthened the asset’s clinical case.
+
+The more useful market signal is the deal itself: Novo committed $200 million upfront and up to $1.8 billion in milestones for rights outside Greater China. Large pharmaceutical companies do not make that commitment because a competitor looks harmless.
+
+## Novo’s bet is about more than one weight-loss number
+
+UBT251 is being studied across obesity, type 2 diabetes and additional cardiometabolic conditions. In a separate Chinese Phase 2 trial in adults with type 2 diabetes, the molecule produced mean HbA1c reductions of up to 2.16% and mean body-weight reductions of up to 9.8% at 24 weeks, with improvements versus placebo and semaglutide 1 mg in reported analyses.
+
+United Biotechnology has also advanced Chinese Phase 3 studies, while Novo is running the global Phase 1b/2a program. This split-development model gives the program two paths:
+
+- faster local development in China under United Biotechnology;
+- broader international validation and commercialization under Novo.
+
+For Novo, UBT251 also fills a strategic gap. The company created the modern GLP-1 obesity market with semaglutide but ceded efficacy leadership to Lilly’s tirzepatide and then watched retatrutide raise expectations again. UBT251 gives Novo a molecule aimed directly at the same three-receptor territory. It also arrives as Lilly broadens its own pipeline beyond incretins, including the amylin-pathway candidate covered in our [Eloralintide analysis](/blog/eloralintide-weight-loss-amylin-and-the-addiction-connection/).
+
+## What researchers should watch next
+
+### 1. The global 330-participant trial
+
+The most important next readout is Novo’s international Phase 1b/2a study. It is evaluating multiple doses for up to 28 weeks, with topline results expected in 2027. Replication across a broader population will matter more than another promotional comparison.
+
+### 2. Complete adverse-event and discontinuation data
+
+“Mostly mild to moderate gastrointestinal events” is useful but incomplete. Dose-specific nausea, vomiting, diarrhea, constipation, treatment discontinuation, heart-rate changes and serious adverse events will determine how much of the efficacy is practically accessible.
+
+### 3. Body-composition data
+
+Total body weight is not the whole metabolic story. Trials across the category increasingly need to show how much loss comes from fat mass versus lean mass, especially as mean reductions approach and exceed 20%.
+
+### 4. Longer-duration trajectory
+
+UBT251 had not clearly plateaued in the headline 24-week data. Longer studies will show whether the curve continues, slows sharply or is limited by tolerability.
+
+### 5. Manufacturing and commercial execution
+
+A sophisticated peptide can succeed clinically and still face manufacturing, cost and supply constraints. Novo’s global production experience is a meaningful asset, but scale has to be demonstrated.
+
+## The bottom line
+
+Retatrutide remains ahead in global clinical development and has the deeper late-stage dataset. UBT251 has not displaced it.
+
+What UBT251 has done is end the idea that Lilly owns the triple-agonist future by default.
+
+A 19.7% mean reduction at 24 weeks in a randomized Phase 2 trial is a serious signal. Novo has global rights, United Biotechnology is moving into Phase 3 in China, and a broader international trial is already under way.
+
+Lilly may succeed in restricting unauthorized retatrutide sellers. It may also secure the regulatory classification and exclusivity it wants. Neither outcome changes the competitive fact now facing the company: another GLP-1/GIP/glucagon agonist has reached the clinic, produced near-20% mean weight loss in six months and found a global partner with the money and infrastructure to challenge it.
+
+That—not an invented one-day stock-market narrative—is why UBT251 matters.
+
+## Frequently asked questions
+
+### What is UBT251?
+
+UBT251 is an investigational long-acting synthetic peptide that activates the GLP-1, GIP and glucagon receptors. It was developed by United Biotechnology and is being developed globally with Novo Nordisk.
+
+### Is UBT251 the same as retatrutide?
+
+No. Both are triple agonists targeting the same receptor families, but they are different molecules with different activity profiles, development programs and clinical datasets.
+
+### Is UBT251 owned by Novo Nordisk?
+
+Novo holds exclusive development, manufacturing and commercialization rights outside mainland China, Hong Kong, Macau and Taiwan. United Biotechnology retained rights in those territories.
+
+### How much weight loss did UBT251 produce?
+
+In a 205-participant Phase 2 trial in China, the highest-performing regimen produced 19.7% mean weight reduction after 24 weeks, compared with 2.0% for placebo.
+
+### Is UBT251 better than retatrutide?
+
+That is not known. There has been no head-to-head trial. UBT251 produced a strong 24-week result, while retatrutide has longer and more advanced Phase 3 evidence. Cross-trial percentages cannot establish superiority.
+
+### Is UBT251 FDA-approved?
+
+No. UBT251 remains investigational. Novo is conducting a global Phase 1b/2a study, with results expected in 2027.
+
+### Did UBT251 make Eli Lilly’s stock fall?
+
+No reliable evidence supports that claim. Novo shares fell approximately 2% when the licensing agreement was announced in March 2025, but that move reflected the deal and Novo-specific market concerns—not demonstrated damage to Lilly from UBT251.
+
+## Primary and supporting sources
+
+1. Novo Nordisk and The United Laboratories International. [Triple agonist UBT251 delivers up to 19.7% mean weight loss after 24 weeks in Phase 2 trial in China](https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916503). February 24, 2026.
+2. ClinicalTrials.gov. [NCT07395687: A research study of different UBT251 doses in people living with overweight or obesity](https://clinicaltrials.gov/study/NCT07395687).
+3. ClinicalTrials.gov. [NCT07648225: UBT251 Phase 3 study in overweight or obesity](https://clinicaltrials.gov/study/NCT07648225).
+4. Jastreboff AM, et al. [Triple-hormone-receptor agonist retatrutide for obesity](https://pubmed.ncbi.nlm.nih.gov/37366315/). *New England Journal of Medicine*. 2023.
+5. Reuters. [Novo Nordisk and United Laboratories’ triple agonist trial shows 19.7% weight loss](https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-united-biotechnology-obesity-drug-trial-shows-197-weight-loss-2026-02-24/). February 24, 2026.
+6. Reuters. [Lilly sues six companies over alleged illegal sales of experimental obesity drug retatrutide](https://www.reuters.com/legal/litigation/lilly-sues-six-companies-over-alleged-illegal-sales-experimental-obesity-drug-2026-08-12/). August 12, 2026.
+7. Federal Register. [Definition of the term “biological product”](https://www.federalregister.gov/documents/2020/02/21/2020-03505/definition-of-the-term-biological-product). February 21, 2020.
+8. Reuters. [Novo Nordisk licenses UBT251 in a deal worth up to $2 billion](https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-license-weight-loss-drug-chinese-biotech-up-2-bln-2025-03-24/). March 24, 2025.
+
+## More from Peptides of China
+
+For broader context on interpreting analytical documentation, see this practical [guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/). You can also explore the [Peptides of China blog](/blog/).
+
+## Related Retatrutide Research Resources
+
+Review currently listed research formats on the [Retatrutide catalog page](/catalog/retatrutide/). For handling evidence, degradation risks, and the limits of universal storage timelines, read our [Retatrutide stability and storage guide](/blog/retatrutide-stability-and-storage-what-research-buyers-can-and-cannot-infer/).
+
+## Related Products
+
+- [Buy Retatrutide](/catalog/retatrutide/)
 
 ## China Peptides Sourcing Perspective
 
