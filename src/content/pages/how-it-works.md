@@ -1,7 +1,7 @@
 ---
 title: "How It Works"
 slug: "how-it-works"
-description: "Learn how to order research peptides from China through PFC: submit a request, pay the credited $10 deposit, confirm stock, receive and pay the final invoice, and track delivery."
+description: "Learn how to order research peptides from China through Peptides of China: submit a request, pay the credited $10 deposit, confirm stock, receive and pay the final invoice, and track delivery."
 
 
 

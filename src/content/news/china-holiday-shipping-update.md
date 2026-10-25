@@ -1,7 +1,7 @@
 ---
 title: "China Holiday Shipping Update"
 slug: "china-holiday-shipping-update"
-description: "PFC will continue accepting and processing new requests throughout the upcoming holiday period in China. Due to warehouse closures and heavy congestion across shipping channels, some orders may not be"
+description: "Peptides of China will continue accepting and processing new requests throughout the upcoming holiday period in China. Due to warehouse closures and heavy congestion across shipping channels, some orders may not be"
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Eloralintide"
 slug: "eloralintide"
-description: "Shanghai Labs is completing final preparations to make Eloralintide available through PFC. The product is expected to become available for ordering next week."
+description: "Shanghai Labs is completing final preparations to make Eloralintide available through Peptides of China. The product is expected to become available for ordering next week."
 
 
 

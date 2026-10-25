@@ -1,7 +1,7 @@
 ---
 title: "Custom Peptide Services"
 slug: "custom-peptide-services"
-description: "Develop custom research peptides, blends, cap colors and private-label vial packaging with PFC’s experienced manufacturing network in China."
+description: "Develop custom research peptides, blends, cap colors and private-label vial packaging with Peptides of China's experienced manufacturing network in China."
 
 
 

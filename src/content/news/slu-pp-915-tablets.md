@@ -1,7 +1,7 @@
 ---
 title: "Slu Pp 915 Tablets"
 slug: "slu-pp-915-tablets"
-description: "PFC has expanded its public catalog to more than 140 unique products. One of the most exciting new additions is SLU-PP-915—an orally active, next-generation pan-ERR agonist now available in tablet for"
+description: "Peptides of China has expanded its public catalog to more than 140 unique products. One of the most exciting new additions is SLU-PP-915—an orally active, next-generation pan-ERR agonist now available in tablet for"
 
 
 

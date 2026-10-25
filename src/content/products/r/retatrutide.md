@@ -10,7 +10,7 @@ image: "/images/products/retatrutide-bottle.webp"
 Retatrutide is the newest triple-agonist compound moving through china peptide catalogs. As with every fast-rising chinese peptides listing, the first wave of supply attracts opportunistic sellers and diluted batches. Research buyers who order retatrutide through our platform get factory-sourced material with the manufacturer's own specification — the same discipline we apply across the entire catalog.
 
 
-Retatrutide Research Peptide | PFC Catalog Retatrutide Retatrutide Research Peptide Retatrutide is a weight management research compound currently in stock directly from a verified Chinese manufacturer. Product specifications are confirmed for the selected manufacturer and batch before the order is finalized. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+Retatrutide Research Peptide | Peptides of China Catalog Retatrutide Retatrutide Research Peptide Retatrutide is a weight management research compound currently in stock directly from a verified Chinese manufacturer. Product specifications are confirmed for the selected manufacturer and batch before the order is finalized. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 
 ## Compound Profile
 

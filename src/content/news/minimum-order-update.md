@@ -1,7 +1,7 @@
 ---
 title: "Minimum Order Update"
 slug: "minimum-order-update"
-description: "PFC has updated the minimum order amount from $300 to $600 as part of its continued focus on B2B operations and direct manufacturer partnerships."
+description: "Peptides of China has updated the minimum order amount from $300 to $600 as part of its continued focus on B2B operations and direct manufacturer partnerships."
 
 
 

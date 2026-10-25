@@ -1,7 +1,7 @@
 ---
 title: "Pyusd Payment Option"
 slug: "pyusd-payment-option"
-description: "PFC now accepts PayPal USD (PYUSD) on the Solana network, providing customers with an additional stablecoin payment option."
+description: "Peptides of China now accepts PayPal USD (PYUSD) on the Solana network, providing customers with an additional stablecoin payment option."
 
 
 

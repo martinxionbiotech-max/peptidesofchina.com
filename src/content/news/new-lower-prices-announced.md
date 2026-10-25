@@ -1,7 +1,7 @@
 ---
 title: "New Lower Prices Announced"
 slug: "new-lower-prices-announced"
-description: "PFC has reduced prices across a substantial selection of research products, with savings exceeding 20% on certain catalog positions."
+description: "Peptides of China has reduced prices across a substantial selection of research products, with savings exceeding 20% on certain catalog positions."
 
 
 

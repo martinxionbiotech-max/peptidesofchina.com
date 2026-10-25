@@ -1,7 +1,7 @@
 ---
 title: "Research Grade Peptides 2026 Lab Procurement Guide"
 slug: "research-grade-peptides-2026-lab-procurement-guide"
-description: "A 2026 procurement guide to research-grade peptides, covering PFC’s $600 total minimum, manufacturer-side quality control, and international logistics."
+description: "A 2026 procurement guide to research-grade peptides, covering Peptides of China's $600 total minimum, manufacturer-side quality control, and international logistics."
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Hgh 36 Iu Now Available On Pfc"
 slug: "hgh-36-iu-now-available-on-pfc"
-description: "HGH 36 IU is now available on PFC with local fulfillment in the USA, Canada, Australia, the UK, and the EU."
+description: "HGH 36 IU is now available on Peptides of China with local fulfillment in the USA, Canada, Australia, the UK, and the EU."
 
 
 

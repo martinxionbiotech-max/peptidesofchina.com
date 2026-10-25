@@ -1,7 +1,7 @@
 ---
 title: "Us Warehouse Inventory Expanded"
 slug: "us-warehouse-inventory-expanded"
-description: "PFC has added more than 30 products to its U.S. warehouse, offering customers faster domestic delivery without international shipping or customs clearance."
+description: "Peptides of China has added more than 30 products to its U.S. warehouse, offering customers faster domestic delivery without international shipping or customs clearance."
 
 
 

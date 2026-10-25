@@ -1,7 +1,7 @@
 ---
 title: "Peptide Supply Chain Transparency Buyer Checklist"
 slug: "peptide-supply-chain-transparency-buyer-checklist"
-description: "A practical checklist for peptide supply chain transparency: supplier roles, batch records, order confirmations, receiving checks, and PFC sourcing support."
+description: "A practical checklist for peptide supply chain transparency: supplier roles, batch records, order confirmations, receiving checks, and Peptides of China sourcing support."
 
 
 

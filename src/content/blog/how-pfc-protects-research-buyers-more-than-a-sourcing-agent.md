@@ -1,7 +1,7 @@
 ---
 title: "How Pfc Protects Research Buyers More Than A Sourcing Agent"
 slug: "how-pfc-protects-research-buyers-more-than-a-sourcing-agent"
-description: "See how PFC protects research buyers through purchasing leverage, supplier escalation, staged payments, and continuity planning for international orders."
+description: "See how Peptides of China protects research buyers through purchasing leverage, supplier escalation, staged payments, and continuity planning for international orders."
 
 
 

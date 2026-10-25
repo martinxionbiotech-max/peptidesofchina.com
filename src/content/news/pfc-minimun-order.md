@@ -1,7 +1,7 @@
 ---
 title: "Pfc Minimun Order"
 slug: "pfc-minimun-order"
-description: "PFC has temporarily removed the $600 minimum order requirement. For the next month, customers may submit requests of any value, provided products are ordered in complete boxes."
+description: "Peptides of China has temporarily removed the $600 minimum order requirement. For the next month, customers may submit requests of any value, provided products are ordered in complete boxes."
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Hgh Supply Export Update"
 slug: "hgh-supply-export-update"
-description: "Export compliance requirements continue affecting HGH shipments from China. PFC continues maintaining access through direct manufacturing partnerships."
+description: "Export compliance requirements continue affecting HGH shipments from China. Peptides of China continues maintaining access through direct manufacturing partnerships."
 
 
 

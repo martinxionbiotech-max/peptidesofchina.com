@@ -1,7 +1,7 @@
 ---
 title: "2026 Growth Hormone Secretagogue Wholesale Guide"
 slug: "2026-growth-hormone-secretagogue-wholesale-guide"
-description: "A 2026 guide to growth hormone secretagogue wholesale sourcing, covering manufacturer-side QC, PFC order minimums, and international logistics."
+description: "A 2026 guide to growth hormone secretagogue wholesale sourcing, covering manufacturer-side QC, Peptides of China order minimums, and international logistics."
 
 
 
