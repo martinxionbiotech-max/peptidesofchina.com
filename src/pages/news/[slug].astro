@@ -9,8 +9,10 @@ export async function getStaticPaths() {
 
 const { item } = Astro.props;
 const { Content } = await render(item);
+const full = `${item.data.title} | Peptides of China`;
+const seoTitle = full.length <= 60 ? full : (item.data.title.length <= 60 ? item.data.title : item.data.title.slice(0, 57).trimEnd() + '…');
 ---
-<BaseLayout title={`${item.data.title} | Peptides of China`} description={item.data.description}>
+<BaseLayout title={seoTitle} description={item.data.description}>
   <p class="muted"><a href="/news/">News</a> ›</p>
   <h1>{item.data.title}</h1>
   <article>

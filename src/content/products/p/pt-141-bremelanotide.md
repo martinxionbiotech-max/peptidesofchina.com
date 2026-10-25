@@ -9,10 +9,10 @@ description: "Melanocortin receptor agonist and metabolite of Melanotan-2. Subje
 
 
 
+
 ---
 PT-141 (bremelanotide) is a melanocortin-receptor research compound that straddles two very different buyer markets — institutional research and private sourcing. For both, the china peptide sourcing calculus is the same: identity, purity, and lyophilization quality. We supply PT-141 as a finished vial from an established Chinese manufacturer, with the specification stated up front rather than discovered after delivery.
 
-# Buy PT-141 (Bremelanotide) — Research Grade | Peptides of China
 
 Buy PT-141 (Bremelanotide) | Research Grade | Peptides of China PT-141 (Bremelanotide) Buy PT-141 (Bremelanotide) — Research Grade Peptide PT-141 (Bremelanotide) is a sexual health research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

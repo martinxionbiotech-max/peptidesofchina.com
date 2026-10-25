@@ -9,6 +9,7 @@ description: "Human chorionic gonadotropin — an LH-mimetic glycoprotein hormon
 
 
 
+
 ---
 HCG is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Glycoprotein Gonadotropin / LH Receptor Agonist CAS Number 9002-61-3 Molecular Weight ~37,900 Da (with glycosylation; protein backbone ~23,500 Da) Alpha Subunit 92 amino acids (shared with LH, FSH, TSH) Beta Subunit 145 amino acids (HCG-specific; responsible for LHCGR binding) Receptor Target LHCGR (LH/CG receptor) — Gs/cAMP/PKA signalling Half-life (research) ~24–36 h (vs. ~1 h for native LH) Activity Measurement International Units (IU) per ampoule/vial (WHO reference) Storage -20°C lyophilized; 4°C reconstituted (up to 7 days) Molecular Formula N/A — glycoprotein (α/β heterodimer) Sequence N/A — glycoprotein (see α and β subunit sequences in literature) 
 
@@ -75,7 +76,6 @@ HCG activity is expressed in International Units (IU) calibrated against the WHO
 
 Yes. HCG is available through Peptides of China on a B2B wholesale basis. Pricing and minimum order quantities are provided on request after account verification. Contact us via the Request page or Contact form. For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, HCG is supplied for laboratory research use only.
 
-# Buy HCG — Research Grade | Peptides of China
 
 Buy HCG | Research Grade | Peptides of China HCG Buy HCG — Research Grade Peptide HCG is a hormonal regulation research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

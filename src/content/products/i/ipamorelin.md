@@ -9,10 +9,10 @@ description: "Ipamorelin GH secretagogue research peptide sourced from verified 
 
 
 
+
 ---
 Ipamorelin is the gentlest of the growth-hormone secretagogue family, and one of the most reliably stocked chinese peptides across manufacturer catalogs. Its stability in lyophilized form makes it a sensible first order for buyers new to china peptide sourcing, and its popularity makes it a common target for substitution with cheaper GHRPs. We confirm the specific compound and specification with the manufacturer before the order ships.
 
-# Buy Ipamorelin — Research Grade | Peptides of China
 
 Buy Ipamorelin Peptide | Growth Hormone Secretagogue | Research Grade | Peptides of China Ipamorelin Buy Ipamorelin — Research Grade GH Secretagogue Ipamorelin is a muscle & performance research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

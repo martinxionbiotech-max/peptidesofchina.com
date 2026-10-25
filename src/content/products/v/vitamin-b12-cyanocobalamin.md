@@ -9,6 +9,7 @@ description: "Cyanocobalamin — essential cofactor for methionine synthase and 
 
 
 
+
 ---
 Vitamin B12 (Cyanocobalamin) is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Cobalamin (vitamin B12 vitamer, synthetic stable form) Synonyms Cyanocobalamin, Vitamin B12, Cobalamin (cyano form) Molecular Formula C₆₃H₈₈CoN₁₄O₁₄P Molecular Weight 1355.4 Da CAS Number 68-19-9 PubChem CID 5479203 Active Coenzyme Forms Methylcobalamin (methionine synthase), Adenosylcobalamin (methylmalonyl-CoA mutase) 
 
@@ -101,7 +102,6 @@ Cyanocobalamin is supplied at 99%+ purity, verified by HPLC. Every batch is test
 
 Methylcobalamin (Vitamin B12) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Vitamin B12 (Cyanocobalamin) is supplied for laboratory research use only.
 
-# Buy Vitamin B12 (Cyanocobalamin) — Research Grade | Peptides of China
 
 Buy Vitamin B12 (Cyanocobalamin) | Research Grade | Peptides of China Vitamin B12 (Cyanocobalamin) Buy Vitamin B12 (Cyanocobalamin) — Research Grade Peptide Vitamin B12 (Cyanocobalamin) is a vitamins & nutrients research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

@@ -9,6 +9,7 @@ description: "C-terminal tripeptide of α-melanocyte-stimulating hormone (α-MSH
 
 
 
+
 ---
 KPV is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the α-MSH C-terminal tripeptide (MC1R agonist) Synonyms α-MSH(11-13), Lys-Pro-Val, L-Lysyl-L-Prolyl-L-Valine Sequence Lys-Pro-Val Molecular Formula C₁₆H₃₀N₄O₄ Molecular Weight 342.4 Da CAS Number 13454-14-3 
 
@@ -113,7 +114,6 @@ KPV (Oral) GHK-Cu 50mg + KPV 10mg BPC-157 10mg + TB-500 10mg + KPV 10mg Related 
 
 **What Cell and Animal Studies Show KPV Peptide: A Technical Researcher’s Guide to Sourcing and Synthesis Standards For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, KPV is supplied for laboratory research use only.
 
-# Buy KPV — Research Grade | Peptides of China
 
 Buy KPV | Research Grade | Peptides of China KPV Buy KPV — Research Grade Peptide KPV is a healing & repair research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

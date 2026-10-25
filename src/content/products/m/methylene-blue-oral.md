@@ -9,6 +9,7 @@ description: "Methylene blue is a redox-active phenothiazine compound used as a 
 
 
 
+
 ---
 methylene-blue-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Orals Total variants: 2 In-stock variants: 1 of 2 Standard pack size: 100 tablets 
 
@@ -20,7 +21,6 @@ Phenothiazine compound with oxidation-reduction properties. Used in studies of e
 
 Semaglutide oral tablet AICAR (Oral) BPC-157 + TB-500 Blend (Oral) SR9009 (Oral) 5-Amino-1MQ (Oral) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. research category, and its specification is confirmed with the manufacturer before the order ships. Like every listing on this platform, methylene-blue-oral is supplied for laboratory research use only.
 
-# Buy Methylene Blue Oral — Research Grade | Peptides of China
 
 Buy Methylene Blue (Oral) | Research Grade | Peptides of China Methylene Blue (Oral) Buy Methylene Blue (Oral) — Research Grade Peptide Methylene Blue (Oral) is a orals research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. Product Overview Methylene blue is a redox-active phenothiazine compound used as a research tool in cellular and mitochondrial biology. Its reversible oxidation and reduction allow it to participate in electron-transfer reactions, and research examines its effects on mitochondrial respiration, oxidative stress, cellular energy metabolism, and neurological pathways. Its biological activity is dose-dependent and may involve multiple mechanisms. 
 

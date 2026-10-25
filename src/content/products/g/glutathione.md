@@ -9,6 +9,7 @@ description: "Endogenous tripeptide and primary intracellular antioxidant. Studi
 
 
 
+
 ---
 Glutathione is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Tripeptide thiol antioxidant (γ-glutamyl peptide) Synonyms GSH, Glutathione reduced, γ-L-Glutamyl-L-cysteinyl-glycine, L-Glutathione Sequence γ-Glu-Cys-Gly (non-standard γ-peptide bond at Glu) Molecular Formula C₁₀H₁₇N₃O₆S Molecular Weight 307.3 Da CAS Number 70-18-8 PubChem CID 124886 
 
@@ -85,7 +86,6 @@ Glutathione (reduced form) is supplied at 99%+ purity, verified by HPLC. Every b
 
 Cell culture concentrations vary by application: 0.1-10 mM for oxidative stress rescue experiments, 1-5 mM for standard antioxidant supplementation studies. Note that extracellular GSH is taken up poorly by most cell types — the membrane-permeable ester form (GSH-EE, glutathione ethyl ester) is often preferred for intracellular delivery experiments. For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Glutathione is supplied for laboratory research use only.
 
-# Buy Glutathione — Research Grade | Peptides of China
 
 Buy Glutathione | Research Grade | Peptides of China Glutathione Buy Glutathione — Research Grade Peptide Glutathione is a immunity research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

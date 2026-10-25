@@ -9,10 +9,10 @@ description: "GHK-Cu (Copper Tripeptide-1) for research. Sourced directly from C
 
 
 
+
 ---
 GHK-Cu is the copper peptide most in demand across both research and cosmetic-formulation channels. For china peptide buyers, GHK-Cu presents a specific sourcing challenge: copper content, peptide content, and appearance are all commonly misreported by intermediaries. We supply GHK-Cu with manufacturer specifications that state what is actually in the vial, because a copper peptide with unverified copper content is not a research tool — it is a liability.
 
-# Buy GHK-Cu — Research Grade | Peptides of China
 
 Buy GHK-Cu Peptide | Copper Tripeptide Research Grade | Peptides of China GHK-Cu Buy GHK-Cu (Copper Tripeptide) — Research Grade, Direct Source GHK-Cu is a healing & repair research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

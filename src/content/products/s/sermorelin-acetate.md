@@ -9,6 +9,7 @@ description: "Synthetic peptide corresponding to the active fragment of growth h
 
 
 
+
 ---
 Sermorelin Acetate is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the GHRH Analogue — N-terminal Fragment Also Known As GHRH(1-29), GRF 1-29, Somatocrinin(1-29) CAS Number 86168-78-7 Molecular Formula C₁₄₉H₂₄₆N₄₄O₄₂S Molecular Weight 3357.9 Da (free base) Sequence Length 29 amino acids (native GHRH N-terminal sequence) Receptor Target GHRHR (Growth Hormone-Releasing Hormone Receptor) DPP-IV Sensitivity High — cleavage at His²-Ala³ bond (t½ ~10–12 min) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
 
@@ -73,7 +74,6 @@ Yes. Sermorelin acetate is available through Peptides of China on a B2B wholesal
 
 Gonadorelin Acetate Oxytocin Acetate For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Sermorelin Acetate is supplied for laboratory research use only.
 
-# Buy Sermorelin Acetate — Research Grade | Peptides of China
 
 Buy Sermorelin Acetate | Research Grade | Peptides of China Sermorelin Acetate Buy Sermorelin Acetate — Research Grade Peptide Sermorelin Acetate is a hormonal regulation research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

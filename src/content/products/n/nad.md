@@ -9,6 +9,7 @@ description: "NAD+ (Nicotinamide Adenine Dinucleotide) for research. 500mg & 100
 
 
 
+
 ---
 NAD+ is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Pyridine nucleotide coenzyme Synonyms Nicotinamide Adenine Dinucleotide (oxidized), NAD, DPN, Coenzyme I Molecular Formula C₂₁H₂₇N₇O₁₄P₂ Molecular Weight 663.4 Da CAS Number 53-84-9 PubChem CID 5892 
 
@@ -93,7 +94,6 @@ We supply NAD⁺ in the oxidized (NAD⁺) form — the biologically active coenz
 
 NAD+ 100mg + MOTS-C 10mg + 5-Amino-1MQ 10mg NAD+ Oil For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, NAD+ is supplied for laboratory research use only.
 
-# Buy NAD+ — Research Grade | Peptides of China
 
 Buy NAD+ | Nicotinamide Adenine Dinucleotide | Research Grade | Peptides of China NAD+ Buy NAD+ — Research Grade, Direct from Manufacturer NAD+ is a energy & endurance research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

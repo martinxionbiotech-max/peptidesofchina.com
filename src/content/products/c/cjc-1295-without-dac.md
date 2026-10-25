@@ -9,6 +9,7 @@ description: "CJC-1295 without DAC (Mod GRF 1-29) sourced from verified Chinese 
 
 
 
+
 ---
 CJC-1295 Without DAC is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the GHRH Analogue (Growth Hormone Releasing Hormone) Also Known As Modified GRF (1-29), Mod GRF 1-29, Sermorelin analogue CAS Number 863288-34-0 Molecular Formula C₁₅₂H₂₅₂N₄₂O₄₂ Molecular Weight 3367.9 Da Sequence Length 29 amino acids Receptor Target GHRHR (Growth Hormone-Releasing Hormone Receptor) Half-life (research) ~25–30 min (vs. ~7 min for native GHRH) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
 
@@ -83,7 +84,6 @@ Yes. GHRHR-transfected cell lines and primary pituitary cultures are used for in
 
 CJC-1295 With DAC CJC-1295 + Ipamorelin CJC-1295 + Ipamorelin For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, CJC-1295 Without DAC is supplied for laboratory research use only.
 
-# Buy CJC-1295 Without DAC — Research Grade | Peptides of China
 
 Buy CJC-1295 without DAC (Modified GRF 1-29) | Research Grade | Peptides of China CJC-1295 Without DAC Buy CJC-1295 Without DAC (Mod GRF 1-29) — Research Grade CJC-1295 Without DAC is a muscle & performance research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

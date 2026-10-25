@@ -9,6 +9,8 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+const full = `${post.data.title} | Peptides of China`;
+const seoTitle = full.length <= 60 ? full : (post.data.title.length <= 60 ? post.data.title : post.data.title.slice(0, 57).trimEnd() + '…');
 
 const structuredData = [
   {
@@ -19,7 +21,7 @@ const structuredData = [
   },
 ];
 ---
-<BaseLayout title={`${post.data.title} | Peptides of China`} description={post.data.description}>
+<BaseLayout title={seoTitle} description={post.data.description}>
   <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
   <p class="muted"><a href="/blog/">Blog</a> ›</p>
   <h1>{post.data.title}</h1>

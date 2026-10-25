@@ -9,6 +9,7 @@ description: "Compounded lipotropic injectable containing L-Carnitine 200mg, L-A
 
 
 
+
 ---
 Lipo-C (Lipotropic Complex) is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Lipotropic agent combination (injectable formulation) Primary Components Methionine, Inositol, Choline (MIC), Cyanocobalamin (B12) Optional Components L-Carnitine, Riboflavin (B2), Thiamine (B1), Dexpanthenol (B5) 
 
@@ -101,7 +102,6 @@ Lipo-C should be stored at 2-8°C, protected from light. Do not freeze (freezing
 
 Lipo-C 120 Lipo-C 216 Fat Blaster (Lipotropic Complex) Lipo-B Lipo-C Focus For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Lipo-C (Lipotropic Complex) is supplied for laboratory research use only.
 
-# Buy Lipo-C (Lipotropic Complex) — Research Grade | Peptides of China
 
 Buy Lipo-C (Lipotropic Complex) | Research Grade | Peptides of China Lipo-C (Lipotropic Complex) Buy Lipo-C (Lipotropic Complex) — Research Grade Peptide Lipo-C (Lipotropic Complex) is a weight management research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

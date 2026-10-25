@@ -9,6 +9,7 @@ description: "Synthetic decapeptide identical to endogenous GnRH. Used as a rese
 
 
 
+
 ---
 Gonadorelin Acetate is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Hypothalamic decapeptide / GnRH agonist (acetate salt) Synonyms GnRH, Gonadorelin, LHRH, Luteinizing hormone-releasing hormone Sequence pGlu-His-Trp-Ser-Tyr-Gly-Leu-Arg-Pro-Gly-NH₂ Amino Acids 10 Molecular Weight 1182.3 Da CAS Number 33515-09-2 Receptor Target GnRHR (gonadotropin-releasing hormone receptor, Gq-coupled) 
 
@@ -101,7 +102,6 @@ Lyophilized gonadorelin acetate should be stored at −20°C. Aqueous solutions 
 
 Oxytocin Acetate Sermorelin Acetate For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Gonadorelin Acetate is supplied for laboratory research use only.
 
-# Buy Gonadorelin Acetate — Research Grade | Peptides of China
 
 Buy Gonadorelin Acetate | Research Grade | Peptides of China Gonadorelin Acetate Buy Gonadorelin Acetate — Research Grade Peptide Gonadorelin Acetate is a hormonal regulation research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

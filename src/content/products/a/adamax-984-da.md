@@ -9,6 +9,7 @@ description: "Advanced synthetic analog of Semax — itself a stabilized heptape
 
 
 
+
 ---
 adamax-984-da is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Synthetic neuropeptide; advanced ACTH(4-7) analogue with adamantane modification Parent Compound Semax (Met-Glu-His-Phe-Pro-Gly-Pro; ACTH(4-7) heptapeptide derivative) Modification Adamantane-containing structural motif; characteristic of the 984 Da form (distinct from 1032 Da variant) Developed from ACTH(4-7) analogue research programme, Institute of Molecular Genetics, Russian Academy of Sciences Molecular Weight ~984 Da 
 
@@ -101,7 +102,6 @@ Adamax (984 Da) is supplied as lyophilized powder at ≥98% purity, verified by 
 
 Lyophilized Adamax (984 Da) should be stored at −20°C and protected from light and moisture. Reconstituted solution is stable at 4°C for short-term use (up to 14 days). Repeated freeze-thaw cycles should be avoided to preserve peptide integrity. For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, adamax-984-da is supplied for laboratory research use only.
 
-# Buy Adamax 984 Da — Research Grade | Peptides of China
 
 Buy Adamax (984 Da) | Research Grade | Peptides of China Adamax (984 Da) Buy Adamax (984 Da) — Research Grade Peptide Adamax (984 Da) is a cognitive & neuro research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

@@ -9,6 +9,7 @@ description: "Semax research peptide sourced from verified Chinese manufacturer.
 
 
 
+
 ---
 Semax is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Synthetic ACTH(4-7) Analogue / Nootropic Heptapeptide CAS Number 80714-61-0 Molecular Formula C₃₇H₅₁N₉O₁₀S Molecular Weight 813.94 Da Sequence Met-Glu-His-Phe-Pro-Gly-Pro (7 amino acids) Parent Sequence ACTH(4-7) + Pro-Gly-Pro stabilising extension Developed by Institute of Molecular Genetics, Russian Academy of Sciences Synonyms ACTH(4-7)PGP, N-prolylglycylproline fragment Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
 
@@ -89,7 +90,6 @@ Yes. Semax is available through Peptides of China on a B2B wholesale basis. Puri
 
 NA Semax Amidate Selank + Semax Related Research Articles Semax Half-Life: Plasma Clearance vs. Effect Duration N-Acetyl Semax Amidate: Researcher's Guide to Dosing and QC How Many mg of Semax per Day (Lyophilized Vials Guide) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Semax is supplied for laboratory research use only.
 
-# Buy Semax — Research Grade | Peptides of China
 
 Buy Semax Peptide | Research Grade, Purity Tested | Peptides of China Semax Buy Semax — Verified Research Peptide Direct from Manufacturer Semax is a cognitive & neuro research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

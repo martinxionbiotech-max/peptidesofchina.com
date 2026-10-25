@@ -9,6 +9,7 @@ description: "Hexapeptide growth hormone secretagogue and ghrelin receptor agoni
 
 
 
+
 ---
 GHRP-6 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Synthetic hexapeptide (growth hormone secretagogue) Synonyms Growth Hormone Releasing Hexapeptide, GHRP 6, SK&F-110679 Sequence His-D-Trp-Ala-Trp-D-Phe-Lys-NH₂ Amino Acids 6 Molecular Formula C₄₆H₅₆N₁₂O₆ Molecular Weight 873.0 Da CAS Number 87616-84-0 PubChem CID 5486806 Receptor Target GHS-R1a (ghrelin receptor / growth hormone secretagogue receptor) 
 
@@ -113,7 +114,6 @@ Lyophilized GHRP-6 should be stored at −20°C. Aqueous solutions should be kep
 
 GHRP-2 For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, GHRP-6 is supplied for laboratory research use only.
 
-# Buy GHRP-6 — Research Grade | Peptides of China
 
 Buy GHRP-6 | Research Grade | Peptides of China GHRP-6 Buy GHRP-6 — Research Grade Peptide GHRP-6 is a muscle & performance research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

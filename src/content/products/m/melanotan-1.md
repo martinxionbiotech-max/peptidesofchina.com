@@ -9,6 +9,7 @@ description: "Melanotan-1 (Afamelanotide) — full-length alpha-MSH analog for m
 
 
 
+
 ---
 Melanotan-1 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Linear α-MSH analogue (MC1R agonist) Synonyms Afamelanotide, [Nle⁴,D-Phe⁷]-α-MSH, Scenesse (clinical formulation) Sequence Ac-Ser-Tyr-Ser-Nle-Glu-His-D-Phe-Arg-Trp-Gly-Lys-Pro-Val-NH₂ Amino Acids 13 Molecular Weight 1646.9 Da CAS Number 75921-69-6 Receptor Targets MC1R (primary), MC3R (secondary) 
 
@@ -109,7 +110,6 @@ Lyophilized Melanotan-1 should be stored at −20°C, protected from light (the 
 
 Melanotan-2 For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Melanotan-1 is supplied for laboratory research use only.
 
-# Buy Melanotan-1 — Research Grade | Peptides of China
 
 Buy Melanotan-1 (Afamelanotide) | Melanocortin Research Peptide | Peptides of China Melanotan-1 Buy Melanotan-1 (Afamelanotide) — Research Grade Melanocortin Peptide Melanotan-1 is a skin, hair & nails research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

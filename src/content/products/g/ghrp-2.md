@@ -9,6 +9,7 @@ description: "Second-generation growth hormone releasing peptide and ghrelin rec
 
 
 
+
 ---
 GHRP-2 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Synthetic hexapeptide (second-generation GH secretagogue) Synonyms Growth Hormone Releasing Peptide-2, Pralmorelin, KP-102 Sequence D-Ala-D-2-Nal-Ala-Trp-D-Phe-Lys-NH₂ Amino Acids 6 Molecular Formula C₄₅H₅₅N₉O₆ Molecular Weight 817.9 Da CAS Number 158861-67-7 PubChem CID 9831531 Receptor Target GHS-R1a (ghrelin receptor) 
 
@@ -113,7 +114,6 @@ Store lyophilized GHRP-2 at −20°C, protected from light and moisture. Aqueous
 
 GHRP-6 For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, GHRP-2 is supplied for laboratory research use only.
 
-# Buy GHRP-2 — Research Grade | Peptides of China
 
 Buy GHRP-2 | Research Grade | Peptides of China GHRP-2 Buy GHRP-2 — Research Grade Peptide GHRP-2 is a muscle & performance research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

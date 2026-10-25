@@ -9,6 +9,7 @@ description: "Standardized neuropeptide mixture derived from porcine brain prote
 
 
 
+
 ---
 Cerebrolysin is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Standardized porcine brain-derived peptide mixture Active Fraction ~25% low-MW peptides (<10 kDa), 75% free amino acids Proposed Active Components Neurotrophic-like peptides, BDNF/NGF-related sequences 
 
@@ -93,7 +94,6 @@ Cerebrolysin is supplied to standardized peptide content specifications, verifie
 
 Lyophilized cerebrolysin should be stored at −20°C. Reconstituted solutions should be used within 24 hours. The complex mixture is less stable in solution than single-sequence peptides. For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Cerebrolysin is supplied for laboratory research use only.
 
-# Buy Cerebrolysin — Research Grade | Peptides of China
 
 Buy Cerebrolysin | Research Grade | Peptides of China Cerebrolysin Buy Cerebrolysin — Research Grade Peptide Cerebrolysin is a cognitive & neuro research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

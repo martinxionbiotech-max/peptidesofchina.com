@@ -9,6 +9,7 @@ description: "Lipolytic injectable formulation investigated in aesthetic medicin
 
 
 
+
 ---
 Lemon Bottle (liquid) is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Multi-component mesotherapy formulation Primary Components Riboflavin (B2), Lecithin (phosphatidylcholine), Bromelain Secondary Components L-Carnitine, Artichoke Extract, Thyidine 
 
@@ -109,7 +110,6 @@ Lemon Bottle liquid formulation should be stored at 2-8°C, protected from freez
 
 L-Carnitine (Liquid) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Lemon Bottle (liquid) is supplied for laboratory research use only.
 
-# Buy Lemon Bottle (liquid) — Research Grade | Peptides of China
 
 Buy Lemon Bottle (liquid) | Research Grade | Peptides of China Lemon Bottle (liquid) Buy Lemon Bottle (liquid) — Research Grade Peptide Lemon Bottle (liquid) is a weight management research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

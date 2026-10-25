@@ -9,6 +9,7 @@ description: "Mechano Growth Factor — a splice variant of IGF-1. Studied in ex
 
 
 
+
 ---
 MGF is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the IGF-1 splice variant Ec peptide (C-terminal fragment) Synonyms Mechano Growth Factor, IGF-1Ec, Ec peptide Amino Acids 24 (C-terminal Ec domain fragment) Molecular Weight ~2867 Da CAS Number 162663-54-9 
 
@@ -113,7 +114,6 @@ Lyophilized MGF should be stored at −20°C. Aqueous solutions should be kept a
 
 PEG-MGF Retatrutide + MGF For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, MGF is supplied for laboratory research use only.
 
-# Buy MGF — Research Grade | Peptides of China
 
 Buy MGF | Research Grade | Peptides of China MGF Buy MGF — Research Grade Peptide MGF is a healing & repair research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

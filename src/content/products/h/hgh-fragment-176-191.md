@@ -9,6 +9,7 @@ description: "HGH Fragment 176-191 research peptide sourced directly from verifi
 
 
 
+
 ---
 HGH Fragment 176-191 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the GH C-terminal Fragment / Lipolytic Peptide CAS Number 66004-57-7 Molecular Formula C78H123N23O23S2 Molecular Weight 1817.12 Da Sequence Length 16 amino acids (residues 176–191 of hGH) Disulfide Bond Cys-182 — Cys-189 (essential for activity) Synonyms HGH Frag 176-191, AOD-9401, hGH fragment Half-life (research) ~20–30 min (rodent, s.c.) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
 
@@ -93,7 +94,6 @@ HGH Fragment 176-191 is supplied at ≥98% purity, verified by RP-HPLC. Identity
 
 HGH 191AA (Somatropin) BPC-157 10mg + TB-500 Fragment 10mg TB-500 Fragment (17-24) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, HGH Fragment 176-191 is supplied for laboratory research use only.
 
-# Buy HGH Fragment 176-191 — Research Grade | Peptides of China
 
 Buy HGH Fragment 176-191 | Research Grade Peptide | Peptides of China HGH Fragment 176-191 Buy HGH Fragment 176-191 — Research Grade HGH Fragment 176-191 is a weight management research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

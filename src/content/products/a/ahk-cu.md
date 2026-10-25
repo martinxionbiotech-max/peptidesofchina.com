@@ -9,6 +9,7 @@ description: "Copper-chelating tripeptide analog. Investigated in dermatological
 
 
 
+
 ---
 AHK-Cu is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Copper-peptide complex (tripeptide) Synonyms Ala-His-Lys copper complex, AHK copper tripeptide Sequence Ala-His-Lys Amino Acids 3 Copper Chelation Cu²⁺ via histidine imidazole nitrogen and N-terminal amine 
 
@@ -101,7 +102,6 @@ AHK-Cu is synthesized to 99%+ purity, verified by HPLC and Mass Spectrometry. Ev
 
 Lyophilized AHK-Cu should be stored at −20°C, protected from moisture and light. Copper-peptide complexes can undergo oxidation of Cu²⁺ to Cu⁰ in solution under certain conditions — use degassed buffers and minimize air exposure for aqueous preparations. For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, AHK-Cu is supplied for laboratory research use only.
 
-# Buy AHK-Cu — Research Grade | Peptides of China
 
 Buy AHK-Cu | Research Grade | Peptides of China AHK-Cu Buy AHK-Cu — Research Grade Peptide AHK-Cu is a skin, hair & nails research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

@@ -6,9 +6,8 @@ description: "Contact Peptides of China for wholesale peptide sourcing, private-
 
 
 
----
-# Contact
 
+---
 Contact Peptides of China for wholesale inquiry, custom manufacturing, product specifications,
 private-brand sourcing, or questions about an existing order.
 

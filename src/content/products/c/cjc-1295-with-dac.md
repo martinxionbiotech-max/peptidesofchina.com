@@ -9,6 +9,7 @@ description: "CJC-1295 with DAC (Drug Affinity Complex) — long-acting growth h
 
 
 
+
 ---
 CJC-1295 With DAC is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the GHRH analogue with Drug Affinity Complex (albumin-binding) Synonyms CJC-1295 DAC, DAC:GRF, GRF with DAC Amino Acids 30 (GHRH(1-29) backbone with DAC modification) Molecular Weight ~3459 Da CAS Number 863288-34-0 Receptor Target GHRHR (growth hormone-releasing hormone receptor) Half-Life (approximate) 6-10 days (albumin-bound) 
 
@@ -109,7 +110,6 @@ The DAC is a maleimido-propionyl group attached to a lysine residue in the pepti
 
 CJC-1295 Without DAC CJC-1295 + Ipamorelin CJC-1295 + Ipamorelin For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, CJC-1295 With DAC is supplied for laboratory research use only.
 
-# Buy CJC-1295 With DAC — Research Grade | Peptides of China
 
 Buy CJC-1295 with DAC | Long-Acting GHRH Analog | Research Grade | Peptides of China CJC-1295 With DAC Buy CJC-1295 With DAC — Research Grade GHRH Analog CJC-1295 With DAC is a muscle & performance research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

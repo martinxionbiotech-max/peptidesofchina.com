@@ -9,6 +9,7 @@ description: "Cagrilintide research peptide sourced from verified Chinese synthe
 
 
 
+
 ---
 Cagrilintide is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Acylated amylin analogue Synonyms IcoSema amylin component, AM833 Amino Acids 26 (modified human amylin sequence) Molecular Weight ~3367 Da (with C20 fatty acid modification) CAS Number 2173468-47-0 
 
@@ -113,7 +114,6 @@ Lyophilized cagrilintide should be stored at −20°C, protected from light and 
 
 Cagrilintide + Semaglutide Retatrutide + Cagrilintide Related Research Articles Cagrilintide: A Researcher’s Guide to the Amylin Agonist Landscape For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Cagrilintide is supplied for laboratory research use only.
 
-# Buy Cagrilintide — Research Grade | Peptides of China
 
 Buy Cagrilintide Peptide | Research Grade | Wholesale | Peptides of China Cagrilintide Buy Cagrilintide — Research Peptide, Purity Tested Cagrilintide is a weight management research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

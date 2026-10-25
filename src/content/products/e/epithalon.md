@@ -9,10 +9,10 @@ description: "Epithalon (Epitalon) research peptide sourced directly from China.
 
 
 
+
 ---
 Epithalon (Epitalon) has anchored longevity and telomere research in the china peptide space for over a decade. The compound is short, cheap to synthesize, and therefore heavily commoditized — which makes sourcing quality the entire ballgame for chinese peptides buyers. Our Epithalon is supplied as finished lyophilized product from an established Chinese manufacturer with documented purity per batch.
 
-# Buy Epithalon — Research Grade | Peptides of China
 
 Buy Epithalon Peptide | Research Grade, Purity Tested | Peptides of China Epithalon Buy Epithalon (Epitalon) — Longevity Peptide, Research Grade Epithalon is a anti-aging & longevity research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

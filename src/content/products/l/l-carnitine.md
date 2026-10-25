@@ -9,6 +9,7 @@ description: "Naturally occurring quaternary ammonium compound. Investigated in 
 
 
 
+
 ---
 L-Carnitine is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Quaternary ammonium compound (zwitterionic amino acid derivative) Synonyms L-Carnitine, Levocarnitine, (R)-Carnitine, Vitamin BT Molecular Formula C₇H₁₅NO₃ Molecular Weight 161.2 Da CAS Number 541-15-1 PubChem CID 10917 Primary Function Long-chain fatty acid transport across inner mitochondrial membrane (carnitine shuttle) 
 
@@ -113,7 +114,6 @@ L-Carnitine powder is hygroscopic — store in a tightly sealed container. Room 
 
 L-Carnitine (Liquid) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, L-Carnitine is supplied for laboratory research use only.
 
-# Buy L-Carnitine — Research Grade | Peptides of China
 
 Buy L-Carnitine | Research Grade | Peptides of China L-Carnitine Buy L-Carnitine — Research Grade Peptide L-Carnitine is a energy & endurance research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

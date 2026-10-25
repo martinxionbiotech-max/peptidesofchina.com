@@ -9,10 +9,10 @@ description: "Melanotan-2 — cyclic alpha-MSH analog (MT-II) for melanogenesis 
 
 
 
+
 ---
 Melanotan-2 (MT-2) is a melanocortin research peptide with an unusually sensitive supply chain: among chinese peptides, it is one of the most frequently under-dosed compounds on the open market. The reason is simple economics — MT-2 sells by perceived potency, not by documentation. Our catalog approach inverts that: the manufacturer's specification and lot documentation travel with the vial.
 
-# Buy Melanotan-2 — Research Grade | Peptides of China
 
 Buy Melanotan-2 | Cyclic MSH Analog | Research Grade | Peptides of China Melanotan-2 Buy Melanotan-2 (MT-II) — Cyclic Alpha-MSH Research Peptide Melanotan-2 is a sexual health research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

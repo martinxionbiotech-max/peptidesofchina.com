@@ -9,10 +9,10 @@ description: "Selank nootropic peptide sourced directly from China. Batch number
 
 
 
+
 ---
 Selank is one of the most studied anxiolytic research peptides available from chinese peptides manufacturers, with a long preclinical literature covering anxiety models and cognitive endpoints. It is also structurally forgiving in formulation — which is precisely why underqualified labs feel confident selling it. Verified sourcing is the point of difference we offer china peptide buyers: the finished vial, not the raw powder, from the factory that lyophilized it.
 
-# Buy Selank — Research Grade | Peptides of China
 
 Buy Selank Peptide | Research Grade | Direct from China | Peptides of China Selank Buy Selank — Research Peptide, Purity Tested Selank is a cognitive & neuro research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

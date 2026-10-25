@@ -9,6 +9,7 @@ description: "Thymosin Alpha-1 immunomodulatory peptide sourced from verified Ch
 
 
 
+
 ---
 Thymosin Alpha-1 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Thymic Immunomodulatory Peptide CAS Number 62304-98-7 Molecular Formula C₁₂₉H₂₁₅N₃₃O₅₅ Molecular Weight 3108.4 Da Sequence Ac-SDAAVDTSSEITTKDLKEKKEVVEEAEN (28 amino acids, N-acetylated) N-terminal Modification Acetylation (required for full activity) Synonyms Tα1, Thymalfasin, Thymosin α1 Primary Receptors TLR-2, TLR-9; dendritic cell surface signalling Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
 
@@ -73,7 +74,6 @@ Yes. The N-terminal acetyl group (Ac-Ser) is essential for full biological activ
 
 Yes. Thymosin Alpha-1 is available through Peptides of China on a B2B wholesale basis with tiered pricing. Contact us via the Request page or Contact form for pricing and minimum order quantities after account verification. Related Research Articles Thymosin Alpha-1 Wholesale: 2026 Lab Procurement Guide Thymosin Alpha-1 vs TB-500: A B2B Sourcing Comparison for Research Labs For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Thymosin Alpha-1 is supplied for laboratory research use only.
 
-# Buy Thymosin Alpha-1 — Research Grade | Peptides of China
 
 Buy Thymosin Alpha-1 | Immune Research Peptide | Research Grade | Peptides of China Thymosin Alpha-1 Buy Thymosin Alpha-1 — Research Grade Immunomodulatory Peptide Thymosin Alpha-1 is a immunity research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

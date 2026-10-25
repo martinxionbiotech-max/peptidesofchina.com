@@ -9,6 +9,7 @@ description: "IGF-1 LR3 long-acting insulin-like growth factor research peptide.
 
 
 
+
 ---
 IGF-1 LR3 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Long-acting IGF-1 Analogue / Recombinant Peptide Full Name Long Arg3 Insulin-like Growth Factor-I CAS Number 946870-92-4 Molecular Weight ~9117.5 Da Sequence Length 83 amino acids (native IGF-1: 70 AA + 13 AA N-terminal extension) Key Modification Glu³→Arg³ substitution; 13 AA N-terminal extension Receptor Target IGF-1R (IGF-1 receptor); minimal IR cross-reactivity IGFBP Affinity ~1000× lower than native IGF-1 Half-life (research) ~20–30 h (vs. ~12 min for native IGF-1) Storage -20°C lyophilized; 4°C reconstituted (up to 28 days) Molecular Formula N/A — 83-aa protein analogue 
 
@@ -69,7 +70,6 @@ For proliferation assays, typical research concentrations range from 1–100 ng/
 
 Yes. IGF-1 LR3 is available through Peptides of China on a B2B wholesale basis. Pricing, vial sizes, and volume tiers are provided upon request after account verification. Contact us via the Request page or Contact form. Related Research Articles IGF-1 LR3 Research Applications: A B2B Sourcing and Technical Guide (2026) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, IGF-1 LR3 is supplied for laboratory research use only.
 
-# Buy IGF-1 LR3 — Research Grade | Peptides of China
 
 Buy IGF-1 LR3 | Insulin-like Growth Factor | Research Grade | Peptides of China IGF-1 LR3 Buy IGF-1 LR3 — Research Grade Growth Factor IGF-1 LR3 is a muscle & performance research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 

@@ -10,6 +10,8 @@ export async function getStaticPaths() {
 const { product } = Astro.props;
 const { Content } = await render(product);
 const { title, name, price, purity, specification, status } = product.data;
+const base = `Buy ${name} | China Peptide — Peptides of China`;
+const seoTitle = base.length <= 60 ? base : `Buy ${name.slice(0, 37).trimEnd()}… | China Peptide`;
 
 const structuredData = [
   {
@@ -35,7 +37,7 @@ const structuredData = [
   },
 ];
 ---
-<BaseLayout title={`${title} — China Peptide Supplier | Peptides of China`} description={`${name}: research peptide from China. ${purity || '≥98% purity'}, batch-tested, direct factory sourcing, international shipping.`}>
+<BaseLayout title={seoTitle} description={`${name}: research peptide from China. ${purity || '≥98% purity'}, batch-tested, direct factory sourcing, international shipping.`}>
   <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 
   <p class="muted"><a href="/catalog/">Catalog</a> › {name}</p>

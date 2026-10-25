@@ -9,6 +9,7 @@ description: "Dilute acetic acid solution for reconstitution of certain peptides
 
 
 
+
 ---
 Acetic Acid 0.6% is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Dilute organic acid solution (reconstitution solvent) Concentration 0.6% v/v acetic acid in sterile water pH ~2.9-3.2 Osmolality ~100 mOsm/kg (hypotonic) Primary Application Reconstitution solvent for hydrophobic and aggregation-prone peptides Common Use Cases GHRH analogues, CJC-1295, IGF-1 LR3, sermorelin, tesamorelin, AOD-9604 Form Sterile aqueous solution Storage Room temperature; sealed to prevent evaporative concentration; discard if contaminated CAS Number N/A — formulated solution (multi-component) Molecular Weight N/A — formulated solution Molecular Formula N/A — formulated solution Sequence N/A — not a peptide 
 
@@ -89,7 +90,6 @@ Approximately, yes. 0.6% v/v acetic acid (MW 60.05 g/mol, density 1.005 g/mL) is
 
 Hyaluronic Acid For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Acetic Acid 0.6% is supplied for laboratory research use only.
 
-# Buy Acetic Acid 0.6% — Research Grade | Peptides of China
 
 Buy Acetic Acid 0.6% | Research Grade | Peptides of China Acetic Acid 0.6% Buy Acetic Acid 0.6% — Research Grade Peptide Acetic Acid 0.6% is a reconstitution research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 
