@@ -8,8 +8,29 @@ description: "C-terminal tripeptide of α-melanocyte-stimulating hormone (α-MSH
 
 
 
+
 ---
-KPV is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the α-MSH C-terminal tripeptide (MC1R agonist) Synonyms α-MSH(11-13), Lys-Pro-Val, L-Lysyl-L-Prolyl-L-Valine Sequence Lys-Pro-Val Molecular Formula C₁₆H₃₀N₄O₄ Molecular Weight 342.4 Da CAS Number 13454-14-3 Research Areas Intestinal inflammation, IBD models, gut permeability, NF-κB inhibition, anti-microbial properties, oral delivery research Form Lyophilized powder Storage −20°C, protect from light and moisture Available Variants Name Strength Pack Size Purity Availability Price (USD) KPV 10 mg 10 vials — Out of Stock $120.00 KPV 10 mg 10 vials ≥98% In Stock $83.00 Specification Highlights Category: Healing & Repair Total variants: 2 In-stock variants: 1 of 2 Purity: ≥98% Standard pack size: 10 vials Quality & Testing Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. Research Areas Gastrointestinal Inflammation The most studied application of KPV is in gut inflammation models. In vivo colitis models in rodents have examined KPV's anti-inflammatory effects in colonic tissue, with proposed mechanisms involving MC1R agonism, inhibition of NF-κB signaling, and reduction of pro-inflammatory cytokines including TNF-α, IL-6, and IL-1β. Intestinal Permeability KPV has been examined in models of intestinal barrier dysfunction. Research suggests potential restoration of tight junction protein expression under inflammatory conditions, providing a research model for studying gut permeability via a non-hormonal anti-inflammatory pathway distinct from corticosteroid mechanisms. Oral Delivery Research Unlike most peptides which are degraded in the GI tract, KPV's tripeptide structure shows relative resistance to enzymatic cleavage, making it a model compound for studying oral peptide delivery strategies targeting intestinal inflammation without systemic absorption requirements. ## Sourcing KPV From China
+KPV is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the α-MSH C-terminal tripeptide (MC1R agonist) Synonyms α-MSH(11-13), Lys-Pro-Val, L-Lysyl-L-Prolyl-L-Valine Sequence Lys-Pro-Val Molecular Formula C₁₆H₃₀N₄O₄ Molecular Weight 342.4 Da CAS Number 13454-14-3 
+
+## Research Areas
+
+Intestinal inflammation, IBD models, gut permeability, NF-κB inhibition, anti-microbial properties, oral delivery research Form Lyophilized powder Storage −20°C, protect from light and moisture 
+
+## Available Variants
+
+Name Strength Pack Size Purity Availability Price (USD) KPV 10 mg 10 vials — Out of Stock $120.00 KPV 10 mg 10 vials ≥98% In Stock $83.00 
+
+## Specification Highlights
+
+Category: Healing & Repair Total variants: 2 In-stock variants: 1 of 2 Purity: ≥98% Standard pack size: 10 vials 
+
+## Quality & Testing
+
+Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+
+## Research Areas
+
+Gastrointestinal Inflammation The most studied application of KPV is in gut inflammation models. In vivo colitis models in rodents have examined KPV's anti-inflammatory effects in colonic tissue, with proposed mechanisms involving MC1R agonism, inhibition of NF-κB signaling, and reduction of pro-inflammatory cytokines including TNF-α, IL-6, and IL-1β. Intestinal Permeability KPV has been examined in models of intestinal barrier dysfunction. Research suggests potential restoration of tight junction protein expression under inflammatory conditions, providing a research model for studying gut permeability via a non-hormonal anti-inflammatory pathway distinct from corticosteroid mechanisms. Oral Delivery Research Unlike most peptides which are degraded in the GI tract, KPV's tripeptide structure shows relative resistance to enzymatic cleavage, making it a model compound for studying oral peptide delivery strategies targeting intestinal inflammation without systemic absorption requirements. ## Sourcing KPV From China
 
 KPV is available through our platform as a **china peptide** sourced directly from an
 established Chinese manufacturer. Three points define how we handle it:
@@ -28,9 +49,120 @@ name the manufacturer and show the batch documentation. We work the other way ar
 manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
 [see how sourcing works](/how-it-works/).
 
-Frequently Asked Questions What sizes are available for KPV? KPV is supplied as lyophilized powder. Contact us for current availability and vial sizes. How does KPV differ from BPC-157 for gut research? KPV targets anti-inflammatory signaling via MC1R and NF-κB inhibition and is studied specifically for intestinal inflammation (IBD, colitis). BPC-157 is studied for gastroprotection, ulcer models, and gut integrity through different cytoprotective mechanisms. They address different aspects of GI research. What purity level does your KPV have? 99%+ purity verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. What are the storage requirements for KPV? Lyophilized KPV should be stored at −20°C, protected from light and moisture. Related Products KPV (Oral) GHK-Cu 50mg + KPV 10mg BPC-157 10mg + TB-500 10mg + KPV 10mg Related Research Articles KPV Peptide Research: What Cell and Animal Studies Show KPV Peptide: A Technical Researcher’s Guide to Sourcing and Synthesis Standards For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. class, and every listing carries the manufacturer's own specification rather than a reseller's claim. Buyers sourcing **chinese peptides** in this category typically evaluate KPV across Intestinal inflammation, IBD models, gut permeability, NF-κB inhibition, anti-microbial properties, oral delivery research Form Lyophilized powder Storage −20°C, protect from light and moisture Available Variants Name Strength Pack Size Purity Availability Price (USD) KPV 10 mg 10 vials — Out of Stock $120.00 KPV 10 mg 10 vials ≥98% In Stock $83.00 Specification Highlights Category: Healing & Repair Total variants: 2 In-stock variants: 1 of 2 Purity: ≥98% Standard pack size: 10 vials Quality & Testing Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. Research Areas Gastrointestinal Inflammation The most studied application of KPV is in gut inflammation models. In vivo colitis models in rodents have examined KPV's anti-inflammatory effects in colonic tissue, with proposed mechanisms involving MC1R agonism, inhibition of NF-κB signaling, and reduction of pro-inflammatory cytokines including TNF-α, IL-6, and IL-1β. Intestinal Permeability KPV has been examined in models of intestinal barrier dysfunction. Research suggests potential restoration of tight junction protein expression under inflammatory conditions, providing a research model for studying gut permeability via a non-hormonal anti-inflammatory pathway distinct from corticosteroid mechanisms. Oral Delivery Research Unlike most peptides which are degraded in the GI tract, KPV's tripeptide structure shows relative resistance to enzymatic cleavage, making it a model compound for studying oral peptide delivery strategies targeting intestinal inflammation without systemic absorption requirements. Frequently Asked Questions What sizes are available for KPV? KPV is supplied as lyophilized powder. Contact us for current availability and vial sizes. How does KPV differ from BPC-157 for gut research? KPV targets anti-inflammatory signaling via MC1R and NF-κB inhibition and is studied specifically for intestinal inflammation (IBD, colitis). BPC-157 is studied for gastroprotection, ulcer models, and gut integrity through different cytoprotective mechanisms. They address different aspects of GI research. What purity level does your KPV have? 99%+ purity verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. What are the storage requirements for KPV? Lyophilized KPV should be stored at −20°C, protected from light and moisture. Related Products KPV (Oral) GHK-Cu 50mg + KPV 10mg BPC-157 10mg + TB-500 10mg + KPV 10mg Related Research Articles KPV Peptide Research: What Cell and Animal Studies Show KPV Peptide: A Technical Researcher’s Guide to Sourcing and Synthesis Standards For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, KPV is supplied for laboratory research use only.
+## Frequently Asked Questions
 
+**What sizes are available for KPV?**
+
+KPV is supplied as lyophilized powder. Contact us for current availability and vial sizes. 
+
+**How does KPV differ from BPC-157 for gut research?**
+
+KPV targets anti-inflammatory signaling via MC1R and NF-κB inhibition and is studied specifically for intestinal inflammation (IBD, colitis). BPC-157 is studied for gastroprotection, ulcer models, and gut integrity through different cytoprotective mechanisms. They address different aspects of GI research. 
+
+**What purity level does your KPV have?**
+
+99%+ purity verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
+
+**What are the storage requirements for KPV?**
+
+Lyophilized KPV should be stored at −20°C, protected from light and moisture. 
+
+## Related Products
+
+KPV (Oral) GHK-Cu 50mg + KPV 10mg BPC-157 10mg + TB-500 10mg + KPV 10mg Related Research Articles KPV Peptide Research: 
+
+**What Cell and Animal Studies Show KPV Peptide: A Technical Researcher’s Guide to Sourcing and Synthesis Standards For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. class, and every listing carries the manufacturer's own specification rather than a reseller's claim. Buyers sourcing **chinese peptides** in this category typically evaluate KPV across Intestinal inflammation, IBD models, gut permeability, NF-κB inhibition, anti-microbial properties, oral delivery research Form Lyophilized powder Storage −20°C, protect from light and moisture 
+
+## Available Variants
+
+Name Strength Pack Size Purity Availability Price (USD) KPV 10 mg 10 vials — Out of Stock $120.00 KPV 10 mg 10 vials ≥98% In Stock $83.00 
+
+## Specification Highlights
+
+Category: Healing & Repair Total variants: 2 In-stock variants: 1 of 2 Purity: ≥98% Standard pack size: 10 vials 
+
+## Quality & Testing
+
+Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+
+## Research Areas
+
+Gastrointestinal Inflammation The most studied application of KPV is in gut inflammation models. In vivo colitis models in rodents have examined KPV's anti-inflammatory effects in colonic tissue, with proposed mechanisms involving MC1R agonism, inhibition of NF-κB signaling, and reduction of pro-inflammatory cytokines including TNF-α, IL-6, and IL-1β. Intestinal Permeability KPV has been examined in models of intestinal barrier dysfunction. Research suggests potential restoration of tight junction protein expression under inflammatory conditions, providing a research model for studying gut permeability via a non-hormonal anti-inflammatory pathway distinct from corticosteroid mechanisms. Oral Delivery Research Unlike most peptides which are degraded in the GI tract, KPV's tripeptide structure shows relative resistance to enzymatic cleavage, making it a model compound for studying oral peptide delivery strategies targeting intestinal inflammation without systemic absorption requirements. 
+
+## Frequently Asked Questions
+
+What sizes are available for KPV?**
+
+KPV is supplied as lyophilized powder. Contact us for current availability and vial sizes. 
+
+**How does KPV differ from BPC-157 for gut research?**
+
+KPV targets anti-inflammatory signaling via MC1R and NF-κB inhibition and is studied specifically for intestinal inflammation (IBD, colitis). BPC-157 is studied for gastroprotection, ulcer models, and gut integrity through different cytoprotective mechanisms. They address different aspects of GI research. 
+
+**What purity level does your KPV have?**
+
+99%+ purity verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
+
+**What are the storage requirements for KPV?**
+
+Lyophilized KPV should be stored at −20°C, protected from light and moisture. 
+
+## Related Products
+
+KPV (Oral) GHK-Cu 50mg + KPV 10mg BPC-157 10mg + TB-500 10mg + KPV 10mg Related Research Articles KPV Peptide Research: 
+
+**What Cell and Animal Studies Show KPV Peptide: A Technical Researcher’s Guide to Sourcing and Synthesis Standards For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, KPV is supplied for laboratory research use only.
 
 # Buy KPV — Research Grade | Peptides of China
 
-Buy KPV | Research Grade | Peptides of China KPV Buy KPV — Research Grade Peptide KPV is a healing & repair research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. Compound Profile KPV (Lys-Pro-Val) is a tripeptide representing the C-terminal fragment (positions 11-13) of α-Melanocyte-Stimulating Hormone (α-MSH), a naturally occurring anti-inflammatory neuropeptide produced in the hypothalamus and peripheral tissues. Research interest in KPV centers on its apparent ability to replicate the anti-inflammatory signaling of α-MSH through MC1R receptor interaction and intracellular NF-κB pathway inhibition — without the systemic pigmentation effects associated with full-length α-MSH. Preclinical research has focused on KPV primarily in gastrointestinal inflammation models, including Inflammatory Bowel Disease (IBD) and colitis models, with documented reduction of pro-inflammatory cytokines (TNF-α, IL-6, IL-1β) in animal studies. Its tripeptide structure and resistance to enzymatic degradation in the gut lumen have also made it a subject of oral peptide delivery research targeting intestinal inflammation through a non-hormonal anti-inflammatory pathway. Peptides of China supplies KPV as a lyophilized powder verified to 99%+ purity by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. All products are intended for laboratory research use only and are not for human consumption. Profile Chemical Class α-MSH C-terminal tripeptide (MC1R agonist) Synonyms α-MSH(11-13), Lys-Pro-Val, L-Lysyl-L-Prolyl-L-Valine Sequence Lys-Pro-Val Molecular Formula C₁₆H₃₀N₄O₄ Molecular Weight 342.4 Da CAS Number 13454-14-3 Research Areas Intestinal inflammation, IBD models, gut permeability, NF-κB inhibition, anti-microbial properties, oral delivery research Form Lyophilized powder Storage −20°C, protect from light and moisture Available Variants Name Strength Pack Size Purity Availability Price (USD) KPV 10 mg 10 vials — Out of Stock $120.00 KPV 10 mg 10 vials ≥98% In Stock $83.00 Specification Highlights Category: Healing & Repair Total variants: 2 In-stock variants: 1 of 2 Purity: ≥98% Standard pack size: 10 vials Quality & Testing Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. Research Areas Gastrointestinal Inflammation The most studied application of KPV is in gut inflammation models. In vivo colitis models in rodents have examined KPV's anti-inflammatory effects in colonic tissue, with proposed mechanisms involving MC1R agonism, inhibition of NF-κB signaling, and reduction of pro-inflammatory cytokines including TNF-α, IL-6, and IL-1β. Intestinal Permeability KPV has been examined in models of intestinal barrier dysfunction. Research suggests potential restoration of tight junction protein expression under inflammatory conditions, providing a research model for studying gut permeability via a non-hormonal anti-inflammatory pathway distinct from corticosteroid mechanisms. Oral Delivery Research Unlike most peptides which are degraded in the GI tract, KPV's tripeptide structure shows relative resistance to enzymatic cleavage, making it a model compound for studying oral peptide delivery strategies targeting intestinal inflammation without systemic absorption requirements. Frequently Asked Questions What sizes are available for KPV? KPV is supplied as lyophilized powder. Contact us for current availability and vial sizes. How does KPV differ from BPC-157 for gut research? KPV targets anti-inflammatory signaling via MC1R and NF-κB inhibition and is studied specifically for intestinal inflammation (IBD, colitis). BPC-157 is studied for gastroprotection, ulcer models, and gut integrity through different cytoprotective mechanisms. They address different aspects of GI research. What purity level does your KPV have? 99%+ purity verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. What are the storage requirements for KPV? Lyophilized KPV should be stored at −20°C, protected from light and moisture. Related Products KPV (Oral) GHK-Cu 50mg + KPV 10mg BPC-157 10mg + TB-500 10mg + KPV 10mg Related Research Articles KPV Peptide Research: What Cell and Animal Studies Show KPV Peptide: A Technical Researcher’s Guide to Sourcing and Synthesis Standards For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+Buy KPV | Research Grade | Peptides of China KPV Buy KPV — Research Grade Peptide KPV is a healing & repair research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+
+## Compound Profile
+
+KPV (Lys-Pro-Val) is a tripeptide representing the C-terminal fragment (positions 11-13) of α-Melanocyte-Stimulating Hormone (α-MSH), a naturally occurring anti-inflammatory neuropeptide produced in the hypothalamus and peripheral tissues. Research interest in KPV centers on its apparent ability to replicate the anti-inflammatory signaling of α-MSH through MC1R receptor interaction and intracellular NF-κB pathway inhibition — without the systemic pigmentation effects associated with full-length α-MSH. Preclinical research has focused on KPV primarily in gastrointestinal inflammation models, including Inflammatory Bowel Disease (IBD) and colitis models, with documented reduction of pro-inflammatory cytokines (TNF-α, IL-6, IL-1β) in animal studies. Its tripeptide structure and resistance to enzymatic degradation in the gut lumen have also made it a subject of oral peptide delivery research targeting intestinal inflammation through a non-hormonal anti-inflammatory pathway. Peptides of China supplies KPV as a lyophilized powder verified to 99%+ purity by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. All products are intended for laboratory research use only and are not for human consumption. 
+
+## Profile
+
+Chemical Class α-MSH C-terminal tripeptide (MC1R agonist) Synonyms α-MSH(11-13), Lys-Pro-Val, L-Lysyl-L-Prolyl-L-Valine Sequence Lys-Pro-Val Molecular Formula C₁₆H₃₀N₄O₄ Molecular Weight 342.4 Da CAS Number 13454-14-3 
+
+## Research Areas
+
+Intestinal inflammation, IBD models, gut permeability, NF-κB inhibition, anti-microbial properties, oral delivery research Form Lyophilized powder Storage −20°C, protect from light and moisture 
+
+## Available Variants
+
+Name Strength Pack Size Purity Availability Price (USD) KPV 10 mg 10 vials — Out of Stock $120.00 KPV 10 mg 10 vials ≥98% In Stock $83.00 
+
+## Specification Highlights
+
+Category: Healing & Repair Total variants: 2 In-stock variants: 1 of 2 Purity: ≥98% Standard pack size: 10 vials 
+
+## Quality & Testing
+
+Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+
+## Research Areas
+
+Gastrointestinal Inflammation The most studied application of KPV is in gut inflammation models. In vivo colitis models in rodents have examined KPV's anti-inflammatory effects in colonic tissue, with proposed mechanisms involving MC1R agonism, inhibition of NF-κB signaling, and reduction of pro-inflammatory cytokines including TNF-α, IL-6, and IL-1β. Intestinal Permeability KPV has been examined in models of intestinal barrier dysfunction. Research suggests potential restoration of tight junction protein expression under inflammatory conditions, providing a research model for studying gut permeability via a non-hormonal anti-inflammatory pathway distinct from corticosteroid mechanisms. Oral Delivery Research Unlike most peptides which are degraded in the GI tract, KPV's tripeptide structure shows relative resistance to enzymatic cleavage, making it a model compound for studying oral peptide delivery strategies targeting intestinal inflammation without systemic absorption requirements. 
+
+## Frequently Asked Questions
+
+What sizes are available for KPV?**
+
+KPV is supplied as lyophilized powder. Contact us for current availability and vial sizes. 
+
+**How does KPV differ from BPC-157 for gut research?**
+
+KPV targets anti-inflammatory signaling via MC1R and NF-κB inhibition and is studied specifically for intestinal inflammation (IBD, colitis). BPC-157 is studied for gastroprotection, ulcer models, and gut integrity through different cytoprotective mechanisms. They address different aspects of GI research. 
+
+**What purity level does your KPV have?**
+
+99%+ purity verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
+
+**What are the storage requirements for KPV?**
+
+Lyophilized KPV should be stored at −20°C, protected from light and moisture. 
+
+## Related Products
+
+KPV (Oral) GHK-Cu 50mg + KPV 10mg BPC-157 10mg + TB-500 10mg + KPV 10mg Related Research Articles KPV Peptide Research: What Cell and Animal Studies Show KPV Peptide: A Technical Researcher’s Guide to Sourcing and Synthesis Standards For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
