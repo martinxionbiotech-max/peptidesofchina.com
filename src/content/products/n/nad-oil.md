@@ -6,6 +6,7 @@ price: 23.0
 status: "In Stock"
 description: "Nicotinamide adenine dinucleotide is a coenzyme involved in cellular oxidation-reduction reactions. Investigated in the context of energy metabolism, sirtuin and PARP activity, and mechanisms maintain"
 image: "/images/products/generic-vial.png"
+
 ---
 nad-oil is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Energy & Endurance, Anti-Aging & Longevity, Vitamins & Nutrients Total variants: 1 In-stock variants: 1 of 1 Standard pack size: 1 × 10 ml vial 
 
@@ -18,7 +19,9 @@ Buy NAD+ Oil | Research Grade | Peptides of China NAD+ Oil Buy NAD+ Oil — Rese
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) NAD+ Oil 100 mg/ml 1 × 10 ml vial — In Stock $23.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| NAD+ Oil | 100 mg/ml | 1 × 10 ml vial | — | In Stock |
 
 ## Specification Highlights
 

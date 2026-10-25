@@ -6,6 +6,7 @@ price: 480.0
 status: "In Stock"
 description: "D-amino acid retro-inverso FOXO4 peptide. Investigated as a senolytic agent in aging biology research, with preclinical studies examining its effects on p53-mediated apoptosis in senescent cells."
 image: "/images/products/generic-vial.png"
+
 ---
 FOXO4-DRI is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the D-retro-inverso peptidomimetic (DRI peptide) Synonyms FOXO4-DRI, FOXO4-p53 interfering peptide Amino Acids 18 (D-amino acid, retro-inverso sequence) Molecular Weight ~2448 Da 
 
@@ -15,7 +16,9 @@ Senolytic biology, senescent cell elimination, p53 signaling, FOXO4-p53 interact
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) FOXO4-DRI 10 mg 10 vials ≥98% In Stock $480.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| FOXO4-DRI | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -64,7 +67,9 @@ Lyophilized FOXO4-DRI should be stored at −20°C, protected from moisture and 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) FOXO4-DRI 10 mg 10 vials ≥98% In Stock $480.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| FOXO4-DRI | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -111,7 +116,9 @@ Senolytic biology, senescent cell elimination, p53 signaling, FOXO4-p53 interact
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) FOXO4-DRI 10 mg 10 vials ≥98% In Stock $480.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| FOXO4-DRI | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

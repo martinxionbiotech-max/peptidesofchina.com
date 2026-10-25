@@ -6,6 +6,7 @@ price: 48.0
 status: "In Stock"
 description: "Epithalon (Epitalon) research peptide sourced directly from China. Purity and concentration verified per batch. Popular in longevity research."
 image: "/images/products/epithalon-bottle.webp"
+
 ---
 Epithalon (Epitalon) has anchored longevity and telomere research in the china peptide space for over a decade. The compound is short, cheap to synthesize, and therefore heavily commoditized — which makes sourcing quality the entire ballgame for chinese peptides buyers. Our Epithalon is supplied as finished lyophilized product from an established Chinese manufacturer with documented purity per batch.
 
@@ -22,7 +23,12 @@ Chemical Class Tetrapeptide / Peptide Bioregulator CAS Number 307297-39-8 Molecu
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Epithalon 10 mg 10 vials ≥98% In Stock $48.00 Epithalon 10 mg 10 vials — In Stock $90.00 Epithalon 40 mg 10 vials — In Stock $240.00 Epithalon 50 mg 10 vials ≥98% In Stock $195.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Epithalon | 10 mg | 10 vials | ≥98% | In Stock |
+| Epithalon | 10 mg | 10 vials | — | In Stock |
+| Epithalon | 40 mg | 10 vials | — | In Stock |
+| Epithalon | 50 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

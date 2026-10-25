@@ -6,6 +6,7 @@ price: 30.0
 status: "In Stock"
 description: "Cyanocobalamin — essential cofactor for methionine synthase and methylmalonyl-CoA mutase. Used as a reference compound in B12 research and as a control in metabolic and neurological study designs."
 image: "/images/products/generic-vial.png"
+
 ---
 Vitamin B12 (Cyanocobalamin) is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Cobalamin (vitamin B12 vitamer, synthetic stable form) Synonyms Cyanocobalamin, Vitamin B12, Cobalamin (cyano form) Molecular Formula C₆₃H₈₈CoN₁₄O₁₄P Molecular Weight 1355.4 Da CAS Number 68-19-9 PubChem CID 5479203 Active Coenzyme Forms Methylcobalamin (methionine synthase), Adenosylcobalamin (methylmalonyl-CoA mutase) 
 
@@ -15,7 +16,9 @@ One-carbon metabolism, homocysteine biology, methylation research, neurological 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Vitamin B12 (Cyanocobalamin) 10 mg 10 vials ≥98% In Stock $30.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Vitamin B12 (Cyanocobalamin) | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -66,7 +69,9 @@ Methylcobalamin (Vitamin B12) For laboratory research use only. Not for human or
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Vitamin B12 (Cyanocobalamin) 10 mg 10 vials ≥98% In Stock $30.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Vitamin B12 (Cyanocobalamin) | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -115,7 +120,9 @@ One-carbon metabolism, homocysteine biology, methylation research, neurological 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Vitamin B12 (Cyanocobalamin) 10 mg 10 vials ≥98% In Stock $30.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Vitamin B12 (Cyanocobalamin) | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

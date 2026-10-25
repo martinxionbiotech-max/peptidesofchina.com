@@ -6,6 +6,7 @@ price: 210.0
 status: "In Stock"
 description: "Purified botulinum neurotoxin type A complex. Investigated in neuroscience and pharmacology research for its mechanism of SNARE protein complex cleavage, acetylcholine vesicle release inhibition, and "
 image: "/images/products/generic-vial.png"
+
 ---
 botulinum-toxin-a is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Skin, Hair & Nails Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
 
@@ -18,7 +19,9 @@ Buy Botulinum Toxin A | Research Grade | Peptides of China Botulinum Toxin A Buy
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Botulinum Toxin A 100 IU 10 vials ≥98% In Stock $210.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Botulinum Toxin A | 100 IU | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

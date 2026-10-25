@@ -6,6 +6,7 @@ price: 131.0
 status: "In Stock"
 description: "Multicomponent composition based on L-carnitine, ATP, and the methionine, inositol, and choline complex, MIC. The research context of its principal components concerns cellular energetics, fatty acid "
 image: "/images/products/generic-vial.png"
+
 ---
 lipo-c-focus is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management, Energy & Endurance, Blends Total variants: 1 In-stock variants: 1 of 1 Standard pack size: 10 × 10 mL ampoules 
 
@@ -18,7 +19,9 @@ Buy Lipo-C Focus | Research Grade | Peptides of China Lipo-C Focus Buy Lipo-C Fo
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Lipo-C Focus 10 mL · 425 mg/mL 10 × 10 mL ampoules — In Stock $131.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Lipo-C Focus | 10 mL · 425 mg/mL | 10 × 10 mL ampoules | — | In Stock |
 
 ## Specification Highlights
 

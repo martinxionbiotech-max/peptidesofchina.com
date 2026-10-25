@@ -6,6 +6,7 @@ price: 60.0
 status: "In Stock"
 description: "Synthetic nonapeptide identical to endogenous oxytocin. Extensively used in neuroendocrinology research examining social behavior neuroscience, stress axis modulation, and smooth muscle receptor pharm"
 image: "/images/products/oxytocin-bottle.webp"
+
 ---
 Oxytocin Acetate is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Cyclic nonapeptide neurohormone (acetate salt) Synonyms Oxytocin acetate, OT, Ocytocin Sequence Cys-Tyr-Ile-Gln-Asn-Cys-Pro-Leu-Gly-NH₂ (Cys¹-Cys⁶ disulfide) Amino Acids 9 Molecular Weight 1007.2 Da CAS Number 50-56-6 Receptor Target OXTR (oxytocin receptor); weak V1a/V2 cross-reactivity 
 
@@ -15,7 +16,10 @@ Social behavior neuroscience, anxiety/fear research, maternal behavior, metaboli
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Oxytocin Acetate 5 mg 10 vials ≥98% In Stock $60.00 Oxytocin Acetate 10 mg 10 vials ≥98% In Stock $128.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Oxytocin Acetate | 5 mg | 10 vials | ≥98% | In Stock |
+| Oxytocin Acetate | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -68,7 +72,10 @@ Gonadorelin Acetate Sermorelin Acetate For laboratory research use only. Not for
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Oxytocin Acetate 5 mg 10 vials ≥98% In Stock $60.00 Oxytocin Acetate 10 mg 10 vials ≥98% In Stock $128.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Oxytocin Acetate | 5 mg | 10 vials | ≥98% | In Stock |
+| Oxytocin Acetate | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -119,7 +126,10 @@ Social behavior neuroscience, anxiety/fear research, maternal behavior, metaboli
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Oxytocin Acetate 5 mg 10 vials ≥98% In Stock $60.00 Oxytocin Acetate 10 mg 10 vials ≥98% In Stock $128.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Oxytocin Acetate | 5 mg | 10 vials | ≥98% | In Stock |
+| Oxytocin Acetate | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

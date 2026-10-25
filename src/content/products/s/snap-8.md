@@ -6,6 +6,7 @@ price: 59.0
 status: "In Stock"
 description: "Acetyl octapeptide-3 — synthetic analog of the N-terminal fragment of SNAP-25. Studied in cosmetic research for SNARE protein modulation and neuromuscular junction signaling at the dermal level."
 image: "/images/products/snap-8-bottle.webp"
+
 ---
 SNAP-8 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Synthetic octapeptide / SNARE complex competitive analogue Synonyms Acetyl Octapeptide-3, Leuphasyl, SNAP-8 peptide Sequence Ac-Glu-Glu-Met-Gln-Arg-Arg-Ala-Asp-NH₂ Amino Acids 8 Molecular Weight ~1075 Da 
 
@@ -15,7 +16,9 @@ SNARE complex pharmacology, catecholamine exocytosis, neuro-muscular junction re
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) SNAP-8 10 mg 10 vials ≥98% In Stock $59.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| SNAP-8 | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -66,7 +69,9 @@ Lyophilized SNAP-8 should be stored at −20°C, protected from moisture and lig
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) SNAP-8 10 mg 10 vials ≥98% In Stock $59.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| SNAP-8 | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -115,7 +120,9 @@ SNARE complex pharmacology, catecholamine exocytosis, neuro-muscular junction re
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) SNAP-8 10 mg 10 vials ≥98% In Stock $59.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| SNAP-8 | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

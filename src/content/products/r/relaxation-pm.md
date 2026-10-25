@@ -6,6 +6,7 @@ price: 74.0
 status: "In Stock"
 description: "Compounded sleep-support injectable containing GABA 100mg, Melatonin 1mg, L-Arginine 100mg, and L-Glutamine 25mg per ml. Investigated in neurophysiology and sleep research for GABAergic pathway modula"
 image: "/images/products/generic-vial.png"
+
 ---
 relaxation-pm is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Neurotransmitter and neuromodulator injectable combination 
 
@@ -15,7 +16,9 @@ GABAergic neuropharmacology, circadian biology, neuronal NO signaling, sleep/wak
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Relaxation PM 10 ml 10 vials >=98% In Stock $74.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Relaxation PM | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 
@@ -62,7 +65,9 @@ Relaxation PM should be stored at 2-8°C, protected from light. Do not freeze. U
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Relaxation PM 10 ml 10 vials >=98% In Stock $74.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Relaxation PM | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 
@@ -107,7 +112,9 @@ GABAergic neuropharmacology, circadian biology, neuronal NO signaling, sleep/wak
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Relaxation PM 10 ml 10 vials >=98% In Stock $74.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Relaxation PM | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 

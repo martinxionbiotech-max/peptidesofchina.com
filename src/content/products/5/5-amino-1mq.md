@@ -6,6 +6,7 @@ price: 68.0
 status: "In Stock"
 description: "5-Amino-1MQ NNMT inhibitor small molecule for metabolic research. Sourced from verified Chinese manufacturer. Purity tested per batch."
 image: "/images/products/5-amino-1mq-bottle.webp"
+
 ---
 5-Amino-1MQ is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Methylquinolinium NNMT inhibitor (small molecule) Synonyms 5-Amino-1-methylquinolinium, 5A1MQ Primary Target NNMT (Nicotinamide N-methyltransferase) 
 
@@ -15,7 +16,12 @@ NNMT biology, adipose tissue epigenetics, SAM-dependent methylation, obesity mod
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) 5-Amino-1MQ 5 mg 10 vials ≥98% In Stock $68.00 5-Amino-1MQ 10 mg 10 vials ≥98% In Stock $90.00 5-Amino-1MQ 50 mg 10 vials ≥98% In Stock $132.00 5-Amino-1MQ 50 mg 10 vials — In Stock $165.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| 5-Amino-1MQ | 5 mg | 10 vials | ≥98% | In Stock |
+| 5-Amino-1MQ | 10 mg | 10 vials | ≥98% | In Stock |
+| 5-Amino-1MQ | 50 mg | 10 vials | ≥98% | In Stock |
+| 5-Amino-1MQ | 50 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -66,7 +72,12 @@ Store 5-Amino-1MQ at −20°C, protected from light and moisture. The compound i
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) 5-Amino-1MQ 5 mg 10 vials ≥98% In Stock $68.00 5-Amino-1MQ 10 mg 10 vials ≥98% In Stock $90.00 5-Amino-1MQ 50 mg 10 vials ≥98% In Stock $132.00 5-Amino-1MQ 50 mg 10 vials — In Stock $165.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| 5-Amino-1MQ | 5 mg | 10 vials | ≥98% | In Stock |
+| 5-Amino-1MQ | 10 mg | 10 vials | ≥98% | In Stock |
+| 5-Amino-1MQ | 50 mg | 10 vials | ≥98% | In Stock |
+| 5-Amino-1MQ | 50 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -111,7 +122,12 @@ NNMT biology, adipose tissue epigenetics, SAM-dependent methylation, obesity mod
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) 5-Amino-1MQ 5 mg 10 vials ≥98% In Stock $68.00 5-Amino-1MQ 10 mg 10 vials ≥98% In Stock $90.00 5-Amino-1MQ 50 mg 10 vials ≥98% In Stock $132.00 5-Amino-1MQ 50 mg 10 vials — In Stock $165.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| 5-Amino-1MQ | 5 mg | 10 vials | ≥98% | In Stock |
+| 5-Amino-1MQ | 10 mg | 10 vials | ≥98% | In Stock |
+| 5-Amino-1MQ | 50 mg | 10 vials | ≥98% | In Stock |
+| 5-Amino-1MQ | 50 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

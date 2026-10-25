@@ -6,6 +6,7 @@ price: 113.0
 status: "In Stock"
 description: "Short peptide bioregulator of cartilage origin. Studied in preclinical connective tissue research for potential effects on chondrocyte function and extracellular matrix homeostasis."
 image: "/images/products/generic-vial.png"
+
 ---
 Cartalax is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Synthetic tetrapeptide bioregulator (cartilage origin) Synonyms Ala-Glu-Asp-Pro, AEDP tetrapeptide, cartilage bioregulator peptide Sequence Ala-Glu-Asp-Pro Amino Acids 4 
 
@@ -15,7 +16,9 @@ Cartilage biology, chondrocyte research, ECM regulation, joint aging models, pro
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Cartalax 20 mg 10 vials ≥98% In Stock $113.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Cartalax | 20 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -70,7 +73,9 @@ BPC-157 + TB-500 + Cartalax (Deadpool Blend) Related Research Articles Cartalax 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Cartalax 20 mg 10 vials ≥98% In Stock $113.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Cartalax | 20 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -123,7 +128,9 @@ Cartilage biology, chondrocyte research, ECM regulation, joint aging models, pro
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Cartalax 20 mg 10 vials ≥98% In Stock $113.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Cartalax | 20 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

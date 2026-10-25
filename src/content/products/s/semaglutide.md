@@ -6,6 +6,7 @@ price: 48.0
 status: "In Stock"
 description: "Semaglutide bulk peptide sourced directly from verified Chinese manufacturer. 10mg & 20mg vials, purity tested per batch, HPLC tested. Wholesale B2B pricing."
 image: "/images/products/semaglutide-bottle.webp"
+
 ---
 Semaglutide is the highest-demand china peptide in the current research market. Demand for chinese peptides in the GLP-1 category has driven prices down and counterfeit risk up, making manufacturer verification the single most important sourcing decision a reseller or private brand can make. We supply finished, lyophilized semaglutide through factory coordination — not through the gray-market intermediaries that dominate the open listings.
 
@@ -22,7 +23,18 @@ Chemical Class GLP-1 Receptor Agonist CAS Number 910463-68-2 Molecular Formula C
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Semaglutide 2 mg 10 vials — In Stock $60.00 Semaglutide 5 mg 10 vials — In Stock $83.00 Semaglutide 5 mg 10 vials ≥98% In Stock $48.00 Semaglutide 10 mg 10 vials — In Stock $120.00 Semaglutide 10 mg 10 vials ≥98% In Stock $75.00 Semaglutide 15 mg 10 vials — In Stock $143.00 Semaglutide 15 mg 10 vials ≥98% In Stock $90.00 Semaglutide 20 mg 10 vials — In Stock $165.00 Semaglutide 20 mg 10 vials ≥98% In Stock $105.00 Semaglutide 30 mg 10 vials ≥98% In Stock $132.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Semaglutide | 2 mg | 10 vials | — | In Stock |
+| Semaglutide | 5 mg | 10 vials | — | In Stock |
+| Semaglutide | 5 mg | 10 vials | ≥98% | In Stock |
+| Semaglutide | 10 mg | 10 vials | — | In Stock |
+| Semaglutide | 10 mg | 10 vials | ≥98% | In Stock |
+| Semaglutide | 15 mg | 10 vials | — | In Stock |
+| Semaglutide | 15 mg | 10 vials | ≥98% | In Stock |
+| Semaglutide | 20 mg | 10 vials | — | In Stock |
+| Semaglutide | 20 mg | 10 vials | ≥98% | In Stock |
+| Semaglutide | 30 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

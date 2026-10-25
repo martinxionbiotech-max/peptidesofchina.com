@@ -6,6 +6,7 @@ price: 74.0
 status: "In Stock"
 description: "Compounded lipotropic injectable containing L-Carnitine 20mg, L-Arginine 20mg, Methionine 25mg, Inositol 50mg, Choline 50mg, B6 (Pyridoxine) 25mg, B5 (Dexpanthenol) 25mg, and B12 (Methylcobalamin) 1mg"
 image: "/images/products/generic-vial.png"
+
 ---
 lipo-c-216 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Comprehensive lipotropic + B-vitamin injectable combination 
 
@@ -15,7 +16,9 @@ Hepatic lipid metabolism, one-carbon methylation, mitochondrial fatty acid trans
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Lipo-C 216 10 ml 10 vials >=98% In Stock $74.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Lipo-C 216 | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 
@@ -62,7 +65,9 @@ Lipo-C 120 Lipo-C (Lipotropic Complex) Lipo-B Lipo-C Focus Lipo Mino Mix For lab
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Lipo-C 216 10 ml 10 vials >=98% In Stock $74.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Lipo-C 216 | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 
@@ -107,7 +112,9 @@ Hepatic lipid metabolism, one-carbon methylation, mitochondrial fatty acid trans
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Lipo-C 216 10 ml 10 vials >=98% In Stock $74.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Lipo-C 216 | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 

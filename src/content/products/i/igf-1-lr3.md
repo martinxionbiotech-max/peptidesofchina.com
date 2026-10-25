@@ -6,12 +6,16 @@ price: 68.0
 status: "In Stock"
 description: "IGF-1 LR3 long-acting insulin-like growth factor research peptide. Sourced from verified Chinese manufacturer. Purity tested per batch."
 image: "/images/products/igf-1-lr3-bottle.webp"
+
 ---
 IGF-1 LR3 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Long-acting IGF-1 Analogue / Recombinant Peptide Full Name Long Arg3 Insulin-like Growth Factor-I CAS Number 946870-92-4 Molecular Weight ~9117.5 Da Sequence Length 83 amino acids (native IGF-1: 70 AA + 13 AA N-terminal extension) Key Modification Glu³→Arg³ substitution; 13 AA N-terminal extension Receptor Target IGF-1R (IGF-1 receptor); minimal IR cross-reactivity IGFBP Affinity ~1000× lower than native IGF-1 Half-life (research) ~20–30 h (vs. ~12 min for native IGF-1) Storage -20°C lyophilized; 4°C reconstituted (up to 28 days) Molecular Formula N/A — 83-aa protein analogue 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) IGF-1 LR3 0.1 mg 10 vials ≥98% Out of Stock $45.00 IGF-1 LR3 0.1 mg 10 vials — In Stock $68.00 IGF-1 LR3 1 mg 10 vials ≥98% Out of Stock $270.00 IGF-1 LR3 1 mg 10 vials — In Stock $345.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| 68.00 IGF-1 LR3 | 1 mg | 10 vials | ≥98% | Out of Stock |
+| IGF-1 LR3 | 1 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -79,7 +83,10 @@ Chemical Class Long-acting IGF-1 Analogue / Recombinant Peptide Full Name Long A
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) IGF-1 LR3 0.1 mg 10 vials ≥98% Out of Stock $45.00 IGF-1 LR3 0.1 mg 10 vials — In Stock $68.00 IGF-1 LR3 1 mg 10 vials ≥98% Out of Stock $270.00 IGF-1 LR3 1 mg 10 vials — In Stock $345.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| 68.00 IGF-1 LR3 | 1 mg | 10 vials | ≥98% | Out of Stock |
+| IGF-1 LR3 | 1 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

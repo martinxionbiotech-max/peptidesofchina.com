@@ -6,6 +6,7 @@ price: 90.0
 status: "In Stock"
 description: "Melanocortin receptor agonist and metabolite of Melanotan-2. Subject of clinical research examining central MC3R/MC4R-mediated autonomic nervous system signaling pathways."
 image: "/images/products/pt-141-bottle.webp"
+
 ---
 PT-141 (bremelanotide) is a melanocortin-receptor research compound that straddles two very different buyer markets — institutional research and private sourcing. For both, the china peptide sourcing calculus is the same: identity, purity, and lyophilization quality. We supply PT-141 as a finished vial from an established Chinese manufacturer, with the specification stated up front rather than discovered after delivery.
 
@@ -22,7 +23,10 @@ Chemical Class Cyclic Melanocortin Receptor Agonist INN Bremelanotide CAS Number
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) PT-141 (Bremelanotide) 10 mg 10 vials ≥98% In Stock $90.00 PT-141 (Bremelanotide) 10 mg 10 vials — In Stock $120.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| PT-141 (Bremelanotide) | 10 mg | 10 vials | ≥98% | In Stock |
+| PT-141 (Bremelanotide) | 10 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

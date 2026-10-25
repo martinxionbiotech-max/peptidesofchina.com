@@ -6,6 +6,7 @@ price: 113.0
 status: "In Stock"
 description: "CJC-1295 with DAC (Drug Affinity Complex) — long-acting growth hormone releasing hormone analog. Sourced from China. Purity tested per batch."
 image: "/images/products/generic-vial.png"
+
 ---
 CJC-1295 With DAC is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the GHRH analogue with Drug Affinity Complex (albumin-binding) Synonyms CJC-1295 DAC, DAC:GRF, GRF with DAC Amino Acids 30 (GHRH(1-29) backbone with DAC modification) Molecular Weight ~3459 Da CAS Number 863288-34-0 Receptor Target GHRHR (growth hormone-releasing hormone receptor) Half-Life (approximate) 6-10 days (albumin-bound) 
 
@@ -15,7 +16,10 @@ GH axis pharmacology, sustained GHRH receptor stimulation, IGF-1 regulation, pit
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) CJC-1295 With DAC 2 mg 10 vials ≥98% In Stock $113.00 CJC-1295 With DAC 5 mg 10 vials ≥98% Out of Stock $233.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| CJC-1295 With DAC | 2 mg | 10 vials | ≥98% | In Stock |
+| CJC-1295 With DAC | 5 mg | 10 vials | ≥98% | Out of Stock |
 
 ## Specification Highlights
 
@@ -70,7 +74,10 @@ CJC-1295 Without DAC CJC-1295 + Ipamorelin CJC-1295 + Ipamorelin For laboratory 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) CJC-1295 With DAC 2 mg 10 vials ≥98% In Stock $113.00 CJC-1295 With DAC 5 mg 10 vials ≥98% Out of Stock $233.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| CJC-1295 With DAC | 2 mg | 10 vials | ≥98% | In Stock |
+| CJC-1295 With DAC | 5 mg | 10 vials | ≥98% | Out of Stock |
 
 ## Specification Highlights
 
@@ -123,7 +130,10 @@ GH axis pharmacology, sustained GHRH receptor stimulation, IGF-1 regulation, pit
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) CJC-1295 With DAC 2 mg 10 vials ≥98% In Stock $113.00 CJC-1295 With DAC 5 mg 10 vials ≥98% Out of Stock $233.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| CJC-1295 With DAC | 2 mg | 10 vials | ≥98% | In Stock |
+| CJC-1295 With DAC | 5 mg | 10 vials | ≥98% | Out of Stock |
 
 ## Specification Highlights
 

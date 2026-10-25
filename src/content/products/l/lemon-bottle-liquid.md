@@ -6,6 +6,7 @@ price: 75.0
 status: "In Stock"
 description: "Lipolytic injectable formulation investigated in aesthetic medicine research for localized adipose tissue effects."
 image: "/images/products/generic-vial.png"
+
 ---
 Lemon Bottle (liquid) is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Multi-component mesotherapy formulation Primary Components Riboflavin (B2), Lecithin (phosphatidylcholine), Bromelain Secondary Components L-Carnitine, Artichoke Extract, Thyidine 
 
@@ -15,7 +16,9 @@ Subcutaneous adipose biology, mesotherapy research, lipolysis mechanisms, adipoc
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Lemon Bottle (liquid) 10 ml 10 vials ≥98% In Stock $75.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Lemon Bottle (liquid) | 10 ml | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -70,7 +73,9 @@ L-Carnitine (Liquid) For laboratory research use only. Not for human or veterina
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Lemon Bottle (liquid) 10 ml 10 vials ≥98% In Stock $75.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Lemon Bottle (liquid) | 10 ml | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -123,7 +128,9 @@ Subcutaneous adipose biology, mesotherapy research, lipolysis mechanisms, adipoc
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Lemon Bottle (liquid) 10 ml 10 vials ≥98% In Stock $75.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Lemon Bottle (liquid) | 10 ml | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

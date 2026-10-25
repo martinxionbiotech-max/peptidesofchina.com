@@ -6,6 +6,7 @@ price: 165.0
 status: "In Stock"
 description: "Retatrutide + MGF: a blend with a research focus on preserving muscle mass during weight loss, combining metabolic and muscle-tissue research."
 image: "/images/products/retatrutide-bottle.webp"
+
 ---
 retatrutide-mgf is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management, Blends Total variants: 1 In-stock variants: 1 of 1 Standard pack size: 10 vials 
 
@@ -18,7 +19,9 @@ Retatrutide + MGF | Peptides of China Retatrutide + MGF Retatrutide + MGF Retatr
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Retatrutide + MGF 10 + 2 mg 10 vials — In Stock $165.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Retatrutide + MGF | 10 + 2 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

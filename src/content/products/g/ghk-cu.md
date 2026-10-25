@@ -6,6 +6,7 @@ price: 38.0
 status: "In Stock"
 description: "GHK-Cu (Copper Tripeptide-1) for research. Sourced directly from China, HPLC verified, purity tested per batch. Longevity and skin research applications."
 image: "/images/products/ghk-cu-bottle.webp"
+
 ---
 GHK-Cu is the copper peptide most in demand across both research and cosmetic-formulation channels. For china peptide buyers, GHK-Cu presents a specific sourcing challenge: copper content, peptide content, and appearance are all commonly misreported by intermediaries. We supply GHK-Cu with manufacturer specifications that state what is actually in the vial, because a copper peptide with unverified copper content is not a research tool — it is a liability.
 
@@ -26,7 +27,12 @@ Wound healing, collagen synthesis, skin repair, hair follicle biology, antioxida
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) GHK-Cu 50 mg 10 vials ≥98% In Stock $38.00 GHK-Cu 50 mg 10 vials — In Stock $68.00 GHK-Cu 100 mg 10 vials ≥98% In Stock $68.00 GHK-Cu 100 mg 10 vials — In Stock $98.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| GHK-Cu | 50 mg | 10 vials | ≥98% | In Stock |
+| GHK-Cu | 50 mg | 10 vials | — | In Stock |
+| GHK-Cu | 100 mg | 10 vials | ≥98% | In Stock |
+| GHK-Cu | 100 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

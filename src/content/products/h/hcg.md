@@ -6,12 +6,18 @@ price: 105.0
 status: "In Stock"
 description: "Human chorionic gonadotropin — an LH-mimetic glycoprotein hormone. Subject of research into Leydig cell stimulation, testosterone biosynthesis, and HPG axis function."
 image: "/images/products/hcg-5000iu-bottle.webp"
+
 ---
 HCG is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Glycoprotein Gonadotropin / LH Receptor Agonist CAS Number 9002-61-3 Molecular Weight ~37,900 Da (with glycosylation; protein backbone ~23,500 Da) Alpha Subunit 92 amino acids (shared with LH, FSH, TSH) Beta Subunit 145 amino acids (HCG-specific; responsible for LHCGR binding) Receptor Target LHCGR (LH/CG receptor) — Gs/cAMP/PKA signalling Half-life (research) ~24–36 h (vs. ~1 h for native LH) Activity Measurement International Units (IU) per ampoule/vial (WHO reference) Storage -20°C lyophilized; 4°C reconstituted (up to 7 days) Molecular Formula N/A — glycoprotein (α/β heterodimer) Sequence N/A — glycoprotein (see α and β subunit sequences in literature) 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) HCG 5000 IU 10 vials ≥98% In Stock $105.00 HCG 5000 IU 10 vials — In Stock $143.00 HCG 10000 IU 10 vials ≥98% In Stock $210.00 HCG 10000 IU 10 vials — In Stock $240.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| HCG | 5000 IU | 10 vials | ≥98% | In Stock |
+| HCG | 5000 IU | 10 vials | — | In Stock |
+| HCG | 10000 IU | 10 vials | ≥98% | In Stock |
+| HCG | 10000 IU | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -85,7 +91,12 @@ Chemical Class Glycoprotein Gonadotropin / LH Receptor Agonist CAS Number 9002-6
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) HCG 5000 IU 10 vials ≥98% In Stock $105.00 HCG 5000 IU 10 vials — In Stock $143.00 HCG 10000 IU 10 vials ≥98% In Stock $210.00 HCG 10000 IU 10 vials — In Stock $240.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| HCG | 5000 IU | 10 vials | ≥98% | In Stock |
+| HCG | 5000 IU | 10 vials | — | In Stock |
+| HCG | 10000 IU | 10 vials | ≥98% | In Stock |
+| HCG | 10000 IU | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

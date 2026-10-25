@@ -6,6 +6,7 @@ price: 68.0
 status: "In Stock"
 description: "Compounded lipotropic injectable containing L-Carnitine 50mg, Methionine 15mg, Choline Chloride 50mg, and Dexpanthenol (B5) 5mg per ml. Investigated in research examining hepatic lipid export, one-car"
 image: "/images/products/generic-vial.png"
+
 ---
 lipo-c-120 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Lipotropic injectable combination 
 
@@ -15,7 +16,9 @@ Hepatic lipid metabolism, mitochondrial fatty acid transport, choline biology, o
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Lipo-C 120 10 ml 10 vials >=98% In Stock $68.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Lipo-C 120 | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 
@@ -62,7 +65,9 @@ Lipo-C 216 Lipo-C (Lipotropic Complex) Lipo-B Lipo-C Focus Lipo Mino Mix For lab
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Lipo-C 120 10 ml 10 vials >=98% In Stock $68.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Lipo-C 120 | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 
@@ -107,7 +112,9 @@ Hepatic lipid metabolism, mitochondrial fatty acid transport, choline biology, o
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Lipo-C 120 10 ml 10 vials >=98% In Stock $68.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Lipo-C 120 | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 

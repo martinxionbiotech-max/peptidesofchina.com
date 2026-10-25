@@ -22,7 +22,10 @@ Buy Methylcobalamin (Vitamin B12) | Research Grade | Peptides of China Methylcob
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Methylcobalamin (Vitamin B12) 1 mg/mL 10 × 10 mL vials — Out of Stock $53.00 Methylcobalamin (Vitamin B12) 10 mg/mL 10 × 10 mL vials — Out of Stock $105.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Methylcobalamin (Vitamin B12) | 1 mg/mL | 10 × 10 mL vials | — | Out of Stock |
+| Methylcobalamin (Vitamin B12) | 10 mg/mL | 10 × 10 mL vials | — | Out of Stock | 
 
 ## Specification Highlights
 

@@ -6,12 +6,17 @@ price: 263.0
 status: "In Stock"
 description: "Composition of TB-500, BPC-157, and the copper peptide GHK-Cu. The research context of its components covers cell migration, extracellular matrix regulation, and tissue remodelling processes."
 image: "/images/products/glow70-stack-bottle.webp"
+
 ---
 GLOW is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Skin & Hair, Tissue Repair, Angiogenesis, ECM Remodelling Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) CAS Number N/A — combination product Molecular Weight N/A — see individual components Molecular Formula N/A — combination product Sequence N/A — combination product 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) GLOW 50 mg 10 vials — In Stock $300.00 GLOW 70 mg 10 vials ≥98% In Stock $263.00 GLOW 70 mg 10 vials — In Stock $330.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| GLOW | 50 mg | 10 vials | — | In Stock |
+| GLOW | 70 mg | 10 vials | ≥98% | In Stock |
+| GLOW | 70 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -62,7 +67,11 @@ Yes. GLOW is available through Peptides of China on a B2B wholesale basis. Prici
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) GLOW 50 mg 10 vials — In Stock $300.00 GLOW 70 mg 10 vials ≥98% In Stock $263.00 GLOW 70 mg 10 vials — In Stock $330.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| GLOW | 50 mg | 10 vials | — | In Stock |
+| GLOW | 70 mg | 10 vials | ≥98% | In Stock |
+| GLOW | 70 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -107,7 +116,11 @@ Formulation Type Pre-mixed Lyophilized Research Blend Component 1 TB-500 (Thymos
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) GLOW 50 mg 10 vials — In Stock $300.00 GLOW 70 mg 10 vials ≥98% In Stock $263.00 GLOW 70 mg 10 vials — In Stock $330.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| GLOW | 50 mg | 10 vials | — | In Stock |
+| GLOW | 70 mg | 10 vials | ≥98% | In Stock |
+| GLOW | 70 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

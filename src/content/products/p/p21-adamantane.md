@@ -6,6 +6,7 @@ price: 443.0
 status: "In Stock"
 description: "Adamantyl-modified peptide derived from BDNF loop domain regions. Investigated in neuroscience and anti-aging research for effects on BDNF-related signaling pathways and neurogenesis markers. The adam"
 image: "/images/products/generic-vial.png"
+
 ---
 p21-adamantane is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Cognitive & Neuro Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
 
@@ -18,7 +19,9 @@ Buy P21 (Adamantane) | Research Grade | Peptides of China P21 (Adamantane) Buy P
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) P21 (Adamantane) 10 mg 10 vials ≥98% In Stock $443.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| P21 (Adamantane) | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

@@ -6,6 +6,7 @@ price: 218.0
 status: "In Stock"
 description: "Research material containing tesamorelin + ipamorelin."
 image: "/images/products/tesamorelin-bottle.webp"
+
 ---
 tesamorelin-11mg-ipamorelin-6mg is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Muscle & Performance, Hormonal Regulation, Blends Total variants: 3 In-stock variants: 3 of 3 Purity: ≥98% Standard pack size: 10 vials 
 
@@ -22,7 +23,11 @@ Buy Tesamorelin + Ipamorelin | Research Grade | Peptides of China Tesamorelin + 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Tesamorelin + Ipamorelin 8 + 2 mg 10 vials — In Stock $218.00 Tesamorelin + Ipamorelin 10 + 2 mg 10 vials — In Stock $240.00 Tesamorelin 11mg + Ipamorelin 6mg 17 mg 10 vials ≥98% In Stock $255.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Tesamorelin + Ipamorelin | 8 + 2 mg | 10 vials | — | In Stock |
+| Tesamorelin + Ipamorelin | 10 + 2 mg | 10 vials | — | In Stock |
+| Tesamorelin 11mg + Ipamorelin 6mg | 17 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

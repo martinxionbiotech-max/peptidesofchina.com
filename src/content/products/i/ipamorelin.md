@@ -6,6 +6,7 @@ price: 53.0
 status: "In Stock"
 description: "Ipamorelin GH secretagogue research peptide sourced from verified Chinese manufacturer. 5mg & 10mg available. HPLC-verified, purity tested per batch."
 image: "/images/products/ipamorelin-bottle.webp"
+
 ---
 Ipamorelin is the gentlest of the growth-hormone secretagogue family, and one of the most reliably stocked chinese peptides across manufacturer catalogs. Its stability in lyophilized form makes it a sensible first order for buyers new to china peptide sourcing, and its popularity makes it a common target for substitution with cheaper GHRPs. We confirm the specific compound and specification with the manufacturer before the order ships.
 
@@ -22,7 +23,12 @@ Chemical Class Growth Hormone Releasing Peptide (GHRP) CAS Number 170851-70-4 Mo
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Ipamorelin 5 mg 10 vials ≥98% In Stock $53.00 Ipamorelin 5 mg 10 vials — In Stock $75.00 Ipamorelin 10 mg 10 vials ≥98% In Stock $75.00 Ipamorelin 10 mg 10 vials — In Stock $120.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Ipamorelin | 5 mg | 10 vials | ≥98% | In Stock |
+| Ipamorelin | 5 mg | 10 vials | — | In Stock |
+| Ipamorelin | 10 mg | 10 vials | ≥98% | In Stock |
+| Ipamorelin | 10 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

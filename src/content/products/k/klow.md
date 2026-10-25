@@ -6,12 +6,16 @@ price: 293.0
 status: "In Stock"
 description: "Research blend of TB-500 (full 43aa sequence), BPC-157, KPV, and GHK-Cu. Studied in preclinical settings examining combined anti-inflammatory, mucosal, and tissue repair pathways."
 image: "/images/products/klow80-stack-bottle.webp"
+
 ---
 KLOW is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Skin & Hair, Tissue Repair, Inflammatory Wound Models, GI Mucosal Vs. GLOW KLOW = GLOW + KPV (additional anti-inflammatory component) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) CAS Number N/A — combination product Molecular Weight N/A — see individual components Molecular Formula N/A — combination product Sequence N/A — combination product 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) KLOW 80 mg 10 vials ≥98% In Stock $293.00 KLOW 80 mg 10 vials — In Stock $375.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| KLOW | 80 mg | 10 vials | ≥98% | In Stock |
+| KLOW | 80 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -58,7 +62,10 @@ Yes. KLOW is available through Peptides of China on a B2B wholesale basis. Conta
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) KLOW 80 mg 10 vials ≥98% In Stock $293.00 KLOW 80 mg 10 vials — In Stock $375.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| KLOW | 80 mg | 10 vials | ≥98% | In Stock |
+| KLOW | 80 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -99,7 +106,10 @@ Formulation Type Pre-mixed Lyophilized Research Blend (4 components) Component 1
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) KLOW 80 mg 10 vials ≥98% In Stock $293.00 KLOW 80 mg 10 vials — In Stock $375.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| KLOW | 80 mg | 10 vials | ≥98% | In Stock |
+| KLOW | 80 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

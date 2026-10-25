@@ -6,6 +6,7 @@ price: 75.0
 status: "In Stock"
 description: "HGH 191AA (Somatropin) research grade, multiple IU sizes available. Sourced from verified Chinese manufacturer. HPLC-verified, purity tested per batch."
 image: "/images/products/generic-vial.png"
+
 ---
 HGH 191AA (somatropin) is the reference growth hormone in china peptide catalogs and one of the most expensive per-vial listings, which is why documentation discipline matters most here. Counterfeit and under-filled somatropin vials circulate widely in the chinese peptides trade. Every vial we supply carries the manufacturer's specification and lot record — the standard the category should have had from the start.
 
@@ -22,7 +23,20 @@ Chemical Class Recombinant Human Growth Hormone (22 kDa isoform) CAS Number 1262
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) HGH 191AA (Somatropin) 6 IU 10 vials — In Stock $75.00 HGH 191AA (Somatropin) 10 IU 10 vials — In Stock $98.00 HGH 191AA (Somatropin) 10 IU 10 vials — In Stock $120.00 HGH 191AA (Somatropin) 12 IU 10 vials — In Stock $113.00 HGH 191AA (Somatropin) 12 IU 10 vials — Out of Stock $143.00 HGH 191AA (Somatropin) 15 IU 10 vials — In Stock $143.00 HGH 191AA (Somatropin) 15 IU 10 vials — Out of Stock $180.00 HGH 191AA (Somatropin) 24 IU 10 vials — In Stock $210.00 HGH 191AA (Somatropin) 24 IU 10 vials — Out of Stock $248.00 HGH 191AA (Somatropin) 36 IU 10 vials ≥96% In Stock $270.00 HGH 191AA (Somatropin) 36 IU 10 vials ≥96% Out of Stock $315.00 HGH 191AA (Somatropin) 50 IU 10 vials — In Stock $345.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| HGH 191AA (Somatropin) | 6 IU | 10 vials | — | In Stock |
+| HGH 191AA (Somatropin) | 10 IU | 10 vials | — | In Stock |
+| HGH 191AA (Somatropin) | 10 IU | 10 vials | — | In Stock |
+| HGH 191AA (Somatropin) | 12 IU | 10 vials | — | In Stock |
+| HGH 191AA (Somatropin) | 12 IU | 10 vials | — | Out of Stock |
+| HGH 191AA (Somatropin) | 15 IU | 10 vials | — | In Stock |
+| HGH 191AA (Somatropin) | 15 IU | 10 vials | — | Out of Stock |
+| HGH 191AA (Somatropin) | 24 IU | 10 vials | — | In Stock |
+| HGH 191AA (Somatropin) | 24 IU | 10 vials | — | Out of Stock |
+| HGH 191AA (Somatropin) | 36 IU | 10 vials | ≥96% | In Stock |
+| HGH 191AA (Somatropin) | 36 IU | 10 vials | ≥96% | Out of Stock |
+| HGH 191AA (Somatropin) | 50 IU | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

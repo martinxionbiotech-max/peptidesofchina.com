@@ -6,6 +6,7 @@ price: 128.0
 status: "In Stock"
 description: "CJC-1295 and Ipamorelin combined blend. Sourced from verified Chinese manufacturer. HPLC verified, purity tested per batch. Research use only."
 image: "/images/products/cjc-1295-ipamorelin-stack-bottle.webp"
+
 ---
 CJC-1295 + Ipamorelin is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Muscle & Performance, Hormonal Regulation, Blends Total variants: 2 In-stock variants: 2 of 2 Purity: ≥98% Standard pack size: 10 vials 
 
@@ -52,7 +53,10 @@ CJC-1295 With DAC CJC-1295 Without DAC Tesamorelin + Ipamorelin Ipamorelin CJC-1
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) CJC-1295 Without DAC + Ipamorelin 10 + 10 mg 10 vials — In Stock $233.00 CJC-1295 Without DAC 5mg + Ipamorelin 5mg 10 mg 10 vials ≥98% In Stock $128.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| CJC-1295 Without DAC + Ipamorelin | 10 + 10 mg | 10 vials | — | In Stock |
+| CJC-1295 Without DAC 5mg + Ipamorelin 5mg | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -99,7 +103,10 @@ GH axis pharmacology, pituitary synergy research, GH pulse architecture, IGF-1 r
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) CJC-1295 Without DAC + Ipamorelin 10 + 10 mg 10 vials — In Stock $233.00 CJC-1295 Without DAC 5mg + Ipamorelin 5mg 10 mg 10 vials ≥98% In Stock $128.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| CJC-1295 Without DAC + Ipamorelin | 10 + 10 mg | 10 vials | — | In Stock |
+| CJC-1295 Without DAC 5mg + Ipamorelin 5mg | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

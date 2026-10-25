@@ -6,6 +6,7 @@ price: 123.0
 status: "In Stock"
 description: "Research material containing selank + semax."
 image: "/images/products/selank-bottle.webp"
+
 ---
 selank-10mg-semax-10mg is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Cognitive & Neuro, Blends Total variants: 2 In-stock variants: 2 of 2 Standard pack size: 10 vials 
 
@@ -22,7 +23,10 @@ Buy Selank + Semax | Research Grade | Peptides of China Selank + Semax Buy Selan
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Selank + Semax 5 + 5 mg 10 vials — In Stock $123.00 Selank 10mg + Semax 10mg 10 + 10 mg 10 vials — In Stock $126.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Selank + Semax | 5 + 5 mg | 10 vials | — | In Stock |
+| Selank 10mg + Semax 10mg | 10 + 10 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

@@ -6,6 +6,7 @@ price: 60.0
 status: "In Stock"
 description: "Compact peptide derived from the central actin-binding region of Thymosin Beta-4 (residues 17-24). Focused fragment derived from the repair-associated actin-binding region of Tβ4, investigated specifi"
 image: "/images/products/generic-vial.png"
+
 ---
 tb-500-fragment-17-24 is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Healing & Repair Total variants: 2 In-stock variants: 2 of 2 Purity: >=98% Standard pack size: 10 vials 
 
@@ -22,7 +23,10 @@ Buy TB-500 Fragment (17-24) | Research Grade | Peptides of China TB-500 Fragment
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) TB-500 Fragment (17-24) 5 mg 10 vials >=98% In Stock $60.00 TB-500 Fragment (17-24) 10 mg 10 vials >=98% In Stock $105.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| TB-500 Fragment (17-24) | 5 mg | 10 vials | >=98% | In Stock |
+| TB-500 Fragment (17-24) | 10 mg | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 

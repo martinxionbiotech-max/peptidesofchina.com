@@ -6,6 +6,7 @@ price: 53.0
 status: "In Stock"
 description: "Explore Tirzepatide product variants and wholesale catalog information from Peptides of China."
 image: "/images/products/tirzepatide-bottle.webp"
+
 ---
 Tirzepatide sits at the center of the fastest-growing segment in the china peptide export market. Dual-incretin research programs order chinese peptides like tirzepatide in volume, and the difference between a reliable supplier and a trader is visible in three places: specification documents, lot traceability, and consistency of delivery. Our platform exists to make all three checkable before ordering.
 
@@ -22,7 +23,20 @@ Chemical Class GIP/GLP-1 Dual Receptor Agonist CAS Number 2023788-19-2 Molecular
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Tirzepatide 5 mg 10 vials — In Stock $83.00 Tirzepatide 5 mg 10 vials ≥98% In Stock $53.00 Tirzepatide 10 mg 10 vials — In Stock $120.00 Tirzepatide 10 mg 10 vials ≥98% In Stock $75.00 Tirzepatide 15 mg 10 vials — In Stock $143.00 Tirzepatide 15 mg 10 vials ≥98% In Stock $98.00 Tirzepatide 20 mg 10 vials — In Stock $165.00 Tirzepatide 20 mg 10 vials ≥98% Out of Stock $113.00 Tirzepatide 30 mg 10 vials — In Stock $195.00 Tirzepatide 30 mg 10 vials ≥98% In Stock $143.00 Tirzepatide 40 mg 10 vials ≥98% In Stock $173.00 Tirzepatide 50 mg 10 vials — In Stock $270.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Tirzepatide | 5 mg | 10 vials | — | In Stock |
+| Tirzepatide | 5 mg | 10 vials | ≥98% | In Stock |
+| Tirzepatide | 10 mg | 10 vials | — | In Stock |
+| Tirzepatide | 10 mg | 10 vials | ≥98% | In Stock |
+| Tirzepatide | 15 mg | 10 vials | — | In Stock |
+| Tirzepatide | 15 mg | 10 vials | ≥98% | In Stock |
+| Tirzepatide | 20 mg | 10 vials | — | In Stock |
+| Tirzepatide | 20 mg | 10 vials | ≥98% | Out of Stock |
+| Tirzepatide | 30 mg | 10 vials | — | In Stock |
+| Tirzepatide | 30 mg | 10 vials | ≥98% | In Stock |
+| Tirzepatide | 40 mg | 10 vials | ≥98% | In Stock |
+| Tirzepatide | 50 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

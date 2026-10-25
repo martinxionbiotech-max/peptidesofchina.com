@@ -6,6 +6,7 @@ price: 435.0
 status: "In Stock"
 description: "Survodutide GLP-1/glucagon receptor dual agonist research peptide. Sourced directly from China. Purity tested per batch, wholesale pricing."
 image: "/images/products/survodutide-bottle.webp"
+
 ---
 Survodutide is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the GLP-1/glucagon dual receptor agonist (unimolecular) Synonyms BI 456906 Receptor Targets GLP-1R (glucagon-like peptide-1 receptor), GCGR (glucagon receptor) Molecular Weight ~3.5 kDa (acylated peptide) 
 
@@ -15,7 +16,9 @@ Hepatic metabolism, NASH/MASH research, metabolic disorders, dual-receptor pharm
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Survodutide 10 mg 10 vials ≥98% In Stock $435.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Survodutide | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -62,7 +65,9 @@ Lyophilized survodutide should be stored at −20°C, protected from light and m
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Survodutide 10 mg 10 vials ≥98% In Stock $435.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Survodutide | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -107,7 +112,9 @@ Hepatic metabolism, NASH/MASH research, metabolic disorders, dual-receptor pharm
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Survodutide 10 mg 10 vials ≥98% In Stock $435.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Survodutide | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

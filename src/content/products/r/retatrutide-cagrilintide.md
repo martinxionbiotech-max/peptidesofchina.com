@@ -6,6 +6,7 @@ price: 174.0
 status: "In Stock"
 description: "Combination of retatrutide and cagrilintide, compounds with different mechanisms of action in systems regulating metabolism and satiety."
 image: "/images/products/retatrutide-bottle.webp"
+
 ---
 retatrutide-cagrilintide is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management, Blends Total variants: 2 In-stock variants: 2 of 2 Standard pack size: 10 vials 
 
@@ -18,7 +19,10 @@ Buy Retatrutide + Cagrilintide | Research Grade | Peptides of China Retatrutide 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Retatrutide + Cagrilintide 5 + 5 mg 10 vials — In Stock $174.00 Retatrutide + Cagrilintide 10 + 10 mg 10 vials — In Stock $228.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Retatrutide + Cagrilintide | 5 + 5 mg | 10 vials | — | In Stock |
+| Retatrutide + Cagrilintide | 10 + 10 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

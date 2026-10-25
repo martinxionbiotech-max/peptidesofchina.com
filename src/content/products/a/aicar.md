@@ -6,6 +6,7 @@ price: 98.0
 status: "In Stock"
 description: "5-Aminoimidazole-4-carboxamide ribonucleotide — endogenous AMPK activator and established research tool. Widely used in cellular metabolism studies examining fatty acid oxidation, glucose uptake signa"
 image: "/images/products/generic-vial.png"
+
 ---
 AICAR is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Nucleoside analogue / AMPK activator Synonyms Acadesine, AICA riboside, AICA ribonucleoside, 5-Amino-1-β-D-ribofuranosylimidazole-4-carboxamide Molecular Formula C₉H₁₄N₄O₅ Molecular Weight 338.2 Da CAS Number 2627-69-2 PubChem CID 11665 Primary Mechanism AMPK activation via ZMP (intracellular phosphorylate), AMP mimicry 
 
@@ -15,7 +16,9 @@ AMPK biology, metabolic research, exercise mimetic studies, cardiac protection, 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) AICAR 50 mg 10 vials ≥98% In Stock $98.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| AICAR | 50 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -76,7 +79,9 @@ AMPK biology, metabolic research, exercise mimetic studies, cardiac protection, 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) AICAR 50 mg 10 vials ≥98% In Stock $98.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| AICAR | 50 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -116,7 +121,9 @@ AICAR (Oral) For laboratory research use only. Not for human or veterinary use. 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) AICAR 50 mg 10 vials ≥98% In Stock $98.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| AICAR | 50 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -171,7 +178,9 @@ AMPK biology, metabolic research, exercise mimetic studies, cardiac protection, 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) AICAR 50 mg 10 vials ≥98% In Stock $98.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| AICAR | 50 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

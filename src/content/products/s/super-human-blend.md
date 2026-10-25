@@ -6,6 +6,7 @@ price: 104.0
 status: "In Stock"
 description: "Compounded amino acid injectable containing L-Arginine 110mg, L-Ornithine 110mg, L-Citrulline 120mg, L-Lysine 70mg, L-Glutamine 40mg, L-Proline 60mg, L-Taurine 60mg, L-Carnitine 220mg, and NAC (N-acet"
 image: "/images/products/generic-vial.png"
+
 ---
 super-human-blend is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Multi-amino acid injectable combination 
 
@@ -15,7 +16,9 @@ Nitric oxide signaling, urea cycle flux, collagen synthesis pathways, glutathion
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Super Human Blend 10 ml 10 vials >=98% In Stock $104.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Super Human Blend | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 
@@ -62,7 +65,9 @@ BPC-157 + TB-500 Blend (Oral) Wolverine Blend SLU-PP-332 + BAM15 Blend (Oral) He
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Super Human Blend 10 ml 10 vials >=98% In Stock $104.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Super Human Blend | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 
@@ -107,7 +112,9 @@ Nitric oxide signaling, urea cycle flux, collagen synthesis pathways, glutathion
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Super Human Blend 10 ml 10 vials >=98% In Stock $104.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Super Human Blend | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 

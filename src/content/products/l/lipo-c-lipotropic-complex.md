@@ -6,6 +6,7 @@ price: 87.0
 status: "In Stock"
 description: "Compounded lipotropic injectable containing L-Carnitine 200mg, L-Arginine 20mg, Methionine 25mg, Inositol 50mg, Choline 50mg, B5 (Dexpanthenol) 25mg, B6 25mg, and B12 (Cyanocobalamin) 1mg per ml. Inve"
 image: "/images/products/generic-vial.png"
+
 ---
 Lipo-C (Lipotropic Complex) is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Lipotropic agent combination (injectable formulation) Primary Components Methionine, Inositol, Choline (MIC), Cyanocobalamin (B12) Optional Components L-Carnitine, Riboflavin (B2), Thiamine (B1), Dexpanthenol (B5) 
 
@@ -15,7 +16,9 @@ Hepatic lipid metabolism, lipotropic biology, methylation research, fatty liver 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Lipo-C (Lipotropic Complex) 10 ml 10 vials ≥98% In Stock $87.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Lipo-C (Lipotropic Complex) | 10 ml | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -66,7 +69,9 @@ Lipo-C 120 Lipo-C 216 Fat Blaster (Lipotropic Complex) Lipo-B Lipo-C Focus For l
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Lipo-C (Lipotropic Complex) 10 ml 10 vials ≥98% In Stock $87.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Lipo-C (Lipotropic Complex) | 10 ml | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -115,7 +120,9 @@ Hepatic lipid metabolism, lipotropic biology, methylation research, fatty liver 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Lipo-C (Lipotropic Complex) 10 ml 10 vials ≥98% In Stock $87.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Lipo-C (Lipotropic Complex) | 10 ml | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

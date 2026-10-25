@@ -6,6 +6,7 @@ price: 98.0
 status: "In Stock"
 description: "Endogenous tripeptide and primary intracellular antioxidant. Studied in redox biology research for its roles in reactive oxygen species neutralization, xenobiotic detoxification, and immune cell funct"
 image: "/images/products/generic-vial.png"
+
 ---
 Glutathione is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Tripeptide thiol antioxidant (γ-glutamyl peptide) Synonyms GSH, Glutathione reduced, γ-L-Glutamyl-L-cysteinyl-glycine, L-Glutathione Sequence γ-Glu-Cys-Gly (non-standard γ-peptide bond at Glu) Molecular Formula C₁₀H₁₇N₃O₆S Molecular Weight 307.3 Da CAS Number 70-18-8 PubChem CID 124886 
 
@@ -15,7 +16,10 @@ Oxidative stress, hepatotoxicity models, neuroscience, immune cell biology, redo
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Glutathione 1500 mg 10 vials — In Stock $195.00 Glutathione 1500 mg 10 vials ≥98% In Stock $98.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Glutathione | 1500 mg | 10 vials | — | In Stock |
+| Glutathione | 1500 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -58,7 +62,10 @@ Cell culture concentrations vary by application: 0.1-10 mM for oxidative stress 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Glutathione 1500 mg 10 vials — In Stock $195.00 Glutathione 1500 mg 10 vials ≥98% In Stock $98.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Glutathione | 1500 mg | 10 vials | — | In Stock |
+| Glutathione | 1500 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -99,7 +106,10 @@ Oxidative stress, hepatotoxicity models, neuroscience, immune cell biology, redo
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Glutathione 1500 mg 10 vials — In Stock $195.00 Glutathione 1500 mg 10 vials ≥98% In Stock $98.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Glutathione | 1500 mg | 10 vials | — | In Stock |
+| Glutathione | 1500 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

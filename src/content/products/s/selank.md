@@ -6,6 +6,7 @@ price: 74.0
 status: "In Stock"
 description: "Selank nootropic peptide sourced directly from China. Batch number included. Verified purity, fast international delivery."
 image: "/images/products/selank-bottle.webp"
+
 ---
 Selank is one of the most studied anxiolytic research peptides available from chinese peptides manufacturers, with a long preclinical literature covering anxiety models and cognitive endpoints. It is also structurally forgiving in formulation — which is precisely why underqualified labs feel confident selling it. Verified sourcing is the point of difference we offer china peptide buyers: the finished vial, not the raw powder, from the factory that lyophilized it.
 
@@ -22,7 +23,12 @@ Chemical Class Synthetic Anxiolytic Heptapeptide / Tuftsin Analogue CAS Number 1
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Selank 5 mg 10 vials ≥98% In Stock $74.00 Selank 5 mg 10 vials — In Stock $90.00 Selank 10 mg 10 vials — In Stock $120.00 Selank 10 mg 10 vials ≥98% In Stock $98.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Selank | 5 mg | 10 vials | ≥98% | In Stock |
+| Selank | 5 mg | 10 vials | — | In Stock |
+| Selank | 10 mg | 10 vials | — | In Stock |
+| Selank | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

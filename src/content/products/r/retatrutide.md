@@ -6,6 +6,7 @@ price: 86.0
 status: "In Stock"
 description: "Review current Retatrutide research availability, pack options, and batch-specific specifications through the Peptides of China sourcing platform."
 image: "/images/products/retatrutide-bottle.webp"
+
 ---
 Retatrutide is the newest triple-agonist compound moving through china peptide catalogs. As with every fast-rising chinese peptides listing, the first wave of supply attracts opportunistic sellers and diluted batches. Research buyers who order retatrutide through our platform get factory-sourced material with the manufacturer's own specification — the same discipline we apply across the entire catalog.
 
@@ -26,7 +27,19 @@ Obesity, metabolic syndrome, type 2 diabetes, MASH/NAFLD, cardiovascular risk ma
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Retatrutide 5 mg 10 vials — In Stock $113.00 Retatrutide 5 mg 10 vials ≥98% In Stock $86.00 Retatrutide 10 mg 10 vials — In Stock $150.00 Retatrutide 10 mg 10 vials ≥98% In Stock $132.00 Retatrutide 15 mg 10 vials ≥98% In Stock $158.00 Retatrutide 15 mg 10 vials — In Stock $195.00 Retatrutide 20 mg 10 vials ≥98% In Stock $174.00 Retatrutide 20 mg 10 vials — In Stock $240.00 Retatrutide 30 mg 10 vials ≥98% In Stock $240.00 Retatrutide 30 mg 10 vials — In Stock $300.00 Retatrutide 40 mg 10 vials — In Stock $360.00 Retatrutide 40 mg 10 vials >=98% In Stock $315.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Retatrutide | 5 mg | 10 vials | — | In Stock |
+| Retatrutide | 5 mg | 10 vials | ≥98% | In Stock |
+| Retatrutide | 10 mg | 10 vials | — | In Stock |
+| Retatrutide | 10 mg | 10 vials | ≥98% | In Stock |
+| Retatrutide | 15 mg | 10 vials | ≥98% | In Stock |
+| Retatrutide | 15 mg | 10 vials | — | In Stock |
+| Retatrutide | 20 mg | 10 vials | ≥98% | In Stock |
+| Retatrutide | 20 mg | 10 vials | — | In Stock |
+| Retatrutide | 30 mg | 10 vials | ≥98% | In Stock |
+| Retatrutide | 30 mg | 10 vials | — | In Stock |
+| Retatrutide | 40 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

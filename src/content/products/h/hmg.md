@@ -6,6 +6,7 @@ price: 83.0
 status: "In Stock"
 description: "Urinary-derived human menopausal gonadotropin containing FSH and LH activity. Investigated in reproductive endocrinology research for folliculogenesis and spermatogenesis models."
 image: "/images/products/generic-vial.png"
+
 ---
 HMG is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Urinary gonadotropin preparation (glycoprotein hormone mixture) Synonyms Human Menopausal Gonadotropin, Menotropins, uFSH+LH Active Components FSH (follicle-stimulating hormone) + LH (luteinizing hormone), approximately 1:1 ratio Standardization Defined FSH and LH IU activity per vial 
 
@@ -15,7 +16,10 @@ Reproductive endocrinology, folliculogenesis, superovulation protocols, fertilit
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) HMG 75 IU 10 vials ≥98% In Stock $83.00 HMG 75 IU 10 vials — In Stock $120.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| HMG | 75 IU | 10 vials | ≥98% | In Stock |
+| HMG | 75 IU | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -66,7 +70,10 @@ HMG should be stored at 2-8°C in dry conditions for short-term storage, or at �
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) HMG 75 IU 10 vials ≥98% In Stock $83.00 HMG 75 IU 10 vials — In Stock $120.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| HMG | 75 IU | 10 vials | ≥98% | In Stock |
+| HMG | 75 IU | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -115,7 +122,10 @@ Reproductive endocrinology, folliculogenesis, superovulation protocols, fertilit
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) HMG 75 IU 10 vials ≥98% In Stock $83.00 HMG 75 IU 10 vials — In Stock $120.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| HMG | 75 IU | 10 vials | ≥98% | In Stock |
+| HMG | 75 IU | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

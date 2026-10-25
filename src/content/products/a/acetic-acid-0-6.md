@@ -11,7 +11,11 @@ Acetic Acid 0.6% is a research compound available through our **china peptide** 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Acetic Acid 0.6% 3 ml 10 vials Pharmaceutical grade In Stock $11.00 Acetic Acid 0.6% 10 ml 10 vials — Out of Stock $30.00 Acetic Acid 0.6% 10 ml 10 vials Pharmaceutical grade In Stock $14.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Acetic Acid 0.6% | 3 ml | 10 vials | Pharmaceutical grade | In Stock |
+| Acetic Acid 0.6% | 10 ml | 10 vials | — | Out of Stock |
+| Acetic Acid 0.6% | 10 ml | 10 vials | Pharmaceutical grade | In Stock | 
 
 ## Specification Highlights
 
@@ -99,7 +103,11 @@ Chemical Class Dilute organic acid solution (reconstitution solvent) Concentrati
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Acetic Acid 0.6% 3 ml 10 vials Pharmaceutical grade In Stock $11.00 Acetic Acid 0.6% 10 ml 10 vials — Out of Stock $30.00 Acetic Acid 0.6% 10 ml 10 vials Pharmaceutical grade In Stock $14.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Acetic Acid 0.6% | 3 ml | 10 vials | Pharmaceutical grade | In Stock |
+| Acetic Acid 0.6% | 10 ml | 10 vials | — | Out of Stock |
+| Acetic Acid 0.6% | 10 ml | 10 vials | Pharmaceutical grade | In Stock | 
 
 ## Specification Highlights
 

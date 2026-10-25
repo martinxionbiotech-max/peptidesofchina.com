@@ -6,6 +6,7 @@ price: 90.0
 status: "In Stock"
 description: "NAD+ (Nicotinamide Adenine Dinucleotide) for research. 500mg & 1000mg available. Sourced from verified Chinese manufacturer, purity tested per batch."
 image: "/images/products/generic-vial.png"
+
 ---
 NAD+ is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Pyridine nucleotide coenzyme Synonyms Nicotinamide Adenine Dinucleotide (oxidized), NAD, DPN, Coenzyme I Molecular Formula C₂₁H₂₇N₇O₁₄P₂ Molecular Weight 663.4 Da CAS Number 53-84-9 PubChem CID 5892 
 
@@ -15,7 +16,13 @@ Cellular energetics, sirtuin biology, DNA repair (PARP), aging models, mitochond
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) NAD+ 100 mg 10 vials — In Stock $90.00 NAD+ 500 mg 10 vials — In Stock $135.00 NAD+ 500 mg 10 vials ≥98% In Stock $90.00 NAD+ 1000 mg 10 vials ≥98% In Stock $150.00 NAD+ 1000 mg 10 vials — In Stock $225.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| NAD+ | 100 mg | 10 vials | — | In Stock |
+| NAD+ | 500 mg | 10 vials | — | In Stock |
+| NAD+ | 500 mg | 10 vials | ≥98% | In Stock |
+| NAD+ | 1000 mg | 10 vials | ≥98% | In Stock |
+| NAD+ | 1000 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -62,7 +69,13 @@ NAD+ 100mg + MOTS-C 10mg + 5-Amino-1MQ 10mg NAD+ Oil For laboratory research use
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) NAD+ 100 mg 10 vials — In Stock $90.00 NAD+ 500 mg 10 vials — In Stock $135.00 NAD+ 500 mg 10 vials ≥98% In Stock $90.00 NAD+ 1000 mg 10 vials ≥98% In Stock $150.00 NAD+ 1000 mg 10 vials — In Stock $225.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| NAD+ | 100 mg | 10 vials | — | In Stock |
+| NAD+ | 500 mg | 10 vials | — | In Stock |
+| NAD+ | 500 mg | 10 vials | ≥98% | In Stock |
+| NAD+ | 1000 mg | 10 vials | ≥98% | In Stock |
+| NAD+ | 1000 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -107,7 +120,13 @@ Cellular energetics, sirtuin biology, DNA repair (PARP), aging models, mitochond
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) NAD+ 100 mg 10 vials — In Stock $90.00 NAD+ 500 mg 10 vials — In Stock $135.00 NAD+ 500 mg 10 vials ≥98% In Stock $90.00 NAD+ 1000 mg 10 vials ≥98% In Stock $150.00 NAD+ 1000 mg 10 vials — In Stock $225.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| NAD+ | 100 mg | 10 vials | — | In Stock |
+| NAD+ | 500 mg | 10 vials | — | In Stock |
+| NAD+ | 500 mg | 10 vials | ≥98% | In Stock |
+| NAD+ | 1000 mg | 10 vials | ≥98% | In Stock |
+| NAD+ | 1000 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

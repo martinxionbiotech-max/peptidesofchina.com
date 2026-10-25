@@ -6,6 +6,7 @@ price: 314.0
 status: "In Stock"
 description: "Deadpool Blend combines BPC-157, TB-500 and Cartalax, peptides associated with research into connective tissue, cell migration and cartilage biology."
 image: "/images/products/bpc-157-bottle.webp"
+
 ---
 bpc-157-tb-500-cartalax is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Healing & Repair, Blends Total variants: 1 In-stock variants: 1 of 1 Standard pack size: 10 vials 
 
@@ -18,7 +19,9 @@ BPC-157 + TB-500 + Cartalax (Deadpool Blend) | Peptides of China BPC-157 + TB-50
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) BPC-157 + TB-500 + Cartalax 10 + 10 + 20 mg 10 vials — In Stock $314.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| BPC-157 + TB-500 + Cartalax 10 + | 10 + 20 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

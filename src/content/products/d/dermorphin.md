@@ -6,6 +6,7 @@ price: 83.0
 status: "In Stock"
 description: "Naturally occurring heptapeptide isolated from Phyllomedusa frog skin. Investigated as a high-affinity μ-opioid receptor ligand in pain pharmacology and opioid receptor binding research."
 image: "/images/products/generic-vial.png"
+
 ---
 Dermorphin is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the D-amino acid containing heptapeptide; μ-opioid receptor agonist Synonyms Dermorphin, [D-Ala²]-dermorphin Sequence H-Tyr-D-Ala-Phe-Gly-Tyr-Pro-Ser-NH₂ Amino Acids 7 Molecular Weight 802.9 Da CAS Number 77614-16-5 Receptor Target μ-opioid receptor (MOR) — high affinity, selective 
 
@@ -15,7 +16,9 @@ Opioid receptor pharmacology, MOR binding assays, pain research, β-arrestin sig
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Dermorphin 5 mg 10 vials ≥98% In Stock $83.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Dermorphin | 5 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -60,7 +63,9 @@ Lyophilized dermorphin should be stored at −20°C, protected from moisture and
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Dermorphin 5 mg 10 vials ≥98% In Stock $83.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Dermorphin | 5 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -103,7 +108,9 @@ Opioid receptor pharmacology, MOR binding assays, pain research, β-arrestin sig
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Dermorphin 5 mg 10 vials ≥98% In Stock $83.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Dermorphin | 5 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

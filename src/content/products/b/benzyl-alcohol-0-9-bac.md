@@ -6,12 +6,18 @@ price: 11.0
 status: "In Stock"
 description: "Bacteriostatic water with 0.9% benzyl alcohol for safe peptide reconstitution."
 image: "/images/products/generic-vial.png"
+
 ---
 Benzyl Alcohol 0.9% (BAC) is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Bacteriostatic preservative solution (0.9% benzyl alcohol in water for injection) Benzyl Alcohol Concentration 0.9% w/v (9 mg/mL) pH 5.5-7.0 (slightly acidic — compatible with most peptides) Osmolality ~90 mOsm/kg (hypotonic — dilute with PBS/saline before large-volume injection) Bacteriostatic Shelf Life (post-reconstitution) Up to 28 days at 2-8°C Research Applications Peptide reconstitution (multi-dose), research compound preparation, bacteriostatic vehicle Form Sterile aqueous solution Storage Room temperature or 2-8°C; once opened, keep refrigerated; use within 28 days CAS Number N/A — formulated solution (multi-component) Molecular Weight N/A — formulated solution Molecular Formula N/A — formulated solution Sequence N/A — not a peptide 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Benzyl Alcohol 0.9% (BAC) 3 ml 10 vials Pharmaceutical grade In Stock $11.00 Benzyl Alcohol 0.9% (BAC) 10 ml 10 vials — In Stock $30.00 Benzyl Alcohol 0.9% (BAC) 10 ml 10 vials Pharmaceutical grade In Stock $14.00 Benzyl Alcohol 0.9% (BAC) 30 ml 10 vials — In Stock $36.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| (BAC) | 3 ml | 10 vials | Pharmaceutical grade | In Stock |
+| (BAC) | 10 ml | 10 vials | — | In Stock |
+| (BAC) | 10 ml | 10 vials | Pharmaceutical grade | In Stock |
+| (BAC) | 30 ml | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -83,7 +89,12 @@ Chemical Class Bacteriostatic preservative solution (0.9% benzyl alcohol in wate
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Benzyl Alcohol 0.9% (BAC) 3 ml 10 vials Pharmaceutical grade In Stock $11.00 Benzyl Alcohol 0.9% (BAC) 10 ml 10 vials — In Stock $30.00 Benzyl Alcohol 0.9% (BAC) 10 ml 10 vials Pharmaceutical grade In Stock $14.00 Benzyl Alcohol 0.9% (BAC) 30 ml 10 vials — In Stock $36.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| (BAC) | 3 ml | 10 vials | Pharmaceutical grade | In Stock |
+| (BAC) | 10 ml | 10 vials | — | In Stock |
+| (BAC) | 10 ml | 10 vials | Pharmaceutical grade | In Stock |
+| (BAC) | 30 ml | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

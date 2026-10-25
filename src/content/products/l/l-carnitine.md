@@ -6,6 +6,7 @@ price: 54.0
 status: "In Stock"
 description: "Naturally occurring quaternary ammonium compound. Investigated in metabolic research for its role in long-chain fatty acid transport across the inner mitochondrial membrane and β-oxidation regulation."
 image: "/images/products/generic-vial.png"
+
 ---
 L-Carnitine is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Quaternary ammonium compound (zwitterionic amino acid derivative) Synonyms L-Carnitine, Levocarnitine, (R)-Carnitine, Vitamin BT Molecular Formula C₇H₁₅NO₃ Molecular Weight 161.2 Da CAS Number 541-15-1 PubChem CID 10917 Primary Function Long-chain fatty acid transport across inner mitochondrial membrane (carnitine shuttle) 
 
@@ -15,7 +16,10 @@ Mitochondrial β-oxidation, cardiac metabolism, exercise physiology, carnitine d
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) L-Carnitine 600 mg 10 vials ≥98% In Stock $54.00 L-Carnitine 6000 mg / 10 ml 10 vials — In Stock $134.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| L-Carnitine | 600 mg | 10 vials | ≥98% | In Stock |
+| L-Carnitine 6000 mg / | 10 ml | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -72,7 +76,10 @@ L-Carnitine (Liquid) For laboratory research use only. Not for human or veterina
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) L-Carnitine 600 mg 10 vials ≥98% In Stock $54.00 L-Carnitine 6000 mg / 10 ml 10 vials — In Stock $134.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| L-Carnitine | 600 mg | 10 vials | ≥98% | In Stock |
+| L-Carnitine 6000 mg / | 10 ml | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -127,7 +134,10 @@ Mitochondrial β-oxidation, cardiac metabolism, exercise physiology, carnitine d
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) L-Carnitine 600 mg 10 vials ≥98% In Stock $54.00 L-Carnitine 6000 mg / 10 ml 10 vials — In Stock $134.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| L-Carnitine | 600 mg | 10 vials | ≥98% | In Stock |
+| L-Carnitine 6000 mg / | 10 ml | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

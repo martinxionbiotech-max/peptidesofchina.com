@@ -6,6 +6,7 @@ price: 95.0
 status: "In Stock"
 description: "Thymalin thymic peptide for immunological research. Sourced directly from China. Purity tested per batch, wholesale pricing."
 image: "/images/products/thymalin-bottle.webp"
+
 ---
 Thymalin is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Polypeptide bioregulator (thymus-derived peptide fraction) Synonyms Thymus polypeptide bioregulator, thymus extract peptide fraction Active Components Short thymic peptides 1-6 kDa including thymopentin-related sequences 
 
@@ -15,7 +16,10 @@ Immunosenescence, thymic involution, T lymphocyte biology, NK cell function, agi
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Thymalin 10 mg 10 vials — Out of Stock $120.00 Thymalin 10 mg 10 vials ≥98% In Stock $95.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Thymalin | 10 mg | 10 vials | — | Out of Stock |
+| Thymalin | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -70,7 +74,10 @@ Lyophilized thymalin should be stored at −20°C. Reconstituted solutions shoul
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Thymalin 10 mg 10 vials — Out of Stock $120.00 Thymalin 10 mg 10 vials ≥98% In Stock $95.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Thymalin | 10 mg | 10 vials | — | Out of Stock |
+| Thymalin | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -123,7 +130,10 @@ Immunosenescence, thymic involution, T lymphocyte biology, NK cell function, agi
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Thymalin 10 mg 10 vials — Out of Stock $120.00 Thymalin 10 mg 10 vials ≥98% In Stock $95.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Thymalin | 10 mg | 10 vials | — | Out of Stock |
+| Thymalin | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

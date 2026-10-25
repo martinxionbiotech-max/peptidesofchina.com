@@ -6,6 +6,7 @@ price: 113.0
 status: "In Stock"
 description: "Potent synthetic hexapeptide growth hormone secretagogue. Investigated for GH axis stimulation and studied separately for cardiovascular receptor interactions in preclinical research."
 image: "/images/products/generic-vial.png"
+
 ---
 Hexarelin is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Synthetic hexapeptide (GH secretagogue) Synonyms Examorelin, GHRP (hexapeptide), EP-23905, MF-6003 Sequence His-D-2-MeTrp-Ala-Trp-D-Phe-Lys-NH₂ Amino Acids 6 Molecular Formula C₄₇H₅₈N₁₂O₆ Molecular Weight 887.1 Da CAS Number 140703-51-1 PubChem CID 6918572 Receptor Targets GHS-R1a (primary), CD36 scavenger receptor (GH-independent cardiac pathway) 
 
@@ -15,7 +16,10 @@ GH axis pharmacology, cardiac protection, ischemia-reperfusion research, dual-re
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Hexarelin 5 mg 10 vials ≥98% In Stock $113.00 Hexarelin 5 mg 10 vials — In Stock $143.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Hexarelin | 5 mg | 10 vials | ≥98% | In Stock |
+| Hexarelin | 5 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -70,7 +74,10 @@ Store lyophilized hexarelin at −20°C, protected from moisture and light. Aque
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Hexarelin 5 mg 10 vials ≥98% In Stock $113.00 Hexarelin 5 mg 10 vials — In Stock $143.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Hexarelin | 5 mg | 10 vials | ≥98% | In Stock |
+| Hexarelin | 5 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -123,7 +130,10 @@ GH axis pharmacology, cardiac protection, ischemia-reperfusion research, dual-re
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Hexarelin 5 mg 10 vials ≥98% In Stock $113.00 Hexarelin 5 mg 10 vials — In Stock $143.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Hexarelin | 5 mg | 10 vials | ≥98% | In Stock |
+| Hexarelin | 5 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

@@ -6,6 +6,7 @@ price: 195.0
 status: "In Stock"
 description: "N-acetylated, C-amidated form of Selank (Thr–Lys–Pro–Arg–Pro–Gly–Pro). The dual modification improves resistance to enzymatic degradation and extends experimental persistence relative to the parent he"
 image: "/images/products/selank-bottle.webp"
+
 ---
 na-selank-amidate is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Cognitive & Neuro, Bioregulators Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
 
@@ -18,7 +19,9 @@ Buy NA Selank Amidate | Research Grade | Peptides of China NA Selank Amidate Buy
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) NA Selank Amidate 30 mg 10 vials ≥98% In Stock $195.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| NA Selank Amidate | 30 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

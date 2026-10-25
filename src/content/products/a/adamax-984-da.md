@@ -6,6 +6,7 @@ price: 119.0
 status: "In Stock"
 description: "Advanced synthetic analog of Semax — itself a stabilized heptapeptide derivative of the ACTH(4-7) fragment — incorporating an adamantane-containing structural modification that enhances blood-brain ba"
 image: "/images/products/generic-vial.png"
+
 ---
 adamax-984-da is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Synthetic neuropeptide; advanced ACTH(4-7) analogue with adamantane modification Parent Compound Semax (Met-Glu-His-Phe-Pro-Gly-Pro; ACTH(4-7) heptapeptide derivative) Modification Adamantane-containing structural motif; characteristic of the 984 Da form (distinct from 1032 Da variant) Developed from ACTH(4-7) analogue research programme, Institute of Molecular Genetics, Russian Academy of Sciences Molecular Weight ~984 Da 
 
@@ -15,7 +16,9 @@ BDNF/NGF upregulation, neuroprotection, dopaminergic and serotonergic modulation
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Adamax (984 Da) 10 mg 10 vials >=98% In Stock $119.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Adamax (984 Da) | 10 mg | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 
@@ -66,7 +69,9 @@ Lyophilized Adamax (984 Da) should be stored at −20°C and protected from ligh
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Adamax (984 Da) 10 mg 10 vials >=98% In Stock $119.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Adamax (984 Da) | 10 mg | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 
@@ -115,7 +120,9 @@ BDNF/NGF upregulation, neuroprotection, dopaminergic and serotonergic modulation
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Adamax (984 Da) 10 mg 10 vials >=98% In Stock $119.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Adamax (984 Da) | 10 mg | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 

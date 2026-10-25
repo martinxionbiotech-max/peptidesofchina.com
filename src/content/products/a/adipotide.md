@@ -6,6 +6,7 @@ price: 105.0
 status: "In Stock"
 description: "Experimental peptidomimetic targeting the vasculature of white adipose tissue. Subject of preclinical investigation into proapoptotic mechanisms in fat-associated endothelial cells."
 image: "/images/products/adipotide-bottle.webp"
+
 ---
 Adipotide is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Bifunctional proapoptotic peptidomimetic (targeting + killing domains) Synonyms CKGGRAKDC-GG-D(KLAKLAK)₂, fat-homing proapoptotic peptide Architecture CKGGRAKDC (prohibitin-targeting) — GG spacer — D(KLAKLAK)₂ (mitochondrial disruption) Molecular Weight ~2500 Da Primary Target Prohibitin on white adipose vasculature endothelium 
 
@@ -15,7 +16,10 @@ Adipose vascular biology, selective tissue targeting, proapoptotic peptide pharm
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Adipotide 2 mg 10 vials ≥98% In Stock $105.00 Adipotide 5 mg 10 vials ≥98% In Stock $233.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Adipotide | 2 mg | 10 vials | ≥98% | In Stock |
+| Adipotide | 5 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -64,7 +68,10 @@ Lyophilized adipotide should be stored at −20°C. Reconstituted solutions shou
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Adipotide 2 mg 10 vials ≥98% In Stock $105.00 Adipotide 5 mg 10 vials ≥98% In Stock $233.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Adipotide | 2 mg | 10 vials | ≥98% | In Stock |
+| Adipotide | 5 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -111,7 +118,10 @@ Adipose vascular biology, selective tissue targeting, proapoptotic peptide pharm
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Adipotide 2 mg 10 vials ≥98% In Stock $105.00 Adipotide 5 mg 10 vials ≥98% In Stock $233.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Adipotide | 2 mg | 10 vials | ≥98% | In Stock |
+| Adipotide | 5 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

@@ -6,12 +6,18 @@ price: 143.0
 status: "In Stock"
 description: "Wolverine Blend: BPC-157 + TB-500 combined blend. Purity tested per batch, sourced directly from China. Research use only."
 image: "/images/products/generic-vial.png"
+
 ---
 Wolverine Blend is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Tissue Repair, Musculoskeletal, Healing & Recovery Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) CAS Number N/A — combination product Molecular Weight N/A — see individual components Molecular Formula N/A — combination product Sequence N/A — combination product 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) BPC-157 5mg + TB-500 5mg 10 mg 10 vials ≥98% In Stock $143.00 BPC-157 5mg + TB-500 5mg 10 mg 10 vials — In Stock $195.00 BPC-157 10mg + TB-500 10mg 20 mg 10 vials ≥98% In Stock $248.00 BPC-157 10mg + TB-500 10mg 20 mg 10 vials — In Stock $300.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| BPC-157 5mg + TB-500 5mg | 10 mg | 10 vials | ≥98% | In Stock |
+| BPC-157 5mg + TB-500 5mg | 10 mg | 10 vials | — | In Stock |
+| BPC-157 10mg + TB-500 10mg | 20 mg | 10 vials | ≥98% | In Stock |
+| BPC-157 10mg + TB-500 10mg | 20 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -66,7 +72,12 @@ BPC-157 + TB-500 Blend (Oral) SLU-PP-332 + BAM15 Blend (Oral) Healthy Hair Skin 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) BPC-157 5mg + TB-500 5mg 10 mg 10 vials ≥98% In Stock $143.00 BPC-157 5mg + TB-500 5mg 10 mg 10 vials — In Stock $195.00 BPC-157 10mg + TB-500 10mg 20 mg 10 vials ≥98% In Stock $248.00 BPC-157 10mg + TB-500 10mg 20 mg 10 vials — In Stock $300.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| BPC-157 5mg + TB-500 5mg | 10 mg | 10 vials | ≥98% | In Stock |
+| BPC-157 5mg + TB-500 5mg | 10 mg | 10 vials | — | In Stock |
+| BPC-157 10mg + TB-500 10mg | 20 mg | 10 vials | ≥98% | In Stock |
+| BPC-157 10mg + TB-500 10mg | 20 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -115,7 +126,12 @@ Formulation Type Pre-mixed Lyophilized Research Blend Component 1 BPC-157 — 5 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) BPC-157 5mg + TB-500 5mg 10 mg 10 vials ≥98% In Stock $143.00 BPC-157 5mg + TB-500 5mg 10 mg 10 vials — In Stock $195.00 BPC-157 10mg + TB-500 10mg 20 mg 10 vials ≥98% In Stock $248.00 BPC-157 10mg + TB-500 10mg 20 mg 10 vials — In Stock $300.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| BPC-157 5mg + TB-500 5mg | 10 mg | 10 vials | ≥98% | In Stock |
+| BPC-157 5mg + TB-500 5mg | 10 mg | 10 vials | — | In Stock |
+| BPC-157 10mg + TB-500 10mg | 20 mg | 10 vials | ≥98% | In Stock |
+| BPC-157 10mg + TB-500 10mg | 20 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

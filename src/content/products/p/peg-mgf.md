@@ -6,6 +6,7 @@ price: 134.0
 status: "In Stock"
 description: "PEGylated form of Mechano Growth Factor, a splice variant of IGF-1. PEGylation extends circulating half-life significantly compared to standard MGF. Investigated in muscle repair research for prolonge"
 image: "/images/products/generic-vial.png"
+
 ---
 peg-mgf is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Healing & Repair, Muscle & Performance Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
 
@@ -22,7 +23,9 @@ Buy PEG-MGF | Research Grade | Peptides of China PEG-MGF Buy PEG-MGF — Researc
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) PEG MGF 2 mg 10 vials ≥98% In Stock $134.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| PEG MGF | 2 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

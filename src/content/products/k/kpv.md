@@ -6,6 +6,7 @@ price: 83.0
 status: "In Stock"
 description: "C-terminal tripeptide of α-melanocyte-stimulating hormone (α-MSH). Investigated in preclinical gut biology research for NF-κB pathway modulation and intestinal barrier function."
 image: "/images/products/kpv-bottle.webp"
+
 ---
 KPV is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the α-MSH C-terminal tripeptide (MC1R agonist) Synonyms α-MSH(11-13), Lys-Pro-Val, L-Lysyl-L-Prolyl-L-Valine Sequence Lys-Pro-Val Molecular Formula C₁₆H₃₀N₄O₄ Molecular Weight 342.4 Da CAS Number 13454-14-3 
 
@@ -15,7 +16,10 @@ Intestinal inflammation, IBD models, gut permeability, NF-κB inhibition, anti-m
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) KPV 10 mg 10 vials — Out of Stock $120.00 KPV 10 mg 10 vials ≥98% In Stock $83.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| KPV | 10 mg | 10 vials | — | Out of Stock |
+| KPV | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -72,7 +76,10 @@ KPV (Oral) GHK-Cu 50mg + KPV 10mg BPC-157 10mg + TB-500 10mg + KPV 10mg Related 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) KPV 10 mg 10 vials — Out of Stock $120.00 KPV 10 mg 10 vials ≥98% In Stock $83.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| KPV | 10 mg | 10 vials | — | Out of Stock |
+| KPV | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -127,7 +134,10 @@ Intestinal inflammation, IBD models, gut permeability, NF-κB inhibition, anti-m
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) KPV 10 mg 10 vials — Out of Stock $120.00 KPV 10 mg 10 vials ≥98% In Stock $83.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| KPV | 10 mg | 10 vials | — | Out of Stock |
+| KPV | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

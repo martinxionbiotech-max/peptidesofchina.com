@@ -6,12 +6,17 @@ price: 68.0
 status: "In Stock"
 description: "HGH Fragment 176-191 research peptide sourced directly from verified Chinese manufacturer. Purity and concentration verified per batch."
 image: "/images/products/generic-vial.png"
+
 ---
 HGH Fragment 176-191 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the GH C-terminal Fragment / Lipolytic Peptide CAS Number 66004-57-7 Molecular Formula C78H123N23O23S2 Molecular Weight 1817.12 Da Sequence Length 16 amino acids (residues 176–191 of hGH) Disulfide Bond Cys-182 — Cys-189 (essential for activity) Synonyms HGH Frag 176-191, AOD-9401, hGH fragment Half-life (research) ~20–30 min (rodent, s.c.) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) HGH Fragment 176-191 2 mg 10 vials ≥98% In Stock $68.00 HGH Fragment 176-191 5 mg 10 vials ≥98% In Stock $128.00 HGH Fragment 176-191 5 mg 10 vials — In Stock $180.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| HGH Fragment 176-191 | 2 mg | 10 vials | ≥98% | In Stock |
+| HGH Fragment 176-191 | 5 mg | 10 vials | ≥98% | In Stock |
+| HGH Fragment 176-191 | 5 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -103,7 +108,11 @@ Chemical Class GH C-terminal Fragment / Lipolytic Peptide CAS Number 66004-57-7 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) HGH Fragment 176-191 2 mg 10 vials ≥98% In Stock $68.00 HGH Fragment 176-191 5 mg 10 vials ≥98% In Stock $128.00 HGH Fragment 176-191 5 mg 10 vials — In Stock $180.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| HGH Fragment 176-191 | 2 mg | 10 vials | ≥98% | In Stock |
+| HGH Fragment 176-191 | 5 mg | 10 vials | ≥98% | In Stock |
+| HGH Fragment 176-191 | 5 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

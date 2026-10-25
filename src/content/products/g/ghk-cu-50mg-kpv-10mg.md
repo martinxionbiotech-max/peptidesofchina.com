@@ -6,6 +6,7 @@ price: 108.0
 status: "In Stock"
 description: "Research material containing ghk-cu 50mg + kpv 10mg."
 image: "/images/products/generic-vial.png"
+
 ---
 ghk-cu-50mg-kpv-10mg is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Healing & Repair, Skin, Hair & Nails, Blends Total variants: 1 In-stock variants: 1 of 1 Standard pack size: 10 vials 
 
@@ -18,7 +19,9 @@ Buy GHK-Cu 50mg + KPV 10mg | Research Grade | Peptides of China GHK-Cu 50mg + KP
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) GHK-Cu 50mg + KPV 10mg 60 mg 10 vials — In Stock $108.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| GHK-Cu 50mg + KPV 10mg | 60 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

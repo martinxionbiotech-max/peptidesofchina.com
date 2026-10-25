@@ -6,6 +6,7 @@ price: 68.0
 status: "In Stock"
 description: "B-vitamin and micronutrient injectable containing Thiamine HCL (B1) 50mg, Pantothenic Acid (B5) 25mg, Choline 10mg, Inositol 10mg, Niacin (B3) 5mg, Biotin 100mcg, Folic Acid 100mcg, and Riboflavin (B2"
 image: "/images/products/generic-vial.png"
+
 ---
 healthy-hair-skin-nails-blend is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the B-vitamin and micronutrient injectable combination 
 
@@ -15,7 +16,9 @@ B-vitamin cofactor biology, keratin synthesis pathways, cellular antioxidant def
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Healthy Hair Skin Nails Blend 10 ml 10 vials >=98% In Stock $68.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Healthy Hair Skin Nails Blend | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 
@@ -62,7 +65,9 @@ BPC-157 + TB-500 Blend (Oral) Wolverine Blend SLU-PP-332 + BAM15 Blend (Oral) Su
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Healthy Hair Skin Nails Blend 10 ml 10 vials >=98% In Stock $68.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Healthy Hair Skin Nails Blend | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 
@@ -107,7 +112,9 @@ B-vitamin cofactor biology, keratin synthesis pathways, cellular antioxidant def
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Healthy Hair Skin Nails Blend 10 ml 10 vials >=98% In Stock $68.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Healthy Hair Skin Nails Blend | 10 ml | 10 vials | >=98% | In Stock |
 
 ## Specification Highlights
 

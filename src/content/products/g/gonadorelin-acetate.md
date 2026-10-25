@@ -6,6 +6,7 @@ price: 42.0
 status: "In Stock"
 description: "Synthetic decapeptide identical to endogenous GnRH. Used as a research tool to study pituitary LH and FSH secretion dynamics and hypothalamic-pituitary-gonadal axis function."
 image: "/images/products/generic-vial.png"
+
 ---
 Gonadorelin Acetate is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Hypothalamic decapeptide / GnRH agonist (acetate salt) Synonyms GnRH, Gonadorelin, LHRH, Luteinizing hormone-releasing hormone Sequence pGlu-His-Trp-Ser-Tyr-Gly-Leu-Arg-Pro-Gly-NH₂ Amino Acids 10 Molecular Weight 1182.3 Da CAS Number 33515-09-2 Receptor Target GnRHR (gonadotropin-releasing hormone receptor, Gq-coupled) 
 
@@ -15,7 +16,9 @@ HPG axis physiology, pituitary gonadotroph function, pulsatile neuroendocrine si
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Gonadorelin Acetate 2 mg 10 vials ≥98% In Stock $42.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Gonadorelin Acetate | 2 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -66,7 +69,9 @@ Oxytocin Acetate Sermorelin Acetate For laboratory research use only. Not for hu
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Gonadorelin Acetate 2 mg 10 vials ≥98% In Stock $42.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Gonadorelin Acetate | 2 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -115,7 +120,9 @@ HPG axis physiology, pituitary gonadotroph function, pulsatile neuroendocrine si
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Gonadorelin Acetate 2 mg 10 vials ≥98% In Stock $42.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Gonadorelin Acetate | 2 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

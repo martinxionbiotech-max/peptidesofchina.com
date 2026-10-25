@@ -6,12 +6,18 @@ price: 57.0
 status: "In Stock"
 description: "CJC-1295 without DAC (Mod GRF 1-29) sourced from verified Chinese manufacturer. HPLC-verified, purity tested per batch. Research use only."
 image: "/images/products/generic-vial.png"
+
 ---
 CJC-1295 Without DAC is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the GHRH Analogue (Growth Hormone Releasing Hormone) Also Known As Modified GRF (1-29), Mod GRF 1-29, Sermorelin analogue CAS Number 863288-34-0 Molecular Formula C₁₅₂H₂₅₂N₄₂O₄₂ Molecular Weight 3367.9 Da Sequence Length 29 amino acids Receptor Target GHRHR (Growth Hormone-Releasing Hormone Receptor) Half-life (research) ~25–30 min (vs. ~7 min for native GHRH) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) CJC-1295 Without DAC 2 mg 10 vials ≥98% In Stock $57.00 CJC-1295 Without DAC 5 mg 10 vials ≥98% In Stock $105.00 CJC-1295 Without DAC 10 mg 10 vials — In Stock $225.00 CJC-1295 Without DAC 10 mg 10 vials ≥98% In Stock $210.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| CJC-1295 Without DAC | 2 mg | 10 vials | ≥98% | In Stock |
+| CJC-1295 Without DAC | 5 mg | 10 vials | ≥98% | In Stock |
+| CJC-1295 Without DAC | 10 mg | 10 vials | — | In Stock |
+| CJC-1295 Without DAC | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -93,7 +99,12 @@ Chemical Class GHRH Analogue (Growth Hormone Releasing Hormone) Also Known As Mo
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) CJC-1295 Without DAC 2 mg 10 vials ≥98% In Stock $57.00 CJC-1295 Without DAC 5 mg 10 vials ≥98% In Stock $105.00 CJC-1295 Without DAC 10 mg 10 vials — In Stock $225.00 CJC-1295 Without DAC 10 mg 10 vials ≥98% In Stock $210.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| CJC-1295 Without DAC | 2 mg | 10 vials | ≥98% | In Stock |
+| CJC-1295 Without DAC | 5 mg | 10 vials | ≥98% | In Stock |
+| CJC-1295 Without DAC | 10 mg | 10 vials | — | In Stock |
+| CJC-1295 Without DAC | 10 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

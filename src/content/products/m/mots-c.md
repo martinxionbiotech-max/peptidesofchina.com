@@ -6,6 +6,7 @@ price: 83.0
 status: "In Stock"
 description: "Mitochondria-derived peptide encoded within the 12S rRNA gene. Under investigation in metabolic research for its effects on AMPK signaling pathways, glucose homeostasis, and mitochondrial function."
 image: "/images/products/mots-c-bottle.webp"
+
 ---
 MOTS-C is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Mitochondrial-derived peptide (MDP / Mitokine) Sequence MRWQEMGYIFYPRKLR Amino Acids 16 Molecular Weight ~2174 Da CAS Number 1627580-64-6 
 
@@ -15,7 +16,12 @@ Metabolic regulation, insulin sensitivity, AMPK activation, glucose metabolism, 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) MOTS-C 10 mg 10 vials ≥98% In Stock $83.00 MOTS-C 10 mg 10 vials — In Stock $120.00 MOTS-C 20 mg 10 vials >=98% In Stock $165.00 MOTS-C 40 mg 10 vials — In Stock $330.00 MOTS-C 40 mg 10 vials ≥98% In Stock $248.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| MOTS-C | 10 mg | 10 vials | ≥98% | In Stock |
+| MOTS-C | 10 mg | 10 vials | — | In Stock |
+| 165.00 MOTS-C | 40 mg | 10 vials | — | In Stock |
+| MOTS-C | 40 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -66,7 +72,12 @@ NAD+ 100mg + MOTS-C 10mg + 5-Amino-1MQ 10mg For laboratory research use only. No
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) MOTS-C 10 mg 10 vials ≥98% In Stock $83.00 MOTS-C 10 mg 10 vials — In Stock $120.00 MOTS-C 20 mg 10 vials >=98% In Stock $165.00 MOTS-C 40 mg 10 vials — In Stock $330.00 MOTS-C 40 mg 10 vials ≥98% In Stock $248.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| MOTS-C | 10 mg | 10 vials | ≥98% | In Stock |
+| MOTS-C | 10 mg | 10 vials | — | In Stock |
+| 165.00 MOTS-C | 40 mg | 10 vials | — | In Stock |
+| MOTS-C | 40 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -115,7 +126,12 @@ Metabolic regulation, insulin sensitivity, AMPK activation, glucose metabolism, 
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) MOTS-C 10 mg 10 vials ≥98% In Stock $83.00 MOTS-C 10 mg 10 vials — In Stock $120.00 MOTS-C 20 mg 10 vials >=98% In Stock $165.00 MOTS-C 40 mg 10 vials — In Stock $330.00 MOTS-C 40 mg 10 vials ≥98% In Stock $248.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| MOTS-C | 10 mg | 10 vials | ≥98% | In Stock |
+| MOTS-C | 10 mg | 10 vials | — | In Stock |
+| 165.00 MOTS-C | 40 mg | 10 vials | — | In Stock |
+| MOTS-C | 40 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

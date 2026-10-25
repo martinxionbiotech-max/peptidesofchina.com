@@ -6,6 +6,7 @@ price: 120.0
 status: "In Stock"
 description: "Liraglutide — a GLP-1 receptor agonist used for glycaemic control and weight management."
 image: "/images/products/generic-vial.png"
+
 ---
 liraglutide-china-pharma-1-pen-vial-1-units is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management Total variants: 3 In-stock variants: 3 of 3 Purity: ≥98% Standard pack size: 10 vials For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. research category, and its specification is confirmed with the manufacturer before the order ships. Like every listing on this platform, liraglutide-china-pharma-1-pen-vial-1-units is supplied for laboratory research use only.
 
@@ -14,7 +15,11 @@ Buy Liraglutide | Research Grade | Peptides of China Liraglutide Buy Liraglutide
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Liraglutide 5 mg 10 vials ≥98% In Stock $120.00 Liraglutide 10 mg 10 vials ≥98% In Stock $165.00 Liraglutide 30 mg 10 vials ≥98% In Stock $255.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Liraglutide | 5 mg | 10 vials | ≥98% | In Stock |
+| Liraglutide | 10 mg | 10 vials | ≥98% | In Stock |
+| Liraglutide | 30 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

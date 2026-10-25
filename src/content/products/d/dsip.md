@@ -6,6 +6,7 @@ price: 60.0
 status: "In Stock"
 description: "DSIP (Delta Sleep-Inducing Peptide) research grade, sourced from verified Chinese manufacturer. Batch number included."
 image: "/images/products/dsip-bottle.webp"
+
 ---
 DSIP is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Naturally occurring neuropeptide Synonyms Delta Sleep-Inducing Peptide, DSIP, Deltaran Sequence Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu Amino Acids 9 Molecular Formula C₃₅H₄₈N₈O₁₅ Molecular Weight 848.9 Da CAS Number 62568-57-4 
 
@@ -15,7 +16,14 @@ Sleep neuroscience, neuroendocrine regulation, stress response, antioxidant sign
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) DSIP 5 mg 10 vials — In Stock $90.00 DSIP 5 mg 10 vials ≥98% In Stock $60.00 DSIP 10 mg 10 vials ≥98% In Stock $113.00 DSIP 10 mg 10 vials — In Stock $120.00 DSIP 15 mg 10 vials — Out of Stock $150.00 DSIP 15 mg 10 vials — In Stock $143.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| DSIP | 5 mg | 10 vials | — | In Stock |
+| DSIP | 5 mg | 10 vials | ≥98% | In Stock |
+| DSIP | 10 mg | 10 vials | ≥98% | In Stock |
+| DSIP | 10 mg | 10 vials | — | In Stock |
+| DSIP | 15 mg | 10 vials | — | Out of Stock |
+| DSIP | 15 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -66,7 +74,14 @@ Lyophilized DSIP should be stored at −20°C, protected from light and moisture
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) DSIP 5 mg 10 vials — In Stock $90.00 DSIP 5 mg 10 vials ≥98% In Stock $60.00 DSIP 10 mg 10 vials ≥98% In Stock $113.00 DSIP 10 mg 10 vials — In Stock $120.00 DSIP 15 mg 10 vials — Out of Stock $150.00 DSIP 15 mg 10 vials — In Stock $143.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| DSIP | 5 mg | 10 vials | — | In Stock |
+| DSIP | 5 mg | 10 vials | ≥98% | In Stock |
+| DSIP | 10 mg | 10 vials | ≥98% | In Stock |
+| DSIP | 10 mg | 10 vials | — | In Stock |
+| DSIP | 15 mg | 10 vials | — | Out of Stock |
+| DSIP | 15 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -115,7 +130,14 @@ Sleep neuroscience, neuroendocrine regulation, stress response, antioxidant sign
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) DSIP 5 mg 10 vials — In Stock $90.00 DSIP 5 mg 10 vials ≥98% In Stock $60.00 DSIP 10 mg 10 vials ≥98% In Stock $113.00 DSIP 10 mg 10 vials — In Stock $120.00 DSIP 15 mg 10 vials — Out of Stock $150.00 DSIP 15 mg 10 vials — In Stock $143.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| DSIP | 5 mg | 10 vials | — | In Stock |
+| DSIP | 5 mg | 10 vials | ≥98% | In Stock |
+| DSIP | 10 mg | 10 vials | ≥98% | In Stock |
+| DSIP | 10 mg | 10 vials | — | In Stock |
+| DSIP | 15 mg | 10 vials | — | Out of Stock |
+| DSIP | 15 mg | 10 vials | — | In Stock |
 
 ## Specification Highlights
 

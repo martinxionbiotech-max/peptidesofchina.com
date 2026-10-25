@@ -6,6 +6,7 @@ price: 68.0
 status: "In Stock"
 description: "Standardized neuropeptide mixture derived from porcine brain protein. Studied in neuroscience research for neurotrophic factor-like effects, neuroplasticity mechanisms, and neuroprotective signaling i"
 image: "/images/products/generic-vial.png"
+
 ---
 Cerebrolysin is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Standardized porcine brain-derived peptide mixture Active Fraction ~25% low-MW peptides (<10 kDa), 75% free amino acids Proposed Active Components Neurotrophic-like peptides, BDNF/NGF-related sequences 
 
@@ -15,7 +16,9 @@ Neuroprotection, neurodegeneration models, ischemic brain injury, traumatic brai
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Cerebrolysin 60 mg 6 vials — In Stock $68.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Cerebrolysin | 60 mg | 6 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -62,7 +65,9 @@ Lyophilized cerebrolysin should be stored at −20°C. Reconstituted solutions s
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Cerebrolysin 60 mg 6 vials — In Stock $68.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Cerebrolysin | 60 mg | 6 vials | — | In Stock |
 
 ## Specification Highlights
 
@@ -107,7 +112,9 @@ Neuroprotection, neurodegeneration models, ischemic brain injury, traumatic brai
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Cerebrolysin 60 mg 6 vials — In Stock $68.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Cerebrolysin | 60 mg | 6 vials | — | In Stock |
 
 ## Specification Highlights
 

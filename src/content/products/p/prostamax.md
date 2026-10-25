@@ -14,7 +14,9 @@ Buy Prostamax | Research Grade | Peptides of China Prostamax Buy Prostamax — R
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Prostamax 20 10 vials ≥98% In Stock $143.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Prostamax | 20 mg | 10 vials | ≥98% | In Stock | 
 
 ## Specification Highlights
 

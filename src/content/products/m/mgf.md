@@ -6,6 +6,7 @@ price: 53.0
 status: "In Stock"
 description: "Mechano Growth Factor — a splice variant of IGF-1. Studied in exercise physiology research for its role in satellite cell activation and muscle tissue repair responses to mechanical loading."
 image: "/images/products/generic-vial.png"
+
 ---
 MGF is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the IGF-1 splice variant Ec peptide (C-terminal fragment) Synonyms Mechano Growth Factor, IGF-1Ec, Ec peptide Amino Acids 24 (C-terminal Ec domain fragment) Molecular Weight ~2867 Da CAS Number 162663-54-9 
 
@@ -15,7 +16,9 @@ Skeletal muscle biology, satellite cell activation, mechanotransduction, IGF-1 i
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) MGF 2 mg 10 vials ≥98% In Stock $53.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| MGF | 2 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -72,7 +75,9 @@ PEG-MGF Retatrutide + MGF For laboratory research use only. Not for human or vet
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) MGF 2 mg 10 vials ≥98% In Stock $53.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| MGF | 2 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 
@@ -127,7 +132,9 @@ Skeletal muscle biology, satellite cell activation, mechanotransduction, IGF-1 i
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) MGF 2 mg 10 vials ≥98% In Stock $53.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| MGF | 2 mg | 10 vials | ≥98% | In Stock |
 
 ## Specification Highlights
 

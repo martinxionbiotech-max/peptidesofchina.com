@@ -6,6 +6,7 @@ price: 131.0
 status: "In Stock"
 description: "Composition of glutathione, ascorbic acid, and zinc sulfate. The research context of its components concerns oxidation-reduction processes and cellular antioxidant systems."
 image: "/images/products/generic-vial.png"
+
 ---
 gaz-blend is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Vitamins & Nutrients, Blends Total variants: 1 In-stock variants: 1 of 1 Standard pack size: 10 × 10 mL ampoules 
 
@@ -18,7 +19,9 @@ Buy GAZ Blend | Research Grade | Peptides of China GAZ Blend Buy GAZ Blend — R
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) GAZ Blend 10 mL · 402.5 mg/mL 10 × 10 mL ampoules — In Stock $131.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| GAZ Blend | 10 mL · 402.5 mg/mL | 10 × 10 mL ampoules | — | In Stock |
 
 ## Specification Highlights
 

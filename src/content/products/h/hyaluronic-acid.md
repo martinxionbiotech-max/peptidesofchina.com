@@ -6,6 +6,7 @@ price: 45.0
 status: "In Stock"
 description: "Hyaluronic acid is a naturally occurring glycosaminoglycan of the extracellular matrix. Studied in research on tissue hydration, extracellular matrix organization, cell migration, and receptor-mediate"
 image: "/images/products/generic-vial.png"
+
 ---
 hyaluronic-acid is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Skin, Hair & Nails Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 1 vial 
 
@@ -18,7 +19,9 @@ Buy Hyaluronic Acid | Research Grade | Peptides of China Hyaluronic Acid Buy Hya
 
 ## Available Variants
 
-Name Strength Pack Size Purity Availability Price (USD) Hyaluronic Acid 5 mg 1 vial ≥98% In Stock $45.00 
+| Name | Strength | Pack Size | Purity | Availability |
+| --- | --- | --- | --- | --- |
+| Hyaluronic Acid | 5 mg | 1 vial | ≥98% | In Stock |
 
 ## Specification Highlights
 
