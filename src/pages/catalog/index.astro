@@ -30,6 +30,14 @@ for (const p of products) {
     private brands, resellers, and research buyers.
   </div>
 
+  <div class="card" style="flex-direction:row;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin:1.3rem 0">
+    <div>
+      <strong style="font-size:1.1rem">📄 Latest Price List (PDF)</strong>
+      <p class="meta" style="margin:0.2rem 0 0">All catalog prices in one file — USD per box, 10 vials per box.</p>
+    </div>
+    <a href="/pricelist.pdf" class="btn">Download Price List</a>
+  </div>
+
   {[...catGroups.entries()].map(([cat, items]) => (
     <section>
       <h2>{cat}</h2>
@@ -40,7 +48,6 @@ for (const p of products) {
               <img class="card-thumb" src={p.data.image} alt={`${p.data.name} — research peptide from China`} loading="lazy" width="240" height="240" />
             )}
             <strong class="card-title">{p.data.name}</strong>
-            <a href="/pricelist.pdf" class="meta" style="color:var(--accent);font-weight:600">📄 Download latest price list (PDF)</a>
             <span class="meta">{p.data.specification || p.data.purity || '10 vials'} · {p.data.status}</span>
           </a>
         ))}
