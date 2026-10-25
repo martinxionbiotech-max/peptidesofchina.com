@@ -1,0 +1,14 @@
+---
+title: "Buy Bpc 157 10Mg Tb 500 Fragment 10Mg — Research Grade | Peptides of China"
+name: "bpc-157-10mg-tb-500-fragment-10mg"
+slug: "bpc-157-10mg-tb-500-fragment-10mg"
+price: 143.0
+status: "In Stock"
+description: "Research blend of BPC-157 and TB-500 Fragment (17-24) — the compact actin-binding region of Thymosin Beta-4. The Fragment variant provides focused cell migration, angiogenic, and tissue-repair signali"
+
+
+---
+
+# Buy Bpc 157 10Mg Tb 500 Fragment 10Mg — Research Grade | Peptides of China
+
+Buy BPC-157 10mg + TB-500 Fragment 10mg | Research Grade | Peptides of China BPC-157 10mg + TB-500 Fragment 10mg Buy BPC-157 10mg + TB-500 Fragment 10mg — Research Grade Peptide BPC-157 10mg + TB-500 Fragment 10mg is a healing & repair research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. Product Overview Research blend of BPC-157 and TB-500 Fragment (17-24) — the compact actin-binding region of Thymosin Beta-4. The Fragment variant provides focused cell migration, angiogenic, and tissue-repair signaling without the full Tβ4 sequence. Investigated in preclinical models examining combined effects on tissue regeneration. Available Variants Name Strength Pack Size Purity Availability Price (USD) BPC-157 10mg + TB-500 Fragment 10mg 20 mg 10 vials >=98% In Stock $143.00 Specification Highlights Category: Healing & Repair, Blends Total variants: 1 In-stock variants: 1 of 1 Purity: >=98% Standard pack size: 10 vials Quality & Testing Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. Related Products BPC-157 + TB-500 Blend (Oral) NAD+ 100mg + MOTS-C 10mg + 5-Amino-1MQ 10mg HGH Fragment 176-191 BPC-157 Arg (Oral) BPC-157 oral capsule For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.

@@ -1,0 +1,51 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const products = await getCollection('products');
+products.sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999));
+
+const catGroups = new Map<string, typeof products>();
+for (const p of products) {
+  const c = p.data.category || 'Research Peptides';
+  if (!catGroups.has(c)) catGroups.set(c, []);
+  catGroups.get(c)!.push(p);
+}
+---
+<BaseLayout
+  title="China Peptides Catalog — Research Peptides From China | Peptides of China"
+  description="Complete catalog of research peptides manufactured in China: peptides, blends, and compounds with batch-tested purity, direct factory sourcing, and international shipping."
+>
+  <h1>China Peptide Catalog</h1>
+  <p class="muted">
+    {products.length} research compounds in stock — manufactured in established Chinese facilities,
+    batch-tested for purity, shipped internationally. Catalog quantities start from one kit of 10
+    vials per product.
+  </p>
+  <div class="notice">
+    <strong>B2B sourcing platform.</strong> Peptides of China coordinates factory sourcing, availability
+    confirmation, specifications, order processing, international logistics, and delivery support for
+    private brands, resellers, and research buyers.
+  </div>
+
+  {[...catGroups.entries()].map(([cat, items]) => (
+    <section>
+      <h2>{cat}</h2>
+      <div class="grid">
+        {items.map((p) => (
+          <a href={`/catalog/${p.data.slug}/`} class="card">
+            <strong>{p.data.name}</strong>
+            <span class="price">${p.data.price.toFixed(2)}</span>
+            <span class="meta">{p.data.specification || p.data.purity || '10 vials'} · {p.data.status}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
+
+  <div class="disclaimer">
+    <strong>Research use only.</strong> All products in this catalog are intended for laboratory
+    research purposes. They are not for human or veterinary use, and are not medicines, dietary
+    supplements, or cosmetics.
+  </div>
+</BaseLayout>

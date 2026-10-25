@@ -1,0 +1,14 @@
+---
+title: "Buy 5 Amino 1Mq Oral — Research Grade | Peptides of China"
+name: "5-amino-1mq-oral"
+slug: "5-amino-1mq-oral"
+price: 53.0
+status: "In Stock"
+description: "5-Amino-1MQ is an investigational small-molecule inhibitor of nicotinamide N-methyltransferase (NNMT). It is used in preclinical research examining NAD-related metabolism, methyl-donor balance, adipoc"
+
+
+---
+
+# Buy 5 Amino 1Mq Oral — Research Grade | Peptides of China
+
+Buy 5-Amino-1MQ (Oral) | Research Grade | Peptides of China 5-Amino-1MQ (Oral) Buy 5-Amino-1MQ (Oral) — Research Grade Peptide 5-Amino-1MQ (Oral) is a weight management research compound available to order directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. Product Overview 5-Amino-1MQ is an investigational small-molecule inhibitor of nicotinamide N-methyltransferase (NNMT). It is used in preclinical research examining NAD-related metabolism, methyl-donor balance, adipocyte biology, cellular energy regulation, and metabolic adaptation. Human safety and effectiveness have not been established. Available Variants Name Strength Pack Size Purity Availability Price (USD) 5-Amino-1MQ (Oral) 50 mg/tablet 25 tablets — Out of Stock $53.00 Specification Highlights Category: Weight Management, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 25 tablets Related Products Semaglutide oral tablet AICAR (Oral) BPC-157 + TB-500 Blend (Oral) SR9009 (Oral) Dihexa (Oral) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.

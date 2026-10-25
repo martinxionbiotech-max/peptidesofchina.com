@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((p) => ({ params: { slug: p.data.slug }, props: { post: p } }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+
+const structuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.data.title,
+    description: post.data.description || post.data.title,
+  },
+];
+---
+<BaseLayout title={`${post.data.title} | Peptides of China`} description={post.data.description}>
+  <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+  <p class="muted"><a href="/blog/">Blog</a> ›</p>
+  <h1>{post.data.title}</h1>
+  <article>
+    <Content />
+  </article>
+  <div class="disclaimer">
+    <strong>Research use only.</strong> Products referenced on this page are research compounds for
+    laboratory use. Nothing here is medical advice.
+  </div>
+  <p class="muted"><a href="/blog/">← All china peptide guides</a></p>
+</BaseLayout>

@@ -1,0 +1,11 @@
+---
+title: "Terms And Conditions"
+slug: "terms-and-conditions"
+description: "Terms governing use of Peptides of China and its request-based B2B sourcing process for research products."
+
+
+---
+
+# Terms And Conditions
+
+Terms & Conditions | Peptides of China Terms & Conditions These terms govern access to this website and the request-based sourcing services provided through Peptides of China. Last updated: September 6, 2026 Eligibility and authority You must be at least 21 years old to use this website or submit an order request. If you act for an organization, you confirm that you have authority to act for it. Research-use restriction Products are offered solely for legitimate laboratory research. They are not intended for human or animal consumption, diagnosis, treatment, prevention, or household use. You are responsible for determining whether purchase, import, possession, and use are permitted for your institution and destination. Requests, availability, and invoices A submitted request is not an accepted order. Product availability, pricing, shipping, and other order details are confirmed before final payment. The confirmed final invoice controls if it differs from general website information. No product substitution is made without your approval. Payment and order changes Current payment instructions are shown for the applicable order. You are responsible for checking the amount, asset or method, network where applicable, and destination before payment. Once final payment is made, the order cannot be cancelled by the customer. If assembly has not started, you may ask to add items; additions remain subject to availability, confirmation, and any supplemental payment. Shipping and product issues Current shipping options, estimates, and costs are shown during the request process or in the confirmed invoice. Delivery and product issues are handled under the Shipping & Reshipment Policy and Refund & Cancellation Policy. Website information We work to keep website information accurate, but catalog details, availability, pricing, and logistics can change. Product-page specifications and the confirmed invoice apply to the relevant order. Nothing on this website is medical, legal, regulatory, or professional advice. Contact us with questions about these policies →

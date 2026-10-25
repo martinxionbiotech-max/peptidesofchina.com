@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const items = await getCollection('news');
+---
+<BaseLayout
+  title="News — Peptides of China"
+  description="Updates and announcements from Peptides of China: sourcing, quality, and platform news."
+>
+  <h1>News</h1>
+  <p class="muted">{items.length} updates.</p>
+  <div class="grid">
+    {items.map((p) => (
+      <a href={`/news/${p.data.slug}/`} class="card">
+        <strong>{p.data.title}</strong>
+        <span class="meta">{p.data.description || ''}</span>
+      </a>
+    ))}
+  </div>
+</BaseLayout>

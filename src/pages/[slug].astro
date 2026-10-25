@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+  return pages.map((p) => ({ params: { slug: p.data.slug }, props: { page: p } }));
+}
+
+const { page } = Astro.props;
+const { Content } = await render(page);
+---
+<BaseLayout title={`${page.data.title} | Peptides of China`} description={page.data.description}>
+  <h1>{page.data.title}</h1>
+  <article>
+    <Content />
+  </article>
+</BaseLayout>

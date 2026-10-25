@@ -1,0 +1,79 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const products = await getCollection('products');
+const posts = await getCollection('blog');
+---
+<BaseLayout
+  title="China Peptides — Research Peptides From China | Peptides of China"
+  description="B2B sourcing platform for research peptides manufactured in China: batch-tested purity, direct factory access, and international shipping for private brands, resellers, and research buyers."
+>
+  <h1>Research Peptides From China, Sourced at the Factory Level</h1>
+  <p>
+    Peptides of China is a B2B sourcing platform for <strong>china peptides</strong> — finished
+    lyophilized research compounds manufactured in established Chinese facilities. We coordinate
+    factory sourcing, availability confirmation, manufacturer specifications, order processing,
+    international logistics, and delivery support for private brands, resellers, and research buyers.
+  </p>
+
+  <div class="grid">
+    <div class="card">
+      <strong>{products.length}+ Research Compounds</strong>
+      <span class="meta">Peptides, blends, and reference compounds in stock</span>
+    </div>
+    <div class="card">
+      <strong>Direct Factory Sourcing</strong>
+      <span class="meta">No intermediaries — manufacturer-direct access</span>
+    </div>
+    <div class="card">
+      <strong>Batch-Tested Purity</strong>
+      <span class="meta">Routine quality control per manufacturer specifications</span>
+    </div>
+    <div class="card">
+      <strong>International Shipping</strong>
+      <span class="meta">Door-to-door logistics with tracking</span>
+    </div>
+  </div>
+
+  <h2>Why Chinese Peptides — and Why Sourcing Matters</h2>
+  <p>
+    China is home to world-class peptide manufacturers. The difference between excellent and
+    unreliable <strong>chinese peptides</strong> is not the country of origin — it is who manufactured
+    and finished the vial. Direct access to established manufacturers is normally reserved for
+    qualified institutions and professional buyers; raw APIs, by contrast, are easy to obtain, which
+    has fed a market of unqualified laboratories that perform formulation and lyophilization without
+    validated processes. The result is inconsistent peptide content, contamination risk, and
+    unreliable batches.
+  </p>
+  <p>
+    Our platform exists to close that gap: <strong>china peptide</strong> sourcing through verified
+    manufacturers, with manufacturer specifications and lot traceability as the baseline — not the
+    exception.
+  </p>
+
+  <h2>How It Works</h2>
+  <ol>
+    <li><strong>Select compounds</strong> from the <a href="/catalog/">catalog</a>.</li>
+    <li><strong>Confirm availability and specifications</strong> with the manufacturer.</li>
+    <li><strong>Order and pay</strong> — public catalog minimum is $300 per supplier.</li>
+    <li><strong>Receive door-to-door</strong> with international tracking.</li>
+  </ol>
+  <p><a href="/how-it-works/">Read the full process →</a></p>
+
+  <h2>From the Blog</h2>
+  <div class="grid">
+    {posts.slice(0, 6).map((p) => (
+      <a href={`/blog/${p.data.slug}/`} class="card">
+        <strong>{p.data.title}</strong>
+        <span class="meta">{p.data.description || ''}</span>
+      </a>
+    ))}
+  </div>
+
+  <div class="disclaimer">
+    <strong>Research use only.</strong> All products on this platform are research compounds intended
+    for laboratory research purposes. They are not for human or veterinary use, and are not medicines,
+    dietary supplements, or cosmetics.
+  </div>
+</BaseLayout>

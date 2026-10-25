@@ -1,0 +1,23 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort((a, b) =>
+  (b.data.title > a.data.title ? -1 : 1)
+);
+---
+<BaseLayout
+  title="China Peptide Blog — Research, Sourcing & Industry Guides | Peptides of China"
+  description="Guides and analysis on sourcing research peptides from China: quality, purity testing, compound profiles, B2B buying, and industry practice."
+>
+  <h1>China Peptides Blog</h1>
+  <p class="muted">{posts.length} articles on china peptide sourcing, quality, and research practice.</p>
+  <div class="grid">
+    {posts.map((p) => (
+      <a href={`/blog/${p.data.slug}/`} class="card">
+        <strong>{p.data.title}</strong>
+        <span class="meta">{p.data.description || ''}</span>
+      </a>
+    ))}
+  </div>
+</BaseLayout>

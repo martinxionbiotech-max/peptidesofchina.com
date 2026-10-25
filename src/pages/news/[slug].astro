@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const items = await getCollection('news');
+  return items.map((p) => ({ params: { slug: p.data.slug }, props: { item: p } }));
+}
+
+const { item } = Astro.props;
+const { Content } = await render(item);
+---
+<BaseLayout title={`${item.data.title} | Peptides of China`} description={item.data.description}>
+  <p class="muted"><a href="/news/">News</a> ›</p>
+  <h1>{item.data.title}</h1>
+  <article>
+    <Content />
+  </article>
+  <p class="muted"><a href="/news/">← All news</a></p>
+</BaseLayout>
