@@ -5,11 +5,7 @@ slug: "vip"
 price: 233.0
 status: "In Stock"
 description: "Vasoactive intestinal peptide — 28-amino acid neuropeptide. Subject of research into autonomic nervous system function, neuroimmune regulation, and anti-inflammatory signaling via VPAC receptors."
-
-
-
-
-
+image: "/images/products/vip-bottle.webp"
 ---
 VIP is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Neuropeptide (glucagon/secretin superfamily) Synonyms Vasoactive Intestinal Peptide, VIP-28 Sequence His-Ser-Asp-Ala-Val-Phe-Thr-Asp-Asn-Tyr-Thr-Arg-Leu-Arg-Lys-Gln-Met-Ala-Val-Lys-Lys-Tyr-Leu-Asn-Ser-Ile-Leu-Asn-NH₂ Amino Acids 28 Molecular Weight 3326.8 Da CAS Number 37221-79-7 Receptor Targets VPAC1, VPAC2 (primary), PAC1 (secondary) 
 

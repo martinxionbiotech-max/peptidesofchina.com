@@ -5,11 +5,7 @@ slug: "cjc-1295-ipamorelin"
 price: 128.0
 status: "In Stock"
 description: "CJC-1295 and Ipamorelin combined blend. Sourced from verified Chinese manufacturer. HPLC verified, purity tested per batch. Research use only."
-
-
-
-
-
+image: "/images/products/cjc-1295-ipamorelin-stack-bottle.webp"
 ---
 CJC-1295 + Ipamorelin is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Muscle & Performance, Hormonal Regulation, Blends Total variants: 2 In-stock variants: 2 of 2 Purity: ≥98% Standard pack size: 10 vials 
 

@@ -5,11 +5,7 @@ slug: "ghk-cu"
 price: 38.0
 status: "In Stock"
 description: "GHK-Cu (Copper Tripeptide-1) for research. Sourced directly from China, HPLC verified, purity tested per batch. Longevity and skin research applications."
-
-
-
-
-
+image: "/images/products/ghk-cu-bottle.webp"
 ---
 GHK-Cu is the copper peptide most in demand across both research and cosmetic-formulation channels. For china peptide buyers, GHK-Cu presents a specific sourcing challenge: copper content, peptide content, and appearance are all commonly misreported by intermediaries. We supply GHK-Cu with manufacturer specifications that state what is actually in the vial, because a copper peptide with unverified copper content is not a research tool — it is a liability.
 

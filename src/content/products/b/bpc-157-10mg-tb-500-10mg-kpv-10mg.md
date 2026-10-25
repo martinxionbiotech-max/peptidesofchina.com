@@ -5,11 +5,7 @@ slug: "bpc-157-10mg-tb-500-10mg-kpv-10mg"
 price: 299.0
 status: "In Stock"
 description: "Research material containing bpc-157 10mg + tb-500 10mg + kpv 10mg."
-
-
-
-
-
+image: "/images/products/bpc-157-bottle.webp"
 ---
 bpc-157-10mg-tb-500-10mg-kpv-10mg is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Healing & Repair, Blends Total variants: 1 In-stock variants: 1 of 1 Standard pack size: 10 vials 
 

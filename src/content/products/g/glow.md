@@ -5,11 +5,7 @@ slug: "glow"
 price: 263.0
 status: "In Stock"
 description: "Composition of TB-500, BPC-157, and the copper peptide GHK-Cu. The research context of its components covers cell migration, extracellular matrix regulation, and tissue remodelling processes."
-
-
-
-
-
+image: "/images/products/glow70-stack-bottle.webp"
 ---
 GLOW is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Skin & Hair, Tissue Repair, Angiogenesis, ECM Remodelling Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) CAS Number N/A — combination product Molecular Weight N/A — see individual components Molecular Formula N/A — combination product Sequence N/A — combination product 
 

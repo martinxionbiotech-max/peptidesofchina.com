@@ -5,11 +5,7 @@ slug: "cagrilintide"
 price: 135.0
 status: "In Stock"
 description: "Cagrilintide research peptide sourced from verified Chinese synthesis facility. Long-acting amylin analog. Purity tested per batch, wholesale B2B pricing."
-
-
-
-
-
+image: "/images/products/cagrilintide-bottle.webp"
 ---
 Cagrilintide is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Acylated amylin analogue Synonyms IcoSema amylin component, AM833 Amino Acids 26 (modified human amylin sequence) Molecular Weight ~3367 Da (with C20 fatty acid modification) CAS Number 2173468-47-0 
 

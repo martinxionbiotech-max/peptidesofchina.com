@@ -9,7 +9,7 @@ export async function getStaticPaths() {
 
 const { product } = Astro.props;
 const { Content } = await render(product);
-const { title, name, price, purity, specification, status } = product.data;
+const { title, name, price, purity, specification, status, image } = product.data;
 const base = `Buy ${name} | China Peptide — Peptides of China`;
 const seoTitle = base.length <= 60 ? base : `Buy ${name.slice(0, 37).trimEnd()}… | China Peptide`;
 
@@ -43,10 +43,15 @@ const structuredData = [
   <p class="muted"><a href="/catalog/">Catalog</a> › {name}</p>
   <h1>{title}</h1>
 
-  <div class="card" style="max-width:420px">
-    <span class="badge">{status}</span>
-    <strong style="font-size:1.5rem">${price.toFixed(2)}</strong>
-    <span class="meta">{specification || '10 vials per kit'} · {purity || '≥98% purity'}</span>
+  <div style="display:flex;gap:1.5rem;flex-wrap:wrap;align-items:flex-start">
+    {image && (
+      <img src={image} alt={`${name} — research peptide from China`} width="360" height="360" style="border-radius:8px;max-width:360px;width:100%;aspect-ratio:1;object-fit:cover;background:var(--bg-soft);border:1px solid var(--border)" />
+    )}
+    <div class="card" style="max-width:420px;flex:1;min-width:240px">
+      <span class="badge">{status}</span>
+      <strong style="font-size:1.5rem">${price.toFixed(2)}</strong>
+      <span class="meta">{specification || '10 vials per kit'} · {purity || '≥98% purity'}</span>
+    </div>
   </div>
 
   <article>

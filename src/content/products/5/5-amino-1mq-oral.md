@@ -5,11 +5,7 @@ slug: "5-amino-1mq-oral"
 price: 53.0
 status: "In Stock"
 description: "5-Amino-1MQ is an investigational small-molecule inhibitor of nicotinamide N-methyltransferase (NNMT). It is used in preclinical research examining NAD-related metabolism, methyl-donor balance, adipoc"
-
-
-
-
-
+image: "/images/products/5-amino-1mq-bottle.webp"
 ---
 5-amino-1mq-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 25 tablets 
 

@@ -5,11 +5,7 @@ slug: "bpc-157-tb-500-blend-oral"
 price: 195.0
 status: "In Stock"
 description: "This investigational blend combines BPC-157 with a short TB-500 peptide fragment derived from the actin-binding region of thymosin beta-4. Preclinical research on the individual components examines ga"
-
-
-
-
-
+image: "/images/products/bpc-157-bottle.webp"
 ---
 bpc-157-tb-500-blend-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Healing & Repair, Orals, Blends Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 100 tablets 
 

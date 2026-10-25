@@ -5,11 +5,7 @@ slug: "ipamorelin"
 price: 53.0
 status: "In Stock"
 description: "Ipamorelin GH secretagogue research peptide sourced from verified Chinese manufacturer. 5mg & 10mg available. HPLC-verified, purity tested per batch."
-
-
-
-
-
+image: "/images/products/ipamorelin-bottle.webp"
 ---
 Ipamorelin is the gentlest of the growth-hormone secretagogue family, and one of the most reliably stocked chinese peptides across manufacturer catalogs. Its stability in lyophilized form makes it a sensible first order for buyers new to china peptide sourcing, and its popularity makes it a common target for substitution with cheaper GHRPs. We confirm the specific compound and specification with the manufacturer before the order ships.
 

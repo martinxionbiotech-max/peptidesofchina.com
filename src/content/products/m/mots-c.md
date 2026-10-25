@@ -5,11 +5,7 @@ slug: "mots-c"
 price: 83.0
 status: "In Stock"
 description: "Mitochondria-derived peptide encoded within the 12S rRNA gene. Under investigation in metabolic research for its effects on AMPK signaling pathways, glucose homeostasis, and mitochondrial function."
-
-
-
-
-
+image: "/images/products/mots-c-bottle.webp"
 ---
 MOTS-C is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Mitochondrial-derived peptide (MDP / Mitokine) Sequence MRWQEMGYIFYPRKLR Amino Acids 16 Molecular Weight ~2174 Da CAS Number 1627580-64-6 
 

@@ -5,11 +5,7 @@ slug: "ahk-cu"
 price: 83.0
 status: "In Stock"
 description: "Copper-chelating tripeptide analog. Investigated in dermatological research for effects on follicular biology, extracellular matrix remodeling, and collagen biosynthesis."
-
-
-
-
-
+image: "/images/products/ahk-cu-bottle.webp"
 ---
 AHK-Cu is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Copper-peptide complex (tripeptide) Synonyms Ala-His-Lys copper complex, AHK copper tripeptide Sequence Ala-His-Lys Amino Acids 3 Copper Chelation Cu²⁺ via histidine imidazole nitrogen and N-terminal amine 
 

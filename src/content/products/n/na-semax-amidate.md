@@ -5,11 +5,7 @@ slug: "na-semax-amidate"
 price: 195.0
 status: "In Stock"
 description: "N-acetylated, C-amidated form of Semax (Met–Glu–His–Phe–Pro–Gly–Pro). The dual modification enhances resistance to enzymatic degradation and extends compound persistence in preclinical CNS research mo"
-
-
-
-
-
+image: "/images/products/semax-bottle.webp"
 ---
 na-semax-amidate is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Cognitive & Neuro, Bioregulators Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
 

@@ -5,11 +5,7 @@ slug: "cagrilintide-semaglutide"
 price: 183.0
 status: "In Stock"
 description: "Dual amylin/GLP-1 receptor agonist combination. Subject of clinical investigation examining complementary mechanisms in metabolic research."
-
-
-
-
-
+image: "/images/products/cagrilintide-bottle.webp"
 ---
 Cagrilintide + Semaglutide is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management, Blends Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
 

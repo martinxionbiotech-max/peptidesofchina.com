@@ -5,11 +5,7 @@ slug: "semax"
 price: 74.0
 status: "In Stock"
 description: "Semax research peptide sourced from verified Chinese manufacturer. HPLC purity verification. Purity tested per batch. Ships internationally."
-
-
-
-
-
+image: "/images/products/semax-bottle.webp"
 ---
 Semax is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Synthetic ACTH(4-7) Analogue / Nootropic Heptapeptide CAS Number 80714-61-0 Molecular Formula C₃₇H₅₁N₉O₁₀S Molecular Weight 813.94 Da Sequence Met-Glu-His-Phe-Pro-Gly-Pro (7 amino acids) Parent Sequence ACTH(4-7) + Pro-Gly-Pro stabilising extension Developed by Institute of Molecular Genetics, Russian Academy of Sciences Synonyms ACTH(4-7)PGP, N-prolylglycylproline fragment Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
 

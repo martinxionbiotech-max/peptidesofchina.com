@@ -5,11 +5,7 @@ slug: "na-epithalon-amidate"
 price: 68.0
 status: "In Stock"
 description: "N-acetylated, C-amidated analog of Epithalon (Ala–Glu–Asp–Gly). The dual modification enhances resistance to enzymatic degradation and improves stability relative to the parent tetrapeptide. Investiga"
-
-
-
-
-
+image: "/images/products/epithalon-bottle.webp"
 ---
 na-epithalon-amidate is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Anti-Aging & Longevity, Bioregulators Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
 

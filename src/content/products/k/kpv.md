@@ -5,11 +5,7 @@ slug: "kpv"
 price: 83.0
 status: "In Stock"
 description: "C-terminal tripeptide of α-melanocyte-stimulating hormone (α-MSH). Investigated in preclinical gut biology research for NF-κB pathway modulation and intestinal barrier function."
-
-
-
-
-
+image: "/images/products/kpv-bottle.webp"
 ---
 KPV is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the α-MSH C-terminal tripeptide (MC1R agonist) Synonyms α-MSH(11-13), Lys-Pro-Val, L-Lysyl-L-Prolyl-L-Valine Sequence Lys-Pro-Val Molecular Formula C₁₆H₃₀N₄O₄ Molecular Weight 342.4 Da CAS Number 13454-14-3 
 

@@ -1,0 +1,7 @@
+# Cloudflare Pages 部署配置 — peptidesofchina.com
+name = "peptidesofchina"
+compatibility_date = "2026-10-01"
+
+[pages]
+# Astro 静态站：直接上传 dist 产物
+build_output_dir = "dist"

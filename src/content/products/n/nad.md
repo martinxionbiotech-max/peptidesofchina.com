@@ -5,11 +5,7 @@ slug: "nad"
 price: 90.0
 status: "In Stock"
 description: "NAD+ (Nicotinamide Adenine Dinucleotide) for research. 500mg & 1000mg available. Sourced from verified Chinese manufacturer, purity tested per batch."
-
-
-
-
-
+image: "/images/products/nad-plus-500mg.webp"
 ---
 NAD+ is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Pyridine nucleotide coenzyme Synonyms Nicotinamide Adenine Dinucleotide (oxidized), NAD, DPN, Coenzyme I Molecular Formula C₂₁H₂₇N₇O₁₄P₂ Molecular Weight 663.4 Da CAS Number 53-84-9 PubChem CID 5892 
 

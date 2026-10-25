@@ -5,11 +5,7 @@ slug: "bpc-157-arg-oral"
 price: 68.0
 status: "In Stock"
 description: "BPC-157 Arg is the arginine-salt form of the synthetic pentadecapeptide BPC-157. The arginate form is designed to improve peptide stability, including under acidic conditions, making it better suited "
-
-
-
-
-
+image: "/images/products/bpc-157-bottle.webp"
 ---
 bpc-157-arg-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Healing & Repair, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 100 tablets 
 

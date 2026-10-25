@@ -5,11 +5,7 @@ slug: "tesamorelin"
 price: 74.0
 status: "In Stock"
 description: "Tesamorelin GHRH analog research peptide sourced from verified Chinese manufacturer. 5mg & 10mg vials, purity tested per batch."
-
-
-
-
-
+image: "/images/products/tesamorelin-bottle.webp"
 ---
 Tesamorelin is a growth-hormone-releasing hormone analogue with a specific preclinical niche in visceral-fat research. It is comparatively rare in china peptide catalogs, and rare compounds concentrate sourcing risk: fewer manufacturers make it, and fewer resellers know how to verify it. We coordinate directly with the manufacturer for availability and specification before confirming any tesamorelin order.
 

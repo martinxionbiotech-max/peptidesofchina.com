@@ -5,11 +5,7 @@ slug: "pinealon"
 price: 59.0
 status: "In Stock"
 description: "Short peptide bioregulator studied in connection with pineal gland and nervous system function. Investigated in preclinical neurophysiology research for effects on circadian biology and neuronal metab"
-
-
-
-
-
+image: "/images/products/pinealon-bottle.webp"
 ---
 Pinealon is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Synthetic tripeptide bioregulator (pineal origin) Synonyms Glu-Asp-Arg tripeptide, EDR, pineal bioregulator peptide Sequence Glu-Asp-Arg Amino Acids 3 Molecular Weight 432.4 Da 
 

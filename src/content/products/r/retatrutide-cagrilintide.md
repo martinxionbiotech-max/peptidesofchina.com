@@ -5,11 +5,7 @@ slug: "retatrutide-cagrilintide"
 price: 174.0
 status: "In Stock"
 description: "Combination of retatrutide and cagrilintide, compounds with different mechanisms of action in systems regulating metabolism and satiety."
-
-
-
-
-
+image: "/images/products/retatrutide-bottle.webp"
 ---
 retatrutide-cagrilintide is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management, Blends Total variants: 2 In-stock variants: 2 of 2 Standard pack size: 10 vials 
 

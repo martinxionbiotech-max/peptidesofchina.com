@@ -5,11 +5,7 @@ slug: "bpc-157-oral-capsule"
 price: 53.0
 status: "In Stock"
 description: "BPC-157 oral capsule research format."
-
-
-
-
-
+image: "/images/products/bpc-157-bottle.webp"
 ---
 bpc-157-oral-capsule is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Healing & Repair, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 60 capsules 
 

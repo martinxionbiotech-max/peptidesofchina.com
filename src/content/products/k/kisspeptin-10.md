@@ -5,11 +5,7 @@ slug: "kisspeptin-10"
 price: 90.0
 status: "In Stock"
 description: "Endogenous neuropeptide and ligand of the KISS1R receptor. Investigated for its role in GnRH pulse generation and the neuroendocrine regulation of reproduction."
-
-
-
-
-
+image: "/images/products/kisspeptin-10-bottle.webp"
 ---
 KissPeptin-10 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the RFamide neuropeptide (C-terminal kisspeptin fragment) Synonyms KP-10, Metastin(45-54), KISS1 C-terminal decapeptide Sequence Tyr-Asn-Trp-Asn-Ser-Phe-Gly-Leu-Arg-Phe-NH₂ Amino Acids 10 Molecular Weight 1302.6 Da CAS Number 374683-16-6 Receptor Target GPR54 / KISS1R (kisspeptin receptor) 
 

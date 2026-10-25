@@ -5,11 +5,7 @@ slug: "5-amino-1mq"
 price: 68.0
 status: "In Stock"
 description: "5-Amino-1MQ NNMT inhibitor small molecule for metabolic research. Sourced from verified Chinese manufacturer. Purity tested per batch."
-
-
-
-
-
+image: "/images/products/5-amino-1mq-bottle.webp"
 ---
 5-Amino-1MQ is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Methylquinolinium NNMT inhibitor (small molecule) Synonyms 5-Amino-1-methylquinolinium, 5A1MQ Primary Target NNMT (Nicotinamide N-methyltransferase) 
 

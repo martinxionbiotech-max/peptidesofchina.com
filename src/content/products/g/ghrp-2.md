@@ -5,11 +5,7 @@ slug: "ghrp-2"
 price: 36.0
 status: "In Stock"
 description: "Second-generation growth hormone releasing peptide and ghrelin receptor agonist. Investigated for GH secretagogue activity, with research noting differences in ghrelin-mediated appetite signaling comp"
-
-
-
-
-
+image: "/images/products/ghrp-2-bottle.webp"
 ---
 GHRP-2 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Synthetic hexapeptide (second-generation GH secretagogue) Synonyms Growth Hormone Releasing Peptide-2, Pralmorelin, KP-102 Sequence D-Ala-D-2-Nal-Ala-Trp-D-Phe-Lys-NH₂ Amino Acids 6 Molecular Formula C₄₅H₅₅N₉O₆ Molecular Weight 817.9 Da CAS Number 158861-67-7 PubChem CID 9831531 Receptor Target GHS-R1a (ghrelin receptor) 
 

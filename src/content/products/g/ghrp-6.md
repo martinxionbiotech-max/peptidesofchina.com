@@ -5,11 +5,7 @@ slug: "ghrp-6"
 price: 36.0
 status: "In Stock"
 description: "Hexapeptide growth hormone secretagogue and ghrelin receptor agonist. Studied for its role in GH release mechanisms and ghrelin pathway activity in research models."
-
-
-
-
-
+image: "/images/products/ghrp-6-bottle.webp"
 ---
 GHRP-6 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Synthetic hexapeptide (growth hormone secretagogue) Synonyms Growth Hormone Releasing Hexapeptide, GHRP 6, SK&F-110679 Sequence His-D-Trp-Ala-Trp-D-Phe-Lys-NH₂ Amino Acids 6 Molecular Formula C₄₆H₅₆N₁₂O₆ Molecular Weight 873.0 Da CAS Number 87616-84-0 PubChem CID 5486806 Receptor Target GHS-R1a (ghrelin receptor / growth hormone secretagogue receptor) 
 

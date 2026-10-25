@@ -5,11 +5,7 @@ slug: "thymalin"
 price: 95.0
 status: "In Stock"
 description: "Thymalin thymic peptide for immunological research. Sourced directly from China. Purity tested per batch, wholesale pricing."
-
-
-
-
-
+image: "/images/products/thymalin-bottle.webp"
 ---
 Thymalin is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Polypeptide bioregulator (thymus-derived peptide fraction) Synonyms Thymus polypeptide bioregulator, thymus extract peptide fraction Active Components Short thymic peptides 1-6 kDa including thymopentin-related sequences 
 

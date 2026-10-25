@@ -5,11 +5,7 @@ slug: "foxo4-dri"
 price: 480.0
 status: "In Stock"
 description: "D-amino acid retro-inverso FOXO4 peptide. Investigated as a senolytic agent in aging biology research, with preclinical studies examining its effects on p53-mediated apoptosis in senescent cells."
-
-
-
-
-
+image: "/images/products/foxo4-10mg-1.webp"
 ---
 FOXO4-DRI is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the D-retro-inverso peptidomimetic (DRI peptide) Synonyms FOXO4-DRI, FOXO4-p53 interfering peptide Amino Acids 18 (D-amino acid, retro-inverso sequence) Molecular Weight ~2448 Da 
 

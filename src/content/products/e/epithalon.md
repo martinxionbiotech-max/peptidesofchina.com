@@ -5,11 +5,7 @@ slug: "epithalon"
 price: 48.0
 status: "In Stock"
 description: "Epithalon (Epitalon) research peptide sourced directly from China. Purity and concentration verified per batch. Popular in longevity research."
-
-
-
-
-
+image: "/images/products/epithalon-bottle.webp"
 ---
 Epithalon (Epitalon) has anchored longevity and telomere research in the china peptide space for over a decade. The compound is short, cheap to synthesize, and therefore heavily commoditized — which makes sourcing quality the entire ballgame for chinese peptides buyers. Our Epithalon is supplied as finished lyophilized product from an established Chinese manufacturer with documented purity per batch.
 

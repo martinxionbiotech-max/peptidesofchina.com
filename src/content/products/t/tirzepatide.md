@@ -5,11 +5,7 @@ slug: "tirzepatide"
 price: 53.0
 status: "In Stock"
 description: "Explore Tirzepatide product variants and wholesale catalog information from Peptides of China."
-
-
-
-
-
+image: "/images/products/tirzepatide-bottle.webp"
 ---
 Tirzepatide sits at the center of the fastest-growing segment in the china peptide export market. Dual-incretin research programs order chinese peptides like tirzepatide in volume, and the difference between a reliable supplier and a trader is visible in three places: specification documents, lot traceability, and consistency of delivery. Our platform exists to make all three checkable before ordering.
 

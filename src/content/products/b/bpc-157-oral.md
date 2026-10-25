@@ -5,11 +5,7 @@ slug: "bpc-157-oral"
 price: 90.0
 status: "In Stock"
 description: "Synthetic pentadecapeptide investigated in models of tissue repair, angiogenesis, and inflammatory regulation. A separate research focus concerns protective mechanisms of the gastrointestinal mucosa."
-
-
-
-
-
+image: "/images/products/bpc-157-bottle.webp"
 ---
 bpc-157-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Healing & Repair, Orals Total variants: 1 In-stock variants: 1 of 1 Standard pack size: 100 tablets 
 

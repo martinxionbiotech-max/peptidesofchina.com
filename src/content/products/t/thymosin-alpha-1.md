@@ -5,11 +5,7 @@ slug: "thymosin-alpha-1"
 price: 138.0
 status: "In Stock"
 description: "Thymosin Alpha-1 immunomodulatory peptide sourced from verified Chinese manufacturer. Purity tested per batch, HPLC tested. Wholesale pricing."
-
-
-
-
-
+image: "/images/products/thymosin-alpha-1-bottle.webp"
 ---
 Thymosin Alpha-1 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Thymic Immunomodulatory Peptide CAS Number 62304-98-7 Molecular Formula C₁₂₉H₂₁₅N₃₃O₅₅ Molecular Weight 3108.4 Da Sequence Ac-SDAAVDTSSEITTKDLKEKKEVVEEAEN (28 amino acids, N-acetylated) N-terminal Modification Acetylation (required for full activity) Synonyms Tα1, Thymalfasin, Thymosin α1 Primary Receptors TLR-2, TLR-9; dendritic cell surface signalling Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
 

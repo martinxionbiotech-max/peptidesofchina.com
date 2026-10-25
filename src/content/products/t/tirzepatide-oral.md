@@ -5,11 +5,7 @@ slug: "tirzepatide-oral"
 price: 30.0
 status: "In Stock"
 description: "Tirzepatide oral tablet research format."
-
-
-
-
-
+image: "/images/products/tirzepatide-bottle.webp"
 ---
 tirzepatide-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management, Orals Total variants: 1 In-stock variants: 0 of 1 Standard pack size: 25 tablets 
 

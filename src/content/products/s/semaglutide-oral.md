@@ -5,11 +5,7 @@ slug: "semaglutide-oral"
 price: 30.0
 status: "In Stock"
 description: "Semaglutide oral tablet research format."
-
-
-
-
-
+image: "/images/products/semaglutide-bottle.webp"
 ---
 semaglutide-oral is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management, Orals Total variants: 3 In-stock variants: 0 of 3 Standard pack size: 25 tablets 
 

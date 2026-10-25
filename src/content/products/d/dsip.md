@@ -5,11 +5,7 @@ slug: "dsip"
 price: 60.0
 status: "In Stock"
 description: "DSIP (Delta Sleep-Inducing Peptide) research grade, sourced from verified Chinese manufacturer. Batch number included."
-
-
-
-
-
+image: "/images/products/dsip-bottle.webp"
 ---
 DSIP is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Naturally occurring neuropeptide Synonyms Delta Sleep-Inducing Peptide, DSIP, Deltaran Sequence Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu Amino Acids 9 Molecular Formula C₃₅H₄₈N₈O₁₅ Molecular Weight 848.9 Da CAS Number 62568-57-4 
 

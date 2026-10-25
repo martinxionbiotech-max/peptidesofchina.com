@@ -34,6 +34,9 @@ for (const p of products) {
       <div class="grid">
         {items.map((p) => (
           <a href={`/catalog/${p.data.slug}/`} class="card">
+            {p.data.image && (
+              <img src={p.data.image} alt={`${p.data.name} — research peptide from China`} loading="lazy" width="240" height="240" style="border-radius:6px;width:100%;aspect-ratio:1;object-fit:cover;background:var(--bg)" />
+            )}
             <strong>{p.data.name}</strong>
             <span class="price">${p.data.price.toFixed(2)}</span>
             <span class="meta">{p.data.specification || p.data.purity || '10 vials'} · {p.data.status}</span>
