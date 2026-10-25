@@ -310,6 +310,92 @@ const isActive = (href: string) => (href === '/' ? path === '/' : path === href 
       .spec-rows dd { font-weight: 600; text-align: right; }
       .price-card .actions { display: flex; flex-direction: column; gap: 0.5rem; }
 
+      /* ---------- Product page: direct answer + compound profile ---------- */
+      .direct-answer {
+        background: var(--accent-tint);
+        border: 1px solid var(--accent-soft);
+        border-left: 4px solid var(--accent);
+        border-radius: var(--radius-sm);
+        padding: 0.9rem 1.15rem;
+        color: var(--text);
+        font-size: 1.02rem;
+        max-width: none;
+        margin-bottom: 1.2rem;
+      }
+      .compound-profile-card {
+        margin: 0 0 2.2rem;
+        background: var(--bg-soft);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        padding: 1.3rem 1.4rem 1.1rem;
+      }
+      .compound-profile-card h2 {
+        margin: 0 0 0.9rem;
+        border-bottom: 1px solid var(--border);
+        padding-bottom: 0.55rem;
+      }
+      .profile-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 0.5rem 1.4rem;
+      }
+      .profile-row {
+        display: flex;
+        gap: 0.7rem;
+        padding: 0.5rem 0.75rem;
+        background: var(--bg);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-sm);
+        align-items: baseline;
+      }
+      .profile-row dt {
+        flex: none;
+        min-width: 9.2rem;
+        color: var(--text-muted);
+        font-size: 0.82rem;
+        font-weight: 600;
+      }
+      .profile-row dd {
+        font-size: 0.92rem;
+        font-weight: 600;
+        color: var(--text);
+        overflow-wrap: anywhere;
+      }
+
+      /* ---------- Product page: FAQ ---------- */
+      .faq-section { margin: 2.2rem 0; }
+      .faq-section h2 { padding-bottom: 0.45rem; border-bottom: 1px solid var(--border); }
+      .faq-list { display: grid; gap: 0.75rem; margin-top: 0.9rem; }
+      .faq-item {
+        background: var(--bg-soft);
+        border: 1px solid var(--border);
+        border-left: 4px solid var(--accent);
+        border-radius: var(--radius-sm);
+        padding: 0.85rem 1.05rem;
+      }
+      .faq-q {
+        font-weight: 700;
+        color: var(--text);
+        margin-bottom: 0.35rem;
+      }
+      .faq-a { color: var(--text-muted); font-size: 0.95rem; }
+      .faq-a p { margin-bottom: 0.55rem; }
+      .faq-a p:last-child { margin-bottom: 0; }
+      .faq-a ul, .faq-a ol { margin-bottom: 0.55rem; }
+      .faq-a a { color: var(--accent); }
+
+      /* ---------- Product page: related products ---------- */
+      .related-section { margin: 2.2rem 0; }
+      .related-section h2 { padding-bottom: 0.45rem; border-bottom: 1px solid var(--border); }
+      .related-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 0.75rem;
+        margin-top: 0.9rem;
+      }
+      .related-card { display: flex; align-items: center; min-height: 3.4rem; }
+      .related-card strong { font-size: 0.95rem; }
+
       /* ---------- Hero for static pages ---------- */
       .page-hero {
         display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(220px, 0.85fr);

@@ -7,6 +7,7 @@ const products = defineCollection({
     title: z.string(),
     name: z.string(),
     slug: z.string(),
+    description: z.string().optional(),
     price: z.number(),
     image: z.string().optional(),
     category: z.string().optional(),

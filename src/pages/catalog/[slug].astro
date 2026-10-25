@@ -8,34 +8,137 @@ export async function getStaticPaths() {
 }
 
 const { product } = Astro.props;
-const { Content } = await render(product);
-const { title, name, purity, specification, status, image } = product.data;
+const { Content, remarkPluginFrontmatter } = await render(product);
+const { name, purity, specification, status, image, description } = product.data;
+
+const compoundProfile = Array.isArray(remarkPluginFrontmatter?.compoundProfile)
+  ? remarkPluginFrontmatter.compoundProfile
+  : [];
+const faq = Array.isArray(remarkPluginFrontmatter?.faq) ? remarkPluginFrontmatter.faq : [];
+const pluginRelated = Array.isArray(remarkPluginFrontmatter?.related) ? remarkPluginFrontmatter.related : [];
+const category = compoundProfile.find((row) => row?.label === 'Category')?.value ?? '';
+
 const base = `Buy ${name} | China Peptide — Peptides of China`;
 const seoTitle = base.length <= 60 ? base : `Buy ${name.slice(0, 37).trimEnd()}… | China Peptide`;
 
-const structuredData = [
-  {
+// Direct-answer sentence derived only from the factual frontmatter description.
+function cleanDescription(desc) {
+  let text = String(desc || '').trim();
+  if (!text) return '';
+  if (!/[.!?]["')\]]?$/.test(text)) {
+    const cut = text.lastIndexOf('. ');
+    if (cut > 24) text = text.slice(0, cut + 1);
+  }
+  return text;
+}
+const lede = cleanDescription(description);
+
+function htmlToText(html) {
+  return String(html || '')
+    .replace(/<(br|\/p|\/li|\/h\d|\/div)>/gi, ' ')
+    .replace(/<[^>]*>/g, '')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;/g, "'")
+    .replace(/&nbsp;/g, ' ')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+}
+
+// Related products: body-matched names first, same-category neighbors as fallback.
+const categoryTokenRe =
+  /\bCategory\s*:\s*([^:]+?)(?=\s+(?:Total variants|In-stock variants|Purity|Standard pack size|Testing method)\s*:|For laboratory|Not for human|Peptides of China|$)/;
+function tokenizeCategory(raw) {
+  return String(raw || '')
+    .split(',')
+    .flatMap((part) => part.toLowerCase().replace(/[^a-z0-9+\s]/g, ' ').split(/\s+/))
+    .map((token) => token.trim())
+    .filter((token) => token.length > 2 && !['and', 'the'].includes(token));
+}
+
+const catalog = await getCollection('products');
+// Humanized label for related-product cards (frontmatter names are sometimes slugs).
+const RELATED_ACRONYMS = new Set([
+  'ghk', 'kpv', 'nad', 'bpc', 'cjc', 'igf', 'hgh', 'mgf', 'aod', 'vip', 'hcg', 'hmg',
+  'ghrp', 'ghrh', 'dac', 'tb', 'ss', 'll', 'pt', 'ara', 'epo', 'dsip', 'pe', 'gip',
+  'glp', 'bac', 'lipo', 'mic', 'mots', 'snap', 'aicar', 'dna', 'rna', 'pnc', 'ptd',
+  'dbm', 'slu', 'pp', 'foxo', 'dri', 'sz',
+]);
+function relatedLabel(item) {
+  const human = String(item?.name || '').trim();
+  if (human && /[A-Z ]/.test(human)) return human;
+  const slug = String(item?.slug || human).replace(/[-_]+/g, ' ');
+  return slug
+    .split(/\s+/)
+    .filter(Boolean)
+    .map((word) => {
+      const lower = word.toLowerCase();
+      if (/^\d/.test(word)) return word;
+      if (RELATED_ACRONYMS.has(lower)) return word.toUpperCase();
+      return word.charAt(0).toUpperCase() + word.slice(1);
+    })
+    .join(' ');
+}
+
+const relatedSlugs = new Set(pluginRelated.map((r) => r.slug));
+const related = [...pluginRelated];
+if (related.length < 3) {
+  const ownTokens = tokenizeCategory(category);
+  const scored = [];
+  for (const entry of catalog) {
+    if (entry.data.slug === product.data.slug || relatedSlugs.has(entry.data.slug)) continue;
+    const match = String(entry.body || '').match(categoryTokenRe);
+    const entryTokens = match ? tokenizeCategory(match[1]) : [];
+    const score = entryTokens.filter((token) => ownTokens.includes(token)).length;
+    if (score > 0) scored.push({ name: entry.data.name, slug: entry.data.slug, score });
+  }
+  scored.sort((a, b) => b.score - a.score || a.name.localeCompare(b.name));
+  for (const item of scored) {
+    if (related.length >= 4) break;
+    related.push({ name: item.name, slug: item.slug });
+  }
+}
+
+const structuredData = [];
+structuredData.push({
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name,
+  description: lede,
+  ...(image ? { image: `${Astro.site}${image.replace(/^\//, '')}` } : {}),
+  url: `${Astro.site}catalog/${product.data.slug}/`,
+  brand: { '@type': 'Brand', name: 'Peptides of China' },
+  sku: product.data.slug,
+  ...(category ? { category } : {}),
+});
+if (faq.length > 0) {
+  structuredData.push({
     '@context': 'https://schema.org',
-    '@type': 'Product',
-    name: title,
-    description: `${name} — research peptide from China. Research use only.`,
-  },
-  {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: `${Astro.site}` },
-      { '@type': 'ListItem', position: 2, name: 'Catalog', item: `${Astro.site}catalog/` },
-      { '@type': 'ListItem', position: 3, name: name, item: `${Astro.site}catalog/${product.data.slug}/` },
-    ],
-  },
-];
+    '@type': 'FAQPage',
+    mainEntity: faq.map(({ q, a }) => ({
+      '@type': 'Question',
+      name: q,
+      acceptedAnswer: { '@type': 'Answer', text: htmlToText(a) },
+    })),
+  });
+}
+structuredData.push({
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${Astro.site}` },
+    { '@type': 'ListItem', position: 2, name: 'Catalog', item: `${Astro.site}catalog/` },
+    { '@type': 'ListItem', position: 3, name, item: `${Astro.site}catalog/${product.data.slug}/` },
+  ],
+});
 ---
 <BaseLayout title={seoTitle} description={`${name}: research peptide from China. ${purity || '≥98% purity'}, batch-tested, direct factory sourcing, international shipping.`}>
   <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 
   <p class="crumbs"><a href="/catalog/">Catalog</a> › {name}</p>
-  <h1>{title}</h1>
+  <h1>{name}</h1>
 
   <div class="product-layout">
     {image && (
@@ -61,11 +164,53 @@ const structuredData = [
     </aside>
   </div>
 
+  {compoundProfile.length > 0 && (
+    <section class="compound-profile-card" aria-label="Compound Profile">
+      <h2>Compound Profile</h2>
+      <dl class="profile-grid">
+        {compoundProfile.map(({ label, value }) => (
+          <div class="profile-row">
+            <dt>{label}</dt>
+            <dd>{value}</dd>
+          </div>
+        ))}
+      </dl>
+    </section>
+  )}
+
   <div class="article-shell">
     <article>
+      {lede && <p class="direct-answer">{lede}</p>}
       <Content />
     </article>
   </div>
+
+  {faq.length > 0 && (
+    <section class="faq-section" aria-label="Frequently Asked Questions">
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faq.map(({ q, a }) => (
+          <div class="faq-item">
+            <p class="faq-q">{q}</p>
+            <div class="faq-a" set:html={a} />
+          </div>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {related.length > 0 && (
+    <section class="related-section" aria-label="Related Products">
+      <h2>Related Products</h2>
+      <div class="related-grid">
+        {related.map((item) => (
+          <a class="card related-card" href={`/catalog/${item.slug}/`}>
+            <strong>{relatedLabel(item)}</strong>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
 
   <div class="disclaimer">
     <strong>Research use only.</strong> This product is a research compound intended for laboratory

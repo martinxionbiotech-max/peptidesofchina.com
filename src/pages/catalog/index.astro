@@ -5,6 +5,19 @@ import { getCollection } from 'astro:content';
 const products = await getCollection('products');
 products.sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999));
 
+const catalogItemList = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'China Peptide Catalog',
+  numberOfItems: products.length,
+  itemListElement: products.map((p, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: p.data.name,
+    url: `${Astro.site}catalog/${p.data.slug}/`,
+  })),
+};
+
 const catGroups = new Map<string, typeof products>();
 for (const p of products) {
   const c = p.data.category || 'Research Peptides';
@@ -16,6 +29,8 @@ for (const p of products) {
   title="China Peptide Catalog | Peptides of China"
   description="Complete catalog of research peptides manufactured in China: peptides, blends, and compounds with batch-tested purity, direct factory sourcing, and international shipping."
 >
+  <script type="application/ld+json" set:html={JSON.stringify(catalogItemList)} />
+
   <div class="article-header">
     <h1>China Peptide Catalog</h1>
     <p class="lede">
