@@ -1,7 +1,7 @@
 ---
 title: "Company"
 slug: "company"
-description: "Learn how PFC combines manufacturer sourcing, coordinated purchasing, international logistics, and support when confirmed supplier obligations are not met."
+description: "Learn how Peptides of China combines manufacturer sourcing, coordinated purchasing, international logistics, and support when confirmed supplier obligations are not met."
 
 
 
