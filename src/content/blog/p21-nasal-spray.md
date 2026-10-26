@@ -6,6 +6,7 @@ description: "Explore the potential of P21 nasal spray for neuroprotection and c
 
 
 
+
 ---
 This guide examines p21 nasal spray from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -87,7 +88,10 @@ Community and protocol sources report the following dose ranges for research use
 | --- | --- | --- | --- |
 | Intranasal | 500 mcg–1 mg/day | 4–6 weeks on, 2–4 weeks off | Most common community protocol |
 | Intranasal (escalated) | 2–4 mg/day | Short-term acute use | Less common; higher irritation risk |
-| Subcutaneous | 500 mcg–1 mg/day | Similar cycle structure | Slower CNS onset vs. intranasal |
+| Subcutaneous | 500 mcg–1 mg/day | Similar cycle structure | Slower CNS onset vs.
+
+**Research-use note:** exposure ranges discussed on this page are reported in preclinical literature and animal-model studies. They are not dosing instructions for human or veterinary use. Research compounds are supplied for laboratory research only.
+ intranasal |
 
 The [Peptide Initiative protocol](https://peptideinitiative.com/peptides/protocols/p21-peptide-protocol) documents the 500 mcg–1 mg daily intranasal range as the most widely circulated community starting point, with some researchers escalating to 2–4 mg for short-term periods. No dose-response data from controlled human studies exists to validate these figures.
 

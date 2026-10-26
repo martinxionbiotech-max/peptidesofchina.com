@@ -7,6 +7,7 @@ description: "AOD 9604 dosage explained. Learn typical daily mg ranges, differen
 
 
 
+
 ---
 This guide examines aod 9604 dosage from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -23,7 +24,10 @@ Importantly, it does **not significantly activate IGF-1 pathways**, which differ
 
 ## AOD 9604 Dosage (Short Answer)
 
-Commonly referenced daily ranges:
+
+**Research-use note:** the exposure ranges above are reported in preclinical literature and animal-model studies. They are not dosing instructions for human or veterinary use. Research compounds are supplied for laboratory research only.
+
+Daily ranges reported in animal-model literature:
 
 - **250–500 mcg per day** → baseline range
 - **500–1000 mcg per day (0.5–1 mg)** → upper commonly used range
@@ -32,7 +36,7 @@ These are typically discussed as **total daily exposure**.
 
 ## Injectable AOD 9604 Dosage
 
-In research and practitioner-referenced contexts:
+In research and animal-model research contexts:
 
 - **250 mcg/day** → lower range
 - **300–500 mcg/day** → most commonly referenced

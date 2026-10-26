@@ -7,6 +7,7 @@ description: "GHK-Cu peptide explained. Learn about its biological role, researc
 
 
 
+
 ---
 This guide examines ghk cu dosage benefits from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -29,6 +30,9 @@ GHK-Cu has been associated in studies with:
 Some analyses suggest it can regulate hundreds of genes involved in repair and inflammation control.
 
 ## GHK-Cu Dosage (Research and Experimental Ranges)
+
+
+**Research-use note:** the exposure ranges above are reported in preclinical literature and animal-model studies. They are not dosing instructions for human or veterinary use. Research compounds are supplied for laboratory research only.
 
 Search queries like “ghk-cu dosage” or “ghk-cu peptide injection dosage” refer to widely varying numbers. Below are **ranges reported in literature, experimental use, and formulation practices**.
 

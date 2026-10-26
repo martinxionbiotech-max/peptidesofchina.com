@@ -6,6 +6,7 @@ description: "Explore the differences between MK-677 and Ipamorelin to find the 
 
 
 
+
 ---
 This guide examines mk 677 vs ipamorelin from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -15,6 +16,9 @@ For research requiring oral dosing and sustained IGF-1 elevation over 24 hours, 
 - **GH/IGF-1 pattern**: MK-677 produces sustained, all-day elevation; ipamorelin produces short, sharp pulses that mimic natural GH secretion.
 - **Metabolic risk**: MK-677 carries a documented signal for [fasting glucose increases and reduced insulin sensitivity](https://pubmed.ncbi.nlm.nih.gov/18981485/); ipamorelin’s selectivity profile largely avoids this at studied doses.
 - **Typical research ranges**: MK-677 protocols in trials have used roughly 25 mg/day; ipamorelin research doses are typically much smaller and dosed multiple times daily due to its short half-life.
+
+**Research-use note:** exposure ranges discussed on this page are reported in preclinical literature and animal-model studies. They are not dosing instructions for human or veterinary use. Research compounds are supplied for laboratory research only.
+
 - **Best-fit use case**: MK-677 suits compliance-limited, oral-only protocols; ipamorelin suits designs that need clean GH pulses without hormonal cross-talk.
 
 The single biggest monitoring difference: MK-677 protocols need routine glucose and insulin-sensitivity tracking, while ipamorelin protocols demand more attention to injection technique, reconstitution accuracy, and cold-chain integrity.

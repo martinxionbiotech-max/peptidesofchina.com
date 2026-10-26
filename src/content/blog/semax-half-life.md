@@ -6,6 +6,7 @@ description: "Discover how Semax half-life affects its cognitive benefits, with 
 
 
 
+
 ---
 This guide examines semax half life from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -30,7 +31,10 @@ Semax’s plasma half-life is inferred from animal studies and is measured in mi
 | Plasma t1/2 vs. effect window | Plasma clearance occurs in minutes (animal PK); BDNF/TrkB and behavioral effects persist 4–24 hours post-dose. |
 | Optimal PK sampling | Collect plasma at pre-dose, 5 min, 15 min, 30 min, and 60 min; add BDNF/mRNA at 3 h and 24 h. |
 | Intranasal route advantage | Olfactory-mediated delivery increases CNS bioavailability relative to peripheral injection in animal models. |
-| Dosing timing | Morning administration (200–600 µg/day for research) aligns with the PD window; split doses no later than early afternoon. |
+| Dosing timing | Morning administration (200–600 µg/day for research) aligns with the PD window; split doses no later than early afternoon.
+
+**Research-use note:** exposure ranges discussed on this page are reported in preclinical literature and animal-model studies. They are not dosing instructions for human or veterinary use. Research compounds are supplied for laboratory research only.
+ |
 | Peptides of China sourcing | Research-grade Semax with HPLC/MS COA and batch traceability is available for B2B research procurement. |
 
 ---
