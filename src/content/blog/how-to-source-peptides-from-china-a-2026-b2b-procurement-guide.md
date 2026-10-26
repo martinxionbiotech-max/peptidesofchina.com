@@ -44,7 +44,7 @@ For the detailed document review, use our [manufacturer-verification protocol](/
 
 Compare the full procurement cost: goods, shipping, payment-provider or network charges where applicable, and any buyer-arranged testing. Include destination charges if they apply to the shipment. A lower catalog price does not necessarily mean a lower cost for material accepted into your project.
 
-Under Peptides of China's current public-catalog terms, the minimum is $300 in goods per supplier order; shipping does not count. A qualifying new buyer may use one below-minimum supplier order as a first-order trial. Other supplier orders in the same request must meet their own minimum or be removed. The full eligibility and trial rules are in the [FAQ](/faq/).
+Under Peptides of China's current public-catalog terms, the minimum is $600 in goods per supplier order; shipping does not count. A qualifying new buyer may use one below-minimum supplier order as a first-order trial. Other supplier orders in the same request must meet their own minimum or be removed. The full eligibility and trial rules are in the [FAQ](/faq/).
 
 A 5% discount applies when a supplier order's gross goods subtotal reaches $3,500. Shipping is excluded, and spending across suppliers is not combined. Existing orders retain their original terms; Pharma and pre-orders are outside these public-catalog rules.
 

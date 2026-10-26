@@ -18,9 +18,9 @@ This guide explains Peptides of China's current public-catalog rules and shows h
 
 As described in the [Peptides of China FAQ](/faq/):
 
-- The minimum is $300 in goods per supplier order. Shipping does not count toward it.
-- An eligible new buyer can place one supplier order below $300 as a first-order trial.
-- Only one supplier order in a request can use that trial. Other supplier orders must meet $300 or be removed.
+- The minimum is $600 in goods per supplier order. Shipping does not count toward it.
+- An eligible new buyer can place one supplier order below $600 as a first-order trial.
+- Only one supplier order in a request can use that trial. Other supplier orders must meet $600 or be removed.
 - A 5% discount applies to the goods subtotal when that supplier's gross goods subtotal reaches $3,500. Supplier totals are not combined and shipping is excluded.
 - Orders already created retain the terms under which they were placed. Pharma and pre-orders are outside these public-catalog rules.
 
@@ -28,7 +28,7 @@ Use the current catalog and request process to check the offered pack configurat
 
 ## Calculate the minimum supplier by supplier
 
-Suppose a returning buyer selects $220 in goods from Supplier A and $180 from Supplier B. The request contains $400 in goods overall, but neither supplier order reaches $300. Shipping charges do not fix that shortfall.
+Suppose a returning buyer selects $220 in goods from Supplier A and $180 from Supplier B. The request contains $400 in goods overall, but neither supplier order reaches $600. Shipping charges do not fix that shortfall.
 
 For the same buyer, $340 from Supplier A and $310 from Supplier B meet the goods-value minimum separately. Delivery costs remain additional and are confirmed through the request process.
 
@@ -83,7 +83,7 @@ A larger purchase does not establish a better analytical result. Product identit
 
 The minimum is based on that supplier order's goods value. Select the available catalog configurations and review the resulting supplier subtotal in the request process.
 
-### Can I combine different suppliers to reach $300 or $3,500?
+### Can I combine different suppliers to reach $600 or $3,500?
 
 No. Both thresholds are assessed per supplier order, not across the entire request.
 

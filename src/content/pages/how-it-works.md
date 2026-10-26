@@ -47,7 +47,7 @@ Key commercial terms that apply to all requests on this platform.
 
 | Condition | Details |
 | --- | --- |
-| Minimum Order | $300 — below this threshold, requests will not be processed |
+| Minimum Order | $600 — below this threshold, requests will not be processed |
 | Shipping | $55–$75 per parcel — Standard $55–$60 or Express $75 |
 | Processing Deposit | $10 — paid immediately after submission, fully credited to invoice |
 | Transit Time | 7–20 days from carrier handover — Express 7–12, Standard 15–20 |

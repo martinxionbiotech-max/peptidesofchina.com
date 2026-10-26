@@ -21,7 +21,7 @@ Every batch is tested by the manufacturer for purity and concentration as part o
 
 ## Catalog breadth and compound availability
 
-Our catalog covers 73+ research compounds including GLP-1 agonists (Semaglutide, Tirzepatide, Retatrutide), growth peptides, nootropics, longevity peptides, and reconstitution supplies. Stock is verified per-order against the active manufacturing batch — no speculative pre-stocking.
+Our catalog covers 127+ research compounds including GLP-1 agonists (Semaglutide, Tirzepatide, Retatrutide), growth peptides, nootropics, longevity peptides, and reconstitution supplies. Stock is verified per-order against the active manufacturing batch — no speculative pre-stocking.
 
 ## Transparent B2B workflow
 

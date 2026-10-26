@@ -53,7 +53,7 @@ The How to Pay page explains PYUSD on Solana first, with separate PayPal and Ven
 
 **What is the minimum order?**
 
-The public catalog minimum is $300 in goods per supplier order. Shipping is not counted toward the minimum. A new buyer, meaning one with no fully paid ordinary public-catalog order, may place one supplier order below $300 as a first-order trial. Only one supplier order per request can use the trial; every other supplier order must reach $300 or be removed. The trial is held while that order is active, used only once the order is fully paid, and released if the order is cancelled before full payment, even if a deposit was paid. A 5% discount applies to the goods subtotal of a supplier order when that supplier's gross goods subtotal is $3,500 or more. Shipping is excluded, and suppliers are not combined. Orders already created keep the terms they were placed under. Pharma and pre-orders are excluded.
+The public catalog minimum is $600 in goods per supplier order. Shipping is not counted toward the minimum. A new buyer, meaning one with no fully paid ordinary public-catalog order, may place one supplier order below $600 as a first-order trial. Only one supplier order per request can use the trial; every other supplier order must reach $600 or be removed. The trial is held while that order is active, used only once the order is fully paid, and released if the order is cancelled before full payment, even if a deposit was paid. A 5% discount applies to the goods subtotal of a supplier order when that supplier's gross goods subtotal is $3,500 or more. Shipping is excluded, and suppliers are not combined. Orders already created keep the terms they were placed under. Pharma and pre-orders are excluded.
 
 **Do you offer any discounts?**
 

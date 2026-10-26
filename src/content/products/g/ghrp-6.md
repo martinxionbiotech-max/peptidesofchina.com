@@ -118,7 +118,7 @@ Lyophilized GHRP-6 should be stored at −20°C. Aqueous solutions should be kep
 GHRP-2 For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, GHRP-6 is supplied for laboratory research use only.
 
 
-Buy GHRP-6 | Research Grade | Peptides of China GHRP-6 Buy GHRP-6 — Research Grade Peptide GHRP-6 is a muscle & performance research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $300 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+Buy GHRP-6 | Research Grade | Peptides of China GHRP-6 Buy GHRP-6 — Research Grade Peptide GHRP-6 is a muscle & performance research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
 
 ## Compound Profile
 
