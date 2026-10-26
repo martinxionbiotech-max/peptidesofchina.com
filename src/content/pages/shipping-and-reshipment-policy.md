@@ -1,21 +1,23 @@
 ---
 title: "Shipping And Reshipment Policy"
 slug: "shipping-and-reshipment-policy"
-description: "Destination-aware shipping, tracking, delivery estimates, and reshipment rules for Peptides of China orders."
-
-
-
-
+description: "Express shipping ($97–127 per parcel, 7–12 days), tracking, customs handling, and reshipment rules for Peptides of China orders."
 ---
-Shipping and reshipment terms for **china peptide** orders, including tracking and reshipment conditions.
 
-Shipping availability and pricing depend on the destination, supplier, and parcel. The options confirmed for your order control.
+Shipping and reshipment terms for **china peptide** orders, including costs, transit estimates, and reshipment conditions.
 
-Last updated: October 4, 2026
+Last updated: October 26, 2026
 
-## Available shipping options
+## Shipping method and cost
 
-Current methods, carriers, estimated transit times, and costs are shown during the request process or in the confirmed invoice. An estimate begins when the parcel is handed to the carrier and is not a guaranteed delivery date.
+All orders ship by **Express**, at **$97–127 per parcel**. The final shipping cost is confirmed based on the supplier, destination, and parcel count before final payment. The confirmed invoice controls.
+
+## Transit times
+
+- **Express transit:** estimated **7–12 days**, counted from handover to the carrier
+- **Pre-shipment processing:** after final payment, processing, assembly, and handover to the carrier take 2–3 business days
+
+Estimates are not guaranteed delivery dates. Customs handling times are outside our control.
 
 ## Address, import, and customs information
 
@@ -29,16 +31,24 @@ Please carefully check your contact details and complete shipping address before
 
 We monitor shipment progress and coordinate with the relevant supplier or logistics provider when tracking indicates loss, return to sender, or a customs problem. Customers do not need to submit a separate reshipment request when we have already identified the issue.
 
-[Learn about Peptides of China’s role in order support and resolution.](/company/)
+[Learn about Peptides of China's role in order support and resolution.](/company/)
 
 ## Reshipment coverage
 
-Qualifying Shanghai Labs shipments are covered by unlimited reshipments until delivery. Qualifying Shenzhen shipments are covered by one complimentary reshipment. Other situations are reviewed individually based on the supplier, tracking record, destination, and circumstances.
+| Origin | Coverage |
+| --- | --- |
+| Shanghai Labs (qualifying) | Unlimited reshipments until delivery |
+| Shenzhen (qualifying) | One complimentary reshipment |
+| Other situations | Reviewed individually |
 
 Reshipment applies to the affected confirmed items and does not create a right to cash reimbursement.
 
 ## Damaged items
 
 If items arrive damaged, contact us as soon as reasonably possible. Photos and an unboxing video are recommended so the issue can be assessed. Once damage is confirmed, affected items may be included in an additional shipment.
+
+## Invoice adjustment
+
+If any items are unavailable after stock verification, the final invoice is adjusted to reflect only confirmed items. You approve before paying.
 
 [Contact us with questions about these policies →](/contact/)

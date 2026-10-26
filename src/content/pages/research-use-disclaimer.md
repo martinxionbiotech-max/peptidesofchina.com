@@ -6,12 +6,13 @@ description: "Research-use restrictions and website-information disclaimer for p
 
 
 
+
 ---
 The research-use terms that govern every **china peptide** in our catalog.
 
 Products listed on this website are supplied solely for legitimate laboratory research by customers aged 21 or older.
 
-Last updated: September 6, 2026
+Last updated: October 26, 2026
 
 ## Research use only
 
@@ -34,3 +35,24 @@ Products are supplied against the specification shown on the applicable product 
 We do not guarantee that a product may be imported, possessed, or used in every location, or that customs and carriers will complete delivery within an estimate. Current order and shipping details are confirmed through the applicable invoice.
 
 [Contact us with questions about these policies →](/contact/)
+
+
+## Prohibited uses
+
+The following uses are prohibited for every product listed on this platform:
+
+- Human consumption, injection, or topical application
+- Veterinary or animal consumption outside approved laboratory protocols
+- Compounding, dispensing, or resale as a medicine, supplement, cosmetic, or food ingredient
+- Use in any clinical or diagnostic setting involving humans or animals
+- Any use violating applicable law in the buyer's or destination jurisdiction
+
+Orders placed for prohibited uses will not be processed, and confirmed orders found to violate
+these restrictions are subject to the resolution terms in the Terms & Conditions.
+
+## Regulatory status
+
+Products listed on this website are research compounds. They are not medicines, not approved
+therapeutics, and not dietary supplements. References to research literature, chemical
+properties, or preclinical findings are provided for compound identification only and do not
+imply fitness for any human or veterinary application.

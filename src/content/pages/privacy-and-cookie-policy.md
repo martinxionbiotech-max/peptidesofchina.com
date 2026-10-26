@@ -1,40 +1,82 @@
 ---
 title: "Privacy And Cookie Policy"
 slug: "privacy-and-cookie-policy"
-description: "How Peptides of China collects, uses, shares, and protects information submitted through the website."
-
-
-
-
+description: "How Peptides of China collects, uses, shares, and protects information submitted through the website, plus our cookie and tracking disclosure."
 ---
-How Peptides of China handles data for **china peptide** buyers and site visitors.
 
-This policy explains the limited information used to operate the website, process requests, support orders, and protect the platform.
+How Peptides of China handles information for **china peptide** buyers and site visitors.
 
-Last updated: September 6, 2026
+**Peptides of China** ("we", "our") is a B2B sourcing platform for research peptides manufactured in China. This policy describes what information we receive, how we use it, and the choices available to you.
 
-## Information we collect
+Last updated: October 26, 2026
 
-We may collect information you provide, including your name, contact details, organization, shipping information, inquiry content, order details, and payment references. We also receive basic technical information such as IP address, browser type, device data, and service logs.
+## Who we are
 
-## How information is used
+- **Platform:** Peptides of China — B2B sourcing platform for research compounds manufactured in China
+- **Website:** peptidesofchina.com
+- **Email:** [aaron@peptidesofchina.com](mailto:aaron@peptidesofchina.com)
+- **WhatsApp:** +64 2102668969
 
-Information is used to respond to inquiries, verify availability, prepare and support orders, coordinate delivery, prevent abuse, maintain security, improve the website, and meet applicable recordkeeping or legal obligations.
+## Information we receive
 
-## Service providers and order partners
+We operate without account registration and without tracking. The only information we receive is what you choose to send us:
 
-We may share only the information reasonably needed with relevant manufacturers, logistics providers, communications providers, infrastructure vendors, and professional advisers. We may also disclose information when required to protect users, the platform, or comply with a valid legal obligation.
+- **Contact details you provide** — your name, email address, or WhatsApp number when you write to us
+- **Message content** — your inquiries, order requests, specifications you ask about, and any documents you attach
+- **Order information** — recipient details and delivery address you submit with a request, used solely to process and ship that order
 
-## Cookies and browser storage
+We do not collect payment card data. Payment instructions are handled through the methods stated on the invoice.
 
-The website uses cookies or browser storage needed for functions such as age confirmation, cart state, sessions, preferences, and security. Basic traffic measurement may also be used to understand website performance. Browser controls can restrict storage, but some features may then stop working correctly.
+## Cookies and tracking
 
-## Retention and security
+**This website does not use tracking cookies, analytics scripts, advertising pixels, or third-party trackers.** We do not run Google Analytics, Meta Pixel, Hotjar, or similar services. There is no cookie banner because there are no cookies to declare.
 
-Information is retained only as reasonably needed for the purposes above, dispute handling, fraud prevention, and recordkeeping. We use reasonable safeguards, but no internet transmission or storage system can be guaranteed completely secure.
+If this changes in the future, this policy will be updated before any tracking is introduced.
 
-## Your requests
+## How we use information
 
-You may contact us to request access, correction, or deletion of personal information. A request may be limited where retention is reasonably required for an order, security, dispute, or legal obligation.
+Information you send us is used only to:
 
-[Contact us with questions about these policies →](/contact/)
+- Respond to inquiries and quotation requests
+- Process and confirm orders, verify stock with manufacturers, and arrange delivery
+- Handle shipping, reshipment, and resolution issues on confirmed orders
+- Keep records required for order fulfillment and dispute handling
+
+We do not sell, rent, or trade your information, and we do not use it for marketing mailing lists.
+
+## Information sharing
+
+Information is shared only where necessary to fulfill a confirmed order:
+
+- **Manufacturers and suppliers** — to verify stock and prepare your confirmed items
+- **Logistics providers** — to ship parcels to the address you provide
+
+These recipients receive only the order-level information needed for their part in fulfillment.
+
+## Data retention
+
+We keep order correspondence and records for as long as reasonably needed to fulfill the order, handle returns or disputes, and meet applicable record-keeping obligations. Inquiries that do not lead to an order are kept for a shorter period.
+
+## Your rights
+
+You may contact us at any time to:
+
+- Request a copy of the information we hold about you
+- Ask for corrections
+- Request deletion of your personal information
+
+We honor these requests subject to obligations to retain records for confirmed orders and legal compliance.
+
+## International transfers
+
+Our business operates across borders: platform correspondence is handled from our contact channels, and manufacturers and logistics partners are located in China and destination countries. By submitting information, you acknowledge that it may be transferred to the parties necessary for order fulfillment.
+
+## Changes to this policy
+
+We may update this policy. The "Last updated" date reflects the current version. Material changes will be stated here.
+
+## Contact
+
+Questions about this policy: [aaron@peptidesofchina.com](mailto:aaron@peptidesofchina.com) or WhatsApp +64 2102668969.
+
+[Contact us →](/contact/) · [Terms & Conditions →](/terms-and-conditions/)
