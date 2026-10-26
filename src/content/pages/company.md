@@ -6,6 +6,7 @@ description: "Learn how Peptides of China combines manufacturer sourcing, coordi
 
 
 
+
 ---
 Peptides of China is a B2B platform for **china peptides** — finished research compounds from established Chinese manufacturers.
 
@@ -32,3 +33,15 @@ Our value is not only access to products. It is the purchasing leverage, coordin
 These commitments apply to fully paid orders from our public catalog. Shipping and cancellation cases remain governed by the applicable policies.
 
 [How It Works](/how-it-works/) · [Buyer Support FAQ](/faq/) · [Shipping & Reshipment Policy](/shipping-and-reshipment-policy/) · [Refund & Cancellation Policy](/refund-and-cancellation-policy/)
+## Business Entity
+
+Peptides of China is operated as a B2B sourcing platform that connects research buyers with
+established Chinese peptide manufacturers. The platform coordinates factory sourcing, availability
+confirmation, manufacturer specifications, order processing, international logistics, and delivery
+support.
+
+**Contact**
+
+- Email: [aaron@peptidesofchina.com](mailto:aaron@peptidesofchina.com)
+- WhatsApp: +64 2102668969
+

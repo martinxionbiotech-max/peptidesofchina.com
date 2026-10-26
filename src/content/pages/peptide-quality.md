@@ -6,6 +6,7 @@ description: "Most peptide vendors are resellers with limited visibility into wh
 
 
 
+
 ---
 This page sets out how we approach quality for **chinese peptides**: what is tested, what is documented, and what a buyer should ask for.
 
@@ -49,3 +50,11 @@ You're not buying a brand story. You're buying a compound — and the data behin
 If you're evaluating peptide sources, the right questions are: where does the product come from, what testing has been done, and is there documentation behind the claims?
 
 [Browse the catalog →](/catalog/)
+## Quality Control & COA
+
+Quality control is the backbone of this platform. Every batch is tested by the manufacturer for
+purity and concentration as part of routine quality control, typically by HPLC or LC-MS. Where
+provided, documentation — including certificates of analysis (COA) — reflects the manufacturer's
+batch testing for the compound. Buyers may request available COA and specification documents with
+their inquiry.
+

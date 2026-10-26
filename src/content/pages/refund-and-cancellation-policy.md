@@ -6,6 +6,7 @@ description: "Deposit credits, cancellations, final-payment rules, and approved 
 
 
 
+
 ---
 Refund and cancellation terms for **china peptide** orders.
 
@@ -38,3 +39,14 @@ Customer-requested cancellation and carrier or customs events remain subject to 
 When a refund is approved, it is processed manually within a reasonable time after approval. For blockchain payments, the original asset and network are normally used. Additional verification may be required before any refund destination is accepted.
 
 [Contact us with questions about these policies →](/contact/)
+## Eligibility & Timeline
+
+Refunds and cancellations are reviewed individually against the order status at the time of the
+request. Requests submitted before stock verification or production are generally eligible for
+cancellation; orders already in production or dispatch follow supplier-side resolution terms.
+
+**Disputes:** where a supplier does not meet its confirmed obligations, Peptides of China manages
+the resolution, including alternative fulfillment or a refund where appropriate. Reviews are
+processed in the order received; typical response times are stated on the invoice or in the
+corresponding correspondence.
+
