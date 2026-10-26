@@ -133,7 +133,7 @@ Ipamorelin’s short half-life is the flip side of that convenience. It has to b
 | Dosing frequency | Once daily | Multiple times daily |
 | Protocol design goal | Sustained elevation | Physiologic pulsatility |
 
-**Handling notes**: Ipamorelin ships as lyophilized powder and needs [bacteriostatic water or saline for reconstitution](/catalog/phosphate-buffered-saline), then refrigerated storage once mixed. MK-677 tolerates room-temperature storage far better, which simplifies logistics for research teams without cold-chain infrastructure. Some protocols pair ipamorelin with a GHRH analog to shape pulse amplitude, timing doses relative to fasting windows or sleep onset rather than on a fixed clock.
+**Handling notes**: Ipamorelin ships as lyophilized powder and needs [bacteriostatic water or saline for reconstitution](/catalog/), then refrigerated storage once mixed. MK-677 tolerates room-temperature storage far better, which simplifies logistics for research teams without cold-chain infrastructure. Some protocols pair ipamorelin with a GHRH analog to shape pulse amplitude, timing doses relative to fasting windows or sleep onset rather than on a fixed clock.
 
 ## Which Compound Fits Your Research Goal?
 

@@ -21,7 +21,7 @@ The concentration math follows one formula: peptide mass (mcg) ÷ solvent volume
 - Alcohol swabs and disposable gloves
 - Puncture-resistant sharps container
 
-**Quick math:** A 5 mg vial reconstituted with 2 mL of bacteriostatic water yields 2,500 mcg/mL. Peptides of China’s [reconstitution calculator](/calculator) converts vial mass and solvent volume into mcg/mL and syringe units instantly, which removes the arithmetic step where most dosing errors originate.
+**Quick math:** A 5 mg vial reconstituted with 2 mL of bacteriostatic water yields 2,500 mcg/mL. Peptides of China’s [catalog reconstitution materials](/catalog/) converts vial mass and solvent volume into mcg/mL and syringe units instantly, which removes the arithmetic step where most dosing errors originate.
 
 ## Key Takeaways
 

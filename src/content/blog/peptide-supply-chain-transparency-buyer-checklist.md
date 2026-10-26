@@ -129,7 +129,7 @@ Check the current request-cart minimum and published announcements before submit
 
 Order value, box quantity and product quality are separate questions. Minimums describe commercial processing conditions, not a purity standard or a promise that a catalog order starts a custom synthesis run.
 
-Standard catalog quantities normally start from one complete 10-vial box per product. Review the package shown for each item rather than assuming that every catalog entry uses the same format. Consult the dated trial announcement and [current request cart](/request-cart/) for the minimum applying to your request.
+Standard catalog quantities normally start from one complete 10-vial box per product. Review the package shown for each item rather than assuming that every catalog entry uses the same format. Consult the dated trial announcement and [current request cart](/how-it-works/) for the minimum applying to your request.
 
 ### The Role of the USD 10 Processing Deposit
 
