@@ -4,79 +4,132 @@ name: "HGH 191AA (Somatropin)"
 slug: "hgh-191aa-somatropin"
 price: 75.0
 status: "In Stock"
-description: "HGH 191AA (Somatropin) research grade, multiple IU sizes available. Sourced from verified Chinese manufacturer. HPLC-verified, purity tested per batch."
+description: "Recombinant human growth hormone, 191 amino acids, 22 kDa. Batch identity, aggregation testing and cold-chain handling for laboratory research."
 image: "/images/products/generic-vial.png"
 
 ---
-HGH 191AA (somatropin) is the reference growth hormone in china peptide catalogs and one of the most expensive per-vial listings, which is why documentation discipline matters most here. Counterfeit and under-filled somatropin vials circulate widely in the chinese peptides trade. Every vial we supply carries the manufacturer's specification and lot record — the standard the category should have had from the start.
+Somatropin is the most counterfeited item in the Chinese peptide trade, and the reason is simple economics: it is a recombinant protein with a real manufacturing cost, sold in vials that are easy to fill with something cheaper. A buyer who applies the habits learned from synthetic peptides, where a mass spectrum and an HPLC peak are usually enough, will be under-equipped here. Somatropin needs protein chemistry: aggregation state, isoform pattern, host-cell contaminants and a bioassay that shows the receptor still responds.
 
+This page is a laboratory sourcing note. It covers what the 191-amino-acid molecule is, how a batch record should demonstrate identity and integrity, and how to handle a lyophilised protein without turning it into aggregate. The material is supplied for in vitro and preclinical research only, and nothing here is guidance for human use.
 
-Buy HGH 191AA (Somatropin) | Research Grade | Direct from China | Peptides of China HGH 191AA (Somatropin) Buy HGH 191AA (Somatropin) — Research Grade HGH 191AA (Somatropin) is a muscle & performance research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+## Why This Compound
+
+Recombinant human growth hormone is a single-chain protein of 191 amino acids with a calculated mass of about 22,124 Da. It folds into a four-helix bundle stabilised by two disulfide bonds, Cys-53 to Cys-165 and Cys-182 to Cys-189. The sequence was established from pituitary material by Li and colleagues in the 1960s, and the recombinant route was opened by Goeddel and colleagues in 1979 when the hormone was expressed in *E. coli*. That history matters for sourcing: there are two broadly different production architectures, bacterial expression with refolding and mammalian-cell secretion, and they leave different impurity signatures.
+
+The receptor is a cytokine-type receptor that dimerises on binding. The crystal structure of the hormone-receptor complex solved by de Vos and colleagues in 1992 shows one hormone molecule bridging two receptor ectodomains, which explains the stoichiometry and the basis of antagonism in some variants. Downstream, JAK2 associates with the receptorbox and phosphorylates STAT5, and the phosphorylated dimer moves to the nucleus to drive IGF-1, ALS and SOCS transcription. Argetsinger and Carter-Su laid out this pathway in detail, and it remains the backbone of GH receptor research.
+
+For a laboratory, somatropin is used in three ways. It is the reference agonist in GHR signalling assays, the positive control in GH-axis studies of secretagogues such as ipamorelin, CJC-1295 and sermorelin, and a tool for studying adipocyte lipolysis, hepatocyte IGF-1 output and chondrocyte biology in ex vivo systems. In each case the quality requirement is the same: the protein must be monomeric, correctly folded and free of host-cell contaminants that could confound a cell-based readout.
+
+The catalogue labels vials in IU rather than milligrams. That convention comes from the older pituitary-derived standard and is now a potency assignment, not a weight. The conversion is manufacturer-specific and should be stated on the batch record; it should never be inferred from a generic table. A buyer comparing a 10 IU vial from one supplier with a 10 IU vial from another is comparing two potency assignments, and the only way to know whether they are equivalent is to read the assay behind each number.
 
 ## Compound Profile
 
-HGH 191AA refers to recombinant human growth hormone (rhGH), also known as somatropin — a 191-amino acid single-chain protein that is the authentic sequence and structural equivalent of endogenous pituitary-derived growth hormone. The '191AA' designation reflects the complete 22 kDa isoform, which is the predominant circulating form of GH (approximately 75% of pituitary GH secretion). Recombinant somatropin is produced by heterologous expression in E. coli or mammalian cell systems using recombinant DNA technology, and the resulting protein — after purification and refolding — is structurally identical to native pituitary GH, including its two disulfide bonds (Cys-53/165 and Cys-182/189) and its tertiary four-helix bundle conformation. This structural fidelity is critical for full GH receptor (GHR) binding and activation. GH's biological effects are mediated through two sequential pathways: direct GH receptor (GHR) activation producing acute metabolic effects (lipolysis, antagonism of insulin action, amino acid uptake in muscle), and indirect IGF-1-mediated anabolic effects (protein synthesis, cell proliferation, linear bone growth) via hepatic and local IGF-1 production. Research with recombinant GH (somatropin) is used to characterise both pathways across tissues, to establish reference pharmacokinetic and pharmacodynamic benchmarks for newer GH secretagogue compounds (sermorelin, tesamorelin, ipamorelin, CJC-1295), and to study GH receptor downstream signalling (JAK2/STAT5 pathway) in target cells. rhGH serves as the positive control in comparative studies of GH axis peptides. Peptides of China supplies HGH 191AA (somatropin) as lyophilized powder at ≥98% purity, verified by HPLC and confirmed by mass spectrometry. Certificates of Analysis available per batch. Wholesale quantities on request. For laboratory research use only. 
+Chemical Class Recombinant Human Growth Hormone (22 kDa isoform) CAS Number 12629-01-5 Molecular Weight 22,124 Da (22 kDa) Sequence Length 191 amino acids Disulfide Bonds Cys-53/Cys-165 and Cys-182/Cys-189 Structure Four-helix bundle (non-glycosylated) Receptor Target GHR (Growth Hormone Receptor) — JAK2/STAT5 signalling Synonyms Somatropin, rhGH, recombinant human GH, HGH Storage -20°C lyophilized; 2–8°C reconstituted (up to 14 days) Molecular Formula N/A — 191-aa protein
 
-## Profile
+## What the Batch Record Should Show
 
-Chemical Class Recombinant Human Growth Hormone (22 kDa isoform) CAS Number 12629-01-5 Molecular Weight 22,124 Da (22 kDa) Sequence Length 191 amino acids Disulfide Bonds Cys-53/Cys-165 and Cys-182/Cys-189 Structure Four-helix bundle (non-glycosylated) Receptor Target GHR (Growth Hormone Receptor) — JAK2/STAT5 signalling Synonyms Somatropin, rhGH, recombinant human GH, HGH Storage -20°C lyophilized; 2–8°C reconstituted (up to 14 days) Molecular Formula N/A — 191-aa protein 
+A somatropin certificate is a protein characterisation report, and it should be read in layers. The first layer is identity, the second is integrity, the third is purity in the sense that matters for cell work, and the fourth is quantity.
 
-## Available Variants
+**Identity.** RP-HPLC retention alone is not identity. The certificate should include a mass consistent with 22,124 Da, a peptide map or N-terminal sequencing that covers the sequence, and an isoform pattern by isoelectric focusing. The last one is useful because deamidated and N-terminally modified forms shift the pI and are common in recombinant preparations.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| HGH 191AA (Somatropin) | 6 IU | 10 vials | — | In Stock |
-| HGH 191AA (Somatropin) | 10 IU | 10 vials | — | In Stock |
-| HGH 191AA (Somatropin) | 10 IU | 10 vials | — | In Stock |
-| HGH 191AA (Somatropin) | 12 IU | 10 vials | — | In Stock |
-| HGH 191AA (Somatropin) | 12 IU | 10 vials | — | Out of Stock |
-| HGH 191AA (Somatropin) | 15 IU | 10 vials | — | In Stock |
-| HGH 191AA (Somatropin) | 15 IU | 10 vials | — | Out of Stock |
-| HGH 191AA (Somatropin) | 24 IU | 10 vials | — | In Stock |
-| HGH 191AA (Somatropin) | 24 IU | 10 vials | — | Out of Stock |
-| HGH 191AA (Somatropin) | 36 IU | 10 vials | ≥96% | In Stock |
-| HGH 191AA (Somatropin) | 36 IU | 10 vials | ≥96% | Out of Stock |
-| HGH 191AA (Somatropin) | 50 IU | 10 vials | — | In Stock |
+**Integrity and aggregation.** Size-exclusion HPLC is the key assay: monomer content should be reported, with dimer and higher aggregate quantified. A protein that is 98 percent pure by RP-HPLC can still contain several percent aggregate, and aggregate is what drives variable responses in cell assays. Reducing and non-reducing SDS-PAGE should show a single band at about 22 kDa under reducing conditions and the expected disulfide-linked behaviour otherwise.
 
-## Specification Highlights
+**Host-cell contaminants.** For *E. coli* expression, host-cell protein ELISA and residual DNA are the relevant tests; for mammalian expression, host-cell protein and any affinity-ligand leakage. A certificate that reports only "purity 99%" has skipped the part that matters. Endotoxin by LAL is essential for any preparation that touches primary cells or is injected into an animal model, and sterility is a separate question.
 
-Category: Muscle & Performance, Hormonal Regulation Total variants: 13 In-stock variants: 8 of 13 Purity: ≥96% Standard pack size: 10 vials 
+**Quantity.** Protein content by A280 with an extinction coefficient, or by a colorimetric assay standardised against a certified protein, plus fill volume and moisture. IU assignment should name the assay and the reference standard. A vial labelled "10 IU" with no protein content and no assay method is a label, not a measurement.
 
-## Research Areas
+**Traceability.** Lot number, manufacturing site, expression system, fill date, retest date, and a cold-chain record. The [CoA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) covers the fields in more detail, and the [molecular-weight verification note](/blog/peptide-molecular-weight-verification-steps/) explains why a single mass value is weaker evidence for a protein than for a short peptide.
 
-GH Receptor Signalling & JAK2/STAT5 Research GHR activation by somatropin recruits and activates JAK2 (Janus kinase 2), which phosphorylates STAT5a/b (Signal Transducer and Activator of Transcription 5). Phospho-STAT5 dimers translocate to the nucleus and drive transcription of IGF-1, acid labile subunit (ALS), and SOCS (Suppressors of Cytokine Signalling) genes. GHR-transfected cell lines (IM-9, 3T3-F442A) and primary hepatocytes are used to characterise JAK2/STAT5 phosphorylation kinetics, receptor internalisation, and SOCS feedback by Western blotting, phosphoproteomics, and STAT5 reporter assays. Somatropin is the reference agonist in all such studies. Body Composition & Metabolic Research Somatropin's dual metabolic role — direct lipolysis (via HSL activation in adipocytes) and indirect anabolic action (via IGF-1 in muscle and bone) — is characterised in rodent models of GH deficiency (hypophysectomised rats, lit/lit mice, dwarf rats) and in diet-induced obesity models. Body composition endpoints (lean mass, fat mass by DEXA or MRI) and metabolic endpoints (RQ, fatty acid oxidation, glucose turnover by isotope dilution) are used to quantify GH-mediated metabolic shifts. These preclinical datasets provide the reference pharmacodynamics against which GH secretagogue compounds (ipamorelin, tesamorelin, CJC-1295) are benchmarked. Linear Bone Growth & IGF-1 Axis GH and IGF-1 are the principal regulators of longitudinal bone growth at the growth plate (epiphyseal cartilage). In hypophysectomised rat growth plate models, somatropin restores chondrocyte proliferation (measured by BrdU incorporation), collagen II and X expression, and tibial growth plate width in a dose-dependent manner. IGF-1 ELISA in serum and liver provides the downstream hormonal endpoint. Local versus systemic GH effects are dissected using liver-specific IGF-1 knockout (LI-IGF-1-/-) mice, which distinguish hepatic IGF-1 from autocrine/paracrine IGF-1 production in skeletal tissue. Reference Standard for GH Secretagogue Studies All preclinical and clinical evaluation of GH secretagogue peptides (GHRH analogues, GHRPs) uses exogenous somatropin as the positive control benchmark for GH-axis pharmacological effects. Comparative studies examine whether secretagogue-stimulated endogenous GH release produces equivalent downstream effects (IGF-1, IGFBP-3, bone markers, lean mass changes) at equivalent GH exposure levels as direct somatropin administration. This dose-equivalence methodology requires precise somatropin dose-response characterisation in each model system, making high-purity research-grade somatropin essential. ## Sourcing HGH 191AA (Somatropin) From China
+## Sourcing & Verification
 
-HGH 191AA (Somatropin) is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
+The somatropin market has a documented counterfeit problem, and the failure modes are not subtle in hindsight: underfilled vials, vials containing a different protein, vials with aggregate from a bad refold, and certificates that describe a batch that was never shipped. The verification protocol below is longer than for a synthetic peptide because the product is more valuable and harder to characterise.
 
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, HGH 191AA (Somatropin) is supplied for
-  laboratory research use only, under strict research-use terms.
+- Does the certificate state the expression system and the manufacturing site?
+- Is monomer content reported by SE-HPLC, with dimer and aggregate quantified?
+- Is host-cell protein ELISA reported, with the limit of detection?
+- Is endotoxin reported by LAL, with the method and result?
+- Is the IU assignment backed by a bioassay, and against which reference standard?
+- Is the protein content in mg per vial stated alongside the IU value?
+- Does the lot number match the vial, the carton and the shipping documents?
+- Is there a continuous cold-chain record, including the international leg?
 
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
+Ask for the chromatogram and the mass spectrum as separate files. A supplier who can produce them is usually a supplier who runs the assays. A supplier who sends a one-page certificate with no raw data is usually a trader. The [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) and the [supplier GMP assessment](/blog/how-to-assess-peptide-supplier-gmp-compliance-in-2026/) cover the entity-level checks that sit behind the documents.
+
+One further point: somatropin is a prescription medicine in most jurisdictions, and research supply does not change its regulatory status. Confirm that the import is lawful for laboratory use before ordering. The [compliance pillar](/peptide-compliance-risk/) sets out the general framework, and the [customs guide](/blog/research-peptide-customs-clearance-a-professional-b2b-sourcing-guide-2026/) covers the documentation chain.
+
+## Handling & Storage
+
+Lyophilised somatropin is stored at −20°C, protected from light. Bring the vial to room temperature before opening, wipe the septum, and reconstitute by directing the diluent slowly down the wall. Do not vortex and do not shake. Protein foaming is not a cosmetic problem; it creates an air-liquid interface where unfolding and aggregation start.
+
+Use the diluent the batch was designed for. Bacteriostatic water is convenient for multi-dose laboratory stocks, but the preservative can interfere with some cell assays; sterile water or buffer is preferable when the preparation will contact cells. If the solution is cloudy or contains visible particles after gentle mixing, do not use it. A clear solution is the minimum acceptance criterion, and SE-HPLC is the only way to know whether soluble aggregate is present.
+
+Reconstituted somatropin is typically held at 2–8°C for up to 14 days. Freezing a reconstituted protein is usually a bad idea: ice crystal formation and freeze-concentration promote aggregation, and the damage is not reversed by thawing. If the experiment requires storage, aliquot before freezing and accept that some loss is likely. Low-binding tubes and gentle pipetting reduce adsorption losses at low concentrations.
+
+For cell culture, filter through a 0.22 µm membrane if sterility is required, and check recovery because proteins adsorb to some filter materials. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) and the [handling pillar](/peptide-handling-protocols/) cover the general technique. These are bench instructions, not administration guidance.
+
+## How It Compares
+
+**The 20 kDa isoform.** Pituitary GH includes a 20 kDa splice variant that lacks residues 32–46 and has different receptor pharmacology. Recombinant somatropin is the 22 kDa form. A certificate that does not state which isoform is present is incomplete, and a supplier who conflates the two is not reading their own documentation.
+
+**Somatrem.** A 192-amino-acid analogue with an N-terminal methionine, produced in *E. coli*. It is not identical to somatropin and should not be sold as such. The extra residue changes the N-terminus and can affect immunogenicity and receptor binding.
+
+**Growth-hormone secretagogues.** Ipamorelin, hexarelin, GHRP-6 and the GHRH analogues act upstream, on the pituitary or hypothalamus, to release endogenous GH. Somatropin is the ligand itself. They are used together in research designs that compare direct receptor activation with secretagogue-driven release, but they are not dose-equivalent substitutes. The [secretagogue guide](/blog/2026-growth-hormone-secretagogue-wholesale-guide/) covers the family.
+
+**IGF-1 LR3.** The downstream mediator, with a modified sequence that reduces IGFBP binding. It acts on the IGF-1 receptor, not the GH receptor, and produces a different signalling pattern. The [IGF-1 LR3 page](/catalog/igf-1-lr3/) sets out that comparison.
+
+**HGH Fragment 176-191.** A 16-residue C-terminal fragment studied for lipolytic activity without full GHR activation. It is not a substitute for the intact protein and does not carry the same receptor pharmacology. The [fragment page](/catalog/hgh-fragment-176-191/) explains the distinction.
 
 ## Frequently Asked Questions
 
-**What is the difference between 191AA somatropin and HGH Fragment 176-191?**
+**What does "191AA" mean on the label?**
 
-HGH 191AA (somatropin) is the complete 191-amino acid growth hormone sequence, activating the full GH receptor and downstream JAK2/STAT5/IGF-1 signalling cascade. It produces both growth-promoting (anabolic) and lipolytic effects. HGH Fragment 176-191 is a 16-amino acid C-terminal fragment that stimulates lipolysis without activating the GH receptor — it does not elevate IGF-1 or produce growth effects. They are used in research for opposite purposes: somatropin for full GH receptor studies and growth/metabolic phenotyping; HGH Fragment for selective adipose research without GHR activation. How should recombinant somatropin be reconstituted for research use? Reconstitute lyophilized somatropin with sterile bacteriostatic water (0.9% benzyl alcohol) for multi-dose use, or with sterile water for single-use aliquots. Direct the diluent slowly down the vial wall; gently swirl rather than vortex to avoid protein denaturation. The reconstituted solution should be clear — turbidity indicates aggregation. Working concentrations in cell culture are typically 1–100 ng/mL. Reconstituted solution is stable at 2–8°C for up to 14 days. Avoid freezing reconstituted protein, as freeze-thaw cycles cause aggregation and loss of activity. 
+It refers to the 191-amino-acid sequence of the mature human growth hormone, the 22 kDa form. The designation distinguishes it from shorter variants, analogues with an extra N-terminal methionine, and fragments such as 176-191.
 
-**What purity and structural verification standards apply to research-grade somatropin?**
+**Why is the product measured in IU rather than milligrams?**
 
-Peptides of China supplies HGH 191AA at ≥98% purity by RP-HPLC. Identity is confirmed by ESI-MS. For protein-level characterisation, size-exclusion HPLC (SE-HPLC) is used to confirm monomer content (≥95% monomer, minimal dimer/aggregate) and SDS-PAGE under reducing conditions confirms the 22 kDa band corresponding to somatropin. Certificates of Analysis including HPLC chromatogram and mass spectrum are provided per batch. 
+IU is a potency assignment against an international standard, inherited from the pituitary-derived era. Milligram content and IU content are related but not identical, and the conversion should be stated by the manufacturer rather than assumed.
 
-**Is HGH 191AA available for wholesale research purchase?**
+**How do I check for aggregation?**
 
-Yes. HGH 191AA (somatropin) is available through Peptides of China on a B2B wholesale basis. Pricing, vial sizes, and minimum order quantities are provided on request after account verification. Contact us via the Request page. 
+Size-exclusion HPLC is the standard method; the certificate should report monomer, dimer and higher aggregate. Visual clarity is not sufficient, because soluble aggregate can be optically clear. Dynamic light scattering is a useful orthogonal check in the laboratory.
+
+**Can reconstituted somatropin be frozen?**
+
+Generally not recommended. Freezing and thawing a protein solution promotes aggregation and can irreversibly change the material. Aliquot before freezing if storage is unavoidable, and expect some loss.
+
+**What purity should a research-grade batch have?**
+
+The catalogue specification is ≥96–98 percent depending on the format, but the more important numbers are monomer content, host-cell protein and endotoxin. A high RP-HPLC purity with 5 percent aggregate is a worse reagent than a slightly lower purity with clean monomer.
+
+**How should the powder be stored?**
+
+At −20°C, desiccated and protected from light. Avoid frost-free freezers with temperature cycling. Let the vial equilibrate before opening to prevent condensation.
+
+**Is somatropin a controlled substance?**
+
+It is a prescription medicine in most jurisdictions and is regulated as a hormone product. Research supply does not exempt the buyer from import or possession rules. Confirm the local requirements before ordering.
 
 ## Related Products
 
-HGH Fragment 176-191 For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+- HGH Fragment 176-191
+- IGF-1 LR3
+- Tesamorelin
+- Sermorelin Acetate
+- Ipamorelin
+
+## The Author's Take
+
+**Position.** I would not buy somatropin on price per IU. I would buy the batch with a monomer content above 95 percent, a host-cell protein result and a bioassay, and I would pay for the cold chain.
+
+**Reasoning.** The counterfeit problem in this category is not hypothetical, and the analytical shortcuts that work for a 10-mer do not work here. A somatropin vial can be the right protein, at the right fill, and still fail in a cell assay because half of it is aggregate. The certificate fields that predict failure are monomer content, host-cell protein and endotoxin, and those are exactly the fields a template leaves out. Paying less for a vial with no protein chemistry is not a saving; it is an uncontrolled variable in every experiment that uses it.
+
+**Disclosure.** Peptides of China lists somatropin for laboratory research supply. This is a sourcing judgement based on the documents we review, not medical advice. The material is for in vitro and preclinical research only and is not intended for human use.
+
+## Sources
+
+1. Li, C. H., Liu, W. K., Dixon, J. S. (1966). Human pituitary growth hormone. XII. The amino acid sequence of the hormone. *Journal of the American Chemical Society*, 88(9), 2050–2051. https://doi.org/10.1021/ja00961a039
+2. Goeddel, D. V., Heyneker, H. L., Hozumi, T., Arentzen, R., Itakura, K., Yansura, D. G., Ross, M. J., Miozzari, G., Crea, R., Seeburg, P. H. (1979). Direct expression in *Escherichia coli* of a DNA sequence coding for human growth hormone. *Nature*, 281, 544–548. https://doi.org/10.1038/281544a0
+3. de Vos, A. M., Ultsch, M., Kossiakoff, A. A. (1992). Human growth hormone and extracellular domain of its receptor: crystal structure of the complex. *Science*, 255(5042), 306–312. https://doi.org/10.1126/science.1549776
+4. Argetsinger, L. S., Carter-Su, C. (1996). Mechanism of signaling by growth hormone receptor. *Physiological Reviews*, 76(4), 1089–1107. https://doi.org/10.1152/physrev.1996.76.4.1089
+5. Jones, J. I., Clemmons, D. R. (1995). Insulin-like growth factors and their binding proteins: biological actions. *Endocrine Reviews*, 16(1), 3–34. https://doi.org/10.1210/edrv-16-1-3
+6. Carter-Su, C., Schwartz, J., Argetsinger, L. S. (2016). Growth hormone signaling pathways. *Growth Hormone & IGF Research*, 28, 11–15. https://doi.org/10.1016/j.ghir.2015.09.002

@@ -4,173 +4,142 @@ name: "L-Carnitine"
 slug: "l-carnitine"
 price: 54.0
 status: "In Stock"
-description: "Naturally occurring quaternary ammonium compound. Investigated in metabolic research for its role in long-chain fatty acid transport across the inner mitochondrial membrane and β-oxidation regulation."
+description: "L-Carnitine research powder, CAS 541-15-1. Carnitine shuttle biology, assay methods and batch documentation for laboratory buyers."
 image: "/images/products/generic-vial.png"
 
 ---
-L-Carnitine is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Quaternary ammonium compound (zwitterionic amino acid derivative) Synonyms L-Carnitine, Levocarnitine, (R)-Carnitine, Vitamin BT Molecular Formula C₇H₁₅NO₃ Molecular Weight 161.2 Da CAS Number 541-15-1 PubChem CID 10917 Primary Function Long-chain fatty acid transport across inner mitochondrial membrane (carnitine shuttle) 
+L-Carnitine is not a peptide, but it appears in peptide catalogues for a practical reason: laboratories that order lyophilised vials also order small-molecule reagents, and consolidating suppliers reduces paperwork. The compound is a zwitterionic quaternary ammonium acid, supplied here as a powder in 600 mg vials, and it is one of the few materials in this catalogue whose analytical story is harder than its biology.
 
-## Research Areas
+The biology is well worked out. L-Carnitine carries long-chain fatty acids into the mitochondrial matrix, and without it those substrates cannot be oxidised. The analytical problem is that carnitine has no chromophore. It does not absorb usefully in the ultraviolet, so a laboratory cannot simply run the same reversed-phase HPLC method it uses for peptides and expect a number. Everything about carnitine quality control follows from that limitation, and it is the first thing worth understanding before comparing suppliers.
 
-Mitochondrial β-oxidation, cardiac metabolism, exercise physiology, carnitine deficiency models, lipid metabolism Form Powder Storage Room temperature dry storage acceptable; 2-8°C recommended for long-term; aqueous solutions stable at 2-8°C for weeks Sequence N/A — amino acid derivative (not a peptide) 
+## Why This Compound
 
-## Available Variants
+Carnitine is synthesised in mammals from two essential amino acids, lysine and methionine. The pathway runs through trimethyllysine, butyrobetaine, and a final hydroxylation step; Vaz and Wanders described the enzymology in a 2002 review in the *Biochemical Journal*. Humans can make carnitine, but the capacity is limited, and about three quarters of the body pool comes from diet in omnivorous adults. Skeletal muscle holds roughly 95% of total body carnitine, which is why muscle tissue is the usual matrix in transport studies.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| L-Carnitine | 600 mg | 10 vials | ≥98% | In Stock |
-| L-Carnitine 6000 mg / | 10 ml | 10 vials | — | In Stock |
+The molecular job is narrow and essential. Long-chain fatty acids cannot cross the inner mitochondrial membrane on their own. They are activated to acyl-CoA in the cytosol, converted to acylcarnitine by carnitine palmitoyltransferase 1 on the outer membrane, shuttled across by the carnitine-acylcarnitine translocase, and converted back to acyl-CoA by carnitine palmitoyltransferase 2 inside the matrix. Bremer's 1983 review in *Physiological Reviews* remains the standard description of that cycle. Rebouche's 1992 review in *The FASEB Journal* covers function and requirements across the life cycle, including the observation that tissue carnitine content is regulated rather than simply reflecting plasma concentration.
 
-## Specification Highlights
+Two transporter systems matter for experimental design. The organic cation transporter OCTN2 (SLC22A5) is the high-affinity carnitine transporter responsible for absorption and for renal reabsorption; Loss-of-function variants cause primary carnitine deficiency, a disorder reviewed by Longo and colleagues in the *American Journal of Medical Genetics*. In cell models, OCTN2 expression determines whether carnitine added to the medium actually enters the cell. A hepatocyte or myotube experiment that ignores transporter expression can produce a flat result for reasons that have nothing to do with the compound.
 
-Category: Energy & Endurance, Vitamins & Nutrients Total variants: 2 In-stock variants: 2 of 2 Purity: ≥98% Standard pack size: 10 vials 
+Stereochemistry is the second design constraint. The carnitine shuttle enzymes and OCTN2 recognise the L- (R-) enantiomer. D-Carnitine is not a substrate, and it can compete for uptake, which is why enantiomeric purity belongs in the specification rather than in a footnote. Acetyl-L-carnitine is a different molecule with different distribution; the acetyl group changes membrane permeability and gives the compound a second metabolic role as an acetyl donor. A study that needs cytosolic carnitine for the shuttle should use L-carnitine, not the acetyl ester.
 
-## Quality & Testing
-
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Variant Notes
-
-Research material containing l-carnitine. 
-
-## Research Areas
-
-Mitochondrial Fatty Acid Oxidation Research L-Carnitine is the obligate carrier for long-chain fatty acid entry into the mitochondrial matrix via CPT1/CPT2 (carnitine palmitoyltransferase 1 and 2) and the carnitine-acylcarnitine translocase. Research has used carnitine supplementation, carnitine depletion (by mildronate/meldonium inhibiting carnitine biosynthesis), and the acylcarnitine profile to study β-oxidation flux and its regulation. Carnitine shuttle capacity is a key endpoint in research on mitochondrial dysfunction, fatty acid oxidation disorders, and metabolic flexibility. Cardiac Metabolism Research The heart derives >70% of its ATP from fatty acid oxidation, making carnitine transport essential to cardiac energetics. Research has examined carnitine's role in cardiac ischemia-reperfusion injury models — where fatty acid oxidation regulation affects recovery — and in heart failure models where shifts from fatty acid to glucose oxidation occur. Acylcarnitine accumulation in ischemic hearts has been studied as a marker of CPT2-limited fatty acid clearance. Exercise and Skeletal Muscle Physiology L-Carnitine's role in fuel selection during exercise has been examined in human and rodent exercise physiology research. Studies have used stable isotope tracers to examine carnitine's influence on the fat oxidation/glucose oxidation ratio during exercise of different intensities. The carnitine content of skeletal muscle (approximately 95% of body carnitine is in muscle) and its rate of decline during exercise have been characterized as determinants of fuel flexibility in athletic performance research. ## Sourcing L-Carnitine From China
-
-L-Carnitine is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
-
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, L-Carnitine is supplied for
-  laboratory research use only, under strict research-use terms.
-
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
-
-## Frequently Asked Questions
-
-Why does only L-Carnitine (not D-Carnitine) have biological activity? The carnitine palmitoyltransferase enzymes and carnitine transporters (OCTN2) are stereoselective — they recognize only the L- (R-) enantiomer. D-Carnitine is biologically inert and can actually competitively inhibit L-carnitine uptake by OCTN2. Research requiring carnitine shuttle activity must use the L-form exclusively; D-carnitine is occasionally used in research as a negative control. 
-
-**What is the difference between L-Carnitine and Acetyl-L-Carnitine (ALCAR)?**
-
-Acetyl-L-Carnitine (ALCAR) has an acetyl group esterified to the hydroxyl. ALCAR crosses the blood-brain barrier more readily than L-carnitine, making it preferred for central nervous system carnitine research. ALCAR can also donate its acetyl group to acetyl-CoA, providing a substrate for acetylcholine synthesis and histone acetylation. L-Carnitine is preferred for peripheral fatty acid oxidation and transport research. 
-
-**What purity is your L-Carnitine?**
-
-L-Carnitine is supplied at 99%+ purity, verified by HPLC. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
-
-**What are the storage conditions?**
-
-L-Carnitine powder is hygroscopic — store in a tightly sealed container. Room temperature storage is acceptable short-term; 2-8°C is recommended for long-term stability. Aqueous solutions are stable at 2-8°C for several weeks. 
-
-## Related Products
-
-L-Carnitine (Liquid) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. class, and every listing carries the manufacturer's own specification rather than a reseller's claim. Buyers sourcing **chinese peptides** in this category typically evaluate L-Carnitine across Mitochondrial β-oxidation, cardiac metabolism, exercise physiology, carnitine deficiency models, lipid metabolism Form Powder Storage Room temperature dry storage acceptable; 2-8°C recommended for long-term; aqueous solutions stable at 2-8°C for weeks Sequence N/A — amino acid derivative (not a peptide) 
-
-## Available Variants
-
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| L-Carnitine | 600 mg | 10 vials | ≥98% | In Stock |
-| L-Carnitine 6000 mg / | 10 ml | 10 vials | — | In Stock |
-
-## Specification Highlights
-
-Category: Energy & Endurance, Vitamins & Nutrients Total variants: 2 In-stock variants: 2 of 2 Purity: ≥98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Variant Notes
-
-Research material containing l-carnitine. 
-
-## Research Areas
-
-Mitochondrial Fatty Acid Oxidation Research L-Carnitine is the obligate carrier for long-chain fatty acid entry into the mitochondrial matrix via CPT1/CPT2 (carnitine palmitoyltransferase 1 and 2) and the carnitine-acylcarnitine translocase. Research has used carnitine supplementation, carnitine depletion (by mildronate/meldonium inhibiting carnitine biosynthesis), and the acylcarnitine profile to study β-oxidation flux and its regulation. Carnitine shuttle capacity is a key endpoint in research on mitochondrial dysfunction, fatty acid oxidation disorders, and metabolic flexibility. Cardiac Metabolism Research The heart derives >70% of its ATP from fatty acid oxidation, making carnitine transport essential to cardiac energetics. Research has examined carnitine's role in cardiac ischemia-reperfusion injury models — where fatty acid oxidation regulation affects recovery — and in heart failure models where shifts from fatty acid to glucose oxidation occur. Acylcarnitine accumulation in ischemic hearts has been studied as a marker of CPT2-limited fatty acid clearance. Exercise and Skeletal Muscle Physiology L-Carnitine's role in fuel selection during exercise has been examined in human and rodent exercise physiology research. Studies have used stable isotope tracers to examine carnitine's influence on the fat oxidation/glucose oxidation ratio during exercise of different intensities. The carnitine content of skeletal muscle (approximately 95% of body carnitine is in muscle) and its rate of decline during exercise have been characterized as determinants of fuel flexibility in athletic performance research. 
-
-## Frequently Asked Questions
-
-Why does only L-Carnitine (not D-Carnitine) have biological activity? The carnitine palmitoyltransferase enzymes and carnitine transporters (OCTN2) are stereoselective — they recognize only the L- (R-) enantiomer. D-Carnitine is biologically inert and can actually competitively inhibit L-carnitine uptake by OCTN2. Research requiring carnitine shuttle activity must use the L-form exclusively; D-carnitine is occasionally used in research as a negative control. 
-
-**What is the difference between L-Carnitine and Acetyl-L-Carnitine (ALCAR)?**
-
-Acetyl-L-Carnitine (ALCAR) has an acetyl group esterified to the hydroxyl. ALCAR crosses the blood-brain barrier more readily than L-carnitine, making it preferred for central nervous system carnitine research. ALCAR can also donate its acetyl group to acetyl-CoA, providing a substrate for acetylcholine synthesis and histone acetylation. L-Carnitine is preferred for peripheral fatty acid oxidation and transport research. 
-
-**What purity is your L-Carnitine?**
-
-L-Carnitine is supplied at 99%+ purity, verified by HPLC. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
-
-**What are the storage conditions?**
-
-L-Carnitine powder is hygroscopic — store in a tightly sealed container. Room temperature storage is acceptable short-term; 2-8°C is recommended for long-term stability. Aqueous solutions are stable at 2-8°C for several weeks. 
-
-## Related Products
-
-L-Carnitine (Liquid) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, L-Carnitine is supplied for laboratory research use only.
-
-
-Buy L-Carnitine | Research Grade | Peptides of China L-Carnitine Buy L-Carnitine — Research Grade Peptide L-Carnitine is a energy & endurance research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+The final research area worth flagging is the acylcarnitine profile. Because acylcarnitines accumulate when the shuttle or the β-oxidation spiral is blocked, plasma and tissue acylcarnitine patterns are used as readouts in fatty acid oxidation research. Carnitine supplementation or depletion is a standard way to perturb that system. Stephens and colleagues used stable isotopes to examine fuel selection in skeletal muscle, and their 2007 paper in the *Journal of Physiology* is a useful entry point for the exercise-physiology side of the literature. None of this is a claim about what a vial does in a person; it is the context that makes carnitine a useful laboratory reagent.
 
 ## Compound Profile
 
-L-Carnitine ((R)-3-carboxy-2-hydroxy-N,N,N-trimethyl-1-propanaminium) is a quaternary ammonium compound biosynthesized in humans from lysine and methionine, with the final biosynthetic steps requiring vitamin C and iron as cofactors. Its primary biochemical function is facilitating the transport of long-chain fatty acids (C12-C20) across the inner mitochondrial membrane — the rate-limiting step in mitochondrial β-oxidation. Without sufficient carnitine, long-chain fatty acids cannot enter the mitochondrial matrix for energy production, accumulating instead in the cytosol. This essential role in fatty acid metabolism makes L-carnitine a widely used research compound in metabolic, cardiac, and exercise physiology research. Research applications for L-carnitine span several areas: mitochondrial biology and β-oxidation studies, cardiac metabolism (the heart derives the majority of its ATP from fatty acid oxidation), skeletal muscle exercise physiology (where carnitine availability has been hypothesized to influence fuel selection and performance), and clinical nutrition research in conditions of carnitine deficiency (primary and secondary — the latter occurring in renal disease, vegetarian diets, and preterm infants). The acylcarnitine profile in biological fluids is also used as a biomarker for fatty acid oxidation disorders, and L-carnitine challenges are a research tool for examining carnitine shuttle capacity. Peptides of China supplies L-Carnitine as a powder at 99%+ purity, verified by HPLC. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. All products are for laboratory research use only and are not for human consumption. 
+Chemical Class Quaternary ammonium compound (zwitterionic amino acid derivative) Synonyms L-Carnitine, Levocarnitine, (R)-Carnitine, Vitamin BT Molecular Formula C₇H₁₅NO₃ Molecular Weight 161.2 Da CAS Number 541-15-1 PubChem CID 10917 Primary Function Long-chain fatty acid transport across inner mitochondrial membrane (carnitine shuttle)
 
-## Profile
+The free base is a zwitterion at neutral pH, with a permanent positive charge on the trimethylammonium group and a carboxylate that deprotonates around pH 3.8. That charge balance explains both its water solubility and its poor solubility in non-polar solvents. It also explains why ion-pairing reagents are needed in reversed-phase chromatography: a permanently charged small molecule does not retain well on a standard C18 column without an ion pair.
 
-Chemical Class Quaternary ammonium compound (zwitterionic amino acid derivative) Synonyms L-Carnitine, Levocarnitine, (R)-Carnitine, Vitamin BT Molecular Formula C₇H₁₅NO₃ Molecular Weight 161.2 Da CAS Number 541-15-1 PubChem CID 10917 Primary Function Long-chain fatty acid transport across inner mitochondrial membrane (carnitine shuttle) 
+## What the Batch Record Should Show
 
-## Research Areas
+A carnitine certificate is only as good as its assay method. Four fields separate a useful document from a decorative one.
 
-Mitochondrial β-oxidation, cardiac metabolism, exercise physiology, carnitine deficiency models, lipid metabolism Form Powder Storage Room temperature dry storage acceptable; 2-8°C recommended for long-term; aqueous solutions stable at 2-8°C for weeks Sequence N/A — amino acid derivative (not a peptide) 
+**Identity and assay.** Because carnitine lacks a chromophore, three approaches are common. The first is liquid chromatography with mass spectrometric detection, usually with a stable-isotope-labelled internal standard; this is the most specific option and the one that handles complex matrices. The second is enzymatic assay, in which carnitine acetyltransferase converts carnitine and acetyl-CoA to acetylcarnitine and CoA, and the released CoA is measured spectrophotometrically. The third is chromatographic separation with refractive index, charged aerosol, or evaporative light-scattering detection. Each has trade-offs. The enzymatic method is precise but responds to acetylcarnitine unless the sample is pretreated. The universal detectors are convenient but less sensitive. A certificate that states "HPLC" without naming the detector has not told you how the number was produced.
 
-## Available Variants
+**Enantiomeric purity.** D-Carnitine is the analytical impurity that matters most, because it competes with the L-form at the transporter. Chiral HPLC with a crown-ether or teicoplanin stationary phase is the usual method. A specification that reports total carnitine but not enantiomeric excess is incomplete for any study where uptake is the endpoint. The [purity testing note](/blog/why-purity-and-concentration-tests-are-not-enough/) makes the general case; carnitine is a good example of why it holds.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| L-Carnitine | 600 mg | 10 vials | ≥98% | In Stock |
-| L-Carnitine 6000 mg / | 10 ml | 10 vials | — | In Stock |
+**Water content.** Carnitine is hygroscopic. The inner salt absorbs moisture from air, and a powder that has been open on a bench for a week weighs more than it did when it was filled. Karl Fischer titration gives the water content, and the difference between "as-is" and "dried basis" purity should be stated. For a compound supplied at 600 mg per vial, a few percent water is a few milligrams of material a laboratory did not intend to weigh.
 
-## Specification Highlights
+**Counterion and salt form.** Carnitine is usually supplied as the free inner salt, but tartrate salts are commercially common and the tartrate contributes mass. The certificate should say which form was weighed. If the label says 600 mg and the material is carnitine tartrate, the carnitine content is lower than the label implies. This is the same trap as peptide counterions, in a different chemical guise.
 
-Category: Energy & Endurance, Vitamins & Nutrients Total variants: 2 In-stock variants: 2 of 2 Purity: ≥98% Standard pack size: 10 vials 
+**Residual solvents and heavy metals.** Carnitine can be produced by fermentation or by chemical synthesis, and each route leaves a different impurity profile. Residual solvents by headspace GC and heavy metals by ICP-MS are standard release tests for pharmaceutical-grade material. For research-grade catalogue material, they may be omitted; the omission should be visible rather than assumed.
 
-## Quality & Testing
+**Batch traceability.** Lot number, manufacturing site, synthesis or fermentation date, retest date, and the specification version. A certificate that does not identify the site cannot be audited. The [CoA guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) covers the document structure that applies across compound classes.
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+## Sourcing & Verification
 
-## Variant Notes
+Carnitine is a commodity. Global production is measured in thousands of tonnes, most of it destined for animal feed and supplements, and the price per kilogram varies with the fermentation feedstock and the grade. Buying 10 vials of research material from a peptide catalogue means buying a small aliquot of that commodity with a documentation layer on top.
 
-Research material containing l-carnitine. 
+The questions worth asking are therefore about grade and traceability rather than about synthesis.
 
-## Research Areas
+- Is the material food-grade, pharmaceutical-grade, or research-grade, and what specification was used for release?
+- Is the assay by LC-MS/MS, enzymatic method, or a universal detector? What is the limit of quantification?
+- Is enantiomeric purity reported, and by which chiral method?
+- Is the salt form stated — free base or tartrate — and does the label weight refer to the salt or to carnitine?
+- What is the water content, and is purity reported on an as-is or dried basis?
+- Can the supplier provide a retained sample and the raw chromatogram?
+- Is the material from fermentation or chemical synthesis, and are residual solvents reported?
+- Does the batch documentation match the vial label, including the lot number?
 
-Mitochondrial Fatty Acid Oxidation Research L-Carnitine is the obligate carrier for long-chain fatty acid entry into the mitochondrial matrix via CPT1/CPT2 (carnitine palmitoyltransferase 1 and 2) and the carnitine-acylcarnitine translocase. Research has used carnitine supplementation, carnitine depletion (by mildronate/meldonium inhibiting carnitine biosynthesis), and the acylcarnitine profile to study β-oxidation flux and its regulation. Carnitine shuttle capacity is a key endpoint in research on mitochondrial dysfunction, fatty acid oxidation disorders, and metabolic flexibility. Cardiac Metabolism Research The heart derives >70% of its ATP from fatty acid oxidation, making carnitine transport essential to cardiac energetics. Research has examined carnitine's role in cardiac ischemia-reperfusion injury models — where fatty acid oxidation regulation affects recovery — and in heart failure models where shifts from fatty acid to glucose oxidation occur. Acylcarnitine accumulation in ischemic hearts has been studied as a marker of CPT2-limited fatty acid clearance. Exercise and Skeletal Muscle Physiology L-Carnitine's role in fuel selection during exercise has been examined in human and rodent exercise physiology research. Studies have used stable isotope tracers to examine carnitine's influence on the fat oxidation/glucose oxidation ratio during exercise of different intensities. The carnitine content of skeletal muscle (approximately 95% of body carnitine is in muscle) and its rate of decline during exercise have been characterized as determinants of fuel flexibility in athletic performance research. 
+For a laboratory that needs carnitine as a medium additive, the grade question is the important one. Technical-grade material may contain counterions and residues that interfere with cell culture. For a laboratory using carnitine to perturb the shuttle in a cell model, enantiomeric purity is the important one. The [supplier GMP assessment guide](/blog/how-to-assess-peptide-supplier-gmp-compliance-in-2026/) is written for peptides but the audit logic applies here too: ask what was measured, how, and by whom.
+
+One sourcing note specific to this catalogue: carnitine is sold as a powder in 600 mg vials and as a liquid at 500 mg/mL. The [liquid format](/catalog/l-carnitine-liquid/) solves the weighing problem and introduces a concentration-verification problem. Neither is inherently better; they fail in different ways.
+
+## Handling & Storage
+
+The powder is hygroscopic, and that single property drives most handling advice. Keep the vial sealed, store it in a desiccator, and let it equilibrate to room temperature before opening. A cold vial opened in a warm room condenses water on the powder, and the resulting cake is difficult to disperse evenly.
+
+Room-temperature storage is acceptable for short periods. For long-term storage, 2-8°C is the usual recommendation, with the vial kept dry. Aqueous stocks are stable for weeks at 2-8°C in our catalog guidance, but that window assumes clean glassware, neutral pH, and no microbial contamination. A stock made in a non-sterile bottle and stored for a month is a different experiment.
+
+Weighing small quantities is the practical difficulty. Carnitine is a static-prone powder, and a 10 mg weighing on a four-place balance can drift. Prepare a concentrated stock and dilute rather than trying to weigh the final amount directly. Use low-binding labware for dilute solutions, and check pH if the buffer is phosphate-based, because the zwitterion contributes to ionic strength.
+
+If the assay is cell-based, filter-sterilise the stock through a 0.22 µm membrane. Carnitine is small enough that adsorption is less of a problem than it is for peptides, but the filter material still deserves a recovery check. Avoid autoclaving solutions; dry heat and steam are unnecessary when filtration is available.
+
+All handling described here is bench-scale laboratory work. L-Carnitine is supplied for research use only and is not intended for administration to humans or animals.
+
+## How It Compares
+
+**L-Carnitine liquid.** The same molecule at 500 mg/mL in 10 mL vials. The liquid removes the weighing step and adds questions about density, fill volume, and microbial control. Laboratories doing high-throughput screens often prefer it; laboratories doing precise dose-response work often prefer the powder because the gravimetric record is cleaner.
+
+**Acetyl-L-Carnitine.** An ester with different distribution and a second role as an acetyl donor. It is not a substitute in shuttle experiments. If the endpoint is mitochondrial fatty acid oxidation, use L-carnitine; if the endpoint is acetyl-CoA supply or central nervous system carnitine transport, ALCAR is the relevant reagent.
+
+**Carnitine tartrate.** A salt form used in supplements and in some research material. The tartrate is not inert: it contributes mass and can affect pH and ionic strength. Compare price per milligram of carnitine, not price per vial.
+
+**Lipotropic blends.** Carnitine appears in several fixed combinations in this catalogue, including [Lipo-C 120](/catalog/lipo-c-120/), [Lipo-C 216](/catalog/lipo-c-216/), and [Lipo-B](/catalog/lipo-b/). A blend is convenient when the study design calls for several cofactors at once, but it makes attribution harder: if the endpoint moves, the investigator cannot tell which component did the work. For mechanism work, single compounds first.
+
+**D-Carnitine.** Occasionally used as a negative control in uptake experiments. It is not a cheaper version of the same reagent, and a supplier who does not distinguish the enantiomers is not a supplier for this kind of work.
 
 ## Frequently Asked Questions
 
-Why does only L-Carnitine (not D-Carnitine) have biological activity? The carnitine palmitoyltransferase enzymes and carnitine transporters (OCTN2) are stereoselective — they recognize only the L- (R-) enantiomer. D-Carnitine is biologically inert and can actually competitively inhibit L-carnitine uptake by OCTN2. Research requiring carnitine shuttle activity must use the L-form exclusively; D-carnitine is occasionally used in research as a negative control. 
+**Is L-Carnitine a peptide?**
 
-**What is the difference between L-Carnitine and Acetyl-L-Carnitine (ALCAR)?**
+No. It is a quaternary ammonium compound derived from amino acids, with a molecular weight of 161.2 Da. It appears in peptide catalogues because laboratories buy it alongside peptides, not because it shares their chemistry.
 
-Acetyl-L-Carnitine (ALCAR) has an acetyl group esterified to the hydroxyl. ALCAR crosses the blood-brain barrier more readily than L-carnitine, making it preferred for central nervous system carnitine research. ALCAR can also donate its acetyl group to acetyl-CoA, providing a substrate for acetylcholine synthesis and histone acetylation. L-Carnitine is preferred for peripheral fatty acid oxidation and transport research. 
+**What is the difference between L-Carnitine and acetyl-L-carnitine?**
 
-**What purity is your L-Carnitine?**
+The acetyl ester changes membrane permeability and provides an acetyl group that can feed acetyl-CoA pools. L-Carnitine is the form used for carnitine shuttle and fatty acid transport studies; acetyl-L-carnitine is used when the acetyl donor role or central nervous system distribution is the point of the experiment.
 
-L-Carnitine is supplied at 99%+ purity, verified by HPLC. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
+**Why does enantiomeric purity matter for carnitine?**
 
-**What are the storage conditions?**
+The carnitine transporter OCTN2 and the carnitine palmitoyltransferases recognise the L- (R-) form. D-Carnitine is not a substrate and can compete for uptake, so a material with significant D-carnitine will underperform in transport assays for reasons unrelated to the biology under study.
 
-L-Carnitine powder is hygroscopic — store in a tightly sealed container. Room temperature storage is acceptable short-term; 2-8°C is recommended for long-term stability. Aqueous solutions are stable at 2-8°C for several weeks. 
+**How is carnitine purity measured if it has no UV chromophore?**
+
+By LC-MS/MS with an isotope-labelled internal standard, by an enzymatic assay coupled to CoA release, or by HPLC with refractive index, charged aerosol, or evaporative light-scattering detection. Each method has different specificity, and the certificate should name the one used.
+
+**Is the powder hygroscopic?**
+
+Yes. Store it sealed with a desiccant, equilibrate to room temperature before opening, and report water content by Karl Fischer if the exact mass matters. A hygroscopic powder that has been open on the bench is not the same reagent it was when filled.
+
+**What storage conditions do you recommend?**
+
+Dry, sealed, protected from light. Room temperature is acceptable short-term; 2-8°C is preferred for long-term storage. Aqueous stocks are short-term reagents and should be filter-sterilised if they will contact cells.
+
+**Can carnitine be autoclaved?**
+
+No. There is no need to autoclave a solution that can be filter-sterilised, and steam heating adds a degradation route without benefit. Use a 0.22 µm membrane and verify recovery.
+
+**How does carnitine relate to the lipotropic blends in your catalogue?**
+
+It is one component of several fixed combinations, where it is paired with choline, methionine, inositol, and B vitamins. The blends are convenient for multi-component studies; the single compound is better for mechanism work.
 
 ## Related Products
 
-L-Carnitine (Liquid) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+- L-Carnitine (Liquid)
+
+## The Author's Take
+
+**Position.** For cell work, I would pay for enantiomeric purity data before I paid for a higher headline assay. A 99% total carnitine figure that hides 5% D-carnitine is a worse reagent than a 98% figure with a chiral method attached.
+
+**Reasoning.** Carnitine is cheap and abundant, and most of the world's supply is not made for laboratory use. The failure modes are boring: a tartrate salt weighed as free base, water content that shifts the mass, a fermentation residue that irritates a cell line, or an enantiomeric impurity that competes at OCTN2. None of those shows up in a certificate that reports only "purity 99% by HPLC". The suppliers who can answer the salt-form and chiral questions are usually the ones who also know which detector was used, and that combination is a better predictor of lot-to-lot consistency than any single number.
+
+**Disclosure.** Peptides of China sells L-Carnitine and the blends listed on this page. This is a sourcing opinion based on the documents we review, not medical advice. The compound is for laboratory research only; nothing here is a recommendation for human use.
+
+## Sources
+
+1. Bremer, J. (1983). Carnitine — metabolism and functions. *Physiological Reviews*, 63(4), 1420–1480. https://doi.org/10.1152/physrev.1983.63.4.1420
+2. Rebouche, C. J. (1992). Carnitine function and requirements during the life cycle. *The FASEB Journal*, 6(15), 3379–3386. https://doi.org/10.1096/fasebj.6.15.1464372
+3. Vaz, F. M., & Wanders, R. J. A. (2002). Carnitine biosynthesis in mammals. *Biochemical Journal*, 361(3), 417–429. https://doi.org/10.1042/bj3610417
+4. Longo, N., Amat di San Filippo, C., & Pasquali, M. (2006). Disorders of carnitine transport and the carnitine cycle. *American Journal of Medical Genetics Part C*, 142C(2), 77–85. https://doi.org/10.1002/ajmg.c.30087
+5. Stephens, F. B., Constantin-Teodosiu, D., & Greenhaff, P. L. (2007). New insights concerning the role of carnitine in the regulation of fuel metabolism in skeletal muscle. *The Journal of Physiology*, 581(2), 431–444. https://doi.org/10.1113/jphysiol.2006.125799
+6. National Center for Biotechnology Information. PubChem Compound Summary for CID 10917, Carnitine. https://pubchem.ncbi.nlm.nih.gov/compound/10917

@@ -4,150 +4,135 @@ name: "HGH Fragment 176-191"
 slug: "hgh-fragment-176-191"
 price: 68.0
 status: "In Stock"
-description: "HGH Fragment 176-191 research peptide sourced directly from verified Chinese manufacturer. Purity and concentration verified per batch."
+description: "HGH Fragment 176-191, the 16-residue C-terminal domain of growth hormone. Sequence, disulfide integrity and batch verification for labs."
 image: "/images/products/generic-vial.png"
 
 ---
-HGH Fragment 176-191 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the GH C-terminal Fragment / Lipolytic Peptide CAS Number 66004-57-7 Molecular Formula C78H123N23O23S2 Molecular Weight 1817.12 Da Sequence Length 16 amino acids (residues 176–191 of hGH) Disulfide Bond Cys-182 — Cys-189 (essential for activity) Synonyms HGH Frag 176-191, AOD-9401, hGH fragment Half-life (research) ~20–30 min (rodent, s.c.) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
+HGH Fragment 176-191 is a sixteen-residue piece of the growth hormone molecule, sold as a research peptide on the strength of a hypothesis that has been repeated far more often than it has been tested. The hypothesis is that the C-terminal end of growth hormone carries the lipolytic activity while the rest of the protein carries the growth and insulin-like effects. If that were cleanly true, the fragment would be an unusually precise tool. The literature is less tidy, and a buyer should know that before choosing a vial.
 
-## Available Variants
+This page is about the fragment as a laboratory reagent: what the sequence is, what a batch record can and cannot prove, how the peptide behaves in solution, and how it compares with the full hormone and with the proprietary material called AOD9604. It is supplied for in vitro and preclinical research only. Nothing here is a claim about body composition, weight or human use.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| HGH Fragment 176-191 | 2 mg | 10 vials | ≥98% | In Stock |
-| HGH Fragment 176-191 | 5 mg | 10 vials | ≥98% | In Stock |
-| HGH Fragment 176-191 | 5 mg | 10 vials | — | In Stock |
+## Why This Compound
 
-## Specification Highlights
+The fragment corresponds to residues 176 to 191 of human growth hormone, a stretch that includes two cysteines at positions 182 and 189. In the intact protein those cysteines form a disulfide bond, and the same bond is present in the synthetic fragment when it is made correctly. The peptide is small, about 1,817 Da, and it is one of the few growth-hormone-derived fragments that is commercially available in a defined form.
 
-Category: Weight Management Total variants: 3 In-stock variants: 3 of 3 Purity: ≥98% Standard pack size: 10 vials 
+The research rationale comes from work on growth hormone's lipolytic domain. Early studies showed that fragments of GH could stimulate free fatty acid release from adipose tissue, and later work by Ng and colleagues developed a synthetic lipolytic domain, AOD9604, from the 176-191 region. The appeal was straightforward: if lipolysis could be separated from the anabolic and mitogenic actions of GH, a researcher would have a cleaner probe for adipose biology. The fragment does not compete with GH at the GH receptor in standard binding assays, which supported the idea of a separate mechanism.
 
-## Quality & Testing
+The counter-evidence is worth stating plainly. Frigeri and colleagues reported that purified human growth hormone showed no lipolytic activity in cultured 3T3-L1 adipocytes, which complicates the premise that the fragment isolates a discrete lipolytic domain. Other studies using GH fragments have reported effects on lipolysis and on glucose metabolism, but the mechanisms remain unresolved, and the literature is a mixture of in vitro, ex vivo and rodent work with different endpoints. A researcher who reads only the supplier copy would think the mechanism is settled. It is not.
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Variant Notes
-
-Peptide fragment of the C-terminal region of growth hormone. Research interest concerns its role in lipid metabolism regulation and differences between the activity of individual fragments and the full-length hormone. 
-
-## Research Areas
-
-Selective Lipolysis & Adipose Biology The primary research interest in HGH Fragment 176-191 is its capacity to stimulate lipolysis — fatty acid mobilisation from adipocytes — without activating the full GH receptor and its downstream anabolic and mitogenic pathways. In vitro experiments using primary rat adipocytes and 3T3-L1 differentiated fat cells show dose-dependent stimulation of glycerol and free fatty acid release. Crucially, the fragment does not compete with native GH at the GH receptor in binding competition assays, suggesting an alternative binding site or indirect mechanism. Comparative studies with intact GH use the fragment as a tool to isolate the lipolytic signalling pathway from IGF-1-dependent growth responses. IGF-1 Independence & Glucose Metabolism Native GH administration elevates both IGF-1 and causes transient insulin resistance in glucose tolerance models. HGH Fragment 176-191 studies in rodent obesity models report an absence of significant IGF-1 elevation and no glucose intolerance at doses producing measurable changes in adipose mass. This IGF-1 independence is mechanistically significant for research designs that need to examine fat-specific metabolic endpoints without confounding growth factor activity. Oral glucose tolerance tests (OGTT) in treated versus control obese rodents are a standard assay used to confirm this selectivity profile. Bone Metabolism Research In vitro studies using osteoblast-like cell lines (MG-63, Saos-2) and primary calvarial osteoblasts have characterised HGH Fragment 176-191's effects on alkaline phosphatase activity, collagen synthesis, and osteocalcin expression — markers of osteoblast differentiation and matrix mineralisation. Osteoclast resorption assays using dentine slice systems have also been used to characterise whether the fragment modulates bone resorption independently of its lipolytic activity. These studies position the fragment as a tool for investigating GH-independent mechanisms of bone metabolism regulation. Anti-obesity Phenotyping in Rodent Models Diet-induced obesity (DIO) and leptin-deficient (ob/ob) mouse models have been used to characterise HGH Fragment 176-191's effects on whole-body adiposity, measured by MRI body composition analysis and dual-energy X-ray absorptiometry (DEXA). Studies report preferential reductions in visceral adipose tissue versus subcutaneous depots in some rodent protocols, though the mechanistic basis for depot selectivity (if real) remains under investigation. Pair-feeding controls and pair-injected groups are used to separate direct metabolic effects from secondary changes in food intake. ## Sourcing HGH Fragment 176-191 From China
-
-HGH Fragment 176-191 is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
-
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, HGH Fragment 176-191 is supplied for
-  laboratory research use only, under strict research-use terms.
-
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
-
-## Frequently Asked Questions
-
-**How does HGH Fragment 176-191 differ from native growth hormone?**
-
-Native human GH (191 AA) binds the GH receptor and produces both anabolic effects (via IGF-1 induction) and lipolytic effects. HGH Fragment 176-191 consists only of the C-terminal 16 amino acids responsible for lipolytic activity. It does not bind the GH receptor in standard competition assays and does not elevate IGF-1 at doses studied in preclinical models. This selectivity makes it a tool compound for isolating the lipolytic arm of GH biology from its growth-promoting and insulin-desensitising actions. 
-
-**Is there a disulfide bond in HGH Fragment 176-191 and why does it matter?**
-
-Yes — a disulfide bridge connects Cys-182 and Cys-189 within the fragment. This bond is structurally essential for activity: reduced (linear) forms of the peptide show significantly diminished lipolytic potency in adipocyte assays. When reconstituting or handling the peptide, avoiding strongly reducing conditions (e.g., high DTT concentrations) preserves the disulfide structure and thus biological activity in research assays. 
-
-**What is the difference between HGH Fragment 176-191 and AOD-9604?**
-
-The names HGH Fragment 176-191 and AOD-9401 refer to the same peptide sequence. AOD-9604 is a distinct compound — it includes an additional tyrosine residue at the N-terminus (Tyr-hGH(177–191)) and was the form advanced further in clinical obesity trials by Metabolic Pharmaceuticals. Research papers and supplier catalogues sometimes use these names interchangeably, but strictly they are different molecules. Peptides of China lists AOD-9604 as a separate catalogue item. 
-
-**What purity and documentation is provided with wholesale orders?**
-
-HGH Fragment 176-191 is supplied at ≥98% purity, verified by RP-HPLC. Identity is confirmed by electrospray ionisation mass spectrometry (ESI-MS). Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Wholesale pricing and minimum order quantities are provided on request after account verification. 
-
-## Related Products
-
-HGH 191AA (Somatropin) BPC-157 10mg + TB-500 Fragment 10mg TB-500 Fragment (17-24) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. class, and every listing carries the manufacturer's own specification rather than a reseller's claim. Buyers sourcing **chinese peptides** in this category typically evaluate HGH Fragment 176-191 across Selective Lipolysis & Adipose Biology The primary research interest in HGH Fragment 176-191 is its capacity to stimulate lipolysis — fatty acid mobilisation from adipocytes — without activating the full GH receptor and its downstream anabolic and mitogenic pathways. In vitro experiments using primary rat adipocytes and 3T3-L1 differentiated fat cells show dose-dependent stimulation of glycerol and free fatty acid release. Crucially, the fragment does not compete with native GH at the GH receptor in binding competition assays, suggesting an alternative binding site or indirect mechanism. Comparative studies with intact GH use the fragment as a tool to isolate the lipolytic signalling pathway from IGF-1-dependent growth responses. IGF-1 Independence & Glucose Metabolism Native GH administration elevates both IGF-1 and causes transient insulin resistance in glucose tolerance models. HGH Fragment 176-191 studies in rodent obesity models report an absence of significant IGF-1 elevation and no glucose intolerance at doses producing measurable changes in adipose mass. This IGF-1 independence is mechanistically significant for research designs that need to examine fat-specific metabolic endpoints without confounding growth factor activity. Oral glucose tolerance tests (OGTT) in treated versus control obese rodents are a standard assay used to confirm this selectivity profile. Bone Metabolism Research In vitro studies using osteoblast-like cell lines (MG-63, Saos-2) and primary calvarial osteoblasts have characterised HGH Fragment 176-191's effects on alkaline phosphatase activity, collagen synthesis, and osteocalcin expression — markers of osteoblast differentiation and matrix mineralisation. Osteoclast resorption assays using dentine slice systems have also been used to characterise whether the fragment modulates bone resorption independently of its lipolytic activity. These studies position the fragment as a tool for investigating GH-independent mechanisms of bone metabolism regulation. Anti-obesity Phenotyping in Rodent Models Diet-induced obesity (DIO) and leptin-deficient (ob/ob) mouse models have been used to characterise HGH Fragment 176-191's effects on whole-body adiposity, measured by MRI body composition analysis and dual-energy X-ray absorptiometry (DEXA). Studies report preferential reductions in visceral adipose tissue versus subcutaneous depots in some rodent protocols, though the mechanistic basis for depot selectivity (if real) remains under investigation. Pair-feeding controls and pair-injected groups are used to separate direct metabolic effects from secondary changes in food intake. 
-
-## Frequently Asked Questions
-
-**How does HGH Fragment 176-191 differ from native growth hormone?**
-
-Native human GH (191 AA) binds the GH receptor and produces both anabolic effects (via IGF-1 induction) and lipolytic effects. HGH Fragment 176-191 consists only of the C-terminal 16 amino acids responsible for lipolytic activity. It does not bind the GH receptor in standard competition assays and does not elevate IGF-1 at doses studied in preclinical models. This selectivity makes it a tool compound for isolating the lipolytic arm of GH biology from its growth-promoting and insulin-desensitising actions. 
-
-**Is there a disulfide bond in HGH Fragment 176-191 and why does it matter?**
-
-Yes — a disulfide bridge connects Cys-182 and Cys-189 within the fragment. This bond is structurally essential for activity: reduced (linear) forms of the peptide show significantly diminished lipolytic potency in adipocyte assays. When reconstituting or handling the peptide, avoiding strongly reducing conditions (e.g., high DTT concentrations) preserves the disulfide structure and thus biological activity in research assays. 
-
-**What is the difference between HGH Fragment 176-191 and AOD-9604?**
-
-The names HGH Fragment 176-191 and AOD-9401 refer to the same peptide sequence. AOD-9604 is a distinct compound — it includes an additional tyrosine residue at the N-terminus (Tyr-hGH(177–191)) and was the form advanced further in clinical obesity trials by Metabolic Pharmaceuticals. Research papers and supplier catalogues sometimes use these names interchangeably, but strictly they are different molecules. Peptides of China lists AOD-9604 as a separate catalogue item. 
-
-**What purity and documentation is provided with wholesale orders?**
-
-HGH Fragment 176-191 is supplied at ≥98% purity, verified by RP-HPLC. Identity is confirmed by electrospray ionisation mass spectrometry (ESI-MS). Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Wholesale pricing and minimum order quantities are provided on request after account verification. 
-
-## Related Products
-
-HGH 191AA (Somatropin) BPC-157 10mg + TB-500 Fragment 10mg TB-500 Fragment (17-24) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, HGH Fragment 176-191 is supplied for laboratory research use only.
-
-
-Buy HGH Fragment 176-191 | Research Grade Peptide | Peptides of China HGH Fragment 176-191 Buy HGH Fragment 176-191 — Research Grade HGH Fragment 176-191 is a weight management research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+That makes the fragment a legitimate tool for a narrow question: does a defined C-terminal peptide produce a measurable change in a specific adipose or bone assay, under conditions where the full hormone is the comparator? It is a poor tool for a broad claim about "fat loss" because the assays that would support such a claim are exactly the ones where the literature is inconsistent.
 
 ## Compound Profile
 
-HGH Fragment 176-191 is a synthetic 16-amino acid peptide corresponding to the C-terminal region of human growth hormone (residues 176–191 of the 191 AA mature sequence). It was isolated following observations that the lipolytic activity of GH — stimulation of fat breakdown — could be attributed to the C-terminal region, while the growth-promoting and IGF-1-stimulating activity resided in the N-terminal domain. Structurally, the fragment retains a disulfide bridge between Cys-182 and Cys-189, which is essential for its biological activity. This selective structural correspondence is the foundation of research into the fragment as a tool for dissecting GH's metabolic actions from its anabolic effects. Preclinical research in rodent models of obesity has examined HGH Fragment 176-191's effects on adipose tissue lipolysis and lipogenesis. Studies using radiolabelled glucose and fatty acids in fat cells demonstrate that the fragment stimulates fatty acid release from isolated adipocytes at a potency reportedly 12-fold greater than native GH in in vitro fat cell assays, without detectable IGF-1 elevation or glucose intolerance in short-duration protocols. The absence of GH receptor activation by the fragment — confirmed by receptor binding assays — distinguishes it mechanistically from intact GH in metabolic studies. Bone metabolism research represents a separate line of investigation, with in vitro osteoblast and osteoclast models used to characterise the fragment's effects on bone formation markers. Peptides of China supplies HGH Fragment 176-191 as lyophilized powder at ≥98% purity verified by HPLC and confirmed by mass spectrometry. Certificates of Analysis are available per batch. Wholesale quantities available on request. This compound is intended for laboratory research use only and is not for human administration. 
+Chemical Class GH C-terminal Fragment / Lipolytic Peptide CAS Number 66004-57-7 Molecular Formula C78H123N23O23S2 Molecular Weight 1817.12 Da Sequence Length 16 amino acids (residues 176–191 of hGH) Disulfide Bond Cys-182 — Cys-189 (essential for activity) Synonyms HGH Frag 176-191, AOD-9401, hGH fragment Half-life (research) ~20–30 min (rodent, s.c.) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days)
 
-## Profile
+## What the Batch Record Should Show
 
-Chemical Class GH C-terminal Fragment / Lipolytic Peptide CAS Number 66004-57-7 Molecular Formula C78H123N23O23S2 Molecular Weight 1817.12 Da Sequence Length 16 amino acids (residues 176–191 of hGH) Disulfide Bond Cys-182 — Cys-189 (essential for activity) Synonyms HGH Frag 176-191, AOD-9401, hGH fragment Half-life (research) ~20–30 min (rodent, s.c.) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
+The fragment is short enough that a competent laboratory can confirm the entire sequence by mass spectrometry, which makes a thin certificate harder to excuse than it is for a protein.
 
-## Available Variants
+**Identity and sequence coverage.** The monoisotopic mass of the reduced peptide is about 1,816 Da, and the observed value should match the expected sequence including the C-terminal phenylalanine. MS/MS should cover the chain, not just the ends. A certificate that reports "MW 1817.12" and nothing else has quoted the catalogue, not measured the batch.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| HGH Fragment 176-191 | 2 mg | 10 vials | ≥98% | In Stock |
-| HGH Fragment 176-191 | 5 mg | 10 vials | ≥98% | In Stock |
-| HGH Fragment 176-191 | 5 mg | 10 vials | — | In Stock |
+**Disulfide status.** The Cys-182 to Cys-189 bond is part of the molecule's definition. A synthesis that fails to oxidise the cysteines produces a reduced peptide with two free thiols, a mass 2 Da higher, and different solution behaviour. The certificate should show the oxidised form as the main peak and report reduced or scrambled forms if present. This is the fragment-specific identity check that matters most.
 
-## Specification Highlights
+**Truncation and deletion.** Solid-phase synthesis of a 16-mer can produce deletion sequences that are close in mass and difficult to separate. High-resolution RP-HPLC with a shallow gradient, plus MS/MS, is the practical way to see them. A single broad peak at 98 percent area is not proof of sequence purity.
 
-Category: Weight Management Total variants: 3 In-stock variants: 3 of 3 Purity: ≥98% Standard pack size: 10 vials 
+**Counterion and content.** Acetate is common; trifluoroacetate can remain from purification. The counterion changes the fill mass, and residual TFA can affect cell assays. Peptide content per vial, measured by amino acid analysis or nitrogen determination, converts the label weight into usable peptide.
 
-## Quality & Testing
+**Aggregation and solubility.** The fragment is hydrophobic in the C-terminal region and can aggregate at higher concentrations. The certificate should state the recommended solvent and the observed solubility, and the laboratory should confirm clarity after reconstitution.
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+**Endotoxin and sterility.** Relevant for cell work. The [endotoxin explainer](/blog/what-are-endotoxins-why-they-matter/) explains why a lyophilised powder is not sterile by default, and the [CoA guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) covers the analytical fields.
 
-## Variant Notes
+## Sourcing & Verification
 
-Peptide fragment of the C-terminal region of growth hormone. Research interest concerns its role in lipid metabolism regulation and differences between the activity of individual fragments and the full-length hormone. 
+The fragment market has a naming problem before it has a quality problem. AOD9604, AOD-9401, HGH Frag 176-191 and "hGH fragment 177-191" are used loosely, and they are not all the same molecule. AOD9604 is a proprietary name associated with a synthetic lipolytic domain developed from this region; catalogues sometimes use it as a synonym for the 176-191 peptide, and sometimes for a slightly different construct. The only safe approach is to ask for the exact sequence and the observed mass, then compare them with the name on the vial.
 
-## Research Areas
+Questions worth asking:
 
-Selective Lipolysis & Adipose Biology The primary research interest in HGH Fragment 176-191 is its capacity to stimulate lipolysis — fatty acid mobilisation from adipocytes — without activating the full GH receptor and its downstream anabolic and mitogenic pathways. In vitro experiments using primary rat adipocytes and 3T3-L1 differentiated fat cells show dose-dependent stimulation of glycerol and free fatty acid release. Crucially, the fragment does not compete with native GH at the GH receptor in binding competition assays, suggesting an alternative binding site or indirect mechanism. Comparative studies with intact GH use the fragment as a tool to isolate the lipolytic signalling pathway from IGF-1-dependent growth responses. IGF-1 Independence & Glucose Metabolism Native GH administration elevates both IGF-1 and causes transient insulin resistance in glucose tolerance models. HGH Fragment 176-191 studies in rodent obesity models report an absence of significant IGF-1 elevation and no glucose intolerance at doses producing measurable changes in adipose mass. This IGF-1 independence is mechanistically significant for research designs that need to examine fat-specific metabolic endpoints without confounding growth factor activity. Oral glucose tolerance tests (OGTT) in treated versus control obese rodents are a standard assay used to confirm this selectivity profile. Bone Metabolism Research In vitro studies using osteoblast-like cell lines (MG-63, Saos-2) and primary calvarial osteoblasts have characterised HGH Fragment 176-191's effects on alkaline phosphatase activity, collagen synthesis, and osteocalcin expression — markers of osteoblast differentiation and matrix mineralisation. Osteoclast resorption assays using dentine slice systems have also been used to characterise whether the fragment modulates bone resorption independently of its lipolytic activity. These studies position the fragment as a tool for investigating GH-independent mechanisms of bone metabolism regulation. Anti-obesity Phenotyping in Rodent Models Diet-induced obesity (DIO) and leptin-deficient (ob/ob) mouse models have been used to characterise HGH Fragment 176-191's effects on whole-body adiposity, measured by MRI body composition analysis and dual-energy X-ray absorptiometry (DEXA). Studies report preferential reductions in visceral adipose tissue versus subcutaneous depots in some rodent protocols, though the mechanistic basis for depot selectivity (if real) remains under investigation. Pair-feeding controls and pair-injected groups are used to separate direct metabolic effects from secondary changes in food intake. 
+- What is the exact sequence, written out, and does the observed mass match it?
+- Is the disulfide bond formed, and what percentage of the batch is in the oxidised form?
+- Is the C-terminus free or modified?
+- What is the counterion, and is residual TFA reported?
+- What is the peptide content per vial, and how was it measured?
+- Is there a reduced-form or scrambled-form impurity peak?
+- Does the supplier manufacture the peptide or repackage bulk powder?
+
+A supplier who cannot answer the disulfide question is not selling a characterised fragment. A supplier who answers it with a chromatogram and a mass spectrum is. The [peptide testing guide](/blog/peptide-testing-and-analysis-a-professional-guide-to-laboratory-verification/) covers the orthogonal methods, and the [quality pillar](/peptide-quality-testing/) explains how to interpret them.
+
+One commercial note: the fragment is inexpensive to make, so the price spread between suppliers is usually a spread in documentation and fill, not in synthesis cost. A very low price per vial is a signal to check peptide content rather than a bargain.
+
+## Handling & Storage
+
+Lyophilised fragment is stored at −20°C, dry and protected from light. Let the vial warm to room temperature before opening. Reconstitute gently with water, phosphate-buffered saline or a dilute acetic acid solution, depending on the assay; add the solvent down the wall and swirl rather than vortex.
+
+Do not add reducing agents. DTT, TCEP and beta-mercaptoethanol will break the disulfide that defines the molecule, and the resulting reduced peptide is a different reagent. If the assay requires a reducing environment, the fragment is the wrong tool. Avoid buffers with high concentrations of chaotropes for the same reason: they can unfold the peptide and expose the cysteines to oxidation or scrambling.
+
+The fragment adsorbs to plastic and to some filter membranes, particularly at low concentrations. Use low-binding tubes, and check recovery after filtration. Solutions are usually held at 4°C for short-term use; for longer storage, aliquot and freeze at −20°C, avoiding repeated freeze-thaw. Protect from light, because the single tryptophan in the sequence can oxidise.
+
+If the solution turns cloudy, do not assume it is contaminated. The fragment can precipitate near its solubility limit, especially in high-salt buffers. Dilute, adjust pH, or change to a buffer with a lower ionic strength, and confirm by centrifugation whether the loss is particulate. The [solubility troubleshooting note](/blog/peptide-solubility-troubleshooting/) has a decision tree, and the [handling pillar](/peptide-handling-protocols/) covers the general workflow.
+
+## How It Compares
+
+**Intact growth hormone.** The 191-amino-acid protein activates the GH receptor, drives IGF-1 production and produces a broad metabolic response. The fragment does not bind the GH receptor in standard competition assays and is used precisely because it is not the full hormone. The [somatropin page](/catalog/hgh-191aa-somatropin/) is the comparator.
+
+**AOD9604.** A proprietary synthetic lipolytic domain derived from the same region. The names are often used interchangeably, but the sequence and the C-terminal modification should be confirmed before treating them as identical. If a study cites AOD9604 and the vial is labelled 176-191, the citation may not apply.
+
+**IGF-1 LR3.** A downstream growth factor analogue that acts on the IGF-1 receptor with reduced IGFBP binding. It is not a lipolytic fragment and does not share the mechanism. The [IGF-1 LR3 page](/catalog/igf-1-lr3/) covers that compound.
+
+**Growth-hormone secretagogues.** Ipamorelin, hexarelin and the GHRH analogues act upstream to release endogenous GH. The fragment is a terminal domain of the hormone itself, with a different pharmacological premise. The [secretagogue guide](/blog/2026-growth-hormone-secretagogue-wholesale-guide/) explains the family.
+
+**Other lipolytic research tools.** Isoproterenol and forskolin are standard pharmacological activators of lipolysis in adipocyte assays and are useful positive controls. They are not peptides, and they do not pretend to isolate a GH-specific pathway.
 
 ## Frequently Asked Questions
 
 **How does HGH Fragment 176-191 differ from native growth hormone?**
 
-Native human GH (191 AA) binds the GH receptor and produces both anabolic effects (via IGF-1 induction) and lipolytic effects. HGH Fragment 176-191 consists only of the C-terminal 16 amino acids responsible for lipolytic activity. It does not bind the GH receptor in standard competition assays and does not elevate IGF-1 at doses studied in preclinical models. This selectivity makes it a tool compound for isolating the lipolytic arm of GH biology from its growth-promoting and insulin-desensitising actions. 
+It is the 16-residue C-terminal portion of the 191-amino-acid protein. It does not activate the GH receptor in standard binding assays and does not induce IGF-1 in the models where that has been measured. The full hormone has both effects and a much larger pharmacological footprint.
 
-**Is there a disulfide bond in HGH Fragment 176-191 and why does it matter?**
+**Is the disulfide bond necessary?**
 
-Yes — a disulfide bridge connects Cys-182 and Cys-189 within the fragment. This bond is structurally essential for activity: reduced (linear) forms of the peptide show significantly diminished lipolytic potency in adipocyte assays. When reconstituting or handling the peptide, avoiding strongly reducing conditions (e.g., high DTT concentrations) preserves the disulfide structure and thus biological activity in research assays. 
+Yes, for the defined molecule. The Cys-182 to Cys-189 bond constrains the C-terminal loop and is part of what the fragment is. A reduced or scrambled preparation is a different peptide with different solution behaviour, even though the amino acid composition is the same.
 
-**What is the difference between HGH Fragment 176-191 and AOD-9604?**
+**Is AOD9604 the same as 176-191?**
 
-The names HGH Fragment 176-191 and AOD-9401 refer to the same peptide sequence. AOD-9604 is a distinct compound — it includes an additional tyrosine residue at the N-terminus (Tyr-hGH(177–191)) and was the form advanced further in clinical obesity trials by Metabolic Pharmaceuticals. Research papers and supplier catalogues sometimes use these names interchangeably, but strictly they are different molecules. Peptides of China lists AOD-9604 as a separate catalogue item. 
+Not necessarily. AOD9604 is a proprietary name for a synthetic lipolytic domain developed from this region, and catalogues use the terms loosely. Ask for the exact sequence and mass, and do not assume that a study citing AOD9604 applies to a vial labelled 176-191 without checking.
 
-**What purity and documentation is provided with wholesale orders?**
+**What purity is supplied?**
 
-HGH Fragment 176-191 is supplied at ≥98% purity, verified by RP-HPLC. Identity is confirmed by electrospray ionisation mass spectrometry (ESI-MS). Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Wholesale pricing and minimum order quantities are provided on request after account verification. 
+The catalogue specification is ≥98 percent by RP-HPLC, with identity confirmed by mass spectrometry. For this fragment, the more informative fields are disulfide status and peptide content, not the headline purity alone.
+
+**How should it be reconstituted?**
+
+Gently, with water or buffer down the vial wall, and without reducing agents. Vortexing promotes aggregation and surface denaturation. If the peptide does not dissolve, adjust pH or ionic strength rather than adding more solvent blindly.
+
+**Can it be used in cell culture?**
+
+Yes, in adipocyte, osteoblast and other cell systems, provided the preparation is sterile-filtered and endotoxin-tested. The fragment is not sterile by default, and the certificate should say whether endotoxin was measured.
+
+**Why is the literature inconsistent?**
+
+Because the fragment has been studied in different models, at different concentrations, with different endpoints and sometimes with different sequences under the same name. The mechanistic question is unresolved, and a single study should not be treated as a settled result.
 
 ## Related Products
 
-HGH 191AA (Somatropin) BPC-157 10mg + TB-500 Fragment 10mg TB-500 Fragment (17-24) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+- HGH 191AA (Somatropin)
+- IGF-1 LR3
+- AOD-9604
+- Tesamorelin
+- Ipamorelin
+
+## The Author's Take
+
+**Position.** I would treat the lipolytic claim as a hypothesis, not a product feature. The fragment is worth buying when the experiment is designed to test that hypothesis against the full hormone, not when the page is being used to justify a conclusion that the literature has not reached.
+
+**Reasoning.** The strongest part of the case is mechanistic: a defined C-terminal peptide, a disulfide-constrained structure, and a body of work suggesting activity that does not require the GH receptor. The weakest part is replication. The 3T3-L1 result from Frigeri and colleagues is a reminder that adipocyte assays are sensitive to differentiation state, medium composition and the form of the hormone used. A supplier page that presents the fragment as a settled lipolytic tool is selling certainty that the science does not have. Buy it to test, not to confirm.
+
+**Disclosure.** Peptides of China lists HGH Fragment 176-191 for laboratory research supply. This is a sourcing and evidence judgement, not medical advice. The peptide is supplied for in vitro and preclinical research only.
+
+## Sources
+
+1. Ng, F. M., Sun, J., Sharma, L., Libinaka, R., Jiang, W. J., Gianello, R. (2000). Metabolic studies of a synthetic lipolytic domain (AOD9604) of human growth hormone. *Hormone Research*, 53(6), 274–278. https://doi.org/10.1159/000053183
+2. Frigeri, L. G., Khoo, J. C., Robel, G. (2008). Absence of lipolytic activity from purified human growth hormone in cultured 3T3-L1 adipocytes. *Hormone Research*, 69(5), 292–298. https://doi.org/10.1159/000179698
+3. Dietz, J., Schwartz, J. (1991). Growth hormone alters lipolysis and hormone-sensitive lipase activity in 3T3-F442A adipocytes. *Metabolism*, 40(8), 800–806. https://doi.org/10.1016/0026-0495(91)90006-I
+4. Li, C. H., Tanaka, A., Pickering, B. T. (1964). Human pituitary growth hormone. VII. In vitro lipolytic activity. *Acta Endocrinologica*, 45, 155–162. https://doi.org/10.1530/acta.0.045s155
+5. Jones, J. I., Clemmons, D. R. (1995). Insulin-like growth factors and their binding proteins: biological actions. *Endocrine Reviews*, 16(1), 3–34. https://doi.org/10.1210/edrv-16-1-3
+6. Heffernan, M. A., Summers, R. J., Thorburn, A., Ogru, E., Gianello, R., Jiang, W. J., Ng, F. M. (2001). The effects of human GH and its lipolytic fragment (AOD9604) on lipid metabolism following chronic treatment in obese mice and β3-AR knockout mice. *Endocrinology*, 142(12), 5182–5189. https://doi.org/10.1210/endo.142.12.8522

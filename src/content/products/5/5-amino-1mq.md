@@ -4,157 +4,122 @@ name: "5-Amino-1MQ"
 slug: "5-amino-1mq"
 price: 68.0
 status: "In Stock"
-description: "5-Amino-1MQ NNMT inhibitor small molecule for metabolic research. Sourced from verified Chinese manufacturer. Purity tested per batch."
+description: "5-Amino-1MQ, a small-molecule NNMT inhibitor supplied as research-grade powder. Batch identity, purity and counterion documentation explained."
 image: "/images/products/5-amino-1mq-bottle.webp"
 
 ---
-5-Amino-1MQ is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Methylquinolinium NNMT inhibitor (small molecule) Synonyms 5-Amino-1-methylquinolinium, 5A1MQ Primary Target NNMT (Nicotinamide N-methyltransferase) 
+5-Amino-1MQ sits in an awkward place in a peptide catalog, and that is worth saying plainly. It is a methylquinolinium small molecule, not an amino-acid polymer, so the quality questions that decide whether a peptide vial is good do not map onto it cleanly. There is no sequence to confirm, no disulfide pattern to check, and no trifluoroacetate content to argue about. What remains is a shorter but sharper list: identity of the quaternary cation, counterion, residual solvent, water content, and the honesty of the purity figure attached to the lot.
 
-## Research Areas
+That matters because 5-Amino-1MQ is usually bought as a tool compound for cell work, where a 2% impurity can be a different inhibitor at the concentration used. This page explains what the compound is used to study, what a batch record for it should contain, and how to tell a real specification from a copied one.
 
-NNMT biology, adipose tissue epigenetics, SAM-dependent methylation, obesity models, NAD⁺ precursor metabolism Form Powder Storage −20°C long-term; 2-8°C short-term; protect from light Molecular Formula C₁₀H₁₀N₂ (free base form) Molecular Weight 158.2 Da CAS Number Available on request Sequence N/A — small molecule (not a peptide) 
+## Compound Profile
 
-## Available Variants
+Chemical Class Methylquinolinium NNMT inhibitor (small molecule) Synonyms 5-Amino-1-methylquinolinium, 5A1MQ Primary Target NNMT (Nicotinamide N-methyltransferase) Form Powder Storage −20°C long-term; 2-8°C short-term; protect from light Molecular Formula C₁₀H₁₀N₂ (free base form) Molecular Weight 158.2 Da CAS Number Available on request Sequence N/A — small molecule (not a peptide)
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| 5-Amino-1MQ | 5 mg | 10 vials | ≥98% | In Stock |
-| 5-Amino-1MQ | 10 mg | 10 vials | ≥98% | In Stock |
-| 5-Amino-1MQ | 50 mg | 10 vials | ≥98% | In Stock |
-| 5-Amino-1MQ | 50 mg | 10 vials | — | In Stock |
+## Why This Compound
 
-## Specification Highlights
+NNMT transfers a methyl group from S-adenosylmethionine (SAM) to nicotinamide, producing 1-methylnicotinamide and S-adenosylhomocysteine. The reaction looks minor until you count what it consumes. Every turnover spends one molecule of the cell's principal methyl donor and removes one molecule of nicotinamide that would otherwise enter the NAD⁺ salvage pathway through NAMPT. In adipose tissue, where NNMT expression rises with fat mass, that dual draw is the reason the enzyme became a metabolic target rather than a detoxification footnote.
 
-Category: Weight Management Total variants: 4 In-stock variants: 4 of 4 Purity: ≥98% Standard pack size: 10 vials 
+The 2014 Nature paper from Kraus and colleagues is the cleanest demonstration of direction. Knocking down NNMT protected mice from diet-induced obesity and improved glucose tolerance, with effects that tracked the hepatic and adipose SAM/SAH ratio rather than food intake. The authors framed NNMT as a regulator of epigenetic methylation capacity, not simply a nicotinamide sink. Later work refined that picture: NNMT expression correlates with adipose tissue inflammation and insulin resistance in human cohorts, and the enzyme appears in cancer-associated fibroblasts at levels that reshape the tumour microenvironment.
 
-## Quality & Testing
+5-Amino-1MQ enters this literature as a pharmacological tool rather than a genetic one. The quinolinium scaffold binds the nicotinamide site, and the 5-amino substituent improves membrane permeability enough for cell and animal work. In the 2017 structure-activity study, quinolinium analogues inhibited NNMT with IC₅₀ values near 1 µM in biochemical assays; the 2018 follow-up showed the same chemotype raised intracellular NAD⁺ and SAM, lowered 1-methylnicotinamide, and suppressed lipogenesis in cultured adipocytes. Those three readouts — substrate depletion, methyl-donor restoration, and lipid accumulation — are the usual endpoints in a 5-Amino-1MQ experiment.
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+There is a design lesson buried in that sequence. If a lab only measures lipid content, an impurity with unrelated cytotoxicity will look like an NNMT effect. If it measures 1-methylnicotinamide alongside SAM/SAH and NAD⁺, the result has a mechanism attached. Buyers running target-validation work should ask whether their supplier's purity data are good enough to support the second design; a 98% label with no chromatogram does not tell you whether the remaining 2% is water, counterion, or a structurally related quinolinium.
 
-## Research Areas
+A second, less discussed issue is assay interference. Methylquinolinium compounds absorb strongly in the UV range used by many HPLC methods, and they can quench fluorescence in NADH-coupled assays. Neither problem invalidates the compound, but both change how purity should be measured and how hits should be confirmed. Labs that publish 5-Amino-1MQ data increasingly include an orthogonal identity check — LC-MS plus ¹H NMR — because a single UV trace at 254 nm can hide a lot in a molecule this small.
 
-NNMT Inhibition and Adipose Biology NNMT is highly expressed in adipose tissue and upregulated in obesity, where it consumes nicotinamide (vitamin B3) and SAM. Research has used 5-Amino-1MQ to examine how NNMT inhibition affects adipocyte differentiation, lipid droplet accumulation, and adipogenic transcription factor activity (PPAR-γ, C/EBPα) in cell culture and rodent models. The working hypothesis is that NNMT inhibition preserves SAM for epigenetic H3K4 methylation events that suppress adipogenic programming. SAM Methylation Economy Research NNMT consumes SAM — the universal methyl donor for DNA and histone methyltransferases — converting it to S-adenosylhomocysteine while methylating nicotinamide. Research has examined how 5-Amino-1MQ-mediated NNMT inhibition affects cellular SAM/SAH ratios, global histone methylation patterns, and gene expression programs regulated by SAM-dependent methylation. This positions 5-Amino-1MQ as a tool for studying the interface between one-carbon metabolism and epigenetic regulation. NAD⁺ Precursor Flux Research By inhibiting NNMT, 5-Amino-1MQ preserves nicotinamide for NAD⁺ biosynthesis via the NAMPT pathway rather than diverting it to 1-methylnicotinamide. Research has examined whether this shift in nicotinamide flux increases cellular NAD⁺ levels and downstream sirtuin (SIRT1/3) activity — connecting NNMT biology to the growing field of NAD⁺ metabolism and longevity research. ## Sourcing 5-Amino-1MQ From China
+## What the Batch Record Should Show
 
-5-Amino-1MQ is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
+A usable batch record for 5-Amino-1MQ is short and specific. It should begin with the lot number, the manufacturing date, the quantity filled, and the appearance of the powder — typically a yellow to orange crystalline solid, depending on counterion and hydration. Colour is not a purity grade, but a batch that arrives brown when the specification says yellow deserves a question.
 
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, 5-Amino-1MQ is supplied for
-  laboratory research use only, under strict research-use terms.
+Identity should be established twice. Positive-ion LC-MS ought to show the quaternary cation at m/z ≈159, consistent with C₁₀H₁₀N₂, and the retention time should match a reference injection run on the same column and gradient. A mass peak alone is weak evidence for a positional isomer, which is why ¹H NMR in a solvent such as DMSO-d₆ is the more informative identity test for this scaffold. The spectrum should show the N-methyl singlet and the aromatic pattern expected for a 5-substituted quinolinium; an extra aromatic signal usually means an isomer or an unreacted precursor.
 
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
+Purity by HPLC needs a method, not just a number. The record should name the column chemistry, dimensions, particle size, mobile phase, gradient, flow rate, detection wavelength, injection volume, and integration threshold. For a small polar cation, reverse-phase methods often need an ion-pairing agent or a shallow gradient; a method that elutes the compound at the solvent front tells you almost nothing. The specification on this page is ≥98% by HPLC, and the chromatogram should show the main peak plus any impurity peaks above the reporting threshold, with their relative areas listed rather than summarized as "≥98%".
 
-## Frequently Asked Questions
+Counterion identity belongs in the record because it changes the formula weight and the solubility. Methylquinolinium salts are commonly isolated as iodides or chlorides; the two forms differ by more than 100 Da and behave differently in water. A certificate that lists the free-base molecular weight while the vial contains the iodide salt is internally inconsistent, and that inconsistency travels into every concentration calculation a lab makes afterward. Water content by Karl Fischer, residual solvent by headspace GC (methanol, acetonitrile, and any recrystallization solvent), and heavy metals by ICP-MS complete the small-molecule package.
 
-**What is NNMT and why is it a research target?**
+Microbiology matters less here than for peptides, but it is not irrelevant. If the material is sold as sterile-filtered solution, endotoxin and sterility data apply. If it is sold as powder for cell culture, the buyer should know whether it was prepared under any controlled conditions or simply bottled. This catalog supplies 5-Amino-1MQ as powder for laboratory research, and the batch documentation travels with the order rather than as a generic certificate reused across compounds.
 
-NNMT (Nicotinamide N-methyltransferase) methylates nicotinamide using SAM, consuming two key metabolic substrates: a NAD⁺ precursor (nicotinamide) and the universal methyl donor (SAM). Its upregulation in obese adipose tissue is hypothesized to divert nicotinamide away from NAD⁺ synthesis and reduce SAM availability for epigenetic methylation — making NNMT a research target at the intersection of NAD⁺ metabolism, epigenetics, and metabolic disease. 
+## Sourcing & Verification
 
-**How does 5-Amino-1MQ differ from NMN or NR as a metabolic research tool?**
+Small molecules are easier to synthesize than peptides and easier to misrepresent. A Chinese supplier can buy 5-Amino-1MQ from a chemical vendor, repackage it, and issue a certificate with a purity figure copied from the vendor's listing. The buyer sees a plausible document and no way to connect it to the vial in hand.
 
-NMN and NR increase NAD⁺ by providing more precursor substrate. 5-Amino-1MQ increases NAD⁺ precursor availability indirectly by inhibiting NNMT — the enzyme that consumes nicotinamide. Additionally, 5-Amino-1MQ has epigenetic effects via SAM preservation that NMN and NR do not share. They are mechanistically complementary research tools rather than interchangeable. 
+The first verification step is therefore less about analytics and more about provenance. Ask which site synthesized the lot, whether the same site performed the HPLC, and whether the certificate's method section matches the equipment the site actually runs. A supplier that cannot name a manufacturing site for a 158 Da compound is usually reselling. The second step is a sample-level check: request the chromatogram and the NMR spectrum for the specific lot, not a representative batch. If both exist and agree with the stated structure, the risk drops sharply.
 
-**What purity is your 5-Amino-1MQ?**
+Watch for three specific tells. First, a certificate that reports "purity 99.5%" with no method or wavelength — the number is decorative. Second, a formula weight that matches the free base while the synthesis route implies a salt — common when suppliers copy specs between listings. Third, a COA whose lot number does not appear on the vial label. None of these proves a bad batch, but each breaks the chain between document and material.
 
-5-Amino-1MQ is supplied at 99%+ purity, verified by HPLC and NMR. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
+For buyers comparing Chinese suppliers, the practical test is whether the seller will release a sample for independent LC-MS before a bulk order. A 10 mg sample costs little and settles more than a page of claims. Our own listings follow the same logic: the manufacturer's specification is the offer, and the documentation is available before the order is confirmed rather than after.
 
-**What are the storage conditions?**
+## Handling & Storage
 
-Store 5-Amino-1MQ at −20°C, protected from light and moisture. The compound is stable as a dry powder. Aqueous solutions should be prepared fresh and kept at 2-8°C for short-term use. Related Products 5-Amino-1MQ (Oral) NAD+ 100mg + MOTS-C 10mg + 5-Amino-1MQ 10mg Related Research Articles 5-Amino-1MQ: NNMT Inhibition in Preclinical Research (RUO) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. class, and every listing carries the manufacturer's own specification rather than a reseller's claim. Buyers sourcing **chinese peptides** in this category typically evaluate 5-Amino-1MQ across NNMT biology, adipose tissue epigenetics, SAM-dependent methylation, obesity models, NAD⁺ precursor metabolism Form Powder Storage −20°C long-term; 2-8°C short-term; protect from light Molecular Formula C₁₀H₁₀N₂ (free base form) Molecular Weight 158.2 Da CAS Number Available on request Sequence N/A — small molecule (not a peptide) 
+5-Amino-1MQ is supplied as a powder and should be stored at −20°C for long-term holding, with short-term bench work at 2–8°C. Protect it from light; quinolinium compounds are not famously photostable, and amber vials cost nothing. Let the vial equilibrate to room temperature before opening, or condensation will introduce water into a hygroscopic solid.
 
-## Available Variants
+Weighing is the step where small-molecule work most often goes wrong. The compound is light and prone to static, so a balance that reads to 0.01 mg is appropriate for milligram quantities, and an anti-static bar or a grounded weighing boat helps. Prepare a concentrated stock in DMSO, aliquot it, and freeze the aliquots at −20°C rather than repeatedly thawing one tube. Aqueous dilutions should be made on the day of use; the compound is stable enough for a working session, not for a week in a fridge.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| 5-Amino-1MQ | 5 mg | 10 vials | ≥98% | In Stock |
-| 5-Amino-1MQ | 10 mg | 10 vials | ≥98% | In Stock |
-| 5-Amino-1MQ | 50 mg | 10 vials | ≥98% | In Stock |
-| 5-Amino-1MQ | 50 mg | 10 vials | — | In Stock |
+Solubility is the practical constraint. 5-Amino-1MQ dissolves readily in DMSO and in acidic aqueous media, less so in plain phosphate buffer at neutral pH. If a protocol calls for direct dilution into medium, check for precipitate at the final concentration before adding it to cells; a cloudy well is usually a solubility problem, not a compound problem. Filter sterilize stock solutions with a PVDF or nylon membrane, and check that the membrane does not adsorb the compound by comparing pre- and post-filter absorbance.
 
-## Specification Highlights
+## How It Compares
 
-Category: Weight Management Total variants: 4 In-stock variants: 4 of 4 Purity: ≥98% Standard pack size: 10 vials 
+| Tool | Mechanism | Strength for research | Main limitation |
+| --- | --- | --- | --- |
+| 5-Amino-1MQ | NNMT inhibition | Direct pharmacological block; cell-permeable | Short half-life in vivo; limited selectivity data outside NNMT |
+| NMN / NR | NAD⁺ precursors | Raise NAD⁺ without touching methylation | Do not preserve SAM or lower 1-methylnicotinamide |
+| Genetic NNMT knockdown | Expression silencing | Clean target validation | Slow; off-target effects from viral vectors |
+| AICAR | AMPK activation | Downstream energy-sensor readout | Different pathway entirely; not an NNMT tool |
 
-## Quality & Testing
+Against NMN and NR, the distinction is mechanistic rather than a matter of potency. Precursors add substrate; 5-Amino-1MQ removes a competing consumer. Labs that want to separate NAD⁺ availability from methylation capacity can use the three compounds in parallel and compare SAM/SAH ratios, which is the design most likely to produce an interpretable result.
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+Against genetic knockdown, the small molecule offers temporal control. Add it, measure within hours, wash it out, and the enzyme returns. That reversibility is useful for separating acute metabolic effects from adaptive transcriptional responses. It also means the compound's pharmacokinetics, not its potency, often decide whether an in vivo experiment works.
 
-## Research Areas
+## The Author's Take
 
-NNMT Inhibition and Adipose Biology NNMT is highly expressed in adipose tissue and upregulated in obesity, where it consumes nicotinamide (vitamin B3) and SAM. Research has used 5-Amino-1MQ to examine how NNMT inhibition affects adipocyte differentiation, lipid droplet accumulation, and adipogenic transcription factor activity (PPAR-γ, C/EBPα) in cell culture and rodent models. The working hypothesis is that NNMT inhibition preserves SAM for epigenetic H3K4 methylation events that suppress adipogenic programming. SAM Methylation Economy Research NNMT consumes SAM — the universal methyl donor for DNA and histone methyltransferases — converting it to S-adenosylhomocysteine while methylating nicotinamide. Research has examined how 5-Amino-1MQ-mediated NNMT inhibition affects cellular SAM/SAH ratios, global histone methylation patterns, and gene expression programs regulated by SAM-dependent methylation. This positions 5-Amino-1MQ as a tool for studying the interface between one-carbon metabolism and epigenetic regulation. NAD⁺ Precursor Flux Research By inhibiting NNMT, 5-Amino-1MQ preserves nicotinamide for NAD⁺ biosynthesis via the NAMPT pathway rather than diverting it to 1-methylnicotinamide. Research has examined whether this shift in nicotinamide flux increases cellular NAD⁺ levels and downstream sirtuin (SIRT1/3) activity — connecting NNMT biology to the growing field of NAD⁺ metabolism and longevity research. 
+I would not buy 5-Amino-1MQ from a listing that shows a purity percentage but no chromatogram. This is a compound where the plausible failure mode is not "underfilled vial" but "98% pure by an unstated method, containing an isomer or a residual precursor that also binds NNMT". For cell work that distinction can reverse a conclusion, and for a paper it is the difference between a mechanism and a curiosity.
+
+My second position is that the counterion should be disclosed before purchase. A supplier that sells the iodide and quotes the free-base molecular weight is not necessarily dishonest, but the ambiguity will cost the buyer time at the bench. Ask for the salt form in writing, then calculate concentrations from the salt's formula weight.
+
+Disclosure: I write for Peptides of China, which sells this compound. The sourcing claims here describe how this catalog is built; they are not an independent audit of every lot, and labs should still run their own identity check on arrival.
 
 ## Frequently Asked Questions
 
-**What is NNMT and why is it a research target?**
+**Why is a non-peptide compound listed in a peptide catalog?**
 
-NNMT (Nicotinamide N-methyltransferase) methylates nicotinamide using SAM, consuming two key metabolic substrates: a NAD⁺ precursor (nicotinamide) and the universal methyl donor (SAM). Its upregulation in obese adipose tissue is hypothesized to divert nicotinamide away from NAD⁺ synthesis and reduce SAM availability for epigenetic methylation — making NNMT a research target at the intersection of NAD⁺ metabolism, epigenetics, and metabolic disease. 
+Because research buyers source tools, not categories. 5-Amino-1MQ is used alongside NAD⁺ precursors and mitochondrial peptides in metabolic studies, and buyers assembling those panels prefer one supplier with one documentation standard. The catalog labels it as a small molecule so nobody mistakes it for a peptide.
 
-**How does 5-Amino-1MQ differ from NMN or NR as a metabolic research tool?**
+**Is 5-Amino-1MQ the same as 5-amino-1-methylquinolinium?**
 
-NMN and NR increase NAD⁺ by providing more precursor substrate. 5-Amino-1MQ increases NAD⁺ precursor availability indirectly by inhibiting NNMT — the enzyme that consumes nicotinamide. Additionally, 5-Amino-1MQ has epigenetic effects via SAM preservation that NMN and NR do not share. They are mechanistically complementary research tools rather than interchangeable. 
+Yes. The two names describe the same cation; "5A1MQ" is a common shorthand in the literature. Salt form is the variable that changes the formula weight, so confirm whether a given lot is the chloride, iodide, or another salt before calculating concentrations.
 
-**What purity is your 5-Amino-1MQ?**
+**What purity does this listing carry?**
 
-5-Amino-1MQ is supplied at 99%+ purity, verified by HPLC and NMR. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
+The catalog specification is ≥98% by HPLC. The batch record should include the chromatogram, the method, and the impurity table rather than only the headline number. If you need a higher grade for a specific assay, ask before ordering; the specification is a floor, not a marketing claim.
 
-**What are the storage conditions?**
+**Can I dissolve 5-Amino-1MQ directly in cell culture medium?**
 
-Store 5-Amino-1MQ at −20°C, protected from light and moisture. The compound is stable as a dry powder. Aqueous solutions should be prepared fresh and kept at 2-8°C for short-term use. Related Products 5-Amino-1MQ (Oral) NAD+ 100mg + MOTS-C 10mg + 5-Amino-1MQ 10mg Related Research Articles 5-Amino-1MQ: NNMT Inhibition in Preclinical Research (RUO) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, 5-Amino-1MQ is supplied for laboratory research use only.
+It dissolves poorly at neutral pH in plain buffer. Prepare a DMSO stock first, then dilute into medium while checking for precipitate. Keep the final DMSO concentration consistent across treated and control wells so the vehicle does not become the variable.
 
+**How should I store a reconstituted stock?**
 
-Buy 5-Amino-1MQ | NNMT Inhibitor | Research Grade | Peptides of China 5-Amino-1MQ Buy 5-Amino-1MQ — Research Grade NNMT Inhibitor 5-Amino-1MQ is a weight management research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. Compound Profile 5-Amino-1MQ (5-amino-1-methylquinolinium) is a small-molecule inhibitor of nicotinamide N-methyltransferase (NNMT) — an enzyme that catalyzes the N-methylation of nicotinamide using S-adenosylmethionine (SAM) as a methyl donor, producing 1-methylnicotinamide and S-adenosylhomocysteine. NNMT activity is upregulated in adipose tissue in obesity states, and research has investigated its role in regulating cellular SAM availability, epigenetic methylation capacity, and NAD⁺ precursor flux. By inhibiting NNMT, 5-Amino-1MQ is studied as a tool for examining how nicotinamide methyl metabolism affects adipogenesis, energy expenditure, and metabolic gene expression. Preclinical research in rodent diet-induced obesity models has examined 5-Amino-1MQ in the context of body composition, adipose tissue metabolism, and metabolic rate. Studies have reported reductions in fat cell size, changes in adipogenic gene expression, and alterations in cellular energy status consistent with NNMT inhibition. The mechanistic hypothesis centers on NNMT inhibition increasing cellular SAM availability for epigenetic methylation reactions — particularly H3K4 methylation — which may alter gene expression programs in adipose tissue. This epigenetic mechanism distinguishes 5-Amino-1MQ from conventional metabolic research compounds. Peptides of China supplies 5-Amino-1MQ as a powder at 99%+ purity, verified by HPLC and NMR. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. All products are for laboratory research use only and are not for human consumption. 
+Aliquot the DMSO stock and hold it at −20°C, protected from light. Avoid repeated freeze-thaw cycles; a single tube thawed five times is a different reagent by the fifth use. Aqueous working dilutions should be prepared fresh.
 
-## Profile
+**Does the compound interfere with common plate-reader assays?**
 
-Chemical Class Methylquinolinium NNMT inhibitor (small molecule) Synonyms 5-Amino-1-methylquinolinium, 5A1MQ Primary Target NNMT (Nicotinamide N-methyltransferase) 
+Methylquinolinium compounds absorb in the UV and can quench some fluorescence readouts. Run a compound-only blank at the assay wavelength and, where possible, confirm hit compounds with an orthogonal method such as LC-MS or a cell-free enzymatic assay.
 
-## Research Areas
+**What documentation ships with an order?**
 
-NNMT biology, adipose tissue epigenetics, SAM-dependent methylation, obesity models, NAD⁺ precursor metabolism Form Powder Storage −20°C long-term; 2-8°C short-term; protect from light Molecular Formula C₁₀H₁₀N₂ (free base form) Molecular Weight 158.2 Da CAS Number Available on request Sequence N/A — small molecule (not a peptide) 
+The manufacturer's batch specification for the lot, including identity and purity data where provided. Certificates are not issued as a separate third-party document for this compound; if your institution requires an external lab report, arrange that testing before the order is placed.
 
-## Available Variants
+## Related Products
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| 5-Amino-1MQ | 5 mg | 10 vials | ≥98% | In Stock |
-| 5-Amino-1MQ | 10 mg | 10 vials | ≥98% | In Stock |
-| 5-Amino-1MQ | 50 mg | 10 vials | ≥98% | In Stock |
-| 5-Amino-1MQ | 50 mg | 10 vials | — | In Stock |
+5-Amino-1MQ (Oral) NAD+ 100mg + MOTS-C 10mg + 5-Amino-1MQ 10mg
 
-## Specification Highlights
+## Sources
 
-Category: Weight Management Total variants: 4 In-stock variants: 4 of 4 Purity: ≥98% Standard pack size: 10 vials 
+1. Neelakantan H, Vance V, Wetzel MD, et al. Selective and membrane-permeable small molecule inhibitors of nicotinamide N-methyltransferase reverse high fat diet-induced obesity in mice. *Biochem Pharmacol*. 2018;147:141–152. [doi:10.1016/j.bcp.2017.11.007](https://doi.org/10.1016/j.bcp.2017.11.007)
+2. Neelakantan H, Wang HY, Vance V, et al. Structure-activity relationship for small molecule inhibitors of nicotinamide N-methyltransferase. *J Med Chem*. 2017;60(12):5015–5028. [doi:10.1021/acs.jmedchem.7b00389](https://doi.org/10.1021/acs.jmedchem.7b00389)
+3. Kraus D, Yang Q, Kong D, et al. Nicotinamide N-methyltransferase knockdown protects against diet-induced obesity. *Nature*. 2014;508:258–262. [doi:10.1038/nature13198](https://doi.org/10.1038/nature13198)
+4. Roberti A, Fernández AF, Fraga MF. Nicotinamide N-methyltransferase: at the crossroads between cellular metabolism and epigenetic regulation. *Mol Metab*. 2021;45:101165. [doi:10.1016/j.molmet.2021.101165](https://doi.org/10.1016/j.molmet.2021.101165)
+5. Liu JR, Deng ZH, Zhu XJ, et al. Roles of nicotinamide N-methyltransferase in obesity and type 2 diabetes. *Biomed Res Int*. 2021;2021:9924314. [doi:10.1155/2021/9924314](https://doi.org/10.1155/2021/9924314)
+6. Dimet-Wiley A, Wu Q, Wiley JT, et al. Reduced calorie diet combined with NNMT inhibition establishes a distinct microbiome in DIO mice. *Sci Rep*. 2022;12:1123. [doi:10.1038/s41598-021-03670-5](https://doi.org/10.1038/s41598-021-03670-5)
 
-## Quality & Testing
-
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Research Areas
-
-NNMT Inhibition and Adipose Biology NNMT is highly expressed in adipose tissue and upregulated in obesity, where it consumes nicotinamide (vitamin B3) and SAM. Research has used 5-Amino-1MQ to examine how NNMT inhibition affects adipocyte differentiation, lipid droplet accumulation, and adipogenic transcription factor activity (PPAR-γ, C/EBPα) in cell culture and rodent models. The working hypothesis is that NNMT inhibition preserves SAM for epigenetic H3K4 methylation events that suppress adipogenic programming. SAM Methylation Economy Research NNMT consumes SAM — the universal methyl donor for DNA and histone methyltransferases — converting it to S-adenosylhomocysteine while methylating nicotinamide. Research has examined how 5-Amino-1MQ-mediated NNMT inhibition affects cellular SAM/SAH ratios, global histone methylation patterns, and gene expression programs regulated by SAM-dependent methylation. This positions 5-Amino-1MQ as a tool for studying the interface between one-carbon metabolism and epigenetic regulation. NAD⁺ Precursor Flux Research By inhibiting NNMT, 5-Amino-1MQ preserves nicotinamide for NAD⁺ biosynthesis via the NAMPT pathway rather than diverting it to 1-methylnicotinamide. Research has examined whether this shift in nicotinamide flux increases cellular NAD⁺ levels and downstream sirtuin (SIRT1/3) activity — connecting NNMT biology to the growing field of NAD⁺ metabolism and longevity research. 
-
-## Frequently Asked Questions
-
-**What is NNMT and why is it a research target?**
-
-NNMT (Nicotinamide N-methyltransferase) methylates nicotinamide using SAM, consuming two key metabolic substrates: a NAD⁺ precursor (nicotinamide) and the universal methyl donor (SAM). Its upregulation in obese adipose tissue is hypothesized to divert nicotinamide away from NAD⁺ synthesis and reduce SAM availability for epigenetic methylation — making NNMT a research target at the intersection of NAD⁺ metabolism, epigenetics, and metabolic disease. 
-
-**How does 5-Amino-1MQ differ from NMN or NR as a metabolic research tool?**
-
-NMN and NR increase NAD⁺ by providing more precursor substrate. 5-Amino-1MQ increases NAD⁺ precursor availability indirectly by inhibiting NNMT — the enzyme that consumes nicotinamide. Additionally, 5-Amino-1MQ has epigenetic effects via SAM preservation that NMN and NR do not share. They are mechanistically complementary research tools rather than interchangeable. 
-
-**What purity is your 5-Amino-1MQ?**
-
-5-Amino-1MQ is supplied at 99%+ purity, verified by HPLC and NMR. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
-
-**What are the storage conditions?**
-
-Store 5-Amino-1MQ at −20°C, protected from light and moisture. The compound is stable as a dry powder. Aqueous solutions should be prepared fresh and kept at 2-8°C for short-term use. Related Products 5-Amino-1MQ (Oral) NAD+ 100mg + MOTS-C 10mg + 5-Amino-1MQ 10mg Related Research Articles 5-Amino-1MQ: NNMT Inhibition in Preclinical Research (RUO) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+For the analytical framework behind the batch-record advice, see [how to read a peptide COA](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/), [HPLC versus LC-MS](/blog/hplc-vs-lc-ms-peptides/), and the [peptide quality testing pillar](/peptide-quality-testing/). Handling questions are covered in [peptide solubility troubleshooting](/blog/peptide-solubility-troubleshooting/) and the [handling and protocols pillar](/peptide-handling-protocols/). For the metabolic context, see [peptide categories and mechanisms](/peptide-categories-mechanisms/). Related catalog entries: [NAD+](/catalog/nad/), [MOTS-C](/catalog/mots-c/), and the [NAD+/MOTS-C/5-Amino-1MQ blend](/catalog/nad-100mg-mots-c-10mg-5-amino-1mq-10mg/).

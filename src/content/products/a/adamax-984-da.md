@@ -4,152 +4,125 @@ name: "adamax-984-da"
 slug: "adamax-984-da"
 price: 119.0
 status: "In Stock"
-description: "Advanced synthetic analog of Semax — itself a stabilized heptapeptide derivative of the ACTH(4-7) fragment — incorporating an adamantane-containing structural modification that enhances blood-brain ba"
+description: "Adamax (984 Da) is an adamantane-modified ACTH(4-7) analogue supplied for neuroscience research. Identity testing and batch records explained."
 image: "/images/products/generic-vial.png"
 
 ---
-adamax-984-da is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Synthetic neuropeptide; advanced ACTH(4-7) analogue with adamantane modification Parent Compound Semax (Met-Glu-His-Phe-Pro-Gly-Pro; ACTH(4-7) heptapeptide derivative) Modification Adamantane-containing structural motif; characteristic of the 984 Da form (distinct from 1032 Da variant) Developed from ACTH(4-7) analogue research programme, Institute of Molecular Genetics, Russian Academy of Sciences Molecular Weight ~984 Da 
+Adamax is a compound that rewards caution. It is catalogued as an adamantane-modified analogue of Semax with a mass near 984 Da, and it circulates in a small research market where the published structural record is thin. There is no pharmacopoeial monograph, no widely replicated synthesis route in the open literature, and no consensus on how the adamantane group is attached. A buyer who treats it like a well-characterised peptide is buying a name, not a molecule.
 
-## Research Areas
-
-BDNF/NGF upregulation, neuroprotection, dopaminergic and serotonergic modulation, cognitive function, CNS bioavailability research Form Lyophilized powder Storage −20°C; protect from light and moisture 
-
-## Available Variants
-
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| Adamax (984 Da) | 10 mg | 10 vials | >=98% | In Stock |
-
-## Specification Highlights
-
-Category: Cognitive & Neuro Total variants: 1 In-stock variants: 1 of 1 Purity: >=98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Research Areas
-
-BDNF and NGF Upregulation The BDNF and NGF-upregulating activity established for Semax forms the primary neurotrophic research context for Adamax. In Semax studies, dose-dependent increases in BDNF mRNA (1.4–2.0-fold in hippocampus by RT-PCR) and NGF protein (ELISA) are documented at 25–250 μg/kg in rodents. Adamax, as a structurally enhanced analogue, is investigated for whether the adamantane modification shifts the effective dose range or prolongs the duration of neurotrophic factor induction — outcomes studied by pairing Adamax and Semax in the same in vivo BDNF/NGF measurement protocol. TrkB receptor antagonist (ANA-12) pre-treatment experiments are used to confirm BDNF-dependence of any observed downstream effects on synaptic plasticity, LTP, and behavioural cognitive endpoints. Blood-Brain Barrier Penetration and Pharmacokinetic Research The adamantane moiety is employed in CNS drug design specifically to enhance BBB permeability via increased lipophilicity and interaction with P-glycoprotein transport mechanisms. Comparative BBB penetration studies pairing Adamax (984 Da) against unmodified Semax use brain-to-plasma ratio measurements (LC-MS/MS of brain homogenate and plasma after matched i.v. and i.p. dosing) to quantify CNS exposure. Metabolic stability assays in plasma and liver microsome fractions characterise the enzymatic resistance conferred by the adamantane group, complementing the in vivo pharmacokinetic data. These studies are relevant to identifying compounds with improved CNS exposure-to-peripheral-dose ratios for neuroprotection and cognitive research applications. Dopaminergic and Serotonergic Neurotransmission Semax administration in rodent microdialysis studies is associated with increased dopamine turnover (elevated DOPAC/DA and HVA/DA ratios) and serotonin release in frontal cortical regions, without direct receptor agonism at dopaminergic or serotonergic sites — an indirect neuromodulatory mechanism distinct from psychostimulants. Adamax is studied in the same neurotransmitter profiling frameworks: in vivo microdialysis in striatum and prefrontal cortex, receptor binding assays (³H-SCH23390 and ³H-ketanserin displacement for D1 and 5-HT2A sites respectively), and behavioural endpoints sensitive to monoamine function (prepulse inhibition, forced swim test serotonin sensitivity). The adamantane modification's effect on potency and duration in these monoaminergic assays is the primary pharmacological differentiation question versus the parent Semax. Neuroprotection in Ischaemia and Oxidative Stress Models Following the established neuroprotective profile of Semax in transient MCAO and global forebrain ischaemia models, Adamax is investigated in comparable experimental injury protocols. Endpoints include infarct volume quantification (TTC staining), neurological deficit scoring, and immunohistochemical markers of neuronal survival (NeuN, MAP2) and microglial activation state (Iba-1 polarisation). Proposed mechanisms of neuroprotection in this compound class — anti-excitotoxic modulation of NMDA receptor pathways, mitochondrial membrane stabilisation, and suppression of ischaemia-induced inflammatory cytokine release — are assessed using the adamantane analogue to characterise whether the pharmacokinetic improvements translate into a wider therapeutic window or lower effective dose in the injury models. ## Sourcing adamax-984-da From China
-
-adamax-984-da is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
-
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, adamax-984-da is supplied for
-  laboratory research use only, under strict research-use terms.
-
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
-
-## Frequently Asked Questions
-
-**How does Adamax (984 Da) differ from Semax in research terms?**
-
-Semax (Met-Glu-His-Phe-Pro-Gly-Pro, ~814 Da) is the parent ACTH(4-7) heptapeptide with an established neuroprotective and nootropic research profile. Adamax incorporates an adamantane-containing modification that increases the molecular weight to ~984 Da and is studied for enhanced blood-brain barrier penetration and metabolic stability. In practical terms, researchers using Adamax are typically investigating whether the structural modification shifts the effective dose range, extends duration of BDNF/NGF induction, or alters the pharmacokinetic profile relative to Semax — rather than studying a compound with an entirely different mechanism. 
-
-**What distinguishes the 984 Da variant from the 1032 Da variant of Adamax?**
-
-Both variants incorporate adamantane-derived structural modifications into the Semax backbone, but they differ in the specific modification — resulting in molecular masses of approximately 984 Da and 1032 Da respectively. The 48 Da mass difference is consistent with a difference in the adamantane-containing substituent (e.g., adamantylacetic acid vs. 1-adamantanecarboxylic acid, or different position of attachment). Research comparing the two variants uses paired in vitro and in vivo protocols to characterise differences in receptor binding, BDNF induction potency, BBB penetration ratios, and metabolic stability — the key pharmacokinetic parameters expected to diverge between the two structural forms. 
-
-**What purity level and form is Adamax (984 Da) supplied in?**
-
-Adamax (984 Da) is supplied as lyophilized powder at ≥98% purity, verified by HPLC and confirmed by mass spectrometry. Vials contain 10 mg. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Certificates of Analysis are available on request. 
-
-**What are the storage requirements for Adamax?**
-
-Lyophilized Adamax (984 Da) should be stored at −20°C and protected from light and moisture. Reconstituted solution is stable at 4°C for short-term use (up to 14 days). Repeated freeze-thaw cycles should be avoided to preserve peptide integrity. For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. class, and every listing carries the manufacturer's own specification rather than a reseller's claim. Buyers sourcing **chinese peptides** in this category typically evaluate adamax-984-da across BDNF/NGF upregulation, neuroprotection, dopaminergic and serotonergic modulation, cognitive function, CNS bioavailability research Form Lyophilized powder Storage −20°C; protect from light and moisture 
-
-## Available Variants
-
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| Adamax (984 Da) | 10 mg | 10 vials | >=98% | In Stock |
-
-## Specification Highlights
-
-Category: Cognitive & Neuro Total variants: 1 In-stock variants: 1 of 1 Purity: >=98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Research Areas
-
-BDNF and NGF Upregulation The BDNF and NGF-upregulating activity established for Semax forms the primary neurotrophic research context for Adamax. In Semax studies, dose-dependent increases in BDNF mRNA (1.4–2.0-fold in hippocampus by RT-PCR) and NGF protein (ELISA) are documented at 25–250 μg/kg in rodents. Adamax, as a structurally enhanced analogue, is investigated for whether the adamantane modification shifts the effective dose range or prolongs the duration of neurotrophic factor induction — outcomes studied by pairing Adamax and Semax in the same in vivo BDNF/NGF measurement protocol. TrkB receptor antagonist (ANA-12) pre-treatment experiments are used to confirm BDNF-dependence of any observed downstream effects on synaptic plasticity, LTP, and behavioural cognitive endpoints. Blood-Brain Barrier Penetration and Pharmacokinetic Research The adamantane moiety is employed in CNS drug design specifically to enhance BBB permeability via increased lipophilicity and interaction with P-glycoprotein transport mechanisms. Comparative BBB penetration studies pairing Adamax (984 Da) against unmodified Semax use brain-to-plasma ratio measurements (LC-MS/MS of brain homogenate and plasma after matched i.v. and i.p. dosing) to quantify CNS exposure. Metabolic stability assays in plasma and liver microsome fractions characterise the enzymatic resistance conferred by the adamantane group, complementing the in vivo pharmacokinetic data. These studies are relevant to identifying compounds with improved CNS exposure-to-peripheral-dose ratios for neuroprotection and cognitive research applications. Dopaminergic and Serotonergic Neurotransmission Semax administration in rodent microdialysis studies is associated with increased dopamine turnover (elevated DOPAC/DA and HVA/DA ratios) and serotonin release in frontal cortical regions, without direct receptor agonism at dopaminergic or serotonergic sites — an indirect neuromodulatory mechanism distinct from psychostimulants. Adamax is studied in the same neurotransmitter profiling frameworks: in vivo microdialysis in striatum and prefrontal cortex, receptor binding assays (³H-SCH23390 and ³H-ketanserin displacement for D1 and 5-HT2A sites respectively), and behavioural endpoints sensitive to monoamine function (prepulse inhibition, forced swim test serotonin sensitivity). The adamantane modification's effect on potency and duration in these monoaminergic assays is the primary pharmacological differentiation question versus the parent Semax. Neuroprotection in Ischaemia and Oxidative Stress Models Following the established neuroprotective profile of Semax in transient MCAO and global forebrain ischaemia models, Adamax is investigated in comparable experimental injury protocols. Endpoints include infarct volume quantification (TTC staining), neurological deficit scoring, and immunohistochemical markers of neuronal survival (NeuN, MAP2) and microglial activation state (Iba-1 polarisation). Proposed mechanisms of neuroprotection in this compound class — anti-excitotoxic modulation of NMDA receptor pathways, mitochondrial membrane stabilisation, and suppression of ischaemia-induced inflammatory cytokine release — are assessed using the adamantane analogue to characterise whether the pharmacokinetic improvements translate into a wider therapeutic window or lower effective dose in the injury models. 
-
-## Frequently Asked Questions
-
-**How does Adamax (984 Da) differ from Semax in research terms?**
-
-Semax (Met-Glu-His-Phe-Pro-Gly-Pro, ~814 Da) is the parent ACTH(4-7) heptapeptide with an established neuroprotective and nootropic research profile. Adamax incorporates an adamantane-containing modification that increases the molecular weight to ~984 Da and is studied for enhanced blood-brain barrier penetration and metabolic stability. In practical terms, researchers using Adamax are typically investigating whether the structural modification shifts the effective dose range, extends duration of BDNF/NGF induction, or alters the pharmacokinetic profile relative to Semax — rather than studying a compound with an entirely different mechanism. 
-
-**What distinguishes the 984 Da variant from the 1032 Da variant of Adamax?**
-
-Both variants incorporate adamantane-derived structural modifications into the Semax backbone, but they differ in the specific modification — resulting in molecular masses of approximately 984 Da and 1032 Da respectively. The 48 Da mass difference is consistent with a difference in the adamantane-containing substituent (e.g., adamantylacetic acid vs. 1-adamantanecarboxylic acid, or different position of attachment). Research comparing the two variants uses paired in vitro and in vivo protocols to characterise differences in receptor binding, BDNF induction potency, BBB penetration ratios, and metabolic stability — the key pharmacokinetic parameters expected to diverge between the two structural forms. 
-
-**What purity level and form is Adamax (984 Da) supplied in?**
-
-Adamax (984 Da) is supplied as lyophilized powder at ≥98% purity, verified by HPLC and confirmed by mass spectrometry. Vials contain 10 mg. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Certificates of Analysis are available on request. 
-
-**What are the storage requirements for Adamax?**
-
-Lyophilized Adamax (984 Da) should be stored at −20°C and protected from light and moisture. Reconstituted solution is stable at 4°C for short-term use (up to 14 days). Repeated freeze-thaw cycles should be avoided to preserve peptide integrity. For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, adamax-984-da is supplied for laboratory research use only.
-
-
-Buy Adamax (984 Da) | Research Grade | Peptides of China Adamax (984 Da) Buy Adamax (984 Da) — Research Grade Peptide Adamax (984 Da) is a cognitive & neuro research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+That does not make Adamax uninteresting. It makes identity the central purchasing question. This page explains what the compound is supposed to be, what Semax research implies about the design, and what a laboratory should demand before accepting a vial.
 
 ## Compound Profile
 
-Adamax (984 Da) is a synthetic neuropeptide structurally derived from Semax — the ACTH(4-7) heptapeptide analogue (Met-Glu-His-Phe-Pro-Gly-Pro) developed at the Institute of Molecular Genetics, Russian Academy of Sciences. Adamax incorporates an adamantane-containing structural modification into the Semax backbone, yielding a compound with a molecular mass of approximately 984 Daltons. This distinguishes it from the structurally related 1032 Da variant, which carries a different adamantane-derived modification. The adamantane moiety — a bicyclic cage hydrocarbon — is well-established in medicinal chemistry as a pharmacokinetic-enhancing modification: it increases lipophilicity and membrane permeability, improves metabolic stability against enzymatic degradation, and enhances central nervous system (CNS) penetration via the blood-brain barrier. Adamax's pharmacological profile is mechanistically rooted in the Semax lineage. The parent compound, Semax, is one of the most extensively characterised ACTH(4-7) derivatives in neuroscience research — its primary documented effects include dose-dependent upregulation of brain-derived neurotrophic factor (BDNF) and nerve growth factor (NGF) mRNA and protein in hippocampal and cortical tissue, modulation of dopaminergic and serotonergic neurotransmission in limbic regions, and neuroprotective activity in cerebral ischaemia models. The adamantane modification in Adamax is studied for its potential to augment these effects through enhanced CNS bioavailability and prolonged duration of action, while retaining the core neurotrophic and neuromodulatory activity of the parent sequence. Peptides of China supplies Adamax (984 Da) as a lyophilized powder at 10 mg per vial, synthesized to ≥98% purity verified by HPLC and confirmed by mass spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. All products are intended for laboratory research use only and are not for human consumption. 
+Chemical Class Synthetic neuropeptide; advanced ACTH(4-7) analogue with adamantane modification Parent Compound Semax (Met-Glu-His-Phe-Pro-Gly-Pro; ACTH(4-7) heptapeptide derivative) Modification Adamantane-containing structural motif; characteristic of the 984 Da form (distinct from 1032 Da variant) Developed from ACTH(4-7) analogue research programme, Institute of Molecular Genetics, Russian Academy of Sciences Molecular Weight ~984 Da Form Lyophilized powder Storage −20°C; protect from light and moisture
 
-## Profile
+## Why This Compound
 
-Chemical Class Synthetic neuropeptide; advanced ACTH(4-7) analogue with adamantane modification Parent Compound Semax (Met-Glu-His-Phe-Pro-Gly-Pro; ACTH(4-7) heptapeptide derivative) Modification Adamantane-containing structural motif; characteristic of the 984 Da form (distinct from 1032 Da variant) Developed from ACTH(4-7) analogue research programme, Institute of Molecular Genetics, Russian Academy of Sciences Molecular Weight ~984 Da 
+Semax is a heptapeptide derived from the ACTH(4-7) fragment, extended with a C-terminal Pro-Gly-Pro tripeptide. It was developed in Moscow as a synthetic analogue of a pituitary fragment and has been studied for decades in rodent models of cognition, stroke, and stress. The literature is unusually consistent on one point: Semax raises brain-derived neurotrophic factor and nerve growth factor expression in the hippocampus and basal forebrain. Dolotov and colleagues showed both the mRNA and protein sides of that effect in 2006, and Dmitrieva's group later showed that Semax and the Pro-Gly-Pro fragment activate transcription of neurotrophins and their receptor genes after cerebral ischaemia.
 
-## Research Areas
+The mechanism is not fully settled. Semax binds to a site in the basal forebrain with specificity, but the receptor has not been cloned. Downstream effects include TrkB activation, modulation of dopaminergic and serotonergic turnover, and changes in synaptic plasticity markers. The peptide is rapidly degraded in plasma, which is why analogues with modified termini — N-acetyl, amidated, or lipidated — exist as research tools.
 
-BDNF/NGF upregulation, neuroprotection, dopaminergic and serotonergic modulation, cognitive function, CNS bioavailability research Form Lyophilized powder Storage −20°C; protect from light and moisture 
+Adamax sits at the far end of that analogue series. The design idea is straightforward: attach an adamantane cage to the Semax backbone to increase lipophilicity, improve metabolic stability, and raise CNS exposure. Adamantane is a well-known pharmacokinetic motif in medicinal chemistry; Spilovska and colleagues reviewed its use across drugs that needed to cross membranes or resist metabolism. In principle, an adamantane-modified Semax could reach brain tissue at higher concentrations or persist longer than the parent peptide.
 
-## Available Variants
+The practice is messier. The catalogued mass of 984 Da is the only structural anchor available to most buyers, and a nominal mass does not identify a molecule. Several positional isomers and attachment chemistries can produce a compound near 984 Da, and the 1032 Da variant circulating under a similar name differs by a fragment large enough to change both solubility and receptor contacts. Without an MS/MS spectrum and a stated structure, two suppliers can sell "Adamax" and deliver different compounds.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| Adamax (984 Da) | 10 mg | 10 vials | >=98% | In Stock |
+That is the honest state of the field. Treat Adamax as a hypothesis-generating tool whose identity must be established per lot, not as a characterised drug candidate with a body of replicated pharmacology behind it.
 
-## Specification Highlights
+## What the Batch Record Should Show
 
-Category: Cognitive & Neuro Total variants: 1 In-stock variants: 1 of 1 Purity: >=98% Standard pack size: 10 vials 
+For Adamax, identity documentation outranks every other field. The record should state the proposed structure — the Semax sequence, the attachment point of the adamantane group, and the counterion — and then demonstrate that the lot matches it. A certificate that lists only "Adamax, 984 Da, ≥98%" is not enough.
 
-## Quality & Testing
+Mass spectrometry should include both intact mass and fragmentation. Intact mass confirms the molecular weight, but a single peak at 984 Da is compatible with isomers. MS/MS sequencing of the peptide backbone gives the b/y ion series and locates the modification; a supplier who cannot provide a fragmentation spectrum has not established the structure. For a lot this small and this expensive, that spectrum is the minimum acceptable evidence.
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+Chromatographic purity should come with a method and a chromatogram. Reverse-phase HPLC at 214 nm is standard for peptides, with a companion run at 280 nm if the sequence contains aromatic residues; Semax contains histidine and phenylalanine, so both wavelengths are informative. The impurity table should list individual peaks above the reporting threshold rather than a single area percentage.
 
-## Research Areas
+Counterion and salt form matter more than usual here, because the adamantane group changes the molecule's hydrophobicity and its behaviour on an ion-exchange column. Acetate and trifluoroacetate salts of the same peptide differ in mass by 60 and 114 Da respectively per charge, which is enough to confuse a nominal-mass identity check. The certificate should state the salt form explicitly and report residual trifluoroacetic acid if the peptide was purified by TFA-containing gradients.
 
-BDNF and NGF Upregulation The BDNF and NGF-upregulating activity established for Semax forms the primary neurotrophic research context for Adamax. In Semax studies, dose-dependent increases in BDNF mRNA (1.4–2.0-fold in hippocampus by RT-PCR) and NGF protein (ELISA) are documented at 25–250 μg/kg in rodents. Adamax, as a structurally enhanced analogue, is investigated for whether the adamantane modification shifts the effective dose range or prolongs the duration of neurotrophic factor induction — outcomes studied by pairing Adamax and Semax in the same in vivo BDNF/NGF measurement protocol. TrkB receptor antagonist (ANA-12) pre-treatment experiments are used to confirm BDNF-dependence of any observed downstream effects on synaptic plasticity, LTP, and behavioural cognitive endpoints. Blood-Brain Barrier Penetration and Pharmacokinetic Research The adamantane moiety is employed in CNS drug design specifically to enhance BBB permeability via increased lipophilicity and interaction with P-glycoprotein transport mechanisms. Comparative BBB penetration studies pairing Adamax (984 Da) against unmodified Semax use brain-to-plasma ratio measurements (LC-MS/MS of brain homogenate and plasma after matched i.v. and i.p. dosing) to quantify CNS exposure. Metabolic stability assays in plasma and liver microsome fractions characterise the enzymatic resistance conferred by the adamantane group, complementing the in vivo pharmacokinetic data. These studies are relevant to identifying compounds with improved CNS exposure-to-peripheral-dose ratios for neuroprotection and cognitive research applications. Dopaminergic and Serotonergic Neurotransmission Semax administration in rodent microdialysis studies is associated with increased dopamine turnover (elevated DOPAC/DA and HVA/DA ratios) and serotonin release in frontal cortical regions, without direct receptor agonism at dopaminergic or serotonergic sites — an indirect neuromodulatory mechanism distinct from psychostimulants. Adamax is studied in the same neurotransmitter profiling frameworks: in vivo microdialysis in striatum and prefrontal cortex, receptor binding assays (³H-SCH23390 and ³H-ketanserin displacement for D1 and 5-HT2A sites respectively), and behavioural endpoints sensitive to monoamine function (prepulse inhibition, forced swim test serotonin sensitivity). The adamantane modification's effect on potency and duration in these monoaminergic assays is the primary pharmacological differentiation question versus the parent Semax. Neuroprotection in Ischaemia and Oxidative Stress Models Following the established neuroprotective profile of Semax in transient MCAO and global forebrain ischaemia models, Adamax is investigated in comparable experimental injury protocols. Endpoints include infarct volume quantification (TTC staining), neurological deficit scoring, and immunohistochemical markers of neuronal survival (NeuN, MAP2) and microglial activation state (Iba-1 polarisation). Proposed mechanisms of neuroprotection in this compound class — anti-excitotoxic modulation of NMDA receptor pathways, mitochondrial membrane stabilisation, and suppression of ischaemia-induced inflammatory cytokine release — are assessed using the adamantane analogue to characterise whether the pharmacokinetic improvements translate into a wider therapeutic window or lower effective dose in the injury models. 
+Water content by Karl Fischer, appearance, and fill mass complete the basic record. Endotoxin and sterility apply if the material is supplied as a sterile preparation; for a lyophilized research powder, bioburden is the more relevant measure. Residual solvents from synthesis and purification — acetonitrile, methanol, diethyl ether — should be below ICH limits, and the certificate should say which were tested.
+
+## Sourcing & Verification
+
+Adamax is a custom-synthesis product in most of the market. Few facilities hold it as a catalogue item, and the ones that do are usually selling a batch made to order. That structure creates a specific risk: the compound may be synthesized from a published or guessed route with no reference standard to check against.
+
+The first verification question is whether the supplier can name a reference standard. If they synthesized the compound themselves, what did they compare it to? A legitimate custom synthesis will have an NMR spectrum of the final product, an MS/MS spectrum, and a purity chromatogram. A repackager will have a label.
+
+The second question is whether the stated mass is measured or assumed. Ask for the observed m/z and the calculated monoisotopic mass, not the nominal figure. The difference between average mass and monoisotopic mass for a molecule this size is small but not zero, and a supplier who quotes "984 Da" without specifying which convention is using a marketing number.
+
+The third is batch size and consistency. Custom peptide synthesis at 10 mg scale is routine; at 1 g scale it is a different exercise with different purification challenges. If a supplier offers both 10 mg and 1 g at the same per-milligram price, ask which batch the certificate describes.
+
+Buyers should also check the name. "Adamax" is used for at least two masses in the grey-market literature, and some listings conflate the 984 Da and 1032 Da forms. Confirm the mass in writing before payment, and confirm it again on the certificate that arrives with the vial.
+
+## Handling & Storage
+
+Store lyophilized Adamax at −20°C, protected from light and moisture. The adamantane group makes the peptide more hydrophobic than Semax, which changes its behaviour at every handling step: it dissolves less readily in pure water, adsorbs more strongly to plastic, and can precipitate at concentrations that would be routine for the parent compound.
+
+Reconstitute in a small volume of sterile water or dilute acetic acid, then dilute into buffer. Sonication is acceptable briefly, but avoid prolonged heating; peptides with a histidine residue are prone to oxidation and racemisation under warm, alkaline conditions. If the solution is hazy, centrifuge it and check the supernatant by HPLC before assuming the peptide is insoluble — sometimes the haze is a counterion or a lipid contaminant rather than the peptide itself.
+
+Low-binding tubes matter for this compound. A hydrophobic peptide at low concentration will coat the walls of a standard polypropylene tube, and the loss can be large enough to change an assay result. Use siliconized or low-retention tubes for working dilutions, and avoid transferring a dilute solution through multiple containers.
+
+Aliquot before freezing. A single freeze-thaw cycle is tolerable for most lyophilized peptides in solution; five cycles are not. Store working aliquots at −20°C for short periods and at −80°C for longer ones, and protect them from light — the histidine imidazole is a photosensitiser under UV.
+
+## How It Compares
+
+| Compound | Relationship to Semax | Mass | Research note |
+| --- | --- | --- | --- |
+| Semax | Parent heptapeptide | ~813 Da | Best-characterised; BDNF/NGF data in rodents |
+| N-Acetyl Semax Amidate | Terminally modified Semax | ~887 Da | Improved stability; distinct literature |
+| Adamax (984 Da) | Adamantane-modified analogue | ~984 Da | Sparse structural record; identity-critical |
+| Adamax (1032 Da) | Larger adamantane variant | ~1032 Da | Different molecule; do not substitute |
+
+The practical comparison is Adamax against Semax, not against the other adamantane variant. Semax has a citable pharmacology and a reproducible identity; Adamax has a design rationale and a mass. A study that needs a well-characterised neurotrophic stimulus should start with Semax or N-acetyl Semax amidate. A study that specifically tests whether adamantane modification changes CNS exposure is the case for Adamax, and that study needs a lot with a fragmentation spectrum.
+
+Against Selank, the distinction is therapeutic area rather than chemistry. Selank is a tuftsin-derived anxiolytic peptide with its own literature; it is not a Semax analogue, and the two are often listed together only because they come from the same research tradition.
+
+## The Author's Take
+
+I would not buy Adamax without an MS/MS spectrum and a stated structure. This is one of the few products in this catalog where I think the burden of proof sits almost entirely on the supplier, because the published record does not give an independent buyer enough to check against. A mass and a purity percentage are not identity.
+
+My second view is that the 1032 Da confusion is not a clerical issue. If a supplier cannot tell you which mass they are shipping, the catalogue entry is unreliable regardless of what the vial contains. Ask in writing, keep the answer, and test on arrival.
+
+Disclosure: I write for Peptides of China, which lists this compound. The caution here applies to the whole category, not only to competitors; a supplier's own documentation is the thing being evaluated.
 
 ## Frequently Asked Questions
 
 **How does Adamax (984 Da) differ from Semax in research terms?**
 
-Semax (Met-Glu-His-Phe-Pro-Gly-Pro, ~814 Da) is the parent ACTH(4-7) heptapeptide with an established neuroprotective and nootropic research profile. Adamax incorporates an adamantane-containing modification that increases the molecular weight to ~984 Da and is studied for enhanced blood-brain barrier penetration and metabolic stability. In practical terms, researchers using Adamax are typically investigating whether the structural modification shifts the effective dose range, extends duration of BDNF/NGF induction, or alters the pharmacokinetic profile relative to Semax — rather than studying a compound with an entirely different mechanism. 
+Semax is the parent ACTH(4-7) heptapeptide analogue with a substantial published literature on BDNF and NGF expression. Adamax carries an adamantane modification intended to improve lipophilicity and metabolic stability. The design rationale is pharmacokinetic; the published pharmacological characterisation is much thinner, so results should be interpreted as exploratory.
 
 **What distinguishes the 984 Da variant from the 1032 Da variant of Adamax?**
 
-Both variants incorporate adamantane-derived structural modifications into the Semax backbone, but they differ in the specific modification — resulting in molecular masses of approximately 984 Da and 1032 Da respectively. The 48 Da mass difference is consistent with a difference in the adamantane-containing substituent (e.g., adamantylacetic acid vs. 1-adamantanecarboxylic acid, or different position of attachment). Research comparing the two variants uses paired in vitro and in vivo protocols to characterise differences in receptor binding, BDNF induction potency, BBB penetration ratios, and metabolic stability — the key pharmacokinetic parameters expected to diverge between the two structural forms. 
+They are different molecules with different masses, likely differing in the adamantane-derived modification or its attachment. They are not interchangeable in an experiment, and a certificate that does not state which mass was produced cannot support either claim.
 
 **What purity level and form is Adamax (984 Da) supplied in?**
 
-Adamax (984 Da) is supplied as lyophilized powder at ≥98% purity, verified by HPLC and confirmed by mass spectrometry. Vials contain 10 mg. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Certificates of Analysis are available on request. 
+The catalog specification is ≥98% by HPLC, supplied as a lyophilized powder in 10 mg vials. The batch record should add the chromatogram, the mass spectrum, and the salt form; the percentage alone is not a complete specification.
 
 **What are the storage requirements for Adamax?**
 
-Lyophilized Adamax (984 Da) should be stored at −20°C and protected from light and moisture. Reconstituted solution is stable at 4°C for short-term use (up to 14 days). Repeated freeze-thaw cycles should be avoided to preserve peptide integrity. For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+Store at −20°C, protected from light and moisture. Reconstituted solutions should be aliquoted and frozen once, then thawed on ice. The hydrophobic adamantane group makes the peptide prone to adsorption, so use low-binding tubes for dilute working solutions.
+
+**Why does the certificate need an MS/MS spectrum?**
+
+Because a nominal mass near 984 Da is consistent with several structures. Fragmentation sequencing shows the peptide backbone and locates the modification, which is the difference between identifying a compound and weighing it.
+
+**Is Adamax supplied with a reference standard?**
+
+No reference standard is included. If your assay requires one, arrange for an independent characterisation of the lot before use, or source a characterised Semax standard for system suitability.
+
+**Can Adamax be substituted for Semax in an existing protocol?**
+
+Not without re-validation. The two compounds differ in mass, hydrophobicity, and likely pharmacokinetics. A protocol developed for Semax should be treated as unvalidated for Adamax, including the reconstitution solvent and the analytical method.
+
+## Related Products
+
+Semax N-Acetyl Semax Amidate Selank
+
+## Sources
+
+1. Dolotov OV, Karpenko EA, Inozemtseva LS, et al. Semax, an analog of ACTH(4-10) with cognitive effects, regulates BDNF and trkB expression in the rat hippocampus. *Brain Res*. 2006;1117(1):54–60. [doi:10.1016/j.brainres.2006.07.108](https://doi.org/10.1016/j.brainres.2006.07.108)
+2. Dolotov OV, Karpenko EA, Seredenina TS, et al. Semax, an analogue of adrenocorticotropin (4-10), binds specifically and increases levels of brain-derived neurotrophic factor protein in rat basal forebrain. *J Neurochem*. 2006;97(1):82–86. [doi:10.1111/j.1471-4159.2006.03658.x](https://doi.org/10.1111/j.1471-4159.2006.03658.x)
+3. Shadrina M, Kolomin T, Agapova T, et al. Comparison of the temporary dynamics of NGF and BDNF gene expression in rat hippocampus, frontal cortex, and retina under Semax action. *J Mol Neurosci*. 2010;41(1):119–125. [doi:10.1007/s12031-009-9270-z](https://doi.org/10.1007/s12031-009-9270-z)
+4. Dmitrieva VG, Povarova OV, Skvortsova VI, et al. Semax and Pro-Gly-Pro activate the transcription of neurotrophins and their receptor genes after cerebral ischemia. *Cell Mol Neurobiol*. 2010;30(1):25–32. [doi:10.1007/s10571-009-9432-0](https://doi.org/10.1007/s10571-009-9432-0)
+5. Spilovska K, Zemek F, Korabecny J, et al. Adamantane — a lead structure for drugs in clinical practice. *Curr Med Chem*. 2016;23(29):3245–3266. [doi:10.2174/0929867323666160525114026](https://doi.org/10.2174/0929867323666160525114026)
+
+For the identity methods discussed here, see [peptide molecular weight verification](/blog/peptide-molecular-weight-verification-steps/) and [how to read a peptide COA](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/). The neuroscience context is covered in [peptides in neuroscience research](/blog/peptides-in-neuroscience-research-a-2026-explainer/), and the Semax analogue comparison in [Semax versus N-acetyl Semax amidate](/blog/semax-vs-n-acetyl-semax-amidate-what-the-evidence-shows/). See also the [categories and mechanisms pillar](/peptide-categories-mechanisms/) and the [quality testing pillar](/peptide-quality-testing/). Related catalog pages: [Semax](/catalog/semax/), [N-Acetyl Semax Amidate](/catalog/na-semax-amidate/), [Selank](/catalog/selank/).
