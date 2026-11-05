@@ -34,7 +34,7 @@ A somatropin certificate is a protein characterisation report, and it should be 
 
 **Integrity and aggregation.** Size-exclusion HPLC is the key assay: monomer content should be reported, with dimer and higher aggregate quantified. A protein that is 98 percent pure by RP-HPLC can still contain several percent aggregate, and aggregate is what drives variable responses in cell assays. Reducing and non-reducing SDS-PAGE should show a single band at about 22 kDa under reducing conditions and the expected disulfide-linked behaviour otherwise.
 
-**Host-cell contaminants.** For *E. coli* expression, host-cell protein ELISA and residual DNA are the relevant tests; for mammalian expression, host-cell protein and any affinity-ligand leakage. A certificate that reports only "purity 99%" has skipped the part that matters. Endotoxin by LAL is essential for any preparation that touches primary cells or is injected into an animal model, and sterility is a separate question.
+**Host-cell contaminants.** For *E. coli* expression, host-cell protein ELISA and residual DNA are the relevant tests; for mammalian expression, host-cell protein and any affinity-ligand leakage. A certificate that reports only "purity 99%" has skipped the part that matters. Endotoxin by LAL is essential for any preparation that touches primary cells or is used in an animal model, and sterility is a separate question.
 
 **Quantity.** Protein content by A280 with an extinction coefficient, or by a colorimetric assay standardised against a certified protein, plus fill volume and moisture. IU assignment should name the assay and the reference standard. A vial labelled "10 IU" with no protein content and no assay method is a label, not a measurement.
 
@@ -61,11 +61,11 @@ One further point: somatropin is a prescription medicine in most jurisdictions, 
 
 Lyophilised somatropin is stored at −20°C, protected from light. Bring the vial to room temperature before opening, wipe the septum, and reconstitute by directing the diluent slowly down the wall. Do not vortex and do not shake. Protein foaming is not a cosmetic problem; it creates an air-liquid interface where unfolding and aggregation start.
 
-Use the diluent the batch was designed for. Bacteriostatic water is convenient for multi-dose laboratory stocks, but the preservative can interfere with some cell assays; sterile water or buffer is preferable when the preparation will contact cells. If the solution is cloudy or contains visible particles after gentle mixing, do not use it. A clear solution is the minimum acceptance criterion, and SE-HPLC is the only way to know whether soluble aggregate is present.
+Use the diluent the batch was designed for. Bacteriostatic water is convenient for multi-use laboratory stocks, but the preservative can interfere with some cell assays; sterile water or buffer is preferable when the preparation will contact cells. If the solution is cloudy or contains visible particles after gentle mixing, do not use it. A clear solution is the minimum acceptance criterion, and SE-HPLC is the only way to know whether soluble aggregate is present.
 
 Reconstituted somatropin is typically held at 2–8°C for up to 14 days. Freezing a reconstituted protein is usually a bad idea: ice crystal formation and freeze-concentration promote aggregation, and the damage is not reversed by thawing. If the experiment requires storage, aliquot before freezing and accept that some loss is likely. Low-binding tubes and gentle pipetting reduce adsorption losses at low concentrations.
 
-For cell culture, filter through a 0.22 µm membrane if sterility is required, and check recovery because proteins adsorb to some filter materials. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) and the [handling pillar](/peptide-handling-protocols/) cover the general technique. These are bench instructions, not administration guidance.
+For cell culture, filter through a 0.22 µm membrane if sterility is required, and check recovery because proteins adsorb to some filter materials. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) and the [handling pillar](/peptide-handling-protocols/) cover the general technique. The steps above are laboratory handling, not a clinical protocol.
 
 ## How It Compares
 
@@ -73,7 +73,7 @@ For cell culture, filter through a 0.22 µm membrane if sterility is required, a
 
 **Somatrem.** A 192-amino-acid analogue with an N-terminal methionine, produced in *E. coli*. It is not identical to somatropin and should not be sold as such. The extra residue changes the N-terminus and can affect immunogenicity and receptor binding.
 
-**Growth-hormone secretagogues.** Ipamorelin, hexarelin, GHRP-6 and the GHRH analogues act upstream, on the pituitary or hypothalamus, to release endogenous GH. Somatropin is the ligand itself. They are used together in research designs that compare direct receptor activation with secretagogue-driven release, but they are not dose-equivalent substitutes. The [secretagogue guide](/blog/2026-growth-hormone-secretagogue-wholesale-guide/) covers the family.
+**Growth-hormone secretagogues.** Ipamorelin, hexarelin, GHRP-6 and the GHRH analogues act upstream, on the pituitary or hypothalamus, to release endogenous GH. Somatropin is the ligand itself. They are used together in research designs that compare direct receptor activation with secretagogue-driven release, but they are not equivalent substitutes. The [secretagogue guide](/blog/2026-growth-hormone-secretagogue-wholesale-guide/) covers the family.
 
 **IGF-1 LR3.** The downstream mediator, with a modified sequence that reduces IGFBP binding. It acts on the IGF-1 receptor, not the GH receptor, and produces a different signalling pattern. The [IGF-1 LR3 page](/catalog/igf-1-lr3/) sets out that comparison.
 

@@ -18,11 +18,11 @@ Carnitine's role is narrow and well defined: it carries long-chain fatty acids a
 
 The compound is a zwitterion. The trimethylammonium group carries a permanent positive charge, and the carboxylate deprotonates near pH 3.8. At neutral pH the molecule is electrically neutral overall but strongly polar, which is why it dissolves readily in water and poorly in non-polar solvents, and why reversed-phase chromatography needs an ion-pairing reagent to retain it.
 
-A 500 mg/mL solution is roughly 3.1 M. That concentration has consequences. Viscosity rises, density exceeds 1 g/mL, and the solution has a measurable osmotic pressure. When a laboratory pipettes 100 µL of that stock into a litre of medium, the molarity of the final solution depends on the density of the stock and on the fill accuracy of the vial, not just on the label. For most qualitative work the difference is irrelevant; for dose-response experiments it is the difference between a clean curve and a scattered one.
+A 500 mg/mL solution is roughly 3.1 M. That concentration has consequences. Viscosity rises, density exceeds 1 g/mL, and the solution has a measurable osmotic pressure. When a laboratory pipettes 100 µL of that stock into a litre of medium, the molarity of the final solution depends on the density of the stock and on the fill accuracy of the vial, not just on the label. For most qualitative work the difference is irrelevant; for concentration-response experiments it is the difference between a clean curve and a scattered one.
 
 Why supply a liquid at all? Three reasons recur. First, carnitine powder is hygroscopic, and weighing it accurately in small amounts is slow. Second, some automated platforms cannot handle powder. Third, a sealed liquid vial reduces the chance of bench contamination during preparation. The format is a workflow choice, not a pharmacological one: the molecule is identical, and the research context — carnitine shuttle capacity, acylcarnitine profiling, mitochondrial substrate oxidation — is the same.
 
-What changes is stability. Carnitine itself is not an ester and does not hydrolyse in water, so the active molecule is reasonably robust in solution. The risks are elsewhere: microbial growth in a non-sterile container, pH drift, adsorption to surfaces at low concentration, and freeze damage to the container or to the solution's homogeneity. A liquid product is only as good as its container and its cold chain.
+What changes is stability. Carnitine itself is not an ester and does not hydrolyse in water, so the active molecule is stable enough in solution for a working stock. The risks are elsewhere: microbial growth in a non-sterile container, pH drift, adsorption to surfaces at low concentration, and freeze damage to the container or to the solution's homogeneity. A liquid product is only as good as its container and its cold chain.
 
 ## Compound Profile
 
@@ -34,7 +34,7 @@ At 500 mg/mL the solution contains about 3.1 mol/L of carnitine. That figure is 
 
 A liquid certificate has to do two jobs: confirm identity and quantify concentration. The second job is where most documents are weakest.
 
-**Identity and assay.** The same three method families used for the powder apply here: LC-MS/MS with an isotope-labelled internal standard, an enzymatic assay coupled to CoA release, or HPLC with a universal detector. For a 500 mg/mL solution, the sample must be diluted by several orders of magnitude before injection. That dilution is itself a source of error, and the certificate should state the dilution factor and the acceptance criterion for the dilution check. A method that starts with a gravimetric dilution and verifies it by density is more trustworthy than one that assumes a volumetric flask is exact.
+**Identity and assay.** The same three method families used for the powder apply here: LC-MS/MS with an isotope-labelled internal standard, an enzymatic assay coupled to CoA release, or HPLC with a universal detector. For a 500 mg/mL solution, the sample must be diluted by several orders of magnitude before analysis. That dilution is itself a source of error, and the certificate should state the dilution factor and the acceptance criterion for the dilution check. A method that starts with a gravimetric dilution and verifies it by density is more trustworthy than one that assumes a volumetric flask is exact.
 
 **Density.** Concentration in mg/mL is only meaningful alongside density in g/mL. A laboratory that pipettes by volume and calculates by mass needs both numbers. Density also reveals whether the fill is homogeneous: a solution that has separated or stratified will show a density that drifts from the specification. Ask for density at a stated temperature, because it changes with temperature and a 2-8°C vial warmed to room temperature will not have the same value.
 
@@ -59,7 +59,7 @@ Liquid carnitine is harder to verify than powder, because the analytical result 
 - What is the container material and closure, and is there an extractables statement?
 - Does the certificate identify the bulk lot from which the solution was prepared?
 
-The [specification sheet note](/blog/why-peptide-specification-sheets-matter-in-procurement/) explains why a complete specification is more useful than a certificate alone, and the [supplier GMP assessment guide](/blog/how-to-assess-peptide-supplier-gmp-compliance-in-2026/) covers site-level questions. For liquids, the site question is particularly relevant: aseptic filling is a different capability from powder filling, and not every peptide supplier has both.
+The [reconstitution materials note](/blog/peptide-reconstitution-materials/) covers solvent and container choices, the [specification sheet note](/blog/why-peptide-specification-sheets-matter-in-procurement/) explains why a complete specification is more useful than a certificate alone, and the [supplier GMP assessment guide](/blog/how-to-assess-peptide-supplier-gmp-compliance-in-2026/) covers site-level questions. For liquids, the site question is particularly relevant: aseptic filling is a different capability from powder filling, and not every peptide supplier has both.
 
 One practical check that costs nothing: request a photograph of the actual vial label and the certificate side by side. A label that says "500 mg/mL" without a lot number, or a certificate whose lot number does not match, tells you more about the supplier's document control than any questionnaire.
 
@@ -77,7 +77,7 @@ All handling described here is bench-scale laboratory work. L-Carnitine liquid i
 
 ## How It Compares
 
-**L-Carnitine powder.** The same molecule without the formulation. The powder gives a cleaner gravimetric record; the solution gives a faster workflow and less dust. Laboratories doing precise concentration-response work often prefer the powder, while screening groups prefer the liquid. The [powder listing](/catalog/l-carnitine/) sets out the analytical fields that matter there.
+**L-Carnitine powder.** The same molecule without the formulation. The powder gives a cleaner gravimetric record; the solution gives a faster workflow and less dust. Laboratories doing precise concentration-response work often prefer the powder, while screening groups prefer the liquid. The [powder listing](/catalog/l-carnitine/) sets out the analytical fields that matter there, and the [handling protocols hub](/peptide-handling-protocols/) covers shared storage practice.
 
 **Acetyl-L-carnitine.** A different molecule with an acetyl ester that changes distribution and adds an acetyl-donor role. It is not a substitute in shuttle experiments, and a liquid format of ALCAR would carry different stability questions because the ester can hydrolyse.
 
@@ -128,7 +128,7 @@ Do not use it. Cloudiness suggests microbial growth, precipitation, or container
 
 **Position.** I would not accept a liquid carnitine certificate that reports only "500 mg/mL" without density and assay method. The concentration claim is the product, and a calculated value is not a measurement.
 
-**Reasoning.** A concentrated solution is easy to make and hard to verify. Dissolve 50 g of carnitine in water to 100 mL and the label writes itself; whether the powder was anhydrous, whether the volume was exact, and whether the density was measured are separate questions. The failure modes are quiet: a fill short by 3%, a density assumed at 20°C when the vial is sampled at 8°C, a dilution error that compounds through a dose-response series. None of them produces a visible defect. A supplier who reports density, assay, pH, and osmolarity is telling you the product was tested as a solution rather than as a label.
+**Reasoning.** A concentrated solution is easy to make and hard to verify. Dissolve 50 g of carnitine in water to 100 mL and the label writes itself; whether the powder was anhydrous, whether the volume was exact, and whether the density was measured are separate questions. The failure modes are quiet: a fill short by 3%, a density assumed at 20°C when the vial is sampled at 8°C, a dilution error that compounds through a concentration series. None of them produces a visible defect. A supplier who reports density, assay, pH, and osmolarity is telling you the product was tested as a solution rather than as a label.
 
 **Disclosure.** Peptides of China sells L-Carnitine liquid and the products listed on this page. This is a sourcing opinion based on the documents we review, not medical advice. The compound is for laboratory research only; nothing here is a recommendation for human use.
 

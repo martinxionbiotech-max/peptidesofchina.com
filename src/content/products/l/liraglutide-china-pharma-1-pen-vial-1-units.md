@@ -8,7 +8,7 @@ description: "Liraglutide research reference material in pen/vial presentation, 
 image: "/images/products/generic-vial.png"
 
 ---
-This listing covers liraglutide supplied in a pen/vial presentation, a format that behaves very differently from a plain lyophilized peptide vial. The catalog carries three strengths — 5 mg, 10 mg and 30 mg — each packed as ten units. The material is offered as a research reference, not as a medicine, and every page statement should be read inside that boundary.
+This listing covers liraglutide supplied in a pen/vial presentation, a format that behaves very differently from a plain lyophilized peptide vial. The catalog carries three strengths — 5 mg, 10 mg and 30 mg — each packed as ten units. The material is offered as a research reference, not as a medicine, and every page statement should be read inside that boundary. It is supplied for laboratory research only and is not for human or veterinary use.
 
 Liraglutide is an acylated GLP-1 receptor agonist peptide. In laboratory work it appears most often as a comparator ligand in receptor-binding and cAMP assays, and as an analytical challenge in method-development labs because the fatty-acid chain makes it prone to surface adsorption, self-association and deamidation. Those are the properties that matter when you are characterising a batch, not the marketing language that surrounds the molecule.
 
@@ -60,7 +60,7 @@ Record the lot, the opening date, the storage temperature and any visible change
 
 Against semaglutide, liraglutide has a shorter acyl chain and a different albumin-binding profile; in the lab, the practical difference is that semaglutide is more hydrophilic and generally easier to keep in solution, while liraglutide is more surface-active. Against tirzepatide, the comparison is not like-for-like: tirzepatide is a dual GIP/GLP-1 agonist, so it belongs in a different receptor-panel experiment. Against native GLP-1(7-37), liraglutide is the more stable reference because the acylation and the D-amino-acid substitutions slow degradation, but that same design makes it a poor stand-in when the experiment is about the native peptide.
 
-Within the catalogue, [semaglutide](/catalog/semaglutide/), [tirzepatide](/catalog/tirzepatide/) and [retatrutide](/catalog/retatrutide/) cover the main receptor-agonist comparators. If the question is formulation rather than receptor pharmacology, the more useful comparison is between the pen presentation and a lyophilized research vial: the pen gives you a fixed, formulated dose form with a device; the vial gives you a powder you can reconstitute to your own matrix. Neither is “better” in the abstract. They answer different experimental questions.
+Within the catalogue, [semaglutide](/catalog/semaglutide/), [tirzepatide](/catalog/tirzepatide/) and [retatrutide](/catalog/retatrutide/) cover the main receptor-agonist comparators. If the question is formulation rather than receptor pharmacology, the more useful comparison is between the pen presentation and a lyophilized research vial: the pen gives you a fixed, formulated presentation with a device; the vial gives you a powder you can reconstitute to your own matrix. Neither is “better” in the abstract. They answer different experimental questions.
 
 ## The Author's Take
 
@@ -70,7 +70,7 @@ I would not buy a liraglutide pen presentation on price alone. The peptide is on
 
 **Is this liraglutide sold as a medicine?**
 
-No. It is listed as research reference material for laboratory work. It is not a prescription product, not a therapeutic, and not intended for human or veterinary use. The pen presentation is a format, not a medical claim.
+No. It is listed as research reference material for laboratory work. It is not a prescription product, not a medicine, and not intended for human or veterinary use. The pen presentation is a format, not a medical claim.
 
 **Why does the catalogue list three strengths?**
 

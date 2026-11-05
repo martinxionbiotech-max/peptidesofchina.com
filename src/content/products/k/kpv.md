@@ -65,7 +65,7 @@ KPV is sold by peptide catalogues, cosmetic ingredient suppliers, and trading co
 
 The [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) covers entity checks and site questions in more detail. For KPV specifically, the most useful single question is about the counterion, because it is the field most often omitted and the one that most directly affects how a laboratory calculates concentration.
 
-A note on catalogue variants. KPV appears as a standalone vial and as a component of fixed blends, including a [KPV oral format](/catalog/kpv-oral/), a [GHK-Cu + KPV blend](/catalog/ghk-cu-50mg-kpv-10mg/), and a [BPC-157 + TB-500 + KPV blend](/catalog/bpc-157-10mg-tb-500-10mg-kpv-10mg/). A blend complicates identity testing: each component needs its own mass confirmation, and a single chromatogram at 214 nm may not resolve them. For a first study, the single compound gives cleaner attribution.
+A note on catalogue variants. KPV appears as a standalone vial and as a component of fixed blends, including an oral KPV format, a [GHK-Cu + KPV blend](/catalog/ghk-cu-50mg-kpv-10mg/), and a [BPC-157 + TB-500 + KPV blend](/catalog/bpc-157-10mg-tb-500-10mg-kpv-10mg/). A blend complicates identity testing: each component needs its own mass confirmation, and a single chromatogram at 214 nm may not resolve them. For a first study, the single compound gives cleaner attribution.
 
 ## Handling & Storage
 

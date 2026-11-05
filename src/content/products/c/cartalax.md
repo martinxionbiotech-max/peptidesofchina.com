@@ -49,13 +49,13 @@ Identity starts with the mass and the fragmentation. The catalogue value is 430.
 
 Purity by reversed-phase HPLC should come with the method and the chromatogram. Detection at 214 nm is standard. The impurity that matters most is the hydrolysis product from the Asp-Pro bond: cleavage at that linkage removes the proline and leaves a tripeptide with a mass about 97 Da lower. Under acidic conditions — a TFA-containing mobile phase, a low-pH reconstitution buffer — the cleavage accumulates. A chromatogram that shows a peak at the expected retention time but does not resolve the truncated form is not a stability-indicating method.
 
-That point deserves emphasis because it changes the sourcing question. A supplier who purifies with a high-TFA gradient and then lyophilises without neutralising may ship a product that is already partially cleaved. The certificate's purity figure may be accurate for the main peak and still hide the problem. Ask for the impurity profile and the mass balance, not only the percentage.
+That point deserves emphasis because it changes the sourcing question. A supplier who purifies with a high-TFA gradient and then lyophilises without neutralising may ship a product that is already partially cleaved. The certificate's purity figure may be accurate for the main peak and still hide the problem. Ask for the impurity profile and the mass balance, not just the percentage.
 
-Counterion and peptide content follow. AEDP is acidic overall, and the sodium or acetate salt changes the mass of the powder. Water content by Karl Fischer and a peptide-content assay turn fill mass into peptide mass. On a 20 mg fill, a few percent water is a few hundred micrograms.
+Counterion and peptide content follow. AEDP is acidic overall, and the sodium or acetate salt changes the mass of the powder. Karl Fischer water content plus a peptide-content assay is what converts fill mass into peptide mass. On a 20 mg fill, a few percent water is a few hundred micrograms.
 
 Endotoxin and sterility are separate claims. A lyophilized powder is not sterile by default. For chondrocyte work, endotoxin can drive an inflammatory response that swamps the matrix readout, so the LAL result matters. The [endotoxin note](/blog/what-are-endotoxins-why-they-matter/) explains the limit.
 
-Batch linkage closes the record. The vial number and certificate number must match, and the document should carry synthesis date, purification method, fill date, and retest date. The [CoA guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) walks through the fields in order.
+The document should be traceable to the physical vial: matching lot numbers, a synthesis date, the purification method, the fill date, and a retest date. A field-by-field reading is in the [CoA guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/).
 
 ## Sourcing & Verification
 
@@ -63,23 +63,23 @@ The first question is the sequence, not the purity. Ask for the four residues an
 
 The second question is the acid exposure. Ask how the peptide was purified and how the TFA was removed. A manufacturer who understands the Asp-Pro liability will describe a neutralisation or an ion-exchange step, and will have a stability-indicating HPLC method. A reseller will not understand the question. The answer tells you more than the certificate's purity number.
 
-The third question is the counterion and the fill. Ask for the salt form and the peptide content per vial. The catalogue's 20 mg fill is a small quantity, and the difference between fill mass and peptide mass is larger for a hygroscopic salt. The [quality-testing overview](/peptide-quality-testing/) lists the tests and what each establishes.
+The third question is the counterion and the fill. Ask for the salt form and the peptide content per vial. The catalogue's 20 mg fill is a small quantity, and the difference between fill mass and peptide mass is larger for a hygroscopic salt. The [quality-testing overview](/peptide-quality-testing/) explains what each test can and cannot show.
 
 The fourth question is storage history. A tetrapeptide is stable when dry and cold, but a lot that sat warm for a year may have hydrolysed at the Asp-Pro bond. Ask for the retest date and the shipping temperature, and treat an expired certificate as a reason to requalify.
 
-The fifth question is provenance. The [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) sets out the entity checks: business licence, production address, and whether the certificate issuer is the manufacturer. For a compound sold in small vials, the gap between maker and seller is wide.
+The fifth question is provenance. Entity checks — business licence, production address, certificate issuer — are listed in the [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/). For a compound sold in small vials, the gap between maker and seller is wide.
 
 Finally, ask for a pilot vial and run your own HPLC with a mass detector. For a tetrapeptide, one injection tells you whether the main peak has the right mass and whether the truncated form is present. That is a better use of a few hundred dollars than a larger order of an unverified lot.
 
 ## Handling & Storage
 
-Store the lyophilized powder at −20 °C, desiccated, protected from light. Warm the vial to room temperature before opening; condensation on a cold cake is a direct route to hydrolysis.
+Hold the powder at −20 °C under desiccant, shielded from light. Warm the vial to room temperature before opening; condensation on a cold cake is a direct route to hydrolysis.
 
 Reconstitute with water or a neutral buffer. Avoid acidic buffers, and avoid prolonged exposure to TFA-containing solvents. If the peptide is slow to dissolve, increase the volume or adjust the ionic strength rather than lowering the pH. Add the solvent gently and swirl; do not heat.
 
 Keep reconstituted solutions at 2–8 °C and use them within the catalogue's two-week window. That window is a planning figure, not a stability study: the actual rate of Asp-Pro hydrolysis depends on pH, temperature, and the buffer. A laboratory that needs a longer window should establish it with its own analytical check.
 
-Use polypropylene tubes for dilute stocks. Tetrapeptides adsorb to glass and to some filter membranes, and the loss is proportionally larger at low concentration. For cell work, filter through a 0.22 µm membrane and confirm recovery with a quantitative assay. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers solvent and container choice, and the [solubility note](/blog/peptide-solubility-troubleshooting/) covers the common causes of a cloudy solution.
+Use polypropylene tubes for dilute stocks. Tetrapeptides adsorb to glass and to some filter membranes, and the loss is proportionally larger at low concentration. For cell work, filter through a 0.22 µm membrane and confirm recovery with a quantitative assay. Solvent and container effects are set out in the [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/), and the common causes of a cloudy solution are covered by the [solubility note](/blog/peptide-solubility-troubleshooting/).
 
 Do not autoclave the powder or the solution. Heat accelerates both hydrolysis and cyclisation, and the container may not survive the cycle. The [handling hub](/peptide-handling-protocols/) covers general practice. The steps above are bench procedures for a research reagent, not instructions for human or animal use.
 
@@ -111,7 +111,7 @@ The catalogue specifies ≥98% by HPLC, with a molecular formula of C₁₇H₂�
 
 **How should the powder be stored?**
 
-At −20 °C, desiccated, protected from light. Warm the vial before opening. Reconstituted solutions should be kept at 2–8 °C and used within two weeks, or according to a window established by the laboratory.
+−20 °C with desiccant, shielded from light. Warm the vial before opening. Once dissolved, keep the solution at 2–8 °C and use it within two weeks, or within a window the laboratory has established.
 
 **Does cartalax have a CAS number?**
 
@@ -127,7 +127,7 @@ No. Cartalax is Ala-Glu-Asp-Pro; cortagen is Ala-Glu-Asp-Gly. They differ at the
 
 **Is there clinical evidence for cartalax?**
 
-The published literature is preclinical and small. This page does not summarise clinical use, and the product is sold for laboratory research only.
+The published literature is preclinical and small. No clinical use is summarised here, and the material is sold for laboratory research only.
 
 ## Related Products
 

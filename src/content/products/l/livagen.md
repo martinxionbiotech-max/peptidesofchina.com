@@ -8,7 +8,7 @@ description: "Khavinson-series tetrapeptide (Lys-Glu-Asp-Ala) for chromatin and 
 image: "/images/products/generic-vial.png"
 
 ---
-Livagen is a four-amino-acid peptide — lysine, glutamic acid, aspartic acid, alanine — sold here as a lyophilized research powder in 20 mg vials. It belongs to the Khavinson tetrapeptide family, a group of short sequences that Russian and Baltic research groups have studied for decades under the broad label of peptide bioregulators. The sequence is short enough to synthesise cheaply and analytically difficult enough to be sold badly, which is the central tension of this page.
+Livagen is a four-amino-acid peptide — lysine, glutamic acid, aspartic acid, alanine — sold here as a lyophilized research powder in 20 mg vials. It belongs to the Khavinson tetrapeptide family, a group of short sequences that Russian and Baltic research groups have studied for decades under the broad label of peptide bioregulators. The sequence is short enough to synthesise cheaply and analytically difficult enough to be sold badly, which is the central tension of this page. The material is supplied for laboratory research only and is not for human or veterinary use.
 
 Most catalogue copy about Livagen repeats the same phrases: tissue-specific, chromatin-active, geroprotective. Those words carry more narrative than data. What a laboratory actually receives is a tetrapeptide with no chromophore, a low molecular weight, and a strong tendency to be under-characterised by suppliers who rely on a single HPLC peak. The useful questions are different: is the sequence correct, what counterion is present, how much water is in the vial, and what method was used to see a molecule that barely absorbs at 214 nm.
 

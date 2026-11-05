@@ -73,7 +73,7 @@ Aliquot before freezing. A single freeze-thaw cycle is tolerable for most lyophi
 
 The practical comparison is Adamax against Semax, not against the other adamantane variant. Semax has a citable pharmacology and a reproducible identity; Adamax has a design rationale and a mass. A study that needs a well-characterised neurotrophic stimulus should start with Semax or N-acetyl Semax amidate. A study that specifically tests whether adamantane modification changes CNS exposure is the case for Adamax, and that study needs a lot with a fragmentation spectrum.
 
-Against Selank, the distinction is therapeutic area rather than chemistry. Selank is a tuftsin-derived anxiolytic peptide with its own literature; it is not a Semax analogue, and the two are often listed together only because they come from the same research tradition.
+Against Selank, the distinction is research area rather than chemistry. Selank is a tuftsin-derived anxiolytic peptide with its own literature; it is not a Semax analogue, and the two are often listed together only because they come from the same research tradition.
 
 ## The Author's Take
 
@@ -81,7 +81,7 @@ I would not buy Adamax without an MS/MS spectrum and a stated structure. This is
 
 My second view is that the 1032 Da confusion is not a clerical issue. If a supplier cannot tell you which mass they are shipping, the catalogue entry is unreliable regardless of what the vial contains. Ask in writing, keep the answer, and test on arrival.
 
-Disclosure: I write for Peptides of China, which lists this compound. The caution here applies to the whole category, not only to competitors; a supplier's own documentation is the thing being evaluated.
+Disclosure: I write for Peptides of China, which lists this compound. The caution here applies to the whole category, this supplier included; the documentation attached to the lot is the thing being evaluated.
 
 ## Frequently Asked Questions
 
@@ -115,7 +115,7 @@ Not without re-validation. The two compounds differ in mass, hydrophobicity, and
 
 ## Related Products
 
-Semax N-Acetyl Semax Amidate Selank
+Semax na-semax-amidate Selank
 
 ## Sources
 

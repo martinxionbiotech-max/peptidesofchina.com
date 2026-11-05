@@ -37,7 +37,7 @@ PEGylation is a formulation strategy, not a biological one. Attaching PEG chains
 | Storage | −20°C, desiccated, protected from light |
 | Research status | Preclinical laboratory use only |
 
-The missing PEG size is the most important gap in the table. A 5 kDa PEG and a 20 kDa PEG produce conjugates with different hydrodynamic radii, different dosing in cell culture, and different analytical behaviour. Without that number, "PEG-MGF" is a class description.
+The missing PEG size is the most important gap in the table. A 5 kDa PEG and a 20 kDa PEG produce conjugates with different hydrodynamic radii, different working concentrations in cell culture, and different analytical behaviour. Without that number, "PEG-MGF" is a class description.
 
 ## What the Batch Record Should Show
 
@@ -65,17 +65,17 @@ Ask whether the product is made to order. PEG conjugates are usually custom, and
 
 Ask about shipping and storage. PEGylated peptides can be hygroscopic, and a lyophilized cake that takes up water may become gummy and hard to dissolve. A desiccant and a cold-chain option are cheap insurance for an international order. The [sourcing pillar](/china-peptide-sourcing/) covers the document set.
 
-One caution about the category. PEG-MGF is listed under Healing & Repair and Muscle & Performance, two labels that describe commercial positioning rather than a validated mechanism. The published MGF work is about satellite cell biology in culture; it does not establish a whole-organism effect. The [classification guide](/blog/therapeutic-peptide-classification-a-2026-research-guide/) explains the difference.
+One caution about the category. PEG-MGF is listed on the repair and muscle shelves, two labels that describe commercial positioning rather than a validated mechanism. The published MGF work is about satellite cell biology in culture; it does not establish a whole-organism effect. The [classification guide](/blog/therapeutic-peptide-classification-a-2026-research-guide/) explains the difference.
 
 ## Handling & Storage
 
-Store the dry powder at −20°C, desiccated, protected from light. Let the vial equilibrate to room temperature before opening. PEGylated peptides can be more hygroscopic than the parent, and a cold vial opened in a warm room may pull moisture into the cake.
+Keep the lyophilized powder at −20°C, desiccated and protected from light. Let the vial equilibrate to room temperature before opening. PEGylated peptides can be more hygroscopic than the parent, and a cold vial opened in a warm room may pull moisture into the cake.
 
 Reconstitute in water or buffer. Add the solvent down the wall of the vial and mix by gentle inversion. Do not vortex; PEGylated peptides foam readily, and foam concentrates the material at the air-liquid interface where it can aggregate. If the solution is cloudy, let it stand; if the haze persists, centrifuge at low speed and inspect the pellet before adding more solvent.
 
 For cell culture, prepare a concentrated stock and dilute into medium. Keep the final buffer concentration low and record the PEG concentration, because PEG itself can affect cell behaviour at high concentrations. A vehicle control with the same PEG concentration is not optional if the readout is sensitive.
 
-Aliquot before freezing. Aqueous PEG conjugates are short-term stocks at 2–8°C; repeated freeze-thaw cycles can cause phase separation or aggregation. Divide into single-use portions, freeze at −20°C or below, and do not refreeze. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers the mechanics, and the [handling pillar](/peptide-handling-protocols/) covers the storage schedule.
+Aliquot before freezing. Aqueous PEG conjugates are short-term stocks at 2–8°C; repeated freeze-thaw cycles can cause phase separation or aggregation. Divide into single-use portions, freeze at −20°C or colder, and do not refreeze. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers the mechanics, and the [handling pillar](/peptide-handling-protocols/) covers the storage schedule.
 
 The product is supplied for laboratory research only. Nothing here is a protocol for administration to humans or animals.
 
@@ -134,7 +134,7 @@ Because the conjugate is bulky. A 2 mg fill contains the peptide plus the PEG ch
 
 **Reasoning.** The published MGF literature is about the E-domain peptide, not about a PEG conjugate. PEGylation changes the molecule's size, its clearance and its assay behaviour; those changes may be useful, but they are not inherited from the parent's data. The most common failure in catalogue PEG-peptides is not "no peptide" but "a mixture of conjugate forms with an unstated free-peptide fraction." That mixture will behave inconsistently between lots, and the inconsistency will look like biology. A supplier who reports the distribution is selling a characterised product. A supplier who reports only a purity percentage is selling a label.
 
-**Disclosure.** Peptides of China sells PEG-MGF, MGF and the Retatrutide + MGF blend. This is a sourcing opinion based on the documents we review across incoming batches, not medical advice. The product is for laboratory research only; nothing here is a recommendation for human use.
+**Disclosure.** Peptides of China sells PEG-MGF, MGF and the Retatrutide + MGF blend. The opinion is based on our review of conjugate batches, not medical advice; the product is for laboratory research only and not for human use.
 
 ## Sources
 

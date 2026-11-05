@@ -4,170 +4,116 @@ name: "MGF"
 slug: "mgf"
 price: 53.0
 status: "In Stock"
-description: "Mechano Growth Factor — a splice variant of IGF-1. Studied in exercise physiology research for its role in satellite cell activation and muscle tissue repair responses to mechanical loading."
+description: "Mechano growth factor (IGF-1Ec C-terminal 24-mer) for muscle-biology research; ≥98% purity, 2 mg vials."
 image: "/images/products/generic-vial.png"
 
 ---
-MGF is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the IGF-1 splice variant Ec peptide (C-terminal fragment) Synonyms Mechano Growth Factor, IGF-1Ec, Ec peptide Amino Acids 24 (C-terminal Ec domain fragment) Molecular Weight ~2867 Da CAS Number 162663-54-9 
+MGF, or mechano growth factor, is the research name for the C-terminal Ec peptide of the IGF-1Ec splice variant. This listing supplies a 2 mg lyophilized vial, ten vials per pack, with a catalog purity specification of ≥98%. The sequence is listed as available on request; the molecular weight is approximately 2867 Da and the CAS number is 162663-54-9. It is supplied for laboratory research only and is not for human or veterinary use.
 
-## Research Areas
-
-Skeletal muscle biology, satellite cell activation, mechanotransduction, IGF-1 isoform pharmacology, tissue repair Form Lyophilized powder Storage −20°C long-term; 2-8°C aqueous (use within 2 weeks) Molecular Formula N/A — splice variant C-terminal fragment Sequence Available on request (IGF-1 Ea C-terminal 24-aa fragment) 
-
-## Available Variants
-
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| MGF | 2 mg | 10 vials | ≥98% | In Stock |
-
-## Specification Highlights
-
-Category: Healing & Repair, Muscle & Performance Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS (["HPLC","LC-MS","Water Content"]) . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Available documentation: . 
-
-**Where provided, these documents reflect the manufacturer's batch testing for this compound. 
-
-## Research Areas
-
-Satellite Cell Activation Research The primary research interest in MGF is its proposed role in activating skeletal muscle satellite cells (myosatellite cells) — quiescent stem cells that become activated following muscle damage or mechanical overload. Studies in rodent muscle injury models have examined satellite cell proliferation and myotube formation markers following MGF administration. The peptide's local expression pattern (distinct from systemic IGF-1) and proposed non-IGF-1R mechanism make it a unique tool for studying satellite cell biology independently of canonical growth factor receptor pathways. Mechano-Transduction and Muscle Overload Models Research has examined MGF expression patterns in skeletal muscle following eccentric exercise, stretch overload, and myotoxin-induced injury in animal models. Studies tracking Ec peptide production relative to mechanical stimulus magnitude, timing, and recovery have contributed to understanding of how muscle senses and responds to mechanical challenge. MGF serves as a molecular marker of local IGF-1 Ec isoform upregulation in mechanobiology research. IGF-1 Isoform Pharmacology The IGF-1 gene produces multiple splice variants (IGF-1Ea, IGF-1Eb, IGF-1Ec in humans) with distinct tissue expression patterns and proposed functional roles. MGF (IGF-1Ec) research explores how the Ec C-terminal extension confers functional properties absent in the common Ea isoform — particularly local tissue action and satellite cell targeting. Comparative studies using Ea versus Ec peptide fragments in matched models are a key tool in IGF-1 isoform pharmacology. ## Sourcing MGF From China
-
-MGF is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
-
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, MGF is supplied for
-  laboratory research use only, under strict research-use terms.
-
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
-
-## Frequently Asked Questions
-
-What is the difference between MGF and IGF-1 LR3?**
-
-MGF is the C-terminal Ec peptide of the IGF-1Ec splice variant, proposed to act locally via satellite cell activation through a non-IGF-1R pathway. IGF-1 LR3 is a long-acting IGF-1 analogue that acts through the canonical IGF-1 receptor. They target different signaling pathways and are studied for different aspects of muscle biology. 
-
-**What is PEG-MGF and how does it differ from native MGF?**
-
-PEG-MGF is MGF with polyethylene glycol (PEG) attached, extending its half-life from minutes to hours. Native MGF is rapidly degraded in biological media. PEG-MGF allows researchers to study sustained Ec peptide exposure in in vivo models without repeated dosing. Both forms are available through Peptides of China. 
-
-**What purity is your MGF?**
-
-MGF is synthesized to 99%+ purity, verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
-
-**What are the storage requirements?**
-
-Lyophilized MGF should be stored at −20°C. Aqueous solutions should be kept at 2-8°C and used within 2 weeks due to peptide instability in solution. 
-
-## Related Products
-
-PEG-MGF Retatrutide + MGF For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. class, and every listing carries the manufacturer's own specification rather than a reseller's claim. Buyers sourcing **chinese peptides** in this category typically evaluate MGF across Skeletal muscle biology, satellite cell activation, mechanotransduction, IGF-1 isoform pharmacology, tissue repair Form Lyophilized powder Storage −20°C long-term; 2-8°C aqueous (use within 2 weeks) Molecular Formula N/A — splice variant C-terminal fragment Sequence Available on request (IGF-1 Ea C-terminal 24-aa fragment) 
-
-## Available Variants
-
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| MGF | 2 mg | 10 vials | ≥98% | In Stock |
-
-## Specification Highlights
-
-Category: Healing & Repair, Muscle & Performance Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS (["HPLC","LC-MS","Water Content"]) . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Available documentation: . 
-
-**Where provided, these documents reflect the manufacturer's batch testing for this compound. 
-
-## Research Areas
-
-Satellite Cell Activation Research The primary research interest in MGF is its proposed role in activating skeletal muscle satellite cells (myosatellite cells) — quiescent stem cells that become activated following muscle damage or mechanical overload. Studies in rodent muscle injury models have examined satellite cell proliferation and myotube formation markers following MGF administration. The peptide's local expression pattern (distinct from systemic IGF-1) and proposed non-IGF-1R mechanism make it a unique tool for studying satellite cell biology independently of canonical growth factor receptor pathways. Mechano-Transduction and Muscle Overload Models Research has examined MGF expression patterns in skeletal muscle following eccentric exercise, stretch overload, and myotoxin-induced injury in animal models. Studies tracking Ec peptide production relative to mechanical stimulus magnitude, timing, and recovery have contributed to understanding of how muscle senses and responds to mechanical challenge. MGF serves as a molecular marker of local IGF-1 Ec isoform upregulation in mechanobiology research. IGF-1 Isoform Pharmacology The IGF-1 gene produces multiple splice variants (IGF-1Ea, IGF-1Eb, IGF-1Ec in humans) with distinct tissue expression patterns and proposed functional roles. MGF (IGF-1Ec) research explores how the Ec C-terminal extension confers functional properties absent in the common Ea isoform — particularly local tissue action and satellite cell targeting. Comparative studies using Ea versus Ec peptide fragments in matched models are a key tool in IGF-1 isoform pharmacology. 
-
-## Frequently Asked Questions
-
-What is the difference between MGF and IGF-1 LR3?**
-
-MGF is the C-terminal Ec peptide of the IGF-1Ec splice variant, proposed to act locally via satellite cell activation through a non-IGF-1R pathway. IGF-1 LR3 is a long-acting IGF-1 analogue that acts through the canonical IGF-1 receptor. They target different signaling pathways and are studied for different aspects of muscle biology. 
-
-**What is PEG-MGF and how does it differ from native MGF?**
-
-PEG-MGF is MGF with polyethylene glycol (PEG) attached, extending its half-life from minutes to hours. Native MGF is rapidly degraded in biological media. PEG-MGF allows researchers to study sustained Ec peptide exposure in in vivo models without repeated dosing. Both forms are available through Peptides of China. 
-
-**What purity is your MGF?**
-
-MGF is synthesized to 99%+ purity, verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
-
-**What are the storage requirements?**
-
-Lyophilized MGF should be stored at −20°C. Aqueous solutions should be kept at 2-8°C and used within 2 weeks due to peptide instability in solution. 
-
-## Related Products
-
-PEG-MGF Retatrutide + MGF For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, MGF is supplied for laboratory research use only.
-
-
-Buy MGF | Research Grade | Peptides of China MGF Buy MGF — Research Grade Peptide MGF is a healing & repair research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+The compound is interesting because it is not IGF-1. It is a short splice-variant fragment that appears in mechanically loaded or damaged tissue, and the research question is whether it acts through a pathway distinct from the canonical IGF-1 receptor. That question is unresolved, which is precisely why the peptide is studied. The commercial market, by contrast, often treats MGF as a synonym for IGF-1 LR3 or as a generic “muscle peptide.” Those are different molecules with different masses, different receptors and different documentation requirements.
 
 ## Compound Profile
 
-MGF (Mechano Growth Factor) is a splice variant of IGF-1 (Insulin-like Growth Factor 1), specifically the Ec isoform produced in response to mechanical load and tissue damage. Unlike systemic IGF-1 (which circulates from the liver and activates the IGF-1 receptor broadly), MGF is expressed locally in mechanically stressed or injured tissue — particularly skeletal muscle — where it is proposed to activate muscle satellite cells (myosatellite cells) and initiate repair and hypertrophy signaling. The research compound sold as MGF is typically the 24-amino acid C-terminal Ec peptide fragment, which is the domain of IGF-1Ec responsible for satellite cell activation. Preclinical research in rodent skeletal muscle injury and overload models has examined MGF's role in satellite cell recruitment, proliferation, and differentiation. Proposed mechanisms involve a distinct receptor system from the canonical IGF-1R, operating via a non-IGF-1 receptor pathway — specifically hypothesized to involve CXCR4 or integrin-mediated signaling, though the precise receptor remains under investigation. MGF is also available as a PEGylated form (PEG-MGF) with extended half-life, providing a tool for comparing acute versus sustained Ec peptide signaling in research models. Peptides of China supplies MGF as a lyophilized powder at 99%+ purity, verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Both native MGF and PEG-MGF are available. All products are for laboratory research use only and are not for human consumption. 
+Chemical Class: IGF-1 splice variant Ec peptide (C-terminal fragment) Synonyms: Mechano growth factor, IGF-1Ec, Ec peptide Amino Acids: 24 Molecular Weight: ~2867 Da CAS Number: 162663-54-9 Molecular Formula: N/A — splice variant C-terminal fragment Sequence: available on request Form: Lyophilized powder Storage: −20 °C long-term; 2-8 °C aqueous (use within 2 weeks) Category: Healing & Repair, Muscle & Performance Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials
 
-## Profile
+## Why This Compound
 
-Chemical Class IGF-1 splice variant Ec peptide (C-terminal fragment) Synonyms Mechano Growth Factor, IGF-1Ec, Ec peptide Amino Acids 24 (C-terminal Ec domain fragment) Molecular Weight ~2867 Da CAS Number 162663-54-9 
+The IGF-1 gene produces several splice variants. The systemic, liver-derived form is IGF-1Ea; the mechano-sensitive form is IGF-1Ec, and MGF is the 24-residue C-terminal peptide of that variant. The distinction matters because the Ea form signals through the IGF-1 receptor and the Ec fragment is proposed to act through a different route — possibly a G-protein-coupled receptor or an integrin complex — although the precise receptor has not been settled. A researcher who buys “MGF” expecting IGF-1 receptor pharmacology is buying the wrong tool.
 
-## Research Areas
+The second reason to study MGF is its expression pattern. Work in rodent muscle models has shown that the Ec transcript rises after mechanical loading or injury, and that the rise is local rather than systemic. That local expression is the biological rationale for the peptide: it may be a paracrine signal that tells satellite cells to enter the cell cycle. The evidence for that model is strongest in cell culture and rodent injury models, and weaker in humans. The peptide is therefore a probe for a hypothesis, not a validated mechanism.
 
-Skeletal muscle biology, satellite cell activation, mechanotransduction, IGF-1 isoform pharmacology, tissue repair Form Lyophilized powder Storage −20°C long-term; 2-8°C aqueous (use within 2 weeks) Molecular Formula N/A — splice variant C-terminal fragment Sequence Available on request (IGF-1 Ea C-terminal 24-aa fragment) 
+The third reason is practical. MGF is a small, relatively inexpensive peptide, which makes it accessible to labs that cannot afford a full-length growth factor. But the low price is also why the market is full of mislabelled material. A 24-mer with a mass of about 2867 Da is easy to confuse with a fragment or with a different splice-variant peptide. The only reliable check is mass spectrometry with sequence coverage.
 
-## Available Variants
+## What the Batch Record Should Show
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| MGF | 2 mg | 10 vials | ≥98% | In Stock |
+Identity starts with the intact mass. The observed mass should be close to 2867 Da, and the adduct pattern should be consistent with the counterion. A mass that is 100-200 Da higher may indicate an extra amino acid or a modification; a mass that is lower may indicate truncation. The certificate should state the calculated mass and the observed mass, not just “consistent with reference.”
 
-## Specification Highlights
+Sequence coverage is the second requirement. A 24-mer is short enough for MS/MS to cover most of the backbone, and the fragment ions should assign the N-terminal and C-terminal residues. If the supplier cannot provide fragmentation, the sequence is an assertion. This is especially important for MGF because the Ec fragment is often confused with the Ea C-terminal region; the two are not the same peptide.
 
-Category: Healing & Repair, Muscle & Performance Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
+Purity should be measured by reversed-phase HPLC at 214 or 220 nm. MGF has no tryptophan and only one tyrosine, so 280 nm is a weak detection wavelength. The method should resolve the main peak from truncated and oxidised forms. The certificate should include the chromatogram and the integration parameters. A “≥98%” value without a method is not a specification.
 
-## Quality & Testing
+Counterion and water content are next. MGF is commonly supplied as an acetate or trifluoroacetate salt. The counterion affects solubility and the pH of the reconstituted solution. Karl Fischer water content should be reported. For cell work, endotoxin and bioburden should be reported as well. The [characterisation checklist](/blog/peptide-characterization-reporting-checklist/) lists the fields we review.
 
-Testing method: HPLC / LC-MS (["HPLC","LC-MS","Water Content"]) . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Available documentation: . 
+Finally, the batch record should distinguish native MGF from PEG-MGF. PEGylation adds a large, disperse polymer and changes the mass profile; a PEG-MGF batch will not give a clean 2867 Da signal. If the listing says “MGF” and the certificate shows a broad mass distribution, the material is probably PEGylated or aggregated. The [COA guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) explains how to spot that.
 
-**Where provided, these documents reflect the manufacturer's batch testing for this compound. 
+## Sourcing & Verification
 
-## Research Areas
+MGF is sold by many Chinese suppliers, and the quality range is wide. The cheapest material is often a crude synthetic fragment with a single HPLC peak and no sequence coverage. The better material comes with a batch-specific mass spectrum, a purity method and a counterion statement. The price difference is usually small relative to the cost of a failed experiment, which makes the analytical package the rational place to spend.
 
-Satellite Cell Activation Research The primary research interest in MGF is its proposed role in activating skeletal muscle satellite cells (myosatellite cells) — quiescent stem cells that become activated following muscle damage or mechanical overload. Studies in rodent muscle injury models have examined satellite cell proliferation and myotube formation markers following MGF administration. The peptide's local expression pattern (distinct from systemic IGF-1) and proposed non-IGF-1R mechanism make it a unique tool for studying satellite cell biology independently of canonical growth factor receptor pathways. Mechano-Transduction and Muscle Overload Models Research has examined MGF expression patterns in skeletal muscle following eccentric exercise, stretch overload, and myotoxin-induced injury in animal models. Studies tracking Ec peptide production relative to mechanical stimulus magnitude, timing, and recovery have contributed to understanding of how muscle senses and responds to mechanical challenge. MGF serves as a molecular marker of local IGF-1 Ec isoform upregulation in mechanobiology research. IGF-1 Isoform Pharmacology The IGF-1 gene produces multiple splice variants (IGF-1Ea, IGF-1Eb, IGF-1Ec in humans) with distinct tissue expression patterns and proposed functional roles. MGF (IGF-1Ec) research explores how the Ec C-terminal extension confers functional properties absent in the common Ea isoform — particularly local tissue action and satellite cell targeting. Comparative studies using Ea versus Ec peptide fragments in matched models are a key tool in IGF-1 isoform pharmacology. 
+Start by asking for the sequence and the mass. The supplier should be able to state the 24-residue sequence or provide a reference to the IGF-1Ec C-terminal domain. If the answer is “MGF sequence” without a structure, the product is not defined. Then ask for the MS/MS coverage and the HPLC method. Then ask for counterion, water content and endotoxin.
+
+The second check is the distinction from IGF-1 LR3. IGF-1 LR3 is an 83-residue analogue with a mass of about 9.1 kDa; MGF is a 24-mer at about 2.9 kDa. A supplier who lists both products with the same description is not differentiating them. Ask for the mass of each lot and compare. The [IGF-1 LR3 listing](/catalog/igf-1-lr3/) is the comparator; the two should never be substituted in a study without a explicit rationale.
+
+The third check is the physical form. MGF powder should be white to off-white and dissolve clear in water or dilute acetic acid. A yellow or sticky powder suggests oxidation or moisture. If the peptide is supplied as a solution, check the pH and the presence of particulates. The [solubility guide](/blog/peptide-solubility-troubleshooting/) covers the common problems.
+
+Finally, check the supplier's handling of the stability question. MGF is a short peptide with a disordered structure; it is more stable than a full-length growth factor but still prone to adsorption and freeze-thaw loss. A supplier who recommends low-binding tubes and single-use aliquots is more credible than one who promises room-temperature stability. The [quality-testing hub](/peptide-quality-testing/) has the broader context.
+
+## Handling & Storage
+
+Store the lyophilized powder at −20 °C, protected from light and moisture. Let the vial equilibrate before opening. Weigh or transfer in a dry environment; the powder is hygroscopic and a damp cake is harder to dissolve.
+
+For reconstitution, start with sterile water or 0.1% acetic acid. MGF is basic and dissolves more readily at slightly acidic pH. Add the solvent slowly and swirl; avoid vortexing, which can denature the peptide and promote adsorption. If the solution is hazy, centrifuge at low speed and inspect the pellet. Do not filter through a membrane that binds peptides unless you have validated recovery.
+
+Dilute into the assay buffer in steps and check for haze. Keep the final buffer composition constant across conditions. For cell-based work, use low-binding tubes and a carrier only if the assay tolerates it. Run a vehicle control at the same pH and counterion concentration.
+
+Aliquot and freeze at −20 °C or −80 °C. Avoid repeated freeze-thaw. A working solution at 2-8 °C should be used within a few days; the catalog note suggests two weeks for aqueous solutions, but the practical limit depends on concentration and buffer. Record the lot, the reconstitution date and the solvent. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) has the step-by-step protocol.
+
+## How It Compares
+
+The nearest comparator is [PEG-MGF](/catalog/peg-mgf/), the PEGylated form with a longer residence time in biological media. PEG-MGF is easier to detect in some assays because the PEG chain changes the mass and the solubility, but it is not the same molecule. If the experiment is about the native Ec peptide, use the unmodified form; if it is about sustained exposure, PEG-MGF is the tool.
+
+Against [IGF-1 LR3](/catalog/igf-1-lr3/), the difference is receptor pharmacology and size. IGF-1 LR3 is a full-length analogue that signals through the IGF-1 receptor; MGF is a short fragment with a proposed non-IGF-1R mechanism. They are not interchangeable. Against native IGF-1, MGF lacks the receptor-binding domain and is therefore a poor substitute in a receptor-binding assay.
+
+Within the catalogue, [Retatrutide + MGF](/catalog/retatrutide-mgf/) is a blend rather than a comparator; it combines a metabolic peptide with MGF and should be treated as a separate product with its own documentation. The useful comparison is between the native 24-mer and the PEGylated form, because that is the pair most likely to be confused in a study design.
+
+## The Author's Take
+
+The MGF market has an identity problem. Many listings use the name for a fragment, a blend or a PEGylated analogue, and the certificate does not always make the distinction. My first question is always “what is the mass?” — if the answer is not around 2867 Da, it is not the 24-mer. My second question is “show me the sequence coverage.” A peptide this short should be easy to fragment, so a supplier who cannot provide MS/MS is not trying. I would pay more for a batch with a clean mass and a real chromatogram than for a cheaper vial with a decorative certificate. Disclosure: this is a sourcing judgement, not a medical or regulatory opinion.
 
 ## Frequently Asked Questions
 
-What is the difference between MGF and IGF-1 LR3?**
+**What is the difference between MGF and IGF-1 LR3?**
 
-MGF is the C-terminal Ec peptide of the IGF-1Ec splice variant, proposed to act locally via satellite cell activation through a non-IGF-1R pathway. IGF-1 LR3 is a long-acting IGF-1 analogue that acts through the canonical IGF-1 receptor. They target different signaling pathways and are studied for different aspects of muscle biology. 
+MGF is the 24-residue C-terminal Ec peptide of the IGF-1Ec splice variant, with a mass of about 2867 Da. IGF-1 LR3 is an 83-residue analogue that signals through the IGF-1 receptor. They are different molecules with different masses and different research uses.
 
-**What is PEG-MGF and how does it differ from native MGF?**
+**What is PEG-MGF?**
 
-PEG-MGF is MGF with polyethylene glycol (PEG) attached, extending its half-life from minutes to hours. Native MGF is rapidly degraded in biological media. PEG-MGF allows researchers to study sustained Ec peptide exposure in in vivo models without repeated dosing. Both forms are available through Peptides of China. 
+PEG-MGF is MGF with polyethylene glycol attached, which extends its residence time in biological media. The PEG chain changes the mass profile and the solubility. It is a separate product, not a formulation of the same peptide.
 
 **What purity is your MGF?**
 
-MGF is synthesized to 99%+ purity, verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
+The catalog specification is ≥98% by HPLC. The lot certificate states the measured value and the method. Ask for the chromatogram and the mass spectrum if you need to compare batches.
+
+**How do I confirm the sequence?**
+
+Use intact mass plus MS/MS fragmentation. The 24-mer is short enough for good backbone coverage. A mass match alone does not distinguish a sequence isomer or a truncation product.
 
 **What are the storage requirements?**
 
-Lyophilized MGF should be stored at −20°C. Aqueous solutions should be kept at 2-8°C and used within 2 weeks due to peptide instability in solution. 
+Lyophilized powder at −20 °C, dry and protected from light. Aqueous solutions at 2-8 °C, used within about two weeks. Avoid repeated freeze-thaw and low-binding tubes for dilute solutions.
+
+**Why does MGF adsorb to surfaces?**
+
+It is a small, partly disordered peptide with hydrophobic and charged patches. At low concentrations it sticks to glass and some plastics. Use low-binding tubes and keep the concentration high enough to saturate the surface.
+
+**Is MGF the same as IGF-1?**
+
+No. MGF is a splice-variant fragment, not the full-length growth factor. It lacks the IGF-1 receptor-binding domain and is studied for a proposed local mechanism. The two should not be substituted in a receptor assay.
+
+**Do you supply a sequence certificate?**
+
+We provide the manufacturer's batch documentation, including mass and purity data where available. We do not generate an independent certificate. If your study requires third-party sequencing, arrange it before the batch is consumed.
 
 ## Related Products
 
-PEG-MGF Retatrutide + MGF For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+PEG-MGF
+IGF-1 LR3
+Retatrutide MGF
+
+## Sources
+
+- Yang SY, Goldspink G. Different roles of the IGF-IEc peptide (MGF) and mature IGF-I in myoblast proliferation and differentiation. *FEBS Letters*. 2002;522(1-3):156-160. [doi:10.1016/S0014-5793(02)02918-6](https://doi.org/10.1016/S0014-5793(02)02918-6)
+- Goldspink G. Mechanical signals, IGF-I gene splicing, and muscle adaptation. *Physiology*. 2005;20:232-238. [doi:10.1152/physiol.00004.2005](https://doi.org/10.1152/physiol.00004.2005)
+- Feng F, Tu T, Wang H, et al. Mechano-growth factor regulates periodontal ligament stem cell proliferation and differentiation through Fyn-RhoA-YAP signaling. *Biochemical and Biophysical Research Communications*. 2024;733:150450. [doi:10.1016/j.bbrc.2024.150450](https://doi.org/10.1016/j.bbrc.2024.150450)
+- Snijders T, Nederveen JP, McKay BR, et al. Satellite cells in human skeletal muscle plasticity. *Frontiers in Physiology*. 2015;6:283. [doi:10.3389/fphys.2015.00283](https://doi.org/10.3389/fphys.2015.00283)
+- Bothe JR, Andrews A, Smith KJ, et al. Peptide oligomerization memory effects and their impact on the physical stability of the GLP-1 agonist liraglutide. *Molecular Pharmaceutics*. 2019;16(5):2153-2161. [doi:10.1021/acs.molpharmaceut.9b00106](https://doi.org/10.1021/acs.molpharmaceut.9b00106)

@@ -16,9 +16,9 @@ This page sets out what the published record says, what a batch certificate shou
 
 The Khavinson bioregulator programme began in St Petersburg in the 1970s and produced a family of short peptides isolated from, or modelled on, tissue-specific extracts. Pancragen is the pancreatic member. The research premise is that short peptides can enter cells and interact with chromatin or transcription regulators in a way that is partly tissue-specific, and that this interaction can shift gene expression in aged tissue. The premise is unusual by the standards of mainstream pharmacology, and the literature is concentrated in a small number of journals, often in Russian, with modest sample sizes.
 
-The most cited experimental paper on Pancragen describes a tetrapeptide with the sequence Lys–Glu–Asp–Trp-NH2. In streptozotocin-treated Wistar rats, oral Pancragen produced a hypoglycaemic effect, while intramuscular Pancragen normalised mesenteric capillary endothelial adhesion without changing capillary permeability. A follow-up study in pancreatic cell cultures reported that Pancragen increased expression of differentiation markers in acinar cells (Pdx1, Ptf1a) and islet cells (Pdx1, Pax6, Pax4, Foxa2, Nkx2.2) in both young and aged cultures. A separate line of work examined old rhesus monkeys and reported changes in glucose tolerance and endocrine pancreatic function.
+A 2007 paper on Pancragen describes a tetrapeptide with the sequence Lys–Glu–Asp–Trp-NH2. In streptozotocin-treated Wistar rats, oral Pancragen produced a hypoglycaemic effect, while intramuscular Pancragen normalised mesenteric capillary endothelial adhesion without changing capillary permeability. A follow-up study in pancreatic cell cultures reported that Pancragen increased expression of differentiation markers in acinar cells (Pdx1, Ptf1a) and islet cells (Pdx1, Pax6, Pax4, Foxa2, Nkx2.2) in both young and aged cultures. A separate line of work examined old rhesus monkeys and reported changes in glucose tolerance and endocrine pancreatic function.
 
-Those are preclinical findings in animal and cell models. They do not establish a mechanism in humans, and the studies do not provide the kind of dose-response or pharmacokinetic data that would let a laboratory extrapolate to a new model. What they do provide is a set of endpoints — differentiation markers, glucose handling, capillary adhesion — that a researcher can use to design a replication. The [peptide classification guide](/blog/therapeutic-peptide-classification-a-2026-research-guide/) places the bioregulators alongside GHRH, GLP-1 and cosmetic peptides, and explains why the category is defined more by research tradition than by a shared receptor.
+Those are preclinical findings in animal and cell models. They do not establish a mechanism in humans, and the studies do not provide the kind of concentration-response or pharmacokinetic data that would let a laboratory extrapolate to a new model. What they do provide is a set of endpoints — differentiation markers, glucose handling, capillary adhesion — that a researcher can use to design a replication. The [peptide classification guide](/blog/therapeutic-peptide-classification-a-2026-research-guide/) places the bioregulators alongside GHRH, GLP-1 and cosmetic peptides, and explains why the category is defined more by research tradition than by a shared receptor.
 
 The naming problem is not incidental. A tetrapeptide with a tryptophan at the C-terminus has a 280 nm chromophore; the proline version does not. If a certificate reports a purity by UV at 280 nm for a peptide that has no aromatic residue, the method and the molecule are inconsistent. That single detail can tell a buyer which sequence the manufacturer actually made.
 
@@ -72,13 +72,13 @@ One more check: the catalogue category. Pancragen is listed under Bioregulators,
 
 ## Handling & Storage
 
-Store the dry powder at −20°C, desiccated, protected from light. Let the vial reach room temperature before opening to avoid condensation. A tetrapeptide is small and polar, and it will pick up water readily if the cap is opened while the vial is cold.
+The dry powder should be kept at −20°C, desiccated and protected from light. Let the vial reach room temperature before opening to avoid condensation. A tetrapeptide is small and polar, and it will pick up water readily if the cap is opened while the vial is cold.
 
 Pancragen should dissolve in water or phosphate-buffered saline. Add the solvent down the wall of the vial, then mix by gentle inversion. Avoid vortexing; a short peptide at a foam interface can adsorb to the glass and disappear from the solution. If the powder does not dissolve completely, inspect the vial against a light source before adding more solvent. Undissolved particles are easier to see than to filter out later.
 
 For cell work, prepare a concentrated stock in water or buffer and dilute into the culture medium. Keep the final buffer concentration as low as the assay tolerates, and record the pH. Tetrapeptides have no secondary structure to denature, but they can aggregate at high concentration or at interfaces, and the aggregate may not be visible.
 
-Aliquot before freezing. Aqueous solutions are short-term stocks at 2–8°C; repeated freeze-thaw cycles promote aggregation and adsorption. Divide into single-use portions, freeze at −20°C or below, and do not refreeze. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers the general workflow, and the [handling pillar](/peptide-handling-protocols/) covers the storage schedule.
+Aliquot before freezing. Aqueous solutions are short-term stocks at 2–8°C; repeated freeze-thaw cycles promote aggregation and adsorption. Freeze in single-use aliquots at −20°C or colder, and discard anything that has been thawed. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers the general workflow, and the [handling pillar](/peptide-handling-protocols/) covers the storage schedule.
 
 The product is supplied for laboratory research only. Nothing in this section is a protocol for administration to humans or animals.
 
@@ -88,7 +88,7 @@ The product is supplied for laboratory research only. Nothing in this section is
 
 **Pinealon.** A tripeptide (Glu–Asp–Arg) from the pineal series. Smaller, more polar, and studied with different endpoints. It is not a substitute for Pancragen, and the two are not interchangeable in a gene-expression assay. The [Pinealon page](/catalog/pinealon/) lists the format.
 
-**Epithalon.** A tetrapeptide (Ala–Glu–Asp–Gly) from the same research tradition, studied mainly in telomerase and cell-aging models. The sequence and the endpoints are different. The [Epithalon page](/catalog/epithalon/) is the relevant listing.
+**Epithalon.** A tetrapeptide (Ala–Glu–Asp–Gly) from the same research tradition, studied mainly in telomerase and cell-aging models. The sequence and the endpoints are different. Epithalon is a separate listing.
 
 **Vesugen and Cardiogen.** Other tissue-series bioregulators in the catalogue, with their own sequences and their own small literatures. They are not variants of Pancragen; they are separate products that share a naming convention. The [bioregulator section](/peptide-categories-mechanisms/) of the category guide explains the series structure.
 
@@ -120,7 +120,7 @@ Compare the observed mass with the calculated mass for the amidated sequence and
 
 **Is the product sterile?**
 
-No. Lyophilized research peptides are not sterile by default. If sterile material is required, filter the reconstituted solution through a 0.22 µm membrane and verify that the peptide does not adsorb to the filter. The [sterility guide](/blog/sterility-testing-for-research-peptides-a-protocol-guide/) covers the options.
+No. Lyophilized research peptides are not sterile by default. If sterile material is required, filter the reconstituted solution through a 0.22 µm membrane and verify that the peptide does not adsorb to the filter. Ask for the sterility method and result on the lot certificate.
 
 **Can Pancragen be used in cell culture?**
 
@@ -132,7 +132,7 @@ The published studies used pancreatic cell cultures and animal models. For a new
 
 **Reasoning.** The published pancreatic data belong to a specific molecule. If the vial contains the proline version, the differentiation-marker results and the glucose-handling results do not describe the material in the vial. The UV chromophore gives a quick, cheap way to tell which sequence was made, and a supplier who cannot pass that test has a documentation problem that will not stop at the sequence. In a category where names are reused across vendors, the certificate is the product.
 
-**Disclosure.** Peptides of China sells Pancragen and Prostamax. This is a sourcing opinion based on the documents we review across incoming batches, not medical advice. The product is for laboratory research only; nothing here is a recommendation for human use.
+**Disclosure.** Peptides of China sells Pancragen and Prostamax. This is a procurement judgment from our batch reviews, not medical advice; the product is sold for laboratory research only and is not intended for human use.
 
 ## Sources
 

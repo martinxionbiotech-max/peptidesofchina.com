@@ -4,173 +4,147 @@ name: "GHRP-6"
 slug: "ghrp-6"
 price: 36.0
 status: "In Stock"
-description: "Hexapeptide growth hormone secretagogue and ghrelin receptor agonist. Studied for its role in GH release mechanisms and ghrelin pathway activity in research models."
+description: "GHRP-6 hexapeptide ghrelin receptor agonist for preclinical GH-axis and appetite-signalling research, lyophilized at ≥98% HPLC."
 image: "/images/products/ghrp-6-bottle.webp"
-
 ---
-GHRP-6 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Synthetic hexapeptide (growth hormone secretagogue) Synonyms Growth Hormone Releasing Hexapeptide, GHRP 6, SK&F-110679 Sequence His-D-Trp-Ala-Trp-D-Phe-Lys-NH₂ Amino Acids 6 Molecular Formula C₄₆H₅₆N₁₂O₆ Molecular Weight 873.0 Da CAS Number 87616-84-0 PubChem CID 5486806 Receptor Target GHS-R1a (ghrelin receptor / growth hormone secretagogue receptor) 
+GHRP-6 is a six-residue peptide — His-D-Trp-Ala-Trp-D-Phe-Lys-NH₂ — with a mass of 873.0 Da and a CAS number of 87616-84-0. It is the founding member of the growth hormone-releasing peptide series, and it remains one of the most widely used GHS-R1a agonists in preclinical work.
 
-## Research Areas
+It is also one of the most frequently mischaracterised. GHRP-6 is not simply "GHRP-2 with a different name"; the two differ by a single residue, 55 Da, and a meaningful difference in ghrelin-like activity. It is not ghrelin either, despite acting on the same receptor. And it is not a stable molecule in the way a lyophilised powder suggests: two tryptophan residues make it sensitive to oxidation, and the oxidation products are easy to miss on a routine certificate.
 
-GH axis pharmacology, ghrelin receptor agonism, appetite signaling, pituitary function Form Lyophilized powder Storage −20°C long-term; 2-8°C aqueous (use within 2 weeks) 
+This page covers the pharmacology, the analytical panel, and the handling decisions that keep a GHRP-6 experiment reproducible.
 
-## Available Variants
+## Why This Compound
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| GHRP-6 | 5 mg | 10 vials | ≥98% | In Stock |
-| GHRP-6 | 10 mg | 10 vials | ≥98% | Out of Stock |
+The growth hormone secretagogue receptor, GHS-R1a, was identified in 1996 as the target of a family of synthetic peptides that released growth hormone from pituitary cells. The endogenous ligand, ghrelin, was discovered three years later. GHRP-6 predates both: it was developed by Bowers and colleagues in the 1980s as part of a structure–activity programme on enkephalin-derived peptides, and it became the reference compound against which later secretagogues were measured.
 
-## Specification Highlights
+The receptor couples through Gq/11. Agonist binding activates phospholipase C, generates inositol trisphosphate, and releases calcium from intracellular stores. In anterior pituitary somatotrophs, the calcium rise triggers growth hormone exocytosis. In hypothalamic neurons, GHS-R1a activation engages the NPY/AgRP pathway, which is one of the reasons GHRP-6 stimulates food intake in preclinical models.
 
-Category: Muscle & Performance, Hormonal Regulation Total variants: 2 In-stock variants: 1 of 2 Purity: ≥98% Standard pack size: 10 vials 
+That dual pharmacology is the compound's defining feature. GHRP-2 was developed partly to reduce the appetite effect while preserving the pituitary effect. GHRP-6 retains both, which makes it the more useful tool when the research question is about the intersection of ghrelin signalling and energy balance. It is the less useful tool when appetite is a confound.
 
-## Quality & Testing
+The peptide sequence contains D-tryptophan at position two and D-phenylalanine at position five. The D-residues resist peptidase cleavage, and the C-terminal amide removes the terminal charge. The two tryptophans — one D, one L — are the analytical weak point. Tryptophan oxidises to hydroxytryptophan and related products, and a peptide with two tryptophans has more oxidation states than a peptide with one.
 
-Testing method: HPLC / LC-MS (["LC-MS","HPLC","Water Content"]) . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Available documentation: . 
-
-**Where provided, these documents reflect the manufacturer's batch testing for this compound. 
-
-## Research Areas
-
-GH Secretagogue and Pituitary Research GHRP-6 is a reference compound in GH axis research, reliably stimulating pulsatile GH release in rodent models via GHS-R1a in anterior pituitary somatotrophs. Studies have examined GH pulse amplitude, duration, and frequency following GHRP-6 administration, as well as synergistic interactions with GHRH analogues (such as CJC-1295). It is commonly used as a pharmacological tool to distinguish GHS-R1a-mediated GH release from GHRH-receptor-mediated mechanisms. Ghrelin Receptor Pharmacology As a high-potency GHS-R1a agonist, GHRP-6 is used to study ghrelin receptor biology including signal transduction, receptor desensitization, and downstream Gq/11 and β-arrestin pathway engagement. Its structural characteristics — particularly D-amino acid substitutions — make it a useful probe for identifying receptor binding requirements and designing improved GHS-R1a ligands. Orexigenic Signaling Research GHRP-6 produces measurable appetite-stimulating effects in preclinical models, mimicking one of ghrelin's primary biological roles. Research has examined hypothalamic NPY/AgRP pathway activation following GHS-R1a engagement, providing a pharmacological tool for studying the intersection of GH secretion and energy intake regulation — two functions co-regulated by the endogenous ghrelin system. ## Sourcing GHRP-6 From China
-
-GHRP-6 is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
-
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, GHRP-6 is supplied for
-  laboratory research use only, under strict research-use terms.
-
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
-
-## Frequently Asked Questions
-
-What is the difference between GHRP-6 and GHRP-2?**
-
-Both are GHS-R1a agonists but with different potency and side-effect profiles in research models. GHRP-2 generally produces greater GH release amplitude with less appetite stimulation (ghrelin mimicry). GHRP-6 has stronger orexigenic effects due to higher ghrelin receptor efficacy. GHRP-2 is often considered second-generation relative to GHRP-6. 
-
-**Is GHRP-6 typically studied alone or in combination with CJC-1295?**
-
-Both approaches are used in research. GHRP-6 alone is a standard GHS-R1a pharmacology tool. In combination with GHRH analogues like CJC-1295 (with or without DAC), synergistic GH pulse amplification has been documented in rodent studies — making the combination a widely used protocol in GH secretagogue research. 
-
-**What purity is your GHRP-6?**
-
-GHRP-6 is synthesized to 99%+ purity, verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
-
-**What are the storage requirements?**
-
-Lyophilized GHRP-6 should be stored at −20°C. Aqueous solutions should be kept at 2-8°C and used within 2 weeks. 
-
-## Related Products
-
-GHRP-2 For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. class, and every listing carries the manufacturer's own specification rather than a reseller's claim. Buyers sourcing **chinese peptides** in this category typically evaluate GHRP-6 across GH axis pharmacology, ghrelin receptor agonism, appetite signaling, pituitary function Form Lyophilized powder Storage −20°C long-term; 2-8°C aqueous (use within 2 weeks) 
-
-## Available Variants
-
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| GHRP-6 | 5 mg | 10 vials | ≥98% | In Stock |
-| GHRP-6 | 10 mg | 10 vials | ≥98% | Out of Stock |
-
-## Specification Highlights
-
-Category: Muscle & Performance, Hormonal Regulation Total variants: 2 In-stock variants: 1 of 2 Purity: ≥98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS (["LC-MS","HPLC","Water Content"]) . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Available documentation: . 
-
-**Where provided, these documents reflect the manufacturer's batch testing for this compound. 
-
-## Research Areas
-
-GH Secretagogue and Pituitary Research GHRP-6 is a reference compound in GH axis research, reliably stimulating pulsatile GH release in rodent models via GHS-R1a in anterior pituitary somatotrophs. Studies have examined GH pulse amplitude, duration, and frequency following GHRP-6 administration, as well as synergistic interactions with GHRH analogues (such as CJC-1295). It is commonly used as a pharmacological tool to distinguish GHS-R1a-mediated GH release from GHRH-receptor-mediated mechanisms. Ghrelin Receptor Pharmacology As a high-potency GHS-R1a agonist, GHRP-6 is used to study ghrelin receptor biology including signal transduction, receptor desensitization, and downstream Gq/11 and β-arrestin pathway engagement. Its structural characteristics — particularly D-amino acid substitutions — make it a useful probe for identifying receptor binding requirements and designing improved GHS-R1a ligands. Orexigenic Signaling Research GHRP-6 produces measurable appetite-stimulating effects in preclinical models, mimicking one of ghrelin's primary biological roles. Research has examined hypothalamic NPY/AgRP pathway activation following GHS-R1a engagement, providing a pharmacological tool for studying the intersection of GH secretion and energy intake regulation — two functions co-regulated by the endogenous ghrelin system. 
-
-## Frequently Asked Questions
-
-What is the difference between GHRP-6 and GHRP-2?**
-
-Both are GHS-R1a agonists but with different potency and side-effect profiles in research models. GHRP-2 generally produces greater GH release amplitude with less appetite stimulation (ghrelin mimicry). GHRP-6 has stronger orexigenic effects due to higher ghrelin receptor efficacy. GHRP-2 is often considered second-generation relative to GHRP-6. 
-
-**Is GHRP-6 typically studied alone or in combination with CJC-1295?**
-
-Both approaches are used in research. GHRP-6 alone is a standard GHS-R1a pharmacology tool. In combination with GHRH analogues like CJC-1295 (with or without DAC), synergistic GH pulse amplification has been documented in rodent studies — making the combination a widely used protocol in GH secretagogue research. 
-
-**What purity is your GHRP-6?**
-
-GHRP-6 is synthesized to 99%+ purity, verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
-
-**What are the storage requirements?**
-
-Lyophilized GHRP-6 should be stored at −20°C. Aqueous solutions should be kept at 2-8°C and used within 2 weeks. 
-
-## Related Products
-
-GHRP-2 For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, GHRP-6 is supplied for laboratory research use only.
-
-
-Buy GHRP-6 | Research Grade | Peptides of China GHRP-6 Buy GHRP-6 — Research Grade Peptide GHRP-6 is a muscle & performance research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+The catalogue files GHRP-6 under Muscle & Performance and Hormonal Regulation. Those are navigation categories. The documented research activity is receptor agonism and downstream signalling in preclinical systems.
 
 ## Compound Profile
 
-GHRP-6 (Growth Hormone Releasing Hexapeptide-6) is a synthetic hexapeptide and one of the first-generation growth hormone secretagogues, developed to stimulate pituitary GH release via ghrelin receptor (GHS-R1a) agonism. Its sequence — His-D-Trp-Ala-Trp-D-Phe-Lys-NH₂ — incorporates D-amino acids at positions 2 and 5 to confer resistance to proteolytic degradation, a common feature of synthetic peptide tool compounds. GHRP-6 is widely used in preclinical research as a reference GHS-R1a agonist for establishing receptor pharmacology baselines. Mechanistically, GHRP-6 acts at the ghrelin receptor (GHS-R1a) to stimulate GH release from anterior pituitary somatotrophs in a pulse-like pattern. Research has examined its effects on GH secretion amplitude, IGF-1 downstream signaling, and interactions with endogenous GHRH (growth hormone-releasing hormone). A notable characteristic of GHRP-6 compared to later GHRPs is its relatively strong ghrelin mimicry — producing appetite stimulation in addition to GH secretion, which has made it a research tool for studying orexigenic signaling alongside GH axis pharmacology. Peptides of China supplies GHRP-6 as a lyophilized powder in sealed vials at 99%+ purity, verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. All products are intended for laboratory research use only and are not for human consumption. 
+Chemical Class: Synthetic hexapeptide (growth hormone secretagogue); Synonyms: Growth Hormone Releasing Hexapeptide, GHRP 6, SK&F-110679; Sequence: His-D-Trp-Ala-Trp-D-Phe-Lys-NH₂; Amino Acids: 6; Molecular Formula: C₄₆H₅₆N₁₂O₆; Molecular Weight: 873.0 Da; CAS Number: 87616-84-0; PubChem CID: 5486806; Receptor Target: GHS-R1a (ghrelin receptor / growth hormone secretagogue receptor); Form: Lyophilized powder; Storage: −20°C long-term; 2–8°C aqueous (use within 2 weeks)
 
-## Profile
+The formula and mass refer to the free peptide. The catalogue material is a salt, and the certificate should name it. Acetate and trifluoroacetate are the usual forms, and the difference matters for fill weight and for cell-based assays.
 
-Chemical Class Synthetic hexapeptide (growth hormone secretagogue) Synonyms Growth Hormone Releasing Hexapeptide, GHRP 6, SK&F-110679 Sequence His-D-Trp-Ala-Trp-D-Phe-Lys-NH₂ Amino Acids 6 Molecular Formula C₄₆H₅₆N₁₂O₆ Molecular Weight 873.0 Da CAS Number 87616-84-0 PubChem CID 5486806 Receptor Target GHS-R1a (ghrelin receptor / growth hormone secretagogue receptor) 
+The sequence has a histidine at the N-terminus. Histidine is a metal-binding residue, and it also contributes to the peptide's behaviour in solution: the imidazole can be protonated near neutral pH, which affects solubility and retention on reversed-phase columns. A method developed for a neutral peptide may not transfer cleanly.
 
-## Research Areas
+## What the Batch Record Should Show
 
-GH axis pharmacology, ghrelin receptor agonism, appetite signaling, pituitary function Form Lyophilized powder Storage −20°C long-term; 2-8°C aqueous (use within 2 weeks) 
+GHRP-6 is an old compound with a mature synthesis route, so the certificate should be routine. The failures are usually in the details that the routine method skips.
 
-## Available Variants
+**Identity by mass and sequence.** The singly protonated ion appears near m/z 874, and the doubly charged ion near m/z 437. A deconvoluted mass should agree with 873.0 Da. Tandem MS can confirm the order of residues; the D-configuration is inferred from the synthesis route rather than measured directly. The [molecular-weight verification note](/blog/peptide-molecular-weight-verification-steps/) explains the charge-state arithmetic.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| GHRP-6 | 5 mg | 10 vials | ≥98% | In Stock |
-| GHRP-6 | 10 mg | 10 vials | ≥98% | Out of Stock |
+**Oxidation products.** With two tryptophans, the relevant impurities are mono-oxidised (+16 Da) and di-oxidised (+32 Da) species. A certificate that reports 98% purity without addressing them may be integrating them into the main peak or excluding them from the integration window. Ask for the chromatogram and the integration parameters. The [CoA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) shows where those details appear.
 
-## Specification Highlights
+**Resolution from GHRP-2.** The two peptides differ by 55 Da and by the identity of the position-two side chain. A generic gradient may not resolve them, and a co-eluting GHRP-2 impurity would be invisible in a single-wavelength run. The method should be described well enough to judge the resolution.
 
-Category: Muscle & Performance, Hormonal Regulation Total variants: 2 In-stock variants: 1 of 2 Purity: ≥98% Standard pack size: 10 vials 
+**Counterion and residual TFA.** Ask which salt form was manufactured and whether residual trifluoroacetate was measured. The [counterion note](/blog/role-of-counterions-in-peptide-stability/) explains why acetate and TFA salts of the same sequence can behave differently in an assay.
 
-## Quality & Testing
+**Water content and peptide content.** GHRP-6 is hygroscopic. Karl Fischer titration and nitrogen or amino acid analysis convert the fill weight into a molar amount. A 10 mg vial that contains 8 mg of peptide is a 20% error in every downstream calculation.
 
-Testing method: HPLC / LC-MS (["LC-MS","HPLC","Water Content"]) . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Available documentation: . 
+**Endotoxin and bioburden.** For primary pituitary cells or any cell-based assay, endotoxin is a relevant specification. A chemical-purity certificate does not cover it.
 
-**Where provided, these documents reflect the manufacturer's batch testing for this compound. 
+**Appearance and batch linkage.** White to off-white cake, no shrinkage or discoloration, batch number matching the label, and a retest date.
 
-## Research Areas
+## Sourcing & Verification
 
-GH Secretagogue and Pituitary Research GHRP-6 is a reference compound in GH axis research, reliably stimulating pulsatile GH release in rodent models via GHS-R1a in anterior pituitary somatotrophs. Studies have examined GH pulse amplitude, duration, and frequency following GHRP-6 administration, as well as synergistic interactions with GHRH analogues (such as CJC-1295). It is commonly used as a pharmacological tool to distinguish GHS-R1a-mediated GH release from GHRH-receptor-mediated mechanisms. Ghrelin Receptor Pharmacology As a high-potency GHS-R1a agonist, GHRP-6 is used to study ghrelin receptor biology including signal transduction, receptor desensitization, and downstream Gq/11 and β-arrestin pathway engagement. Its structural characteristics — particularly D-amino acid substitutions — make it a useful probe for identifying receptor binding requirements and designing improved GHS-R1a ligands. Orexigenic Signaling Research GHRP-6 produces measurable appetite-stimulating effects in preclinical models, mimicking one of ghrelin's primary biological roles. Research has examined hypothalamic NPY/AgRP pathway activation following GHS-R1a engagement, providing a pharmacological tool for studying the intersection of GH secretion and energy intake regulation — two functions co-regulated by the endogenous ghrelin system. 
+GHRP-6 is inexpensive and widely listed, which is both an advantage and a risk. The advantage is that competition keeps prices low. The risk is that the market contains a lot of product made to a price rather than to a specification.
 
-## Frequently Asked Questions
+- Is the complete sequence printed, with the D-residues and the amidated C-terminus spelled out?
+- Is the counterion named, and is residual TFA reported?
+- Are mono- and di-oxidised species addressed in the purity method?
+- Is the chromatogram shown, with the gradient and integration parameters?
+- Is there evidence that the method resolves GHRP-6 from GHRP-2?
+- Is peptide content reported in mg per vial?
+- Is endotoxin reported for cell-based work?
+- Is the certificate tied to the vial lot, and does it give a retest date?
+- Which factory made the batch, and by what purification route?
+- Does the listing distinguish GHRP-6 from hexarelin, GHRP-2, and ghrelin?
 
-What is the difference between GHRP-6 and GHRP-2?**
+The naming question matters more than it looks. "GHRP" is a family name, not a molecule. GHRP-6, GHRP-2, hexarelin, and ipamorelin are different peptides with different sequences and different receptor profiles. A listing that says "GHRP" without a number is not a specification.
 
-Both are GHS-R1a agonists but with different potency and side-effect profiles in research models. GHRP-2 generally produces greater GH release amplitude with less appetite stimulation (ghrelin mimicry). GHRP-6 has stronger orexigenic effects due to higher ghrelin receptor efficacy. GHRP-2 is often considered second-generation relative to GHRP-6. 
+Regulatory treatment of growth hormone secretagogues varies by jurisdiction, and some countries restrict them regardless of the research-use label. Supply is for laboratory research; we cannot advise on local law. The [compliance and sourcing risk](/peptide-compliance-risk/) section covers the general framework, and the [sourcing guide](/china-peptide-sourcing/) explains how we qualify manufacturers.
 
-**Is GHRP-6 typically studied alone or in combination with CJC-1295?**
+## Handling & Storage
 
-Both approaches are used in research. GHRP-6 alone is a standard GHS-R1a pharmacology tool. In combination with GHRH analogues like CJC-1295 (with or without DAC), synergistic GH pulse amplification has been documented in rodent studies — making the combination a widely used protocol in GH secretagogue research. 
+Store lyophilized GHRP-6 at −20°C, protected from light and moisture. Equilibrate to room temperature before opening to avoid condensation.
 
-**What purity is your GHRP-6?**
+Reconstitute in sterile water or assay buffer. The peptide dissolves readily; a small amount of dilute acetic acid can help if dissolution is slow. Add solvent down the wall and swirl; avoid vortexing, which creates foam and promotes oxidation at the interface.
 
-GHRP-6 is synthesized to 99%+ purity, verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
+Tryptophan makes this peptide light-sensitive and oxygen-sensitive. Keep solutions protected from light, minimise headspace, and prepare working dilutions shortly before use. If the assay is sensitive to oxidation, include a freshly prepared control and compare it with the batch under test; a difference between the two is a signal that the stock has aged.
 
-**What are the storage requirements?**
+Use low-binding tubes. GHRP-6 adsorbs to polystyrene and to some filter membranes, and the loss is proportionally larger at low concentration. Check recovery if you filter.
 
-Lyophilized GHRP-6 should be stored at −20°C. Aqueous solutions should be kept at 2-8°C and used within 2 weeks. 
+Aliquot before freezing. Aqueous stocks at 2–8°C are short-term working solutions; repeated freeze-thaw cycles promote aggregation and oxidation. Freeze single-use portions at −80°C and do not refreeze.
+
+These notes cover laboratory handling. The peptide is sold for research use and is not intended for administration to humans or animals. Wider bench practice is collected in the [handling hub](/peptide-handling-protocols/); lyophilisation is covered in the [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/).
+
+## How It Compares
+
+**GHRP-2.** The second-generation analogue. GHRP-2 replaces D-tryptophan at position two with D-2-naphthylalanine, which increases receptor potency and reduces the ghrelin-like appetite effect in preclinical models. GHRP-6 is the better tool when the appetite pathway is part of the question; GHRP-2 is the better tool when it is a confound. See the [GHRP-2 listing](/catalog/ghrp-2/).
+
+**Hexarelin.** Another hexapeptide secretagogue with a different substitution pattern and a broader receptor profile. It is more potent in some assays and less selective in others. The two are not interchangeable without re-deriving the concentration–response curve.
+
+**Ipamorelin.** A GHS-R1a agonist with a different scaffold and a reputation for greater selectivity for growth hormone release relative to other pituitary hormones in preclinical models. It is a useful comparator when the question is about receptor selectivity across the secretagogue class.
+
+**Ghrelin.** The endogenous ligand. Ghrelin carries an octanoyl group on serine 3, and that modification is required for receptor activation. GHRP-6 mimics some of ghrelin's effects but is not ghrelin, and a study that uses one cannot be assumed to generalise to the other.
 
 ## Related Products
 
-GHRP-2 For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+- GHRP-2
+
+## Frequently Asked Questions
+
+**Is GHRP-6 the same as ghrelin?**
+
+No. Both activate GHS-R1a, but ghrelin is the endogenous 28-residue hormone with an octanoylated serine, and GHRP-6 is a synthetic hexapeptide. They differ in sequence, mass, pharmacokinetics, and the range of receptors they engage.
+
+**What is the difference between GHRP-6 and GHRP-2?**
+
+GHRP-6 has D-tryptophan at position two; GHRP-2 has D-2-naphthylalanine. The substitution increases receptor potency and reduces the ghrelin-like appetite effect in preclinical models. The masses differ by about 55 Da.
+
+**Why does the certificate need to address oxidation?**
+
+Because GHRP-6 contains two tryptophan residues, both of which can oxidise. Mono- and di-oxidised species change the mass and the assay behaviour, and a purity number that ignores them is incomplete.
+
+**What should the purity result include?**
+
+A ≥98% figure by HPLC, plus a chromatogram showing resolution from GHRP-2 and an integration that accounts for mono- and di-oxidised species. The percentage without those details is the least useful part of the certificate.
+
+**How is it supplied?**
+
+As a lyophilized powder in sealed vials. The 5 mg format is currently in stock; the 10 mg format is listed as out of stock. Packs contain ten vials.
+
+**What are the storage conditions?**
+
+Keep the lyophilised powder at −20°C, dry and dark. Reconstituted working solutions are short-lived at 2–8°C; freeze single-use aliquots at −80°C for longer gaps and do not refreeze.
+
+**Is it suitable for cell-culture work?**
+
+For cell-culture experiments, the lot has to clear endotoxin, sterility, counterion, and assay compatibility before it is useful. Request the full certificate before committing to a design.
+
+**Is the research-use label sufficient for import?**
+
+No. Some countries restrict growth hormone secretagogues irrespective of labelling, and the importer carries the responsibility for checking.
+
+## The Author's Take
+
+**Position.** I would rather buy GHRP-6 from a supplier who shows an oxidation profile than from one who quotes a higher purity number with no chromatogram.
+
+**Reasoning.** The compound is old, cheap, and easy to list, which means the market rewards appearance over evidence. The most likely real-world failure is not a wrong sequence; it is a batch that has oxidised during storage or purification and still passes a 98% area-normalisation check because the integration window excludes the shoulders. Two tryptophans make that failure more likely than it is for GHRP-2, and the biological consequence — a lower effective concentration of the reduced peptide — is invisible in the label. A supplier who reports the oxidised species is telling you that the method was designed for this molecule. A supplier who does not is telling you that the method was designed for a generic peptide.
+
+**Disclosure.** Peptides of China sells GHRP-6 and the related listings above. This is a batch-document judgment, not clinical advice. Laboratory research only.
+
+## Sources
+
+- Bowers CY, Sartor AO, Reynolds GA, Badger TM. On the actions of the growth hormone-releasing hexapeptide, GHRP. *Endocrinology*. 1991;128:2027–2035. https://pubmed.ncbi.nlm.nih.gov/2004615/
+- Bowers CY. Growth hormone-releasing peptide (GHRP). *Cellular and Molecular Life Sciences*. 1998;54:1316–1329. https://pubmed.ncbi.nlm.nih.gov/9893708/
+- Howard AD, Feighner SD, Cully DF, Arena JP, et al. A receptor in pituitary and hypothalamus that functions in growth hormone release. *Science*. 1996;273:974–977. https://pubmed.ncbi.nlm.nih.gov/8688086/
+- Ghigo E, Arvat E, Muccioli G, Camanni F. Growth hormone-releasing peptides. *European Journal of Endocrinology*. 1997;136:445–460. https://pubmed.ncbi.nlm.nih.gov/9186261/
+- Abizaid A, Hougland JL. Ghrelin signaling: GOAT and GHS-R1a take a LEAP in complexity. *Trends in Endocrinology and Metabolism*. 2020;31:107–117. https://pubmed.ncbi.nlm.nih.gov/31636018/
+- Smith RG, Sun Y, Jiang H, Albarran-Zeckler R, et al. Ghrelin receptor (GHS-R1A) agonists show potential as interventive agents during aging. *Annals of the New York Academy of Sciences*. 2007;1119:147–164. https://pubmed.ncbi.nlm.nih.gov/18056963/

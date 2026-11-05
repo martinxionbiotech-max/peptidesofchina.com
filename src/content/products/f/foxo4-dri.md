@@ -29,7 +29,7 @@ Chemical Class: D-retro-inverso peptidomimetic (DRI peptide); Synonyms: FOXO4-DR
 
 The sequence field is the one to press on. "Available on request" is a reasonable commercial position for a proprietary peptidomimetic, but it is not a specification. Without the sequence, a buyer cannot calculate the expected mass independently, cannot check that the batch corresponds to the published molecule, and cannot design a confirmatory assay. The certificate should at minimum give the residue count, the direction of the backbone, and the measured mass.
 
-The approximate mass of 2,448 Da is consistent with an 18-residue D-retro-inverso peptide, but "approximate" is doing work in that sentence. A single substitution or a missing residue changes the mass by tens of daltons, which is well within the resolving power of a modern mass spectrometer but not within the resolving power of a catalogue entry.
+The approximate mass of 2,448 Da is consistent with an 18-residue D-retro-inverso peptide, but "approximate" is doing work in that sentence. A single substitution or a missing residue changes the mass by roughly a hundred daltons, which is well within the resolving power of a modern mass spectrometer but not within the resolving power of a catalogue entry.
 
 ## What the Batch Record Should Show
 
@@ -60,7 +60,7 @@ FOXO4-DRI is expensive, which changes the risk profile. A high price per milligr
 - Was stereochemistry addressed at all, or only the backbone sequence?
 - Is purity reported with a method that can resolve diastereomers?
 - Is the counterion named and residual TFA reported?
-- Is peptide content given in mg per vial, and by which method?
+- Is the peptide content stated in mg per vial, and what method produced it?
 - Is endotoxin reported for cell-based work?
 - Does the batch number match the label, and is there a retest date?
 - Can the supplier name the synthesis site and describe the purification route?
@@ -68,7 +68,7 @@ FOXO4-DRI is expensive, which changes the risk profile. A high price per milligr
 
 That last point matters because "DRI" is a technology label, not a single molecule. Different DRI peptides target different protein interfaces, and a supplier who sells "DRI peptide" without a sequence is selling a category. The published FOXO4-DRI work used a specific sequence; a batch that differs by even a few residues may not reproduce the reported biology.
 
-Regulatory treatment of senolytic research peptides is generally lighter than for hormones, but import rules vary and some jurisdictions scrutinise injectable-grade materials regardless of the research label. We supply for laboratory research only and do not provide legal advice. The [compliance and sourcing risk](/peptide-compliance-risk/) page sets out the general framework.
+Regulatory treatment of senolytic research peptides is generally lighter than for hormones, but import rules vary and some jurisdictions scrutinise sterile materials regardless of the research label. Supply is for laboratory research; local law is the buyer's responsibility. The [compliance and sourcing risk](/peptide-compliance-risk/) page sets out the general framework.
 
 ## Handling & Storage
 
@@ -82,7 +82,7 @@ Aliquot before freezing. Aqueous stocks at 2–8°C are short-term working solut
 
 For cell-based work, prepare the dilution immediately before treatment and include a vehicle control at the same final solvent concentration. DRI peptides can be taken up by cells, but the extent depends on concentration, time, and the cell type; a "cell-penetrating" label is not a guarantee for every system.
 
-All handling described here is bench-scale laboratory procedure. The product is supplied for research use only and is not intended for administration to humans or animals. The [handling and protocols hub](/peptide-handling-protocols/) covers the wider workflow, and the [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) explains the lyophilisation step.
+All of the above is bench-scale work. The peptide is sold for laboratory research and is not intended for administration to humans or animals. Practical bench detail sits in the [handling hub](/peptide-handling-protocols/); the [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) deals with the lyophilisation step.
 
 ## How It Compares
 
@@ -108,15 +108,15 @@ The catalogue lists the sequence as available on request. For a research buyer, 
 
 No. Tandem mass spectrometry can confirm the order of residues, but D- and L-residues are isobaric and fragment the same way. Establishing stereochemistry needs chiral amino acid analysis after hydrolysis or comparison with a characterised reference standard.
 
-**What purity is the catalog material?**
+**What purity should the batch meet?**
 
-The catalog specification is ≥98% by HPLC. For this peptide, the method details matter as much as the number, because diastereomers and deletion sequences can co-elute under a generic gradient.
+The catalog standard is ≥98% by HPLC. Ask how the method resolves diastereomers and deletion sequences; a high area percentage from a method that cannot separate them is not evidence of a clean batch.
 
-**How should it be stored?**
+**Where should the powder be kept?**
 
-Lyophilized powder at −20°C, protected from light and moisture. Reconstituted solutions at 2–8°C for short-term use, or aliquoted and frozen at −80°C for longer storage. Avoid repeated freeze-thaw cycles.
+At −20°C, dry and dark. Let the vial warm to room temperature before opening so that condensation does not form on the powder, then reseal it promptly after use.
 
-**Can it be used in cell culture?**
+**Can it be used with cultured cells?**
 
 It is supplied for laboratory research only. Suitability depends on endotoxin, sterility, solvent tolerance, and the cell model. Request the full certificate before planning a cell-based assay.
 
@@ -130,7 +130,7 @@ No. The category is a navigation label. The product is a research reagent, and t
 
 **Reasoning.** The compound's value depends entirely on a structural trick: D-amino acids in a reversed backbone, arranged to mimic a protein interface. If the stereochemistry is wrong, the molecule may still be a peptide, still run as a clean peak, and still have roughly the right mass — but it will not do the thing the literature describes. Standard peptide analytics are blind to that failure. A supplier who understands the molecule will talk about chiral analysis, diastereomer separation, and the limits of MS/MS. A supplier who does not will talk about purity. The gap between those two conversations is the gap between a reagent and a lookalike.
 
-**Disclosure.** Peptides of China sells FOXO4-DRI and the related products linked on this page. This is a sourcing judgment based on the batch documents we review, not medical advice. The compound is supplied for laboratory research only and is not for human or veterinary use.
+**Disclosure.** Peptides of China sells FOXO4-DRI and the related listings above. This is an editorial view of batch documentation, not medical advice of any kind. Research use only.
 
 ## Sources
 

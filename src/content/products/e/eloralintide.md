@@ -25,7 +25,7 @@ The compound sits in the incretin-adjacent part of the catalogue, next to the am
 
 ## Compound Profile
 
-Chemical Class: Investigational amylin receptor agonist peptide; Synonyms: Eloralintide, LY3841136; Receptor Target: amylin receptor (calcitonin receptor–RAMP complexes); Form: Lyophilized powder; Storage: −20°C long-term, protect from light and moisture; CAS Number: not publicly listed; Molecular Weight: sequence-dependent, confirm on the batch certificate
+Chemical Class: Investigational amylin receptor agonist peptide; Synonyms: Eloralintide, LY3841136; Receptor Target: Amylin receptor (calcitonin receptor–RAMP complexes); Form: Lyophilized powder; Storage: −20°C long-term, protect from light and moisture; CAS Number: available on request; Molecular Weight: n/a — sequence-dependent, confirm on the batch certificate
 
 No CAS number is printed here because none is publicly associated with the research code in the sources we could verify. A supplier who prints a CAS number without a matching sequence is inviting a false sense of identity. The same applies to molecular weight: for a long-acting analogue with a non-natural modification, the mass depends on the linker or conjugate, and the only useful number is the one measured on the batch.
 
@@ -80,7 +80,7 @@ Use low-binding tubes. Peptides of this size adsorb to polystyrene and to some f
 
 Aliquot before freezing. Aqueous stocks kept at 2–8°C are short-term working solutions; repeated freeze-thaw cycles encourage aggregation. Freeze single-use portions at −80°C and do not refreeze. Protect from light, particularly during prolonged bench work.
 
-All handling described here is bench-scale laboratory procedure. The product is supplied for research use only and is not intended for administration to humans or animals. The [handling and protocols hub](/peptide-handling-protocols/) covers the wider workflow, and the [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) explains the lyophilisation step.
+Everything above is bench procedure, not a clinical protocol. The material is sold for laboratory research, not for administration to humans or animals. The [handling hub](/peptide-handling-protocols/) collects the wider bench workflow; the [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers the lyophilisation step.
 
 ## How It Compares
 
@@ -132,7 +132,7 @@ No. Import rules for investigational metabolic peptides vary by country, and the
 
 **Reasoning.** Most peptides in a catalogue have a public sequence, a CAS number, and decades of analytical literature. Eloralintide has a development code, a small number of sponsor-led papers, and a modification that determines its behaviour. That combination makes the usual shortcuts unreliable. A purity percentage measured on an uncharacterised analogue tells you that the main peak is large; it does not tell you that the main peak is the right molecule, that the half-life extension is intact, or that the counterion is what the label claims. The first question I would ask is not "what is the purity" but "what is the sequence and what is the measured mass". A supplier who can answer that has a process. A supplier who cannot is selling a code name.
 
-**Disclosure.** Peptides of China sells eloralintide and the related products linked on this page. This is a sourcing judgment based on the batch documents we review, not medical advice. The compound is supplied for laboratory research only and is not for human or veterinary use.
+**Disclosure.** Peptides of China sells eloralintide and the related listings above. This is a procurement view drawn from batch documents; it is not clinical guidance. Research use only.
 
 ## Sources
 

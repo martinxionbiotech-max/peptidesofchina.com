@@ -25,19 +25,21 @@ That is the reason this page spends more space on analytics than on biology. In 
 
 ## Compound Profile
 
-Chemical Class: Multi-component aqueous formulation (lipotropic blend); Synonyms: Fat Blaster, lipotropic complex, Lipo-C; Composition per mL: L-carnitine 300 mg, methionine 25 mg, inositol 50 mg, choline 50 mg, vitamin B12 1 mg, pyridoxine 50 mg, NADH 50 mg; Form: 10 mL vial, ten vials per pack; Storage: 2–8°C, protect from light; do not freeze
+Chemical Class: Multi-component aqueous formulation (lipotropic blend); Synonyms: Fat Blaster, lipotropic complex, Lipo-C; Form: Vial, 10 mL, ten vials per pack; Storage: 2-8°C, protect from light; do not freeze
+
+The label composition per mL is L-carnitine 300 mg, methionine 25 mg, inositol 50 mg, choline 50 mg, vitamin B12 1 mg, pyridoxine 50 mg, and NADH 50 mg.
 
 The composition is a label claim, not a measured value. A certificate for a blend should report each component separately, with the method used for each. If it reports only total solids or a single purity figure, it has not measured the formulation.
 
-The 10 mL fill is a multi-dose format in principle, but a multi-dose aqueous vial without a preservative is a microbial risk once opened. The certificate should state whether a preservative is present and what the bioburden specification is. For cell-culture work, a preservative can be more troublesome than the contamination it prevents.
+The 10 mL fill is a multi-use format in principle, but a multi-use aqueous vial without a preservative is a microbial risk once opened. The certificate should state whether a preservative is present and what the bioburden specification is. For cell-culture work, a preservative can be more troublesome than the contamination it prevents.
 
 ## What the Batch Record Should Show
 
-A blend certificate should be a panel, not a single line. The following items are the minimum for a formulation of this complexity.
+A blend certificate should be a panel, not a single line. The [quality-testing hub](/peptide-quality-testing/) explains why the usual single-analyte approach does not transfer to a mixture. The following items are the minimum for a formulation of this complexity.
 
 **Assay for each active.** Carnitine by LC-MS/MS or enzymatic assay; methionine by amino acid analysis or LC-MS; choline and inositol by LC-MS or, where unavailable, by refractive index or evaporative light scattering after separation; B12 by microbiological assay or LC-MS/MS; B6 by HPLC with fluorescence detection; NADH by HPLC at 340 nm. Each result should be expressed as mg/mL with an acceptance range, not as "present".
 
-**Identity confirmation, not just quantity.** A quantitative assay can be calibrated against a standard and still misidentify a peak if the chromatographic separation is poor. For a seven-component mixture, the certificate should show that each peak was identified — by retention time against a standard, by mass, or by both. The [HPLC versus LC-MS note](/blog/hplc-vs-lc-ms-peptides/) explains why a single-wavelength HPLC run is weak evidence in a mixture.
+**Identity confirmation, not just quantity.** A quantitative assay can be calibrated against a standard and still misidentify a peak if the chromatographic separation is poor. For a seven-component mixture, the certificate should show that each peak was identified — by retention time against a standard, by mass, or by both. The [HPLC versus LC-MS note](/blog/hplc-vs-lc-ms-peptides/) explains why a single-wavelength HPLC run is weak evidence in a mixture, and the [CoA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) shows which fields to check.
 
 **Degradation markers.** NADH oxidises to NAD⁺; the ratio is the stability indicator. B12 can photodegrade, particularly in the presence of riboflavin or ascorbate. B6 is light-sensitive. Choline can carry a trimethylamine odour if it degrades. The certificate should report the relevant degradants where methods exist, and the storage recommendation should follow from the data.
 
@@ -45,7 +47,7 @@ A blend certificate should be a panel, not a single line. The following items ar
 
 **Preservative and excipient list.** If the vial contains benzyl alcohol, phenol, or another preservative, it should be declared. These compounds are cytotoxic at concentrations used for preservation and can dominate a cell-culture result. The [excipient question](/blog/why-purity-and-concentration-tests-are-not-enough/) is not a detail in a blend.
 
-**Sterility and endotoxin.** A multi-dose aqueous vial should carry a sterility result and an endotoxin value. For a product that will be diluted into culture medium, endotoxin is the more relevant of the two, but both belong on the certificate.
+**Sterility and endotoxin.** A multi-use aqueous vial should carry a sterility result and an endotoxin value. For a product that will be diluted into culture medium, endotoxin is the more relevant of the two, but both belong on the certificate.
 
 **Appearance and particulate matter.** The solution should be clear to slightly yellow, depending on the B12 concentration, with no visible particles. B12 at 1 mg/mL gives a distinctly red colour; a pale or brownish solution suggests degradation or a lower concentration than claimed.
 
@@ -70,7 +72,7 @@ One more question is worth asking: whether the product is sterile-filtered or te
 
 The catalogue also lists a related product, [Lipo-C (Lipotropic Complex)](/catalog/lipo-c-lipotropic-complex/), with a different composition. Buyers sometimes treat the two as interchangeable. They are not: the strength of each component differs, and a study designed around one cannot be switched to the other without re-baselining the assay.
 
-Because this is a formulated product rather than a single research peptide, import treatment varies. Some jurisdictions classify injectable multivitamin preparations as medicines. We supply for laboratory research only and do not provide regulatory advice; the [compliance and sourcing risk](/peptide-compliance-risk/) section covers the general considerations.
+Because this is a formulated product rather than a single research peptide, import treatment varies. Some jurisdictions classify injectable multivitamin preparations as medicines. We supply for laboratory research only and do not provide regulatory advice; the [compliance and sourcing risk](/peptide-compliance-risk/) section covers the general considerations, and the [China sourcing guide](/china-peptide-sourcing/) describes how manufacturers are qualified.
 
 ## Handling & Storage
 
@@ -78,13 +80,13 @@ Store at 2–8°C, protected from light. Do not freeze: freezing an aqueous form
 
 Before opening, inspect the solution. A clear red solution is expected from the B12. Cloudiness, a brown tint, or visible particles are reasons to discard the vial rather than filter it and hope.
 
-Take the working volume with a clean needle and syringe, or pour into a secondary container if the protocol allows. Do not return unused material to the vial. A multi-dose vial that has been opened is no longer sterile, and repeated puncture increases the risk.
+Take the working volume with a pipette or a clean transfer device, or pour into a secondary container if the protocol allows. Do not return unused material to the vial. A multi-use vial that has been opened is no longer sterile, and repeated puncture increases the risk.
 
 For cell-based work, dilute the stock in the assay medium and check the final osmolality and pH. A concentrated formulation can shift both. If the assay is sensitive to B12 colour, run a vehicle control at the same dilution, because the red colour can absorb at wavelengths used for colorimetric readouts.
 
 NADH is the component most likely to degrade on the bench. Keep the vial capped, work quickly, and protect it from light. If the assay depends on NADH fluorescence or absorbance, prepare the dilution immediately before use rather than the day before.
 
-All handling described here is bench-scale laboratory procedure. The product is supplied for research use only and is not intended for administration to humans or animals. The [handling and protocols hub](/peptide-handling-protocols/) covers the general workflow.
+These are bench instructions for a formulated reagent. Sale is limited to laboratory research; the vial is not for human or animal use. The [handling and protocols hub](/peptide-handling-protocols/) covers the general workflow.
 
 ## How It Compares
 
@@ -130,13 +132,17 @@ It is supplied for laboratory research only. Suitability depends on endotoxin, p
 
 No. The two are related but not identical formulations. Compare the per-mL composition and the certificate, not the name.
 
+## Related Products
+
+- Lipo-C (Lipotropic Complex)
+
 ## The Author's Take
 
 **Position.** I would not accept a blend certificate that reports one purity number. For a seven-component vial, that number is a decoration.
 
 **Reasoning.** The appeal of a blend is convenience: one vial, one line on the purchase order, one less stock solution to prepare. The cost is analytical opacity. Each component has a different method, a different detection wavelength, and a different failure mode, and a supplier who has not built the panel cannot tell you which one is off-spec. The usual shortcut — measure total solids, report "≥98%" — is not wrong so much as irrelevant. It tells you the vial contains dissolved material. It does not tell you that the carnitine is 300 mg/mL, that the NADH has not oxidised, or that the B12 is still intact. A supplier who can show seven assays has done the work. A supplier who shows one has done the easy part.
 
-**Disclosure.** Peptides of China sells this formulation and the related products linked on this page. This is a sourcing judgment based on the batch documents we review, not medical advice. The product is supplied for laboratory research only and is not for human or veterinary use.
+**Disclosure.** Peptides of China sells this formulation and the related listings above. The view is a sourcing opinion based on batch documents, not medical guidance. Laboratory research only.
 
 ## Sources
 

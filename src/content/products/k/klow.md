@@ -4,135 +4,138 @@ name: "KLOW"
 slug: "klow"
 price: 293.0
 status: "In Stock"
-description: "Research blend of TB-500 (full 43aa sequence), BPC-157, KPV, and GHK-Cu. Studied in preclinical settings examining combined anti-inflammatory, mucosal, and tissue repair pathways."
+description: "KLOW research blend of TB-500, BPC-157, KPV and GHK-Cu. Per-component identity, copper content and batch verification for laboratories."
 image: "/images/products/klow80-stack-bottle.webp"
 
 ---
-KLOW is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Skin & Hair, Tissue Repair, Inflammatory Wound Models, GI Mucosal Vs. GLOW KLOW = GLOW + KPV (additional anti-inflammatory component) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) CAS Number N/A — combination product Molecular Weight N/A — see individual components Molecular Formula N/A — combination product Sequence N/A — combination product 
+KLOW is a four-component blend: TB-500, BPC-157, KPV and GHK-Cu in a single lyophilised vial. Each component has its own literature, its own analytical behaviour and its own failure modes. Putting them together is a convenience for the bench and a problem for the certificate. A blend can hide a shortfall in one component behind a normal total mass, and the only way to know what is in the vial is to assay each component separately.
 
-## Available Variants
+This page is about buying and handling that kind of product. It covers the research rationale for each component, the analytical package that makes a blend verifiable, the handling issue created by a copper-peptide complex, and the comparison with the three-component GLOW blend. The material is supplied for in vitro and preclinical research only. Nothing here is a claim about tissue repair, skin, or human use.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| KLOW | 80 mg | 10 vials | ≥98% | In Stock |
-| KLOW | 80 mg | 10 vials | — | In Stock |
+## Why This Compound
 
-## Specification Highlights
+The four components are grouped because their published research touches overlapping endpoints: extracellular matrix remodelling, cell migration, inflammation and mucosal repair. The overlap is real at the level of assay readouts, but it is not a shared mechanism, and a blend does not create a synergy that the individual studies demonstrate.
 
-Category: Healing & Repair, Blends Total variants: 2 In-stock variants: 2 of 2 Purity: ≥98% Standard pack size: 10 vials 
+TB-500 is the full 43-amino-acid thymosin beta-4 sequence. It is an actin-binding protein fragment that sequesters G-actin and regulates actin polymerisation, which is the basis for its study in cell migration and cytoskeletal dynamics. Sanders and colleagues showed that thymosin beta-4 is a potent regulator of actin polymerisation in living cells, and the peptide has since been used in migration and repair models. The catalogue description specifies the full sequence, which matters because truncated TB-500 fragments are also sold.
 
-## Quality & Testing
+BPC-157 is a 15-residue pentadecapeptide derived from a partial sequence of a gastric protein. Its literature is dominated by rodent models of gut, tendon and vascular injury, with proposed mechanisms involving nitric oxide, VEGFR-2 and growth-factor expression. The evidence is extensive but almost entirely preclinical, and the mechanistic picture is unresolved. The [BPC-157 page](/catalog/bpc-157/) covers the compound in detail.
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+KPV is a tripeptide, Lys-Pro-Val, corresponding to the C-terminal end of alpha-melanocyte-stimulating hormone. It has been studied as an anti-inflammatory peptide in intestinal models, with NF-κB inhibition as the proposed mechanism. Kannengiesser and colleagues reported activity in murine inflammatory bowel disease models. It is the smallest component in the blend and the one most likely to be present at a low mass fraction.
 
-## Research Areas
+GHK-Cu is a copper-binding tripeptide, Gly-His-Lys, complexed with copper(II). Pickart's work describes its effects on gene expression and tissue remodelling, including collagen synthesis and matrix metalloproteinase regulation. The copper is not a contaminant; it is part of the complex, and the copper content is a specification.
 
-Inflammatory Wound Healing Models Chronic wounds (diabetic ulcers, pressure injuries) and hypertrophic scarring are characterised by dysregulated inflammatory signalling — excessive and prolonged NF-κB-driven cytokine production that prevents transition from the inflammatory to the proliferative phase of repair. KPV's NF-κB suppression, characterised in macrophage (RAW264.7, THP-1) and intestinal epithelial (Caco-2, HT-29) cell line models, is the mechanistic target in these research designs. In KLOW combination studies, KPV's anti-inflammatory activity is assessed alongside BPC-157's angiogenic effect and GHK-Cu's collagen output using multiplexed endpoints — cytokine secretion (Luminex), wound closure (scratch assay), and ECM deposition (Sircol, Sirius Red staining). Intestinal Epithelial & Mucosal Research KPV is among the most studied α-MSH-derived tripeptides in GI research, with documented activity in TNBS-induced colitis, DSS colitis, and LPS-challenged intestinal epithelial models. KPV reduces IL-8, TNF-α, and IL-6 secretion from inflamed epithelial cells while preserving tight junction protein expression (ZO-1, occludin, claudin-1) in barrier integrity assays (TEER). In KLOW formulations studied in GI contexts, BPC-157's established gastroprotective and cytoprotective activity in the GI tract (ulcer, anastomosis, and fistula models) complements KPV's anti-inflammatory epithelial activity — providing both direct mucosal repair and inflammatory suppression simultaneously. Skin Inflammation & Dermatitis Models Inflammatory skin conditions (atopic dermatitis, psoriasis, rosacea) involve keratinocyte NF-κB activation, mast cell degranulation, and dysregulated cytokine networks alongside impaired barrier function. KPV's MC1R-independent anti-inflammatory activity in keratinocytes (at concentrations of 1–100 nM) is studied alongside GHK-Cu's barrier-restoring collagen and elastin stimulation in reconstructed human epidermis models and in vivo oxazolone-induced contact hypersensitivity models in mice. Histological endpoints (epidermal thickness, mast cell density, CD11b+ infiltrate) are complemented by cytokine profiling of dermal extracts. Multi-Pathway Combination Pharmacology A specific research application for KLOW is the study of combination pharmacology — whether four mechanistically distinct compounds produce additive or synergistic effects when applied simultaneously. Full factorial dose-response designs (varying each component independently and in combination) are used in multi-well plate formats to generate interaction surface data. Bliss independence and Loewe additivity models are applied to quantify whether combination effects exceed the predicted additive outcome. These studies inform whether fixed-ratio blends (as in KLOW) are pharmacologically advantageous over individual compound administration at equivalent total doses. ## Sourcing KLOW From China
-
-KLOW is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
-
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, KLOW is supplied for
-  laboratory research use only, under strict research-use terms.
-
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
-
-## Frequently Asked Questions
-
-**What is the difference between KLOW and GLOW?**
-
-GLOW contains TB-500, BPC-157, and GHK-Cu — targeting tissue repair via cell migration, angiogenesis, and ECM remodelling. KLOW adds KPV (Lys-Pro-Val), an α-MSH-derived anti-inflammatory tripeptide that suppresses NF-κB and reduces inflammatory cytokine production. KLOW is selected for research models where inflammation is a significant co-pathology: chronic wounds, inflammatory bowel disease, atopic dermatitis, or any repair model where excessive inflammation impairs the proliferative phase of healing. How is KPV's NF-κB suppression mechanism characterised in assays? NF-κB suppression by KPV is measured using: (1) NF-κB luciferase reporter assays in TNF-α or LPS-stimulated HEK293 or RAW264.7 cells; (2) nuclear p65 translocation by immunofluorescence or subcellular fractionation/Western blot; (3) downstream cytokine secretion (IL-6, TNF-α, IL-1β by ELISA or Luminex). These assays confirm that KPV at 1–100 nM produces significant NF-κB pathway suppression without cytotoxicity, and that it acts upstream of IκB kinase rather than directly at the NF-κB DNA binding site. 
-
-**Can all four components of KLOW be detected and quantified independently after reconstitution?**
-
-Yes. Each component has a distinct molecular weight and chromatographic retention time, allowing RP-HPLC analysis to resolve and quantify all four simultaneously in a single run. ESI-MS confirms identity of each component. If researchers need individual component concentrations post-reconstitution for assay calculations, analytical characterisation using reverse-phase HPLC with UV detection at 214 nm provides clear resolution of BPC-157, TB-500, KPV, and GHK-Cu peaks. 
-
-**Is KLOW available in wholesale formats?**
-
-Yes. KLOW is available through Peptides of China on a B2B wholesale basis. Contact us via the Request page for pricing, minimum order quantities, and volume tier information after account verification. Related Research Articles KLOW Peptide Blend: Components, Evidence Gaps, and QC For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. research category, and its specification is confirmed with the manufacturer before the order ships. Identity documentation includes its CAS registration (N/A — combination product Molecular Weight N/A — see individual components Molecular Formula N/A — combination product Sequence N/A — combination product 
-
-## Available Variants
-
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| KLOW | 80 mg | 10 vials | ≥98% | In Stock |
-| KLOW | 80 mg | 10 vials | — | In Stock |
-
-## Specification Highlights
-
-Category: Healing & Repair, Blends Total variants: 2 In-stock variants: 2 of 2 Purity: ≥98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Research Areas
-
-Inflammatory Wound Healing Models Chronic wounds (diabetic ulcers, pressure injuries) and hypertrophic scarring are characterised by dysregulated inflammatory signalling — excessive and prolonged NF-κB-driven cytokine production that prevents transition from the inflammatory to the proliferative phase of repair. KPV's NF-κB suppression, characterised in macrophage (RAW264.7, THP-1) and intestinal epithelial (Caco-2, HT-29) cell line models, is the mechanistic target in these research designs. In KLOW combination studies, KPV's anti-inflammatory activity is assessed alongside BPC-157's angiogenic effect and GHK-Cu's collagen output using multiplexed endpoints — cytokine secretion (Luminex), wound closure (scratch assay), and ECM deposition (Sircol, Sirius Red staining). Intestinal Epithelial & Mucosal Research KPV is among the most studied α-MSH-derived tripeptides in GI research, with documented activity in TNBS-induced colitis, DSS colitis, and LPS-challenged intestinal epithelial models. KPV reduces IL-8, TNF-α, and IL-6 secretion from inflamed epithelial cells while preserving tight junction protein expression (ZO-1, occludin, claudin-1) in barrier integrity assays (TEER). In KLOW formulations studied in GI contexts, BPC-157's established gastroprotective and cytoprotective activity in the GI tract (ulcer, anastomosis, and fistula models) complements KPV's anti-inflammatory epithelial activity — providing both direct mucosal repair and inflammatory suppression simultaneously. Skin Inflammation & Dermatitis Models Inflammatory skin conditions (atopic dermatitis, psoriasis, rosacea) involve keratinocyte NF-κB activation, mast cell degranulation, and dysregulated cytokine networks alongside impaired barrier function. KPV's MC1R-independent anti-inflammatory activity in keratinocytes (at concentrations of 1–100 nM) is studied alongside GHK-Cu's barrier-restoring collagen and elastin stimulation in reconstructed human epidermis models and in vivo oxazolone-induced contact hypersensitivity models in mice. Histological endpoints (epidermal thickness, mast cell density, CD11b+ infiltrate) are complemented by cytokine profiling of dermal extracts. Multi-Pathway Combination Pharmacology A specific research application for KLOW is the study of combination pharmacology — whether four mechanistically distinct compounds produce additive or synergistic effects when applied simultaneously. Full factorial dose-response designs (varying each component independently and in combination) are used in multi-well plate formats to generate interaction surface data. Bliss independence and Loewe additivity models are applied to quantify whether combination effects exceed the predicted additive outcome. These studies inform whether fixed-ratio blends (as in KLOW) are pharmacologically advantageous over individual compound administration at equivalent total doses. 
-
-## Frequently Asked Questions
-
-**What is the difference between KLOW and GLOW?**
-
-GLOW contains TB-500, BPC-157, and GHK-Cu — targeting tissue repair via cell migration, angiogenesis, and ECM remodelling. KLOW adds KPV (Lys-Pro-Val), an α-MSH-derived anti-inflammatory tripeptide that suppresses NF-κB and reduces inflammatory cytokine production. KLOW is selected for research models where inflammation is a significant co-pathology: chronic wounds, inflammatory bowel disease, atopic dermatitis, or any repair model where excessive inflammation impairs the proliferative phase of healing. How is KPV's NF-κB suppression mechanism characterised in assays? NF-κB suppression by KPV is measured using: (1) NF-κB luciferase reporter assays in TNF-α or LPS-stimulated HEK293 or RAW264.7 cells; (2) nuclear p65 translocation by immunofluorescence or subcellular fractionation/Western blot; (3) downstream cytokine secretion (IL-6, TNF-α, IL-1β by ELISA or Luminex). These assays confirm that KPV at 1–100 nM produces significant NF-κB pathway suppression without cytotoxicity, and that it acts upstream of IκB kinase rather than directly at the NF-κB DNA binding site. 
-
-**Can all four components of KLOW be detected and quantified independently after reconstitution?**
-
-Yes. Each component has a distinct molecular weight and chromatographic retention time, allowing RP-HPLC analysis to resolve and quantify all four simultaneously in a single run. ESI-MS confirms identity of each component. If researchers need individual component concentrations post-reconstitution for assay calculations, analytical characterisation using reverse-phase HPLC with UV detection at 214 nm provides clear resolution of BPC-157, TB-500, KPV, and GHK-Cu peaks. 
-
-**Is KLOW available in wholesale formats?**
-
-Yes. KLOW is available through Peptides of China on a B2B wholesale basis. Contact us via the Request page for pricing, minimum order quantities, and volume tier information after account verification. Related Research Articles KLOW Peptide Blend: Components, Evidence Gaps, and QC For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.), so buyers can verify the compound independently of the seller's description. Researchers sourcing **chinese peptides** in this field typically evaluate KLOW for inflammatory wound healing models chronic wounds (diabetic ulcers, pressure injuries) and hypertrophic scarring are characterised by dysregulated inflammatory signalling — excessive and prolonged nf-κb-driven cytokine production that prevents transition from the inflammatory to the proliferative phase of repair. kpv's nf-κb suppression, characterised in macrophage (raw264.7, thp-1) and intestinal epithelial (caco-2, ht-29) cell line models, is the mechanistic target in these research designs. in klow combination studies, kpv's anti-inflammatory activity is assessed alongside bpc-157's angiogenic effect and ghk-cu's collagen output using multiplexed endpoints — cytokine secretion (luminex), wound closure (scratch assay), and ecm deposition (sircol, sirius red staining). intestinal epithelial & mucosal research kpv is among the most studied α-msh-derived tripeptides in gi research, with documented activity in tnbs-induced colitis, dss colitis, and lps-challenged intestinal epithelial models. kpv reduces il-8, tnf-α, and il-6 secretion from inflamed epithelial cells while preserving tight junction protein expression (zo-1, occludin, claudin-1) in barrier integrity assays (teer). in klow formulations studied in gi contexts, bpc-157's established gastroprotective and cytoprotective activity in the gi tract (ulcer, anastomosis, and fistula models) complements kpv's anti-inflammatory epithelial activity — providing both direct mucosal repair and inflammatory suppression simultaneously. skin inflammation & dermatitis models inflammatory skin conditions (atopic dermatitis, psoriasis, rosacea) involve keratinocyte nf-κb activation, mast cell degranulation, and dysregulated cytokine networks alongside impaired barrier function. kpv's mc1r-independent anti-inflammatory activity in keratinocytes (at concentrations of 1–100 nm) is studied alongside ghk-cu's barrier-restoring collagen and elastin stimulation in reconstructed human epidermis models and in vivo oxazolone-induced contact hypersensitivity models in mice. histological endpoints (epidermal thickness, mast cell density, cd11b+ infiltrate) are complemented by cytokine profiling of dermal extracts. multi-pathway combination pharmacology a specific research application for klow is the study of combination pharmacology — whether four mechanistically distinct compounds produce additive or synergistic effects when applied simultaneously. full factorial dose-response designs (varying each component independently and in combination) are used in multi-well plate formats to generate interaction surface data. bliss independence and loewe additivity models are applied to quantify whether combination effects exceed the predicted additive outcome. these studies inform whether fixed-ratio blends (as in klow) are pharmacologically advantageous over individual compound administration at equivalent total doses. frequently asked questions what is the difference between klow and glow? glow contains tb-500, bpc-157, and ghk-cu — targeting tissue repair via cell migration, angiogenesis, and ecm remodelling. klow adds kpv (lys-pro-val), an α-msh-derived anti-inflammatory tripeptide that suppresses nf-κb and reduces inflammatory cytokine production. klow is selected for research models where inflammation is a significant co-pathology: chronic wounds, inflammatory bowel disease, atopic dermatitis, or any repair model where excessive inflammation impairs the proliferative phase of healing. how is kpv's nf-κb suppression mechanism characterised in assays? nf-κb suppression by kpv is measured using: (1) nf-κb luciferase reporter assays in tnf-α or lps-stimulated hek293 or raw264.7 cells; (2) nuclear p65 translocation by immunofluorescence or subcellular fractionation/western blot; (3) downstream cytokine secretion (il-6, tnf-α, il-1β by elisa or luminex). these assays confirm that kpv at 1–100 nm produces significant nf-κb pathway suppression without cytotoxicity, and that it acts upstream of iκb kinase rather than directly at the nf-κb dna binding site. can all four components of klow be detected and quantified independently after reconstitution? yes. each component has a distinct molecular weight and chromatographic retention time, allowing rp-hplc analysis to resolve and quantify all four simultaneously in a single run. esi-ms confirms identity of each component. if researchers need individual component concentrations post-reconstitution for assay calculations, analytical characterisation using reverse-phase hplc with uv detection at 214 nm provides clear resolution of bpc-157, tb-500, kpv, and ghk-cu peaks. is klow available in wholesale formats? yes. klow is available through peptides of china on a b2b wholesale basis. contact us via the request page for pricing, minimum order quantities, and volume tier information after account verification. related research articles klow peptide blend: components, evidence gaps, and qc for laboratory research use only. not for human or veterinary use. peptides of china is a b2b wholesale supplier operating under strict research-use-only terms. all products are sold exclusively for in vitro and preclinical research purposes.; availability and batch documentation are confirmed factory-side before the invoice is issued. Like every listing on this platform, KLOW is supplied for laboratory research use only.
-
-
-Buy KLOW | Research Grade | Peptides of China KLOW Buy KLOW — Research Grade Peptide KLOW is a healing & repair research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+The blend rationale is that these four cover different aspects of a repair response: cytoskeletal migration, gut and vascular protection, inflammatory signalling and matrix remodelling. A researcher might use the blend as a single stimulus in a screening model. The attribution problem is obvious: if the blend produces an effect, which component caused it? For a first experiment, single compounds give cleaner answers; for a follow-up or a formulation study, the blend is convenient.
 
 ## Compound Profile
 
-KLOW is a pre-mixed lyophilized research formulation containing four compounds: TB-500 (Thymosin Beta-4 synthetic analogue), BPC-157 (Body Protection Compound-157), KPV (Lys-Pro-Val tripeptide), and GHK-Cu (copper peptide). KLOW extends the GLOW formulation (TB-500 + BPC-157 + GHK-Cu) by incorporating KPV, an anti-inflammatory tripeptide derived from the C-terminus of alpha-melanocyte-stimulating hormone (α-MSH). KPV adds a fourth mechanistic layer: direct suppression of NF-κB nuclear translocation and inflammatory cytokine production, particularly relevant in research models where chronic or excessive inflammation is a co-pathology alongside impaired tissue regeneration. The combination targets dermal, mucosal, and connective tissue repair research with a concurrent anti-inflammatory dimension. The scientific basis for adding KPV to the GLOW triplex is KPV's established anti-inflammatory activity in intestinal epithelial and macrophage models, its preservation of epithelial tight junctions under inflammatory challenge, and its documented efficacy in murine colitis models. In dermal research contexts, inflammation is a critical regulator of wound healing quality — excessive NF-κB-driven inflammation promotes scarring (hypertrophic scar, keloid) while inadequate inflammation impairs innate immune debridement. KPV's selective NF-κB suppression, combined with TB-500's actin-dependent migration, BPC-157's angiogenic signalling, and GHK-Cu's ECM remodelling activity, creates a four-pathway approach to tissue repair modelling that spans the full healing cascade. Peptides of China supplies KLOW as lyophilized powder in sealed vials. Each component is individually purity-verified by HPLC before blending. Certificates of Analysis available per batch. Wholesale quantities on request. For laboratory research use only. 
+Category Skin & Hair, Tissue Repair, Inflammatory Wound Models, GI Mucosal Primary Components TB-500 (full 43-aa sequence), BPC-157, KPV, GHK-Cu Differentiation vs. GLOW GLOW = TB-500 + BPC-157 + GHK-Cu; KLOW adds KPV Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) CAS Number N/A — combination product Molecular Weight N/A — see individual components Molecular Formula N/A — combination product Sequence N/A — combination product
 
-## Profile
+## What the Batch Record Should Show
 
-Formulation Type Pre-mixed Lyophilized Research Blend (4 components) Component 1 TB-500 (Thymosin Beta-4 fragment) Component 2 BPC-157 (Body Protection Compound-157) Component 3 KPV (Lys-Pro-Val — α-MSH C-terminal tripeptide) Component 4 GHK-Cu (Glycyl-L-histidyl-L-lysine : Cu²⁺) KPV Mechanism NF-κB suppression, epithelial barrier protection, IL-1β/TNF-α reduction Research Category Skin & Hair, Tissue Repair, Inflammatory Wound Models, GI Mucosal Vs. GLOW KLOW = GLOW + KPV (additional anti-inflammatory component) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) CAS Number N/A — combination product Molecular Weight N/A — see individual components Molecular Formula N/A — combination product Sequence N/A — combination product 
+A blend certificate is only meaningful if it is component-resolved. A total mass, a single HPLC peak and a statement of "≥98% purity" tell you almost nothing about a four-component vial, because the four components have different extinction coefficients, different retention times and different mass responses.
 
-## Available Variants
+**Per-component identity.** Each component should be identified by mass, and the two peptides with defined sequences, TB-500 and BPC-157, should have sequence coverage. KPV is a tripeptide and can be confirmed by mass and retention against a standard. GHK-Cu requires both the peptide mass and the copper content, because the complex can dissociate.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| KLOW | 80 mg | 10 vials | ≥98% | In Stock |
-| KLOW | 80 mg | 10 vials | — | In Stock |
+**Per-component content.** The certificate should state mg per component, not just total mg. An 80 mg vial with 60 mg of TB-500 and 5 mg of KPV is a different product from a balanced blend, even if both weigh 80 mg. The assay is usually RP-HPLC with a calibration curve for each component, or amino acid analysis after hydrolysis for the peptide fraction.
 
-## Specification Highlights
+**Copper content.** GHK-Cu is a copper complex, and the copper should be measured by ICP-MS or atomic absorption. A peptide content that matches the label but a copper content that does not means the complex is partially dissociated or the peptide is not fully loaded. This is the blend-specific test that most certificates omit.
 
-Category: Healing & Repair, Blends Total variants: 2 In-stock variants: 2 of 2 Purity: ≥98% Standard pack size: 10 vials 
+**Homogeneity.** A lyophilised blend can be inhomogeneous if the components are mixed as powders rather than co-dissolved before lyophilisation. The certificate should state the fill mass and, ideally, the homogeneity data from the lyophilisation batch. A vial-to-vial variation in a component is a formulation problem, not a handling problem.
 
-## Quality & Testing
+**Endotoxin and sterility.** A four-component blend has four opportunities for endotoxin contamination, and the lyophilisation step does not remove it. LAL testing and a sterility result should be in the package. The [endotoxin explainer](/blog/what-are-endotoxins-why-they-matter/) covers the assay.
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+**Traceability.** Lot number, fill date, retest date, manufacturing site, and the specification for each component. The [CoA guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) explains how to read the document, and the [quality pillar](/peptide-quality-testing/) covers the analytical logic.
 
-## Research Areas
+## Sourcing & Verification
 
-Inflammatory Wound Healing Models Chronic wounds (diabetic ulcers, pressure injuries) and hypertrophic scarring are characterised by dysregulated inflammatory signalling — excessive and prolonged NF-κB-driven cytokine production that prevents transition from the inflammatory to the proliferative phase of repair. KPV's NF-κB suppression, characterised in macrophage (RAW264.7, THP-1) and intestinal epithelial (Caco-2, HT-29) cell line models, is the mechanistic target in these research designs. In KLOW combination studies, KPV's anti-inflammatory activity is assessed alongside BPC-157's angiogenic effect and GHK-Cu's collagen output using multiplexed endpoints — cytokine secretion (Luminex), wound closure (scratch assay), and ECM deposition (Sircol, Sirius Red staining). Intestinal Epithelial & Mucosal Research KPV is among the most studied α-MSH-derived tripeptides in GI research, with documented activity in TNBS-induced colitis, DSS colitis, and LPS-challenged intestinal epithelial models. KPV reduces IL-8, TNF-α, and IL-6 secretion from inflamed epithelial cells while preserving tight junction protein expression (ZO-1, occludin, claudin-1) in barrier integrity assays (TEER). In KLOW formulations studied in GI contexts, BPC-157's established gastroprotective and cytoprotective activity in the GI tract (ulcer, anastomosis, and fistula models) complements KPV's anti-inflammatory epithelial activity — providing both direct mucosal repair and inflammatory suppression simultaneously. Skin Inflammation & Dermatitis Models Inflammatory skin conditions (atopic dermatitis, psoriasis, rosacea) involve keratinocyte NF-κB activation, mast cell degranulation, and dysregulated cytokine networks alongside impaired barrier function. KPV's MC1R-independent anti-inflammatory activity in keratinocytes (at concentrations of 1–100 nM) is studied alongside GHK-Cu's barrier-restoring collagen and elastin stimulation in reconstructed human epidermis models and in vivo oxazolone-induced contact hypersensitivity models in mice. Histological endpoints (epidermal thickness, mast cell density, CD11b+ infiltrate) are complemented by cytokine profiling of dermal extracts. Multi-Pathway Combination Pharmacology A specific research application for KLOW is the study of combination pharmacology — whether four mechanistically distinct compounds produce additive or synergistic effects when applied simultaneously. Full factorial dose-response designs (varying each component independently and in combination) are used in multi-well plate formats to generate interaction surface data. Bliss independence and Loewe additivity models are applied to quantify whether combination effects exceed the predicted additive outcome. These studies inform whether fixed-ratio blends (as in KLOW) are pharmacologically advantageous over individual compound administration at equivalent total doses. 
+Blends are where underdosing is easiest to hide and hardest to prove. The total mass is a single number, and a supplier can adjust the ratio without changing the label. The questions below are designed to make that visible.
+
+- Is there a per-component assay, with mg values for TB-500, BPC-157, KPV and GHK-Cu?
+- Is the copper content measured, and by which method?
+- Is the TB-500 the full 43-amino-acid sequence, or a fragment?
+- Is the KPV content above the limit of quantification, or is it a token amount?
+- Is the blend co-dissolved before lyophilisation, and is homogeneity data available?
+- Is endotoxin reported by LAL, and is the product sterile?
+- Is the fill mass stated, and is there overfill?
+- Does the lot number match the vial and the shipping documents?
+
+A supplier who reports only "80 mg, ≥98%" is selling a total mass. A supplier who reports four component values and a copper result is selling a formulated product. The [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) and the [GMP assessment guide](/blog/how-to-assess-peptide-supplier-gmp-compliance-in-2026/) cover the entity checks.
+
+One naming check: KLOW is sometimes described as "GLOW plus KPV", which is accurate at the level of the component list. GLOW contains TB-500, BPC-157 and GHK-Cu; KLOW adds KPV. The two should not be used interchangeably in a study design, because the additional tripeptide changes the inflammatory endpoint. The [GLOW page](/catalog/glow/) is the comparator.
+
+## Handling & Storage
+
+Lyophilised KLOW is stored at −20°C, dry and protected from light. Let the vial warm to room temperature before opening. Reconstitute gently with water or buffer down the vial wall, and swirl rather than vortex. The blend contains four peptides with different solubility, and a cloudy solution may indicate that one component has not dissolved rather than that the product is contaminated.
+
+Do not add chelating agents. EDTA or citrate in the buffer will strip copper from GHK-Cu, and the resulting free peptide is a different reagent. If the assay requires a chelator, the blend is the wrong choice. Avoid reducing agents for the same reason: they can break disulfides in TB-500 and BPC-157 and reduce the copper.
+
+Copper-containing solutions are sensitive to light and to prolonged storage at neutral pH. Keep the reconstituted solution at 4°C for short-term use, and protect it from light. For longer experiments, aliquot and freeze at −20°C, avoiding repeated freeze-thaw. Low-binding tubes reduce adsorption of the peptides, particularly KPV, which is small and can be lost to surfaces.
+
+If the solution is to be sterile-filtered, use a 0.22 µm membrane and check recovery; the copper complex may adsorb to some filter materials. Do not autoclave or heat-sterilise. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) and the [handling pillar](/peptide-handling-protocols/) cover the general workflow. These are bench notes for a research blend, not clinical instructions.
+
+## How It Compares
+
+**GLOW.** The three-component parent blend: TB-500, BPC-157 and GHK-Cu, without KPV. It is the appropriate comparator when the inflammatory arm is not part of the question. The [GLOW page](/catalog/glow/) lists the formats.
+
+**Individual components.** TB-500, BPC-157, KPV and GHK-Cu are all available separately. For a first study, single compounds give cleaner attribution and simpler analytics. A blend is a convenience for a formulation or screening experiment, not a substitute for mechanism work.
+
+**Wolverine Blend.** A different combination built around BPC-157 and TB-500, without the copper peptide. The name and the component list should be checked before comparing results. The [Wolverine Blend listing](/catalog/wolverine-blend/) is the catalogue entry.
+
+**Other repair blends.** The catalogue contains several fixed combinations, including BPC-157 + TB-500 + KPV and GHK-Cu + KPV. Each has a different ratio and a different analytical problem. A blend is defined by its component list, not by its category name.
+
+**Single-peptide GHK-Cu.** The copper peptide alone, which is the relevant control when the question is whether the copper complex contributes to the blend's effect. The [GHK-Cu page](/catalog/ghk-cu/) covers it.
 
 ## Frequently Asked Questions
 
-**What is the difference between KLOW and GLOW?**
+**What is in KLOW?**
 
-GLOW contains TB-500, BPC-157, and GHK-Cu — targeting tissue repair via cell migration, angiogenesis, and ECM remodelling. KLOW adds KPV (Lys-Pro-Val), an α-MSH-derived anti-inflammatory tripeptide that suppresses NF-κB and reduces inflammatory cytokine production. KLOW is selected for research models where inflammation is a significant co-pathology: chronic wounds, inflammatory bowel disease, atopic dermatitis, or any repair model where excessive inflammation impairs the proliferative phase of healing. How is KPV's NF-κB suppression mechanism characterised in assays? NF-κB suppression by KPV is measured using: (1) NF-κB luciferase reporter assays in TNF-α or LPS-stimulated HEK293 or RAW264.7 cells; (2) nuclear p65 translocation by immunofluorescence or subcellular fractionation/Western blot; (3) downstream cytokine secretion (IL-6, TNF-α, IL-1β by ELISA or Luminex). These assays confirm that KPV at 1–100 nM produces significant NF-κB pathway suppression without cytotoxicity, and that it acts upstream of IκB kinase rather than directly at the NF-κB DNA binding site. 
+Four components: TB-500 (the full 43-amino-acid sequence), BPC-157, KPV and GHK-Cu. The vial is lyophilised, and the total fill is 80 mg in the standard format.
 
-**Can all four components of KLOW be detected and quantified independently after reconstitution?**
+**How is KLOW different from GLOW?**
 
-Yes. Each component has a distinct molecular weight and chromatographic retention time, allowing RP-HPLC analysis to resolve and quantify all four simultaneously in a single run. ESI-MS confirms identity of each component. If researchers need individual component concentrations post-reconstitution for assay calculations, analytical characterisation using reverse-phase HPLC with UV detection at 214 nm provides clear resolution of BPC-157, TB-500, KPV, and GHK-Cu peaks. 
+GLOW contains TB-500, BPC-157 and GHK-Cu. KLOW adds KPV, the anti-inflammatory tripeptide. The difference is one component, but it changes the inflammatory endpoint and the analytical package.
 
-**Is KLOW available in wholesale formats?**
+**Can the components be quantified separately?**
 
-Yes. KLOW is available through Peptides of China on a B2B wholesale basis. Contact us via the Request page for pricing, minimum order quantities, and volume tier information after account verification. Related Research Articles KLOW Peptide Blend: Components, Evidence Gaps, and QC For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+They can, but only if the certificate reports a per-component assay. A total mass and a single HPLC peak do not establish the ratio. Ask for mg values for each component and a copper result for GHK-Cu.
+
+**Why does copper content matter?**
+
+Because GHK-Cu is a copper-peptide complex, and the copper is part of the active material. A peptide content that matches the label with a low copper content means the complex is partially dissociated. Copper can be measured by ICP-MS or atomic absorption.
+
+**How should the blend be reconstituted?**
+
+Gently, with water or buffer down the vial wall, and without chelators or reducing agents. EDTA and citrate strip the copper; DTT and TCEP reduce the disulfides. Swirl, do not vortex, and check for clarity.
+
+**Is the blend sterile?**
+
+Not automatically. It is a lyophilised research-grade powder, and sterility is a separate test. For cell culture, filter through a 0.22 µm membrane and check recovery.
+
+**Can KLOW be used in cell culture?**
+
+It can be used in research settings where the combined stimulus is the variable under study, provided the preparation is sterile and endotoxin-tested. For mechanism work, single components are more informative.
+
+## Related Products
+
+- GLOW
+- BPC-157
+- TB-500
+- KPV
+- GHK-Cu
+
+## The Author's Take
+
+**Position.** I would not buy a four-component blend without a per-component assay and a copper result. A blend is the easiest place in the catalogue to hide a shortfall, and the total mass is the least informative number on the label.
+
+**Reasoning.** The individual components have different masses, different molar responses and different commercial values. A supplier can adjust the ratio toward the cheapest component and still hit the total fill. The certificate is the only place where that becomes visible, and most blend certificates do not go there. The copper assay is the tell: a supplier who measures copper understands that GHK-Cu is a complex, not a peptide with a metal impurity. A supplier who does not is selling a mixture by name. For a screening experiment the difference may not matter; for a study that attributes an effect to a component, it is decisive.
+
+**Disclosure.** Peptides of China lists KLOW for laboratory research supply. This is a sourcing judgement based on batch documents we review, not medical advice. The blend is for in vitro and preclinical research only.
+
+## Sources
+
+1. Sanders, M. C., Goldstein, A. L., Wang, Y. L. (1992). Thymosin beta 4 (Fx peptide) is a potent regulator of actin polymerization in living cells. *Proceedings of the National Academy of Sciences*, 89(10), 4678–4682. https://doi.org/10.1073/pnas.89.10.4678
+2. Sikiric, P., Seiwerth, S., Rucman, R., Turkovic, B., Rokotov, D. S., Brcic, L., Sever, M., Klicek, R., Radic, B., Drmic, D., Ilic, S., Kolenc, D., Vrcic, H., Sebecic, B. (2010). Revised Robert's cytoprotection and adaptive cytoprotection and stable gastric pentadecapeptide BPC 157. *Current Pharmaceutical Design*, 16(10), 1220–1234. https://doi.org/10.2174/138161210790945977
+3. Kannengiesser, K., Maaser, C., Heidemann, J., Luegering, A., Ross, M., Bettenworth, D., Bohm, M., Luger, T. A., Kucharzik, T. (2008). Melanocortin-derived tripeptide KPV has anti-inflammatory potential in murine models of inflammatory bowel disease. *Inflammatory Bowel Diseases*, 14(3), 324–331. https://doi.org/10.1002/ibd.20334
+4. Pickart, L., Vasquez-Soltero, J. M., Margolina, A. (2015). GHK peptide as a natural modulator of multiple cellular pathways in skin regeneration. *BioMed Research International*, 2015, 648108. https://doi.org/10.1155/2015/648108
+5. Pickart, L. (2008). The human tri-peptide GHK and tissue remodeling. *Journal of Biomaterials Science, Polymer Edition*, 19(8), 969–988. https://doi.org/10.1163/156856208784909435
+6. Safer, D., Elzinga, M., Nachmias, V. T. (1991). Thymosin beta 4 and Fx, an actin-sequestering peptide, are indistinguishable. *Journal of Biological Chemistry*, 266(7), 4029–4032. https://doi.org/10.1016/S0021-9258(20)64278-8

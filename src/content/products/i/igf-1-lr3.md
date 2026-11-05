@@ -4,110 +4,136 @@ name: "IGF-1 LR3"
 slug: "igf-1-lr3"
 price: 68.0
 status: "In Stock"
-description: "IGF-1 LR3 long-acting insulin-like growth factor research peptide. Sourced from verified Chinese manufacturer. Purity tested per batch."
+description: "IGF-1 LR3, an 83-residue long-acting IGF-1 analogue with reduced IGFBP binding. Identity, bioactivity and handling for cell-culture research."
 image: "/images/products/igf-1-lr3-bottle.webp"
 
 ---
-IGF-1 LR3 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Long-acting IGF-1 Analogue / Recombinant Peptide Full Name Long Arg3 Insulin-like Growth Factor-I CAS Number 946870-92-4 Molecular Weight ~9117.5 Da Sequence Length 83 amino acids (native IGF-1: 70 AA + 13 AA N-terminal extension) Key Modification Glu³→Arg³ substitution; 13 AA N-terminal extension Receptor Target IGF-1R (IGF-1 receptor); minimal IR cross-reactivity IGFBP Affinity ~1000× lower than native IGF-1 Half-life (research) ~20–30 h (vs. ~12 min for native IGF-1) Storage -20°C lyophilized; 4°C reconstituted (up to 28 days) Molecular Formula N/A — 83-aa protein analogue 
+IGF-1 LR3 is an engineered version of insulin-like growth factor I, made by adding a thirteen-residue N-terminal extension and changing the third residue from glutamate to arginine. The modifications do not change the receptor it activates; they change how long it stays available to activate it. In a culture dish, that difference is useful. In a catalogue, it is the source of most of the confusion, because the same vial is sold under several names and the sequence is rarely printed in full.
 
-## Available Variants
+This page describes the analogue as a laboratory reagent: the structural rationale, the analytical records that establish identity, the handling of a protein with three disulfides, and the comparison with native IGF-1. It is supplied for in vitro and preclinical research only. Nothing here is a claim about muscle, performance or human use.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| 68.00 IGF-1 LR3 | 1 mg | 10 vials | ≥98% | Out of Stock |
-| IGF-1 LR3 | 1 mg | 10 vials | — | In Stock |
+## Why This Compound
 
-## Specification Highlights
+Native IGF-1 is a 70-residue single-chain polypeptide with three intramolecular disulfide bonds, structurally related to proinsulin. Rinderknecht and Humbel determined the sequence in 1978 and noted the homology that places it in the insulin family. It signals through the IGF-1 receptor, a receptor tyrosine kinase with a structure closely related to the insulin receptor; Ullrich and colleagues cloned the receptor in 1986 and showed the domain architecture that it shares with the insulin receptor. The downstream pathway is the familiar one: receptor autophosphorylation, IRS-1/2 recruitment, PI3K/AKT and MAPK.
 
-Category: Muscle & Performance, Hormonal Regulation Total variants: 4 In-stock variants: 2 of 4 Purity: ≥98% Standard pack size: 10 vials 
+The complication is the IGF-binding proteins. Six IGFBPs circulate and bind IGF-1 with high affinity, which extends its half-life and restricts its access to the receptor. Jones and Clemmons reviewed the system in 1995, and Clemmons later focused on how the binding proteins control IGF action. For a cell-culture experiment, the binding proteins are a nuisance: they are present in serum-containing medium, they sequester the growth factor, and they make the free concentration uncertain. A researcher who wants a defined exposure has two options: use serum-free medium, or use an analogue that binds the IGFBPs poorly.
 
-## Variant Notes
+IGF-1 LR3 is the second option. The N-terminal extension and the Glu3→Arg3 substitution reduce IGFBP binding by roughly three orders of magnitude, which leaves more of the peptide free to engage the receptor. The trade-off is that the analogue is not the native ligand. Its receptor affinity is similar, but its pharmacokinetics in vivo and its partitioning in culture are different, and a result obtained with LR3 should not be described as a native IGF-1 result without qualification.
 
-Modified analogue of insulin-like growth factor IGF-1 with reduced affinity for IGF-binding proteins. Used in studies of IGF receptor signalling, cell proliferation, and regulation of protein synthesis. 
-
-## Research Areas
-
-IGF-1 Receptor Signalling Research IGF-1 LR3 is the standard tool compound for sustained IGF-1R activation in cell-based studies. Downstream signalling endpoints — PI3K/Akt/mTOR, MAPK/ERK — are characterised using phosphoproteomics, Western blotting, and proximity ligation assays. The compound's IGFBP-resistance removes the confound of IGFBP-3 and IGFBP-5 competitive inhibition present in serum-containing culture conditions, making dose-response relationships more reproducible than with native IGF-1. IGF-1R knockout cell lines and blocking antibodies (αIR3) are used alongside IGF-1 LR3 to confirm receptor specificity. Skeletal Muscle & Anabolic Research IGF-1 and IGF-1R signalling are central to skeletal muscle hypertrophy, satellite cell activation, and atrophy resistance. C2C12 myoblast differentiation assays (myotube fusion index, myosin heavy chain expression) and primary mouse satellite cell cultures are standard formats for characterising IGF-1 LR3's myogenic effects. In vivo, rodent hindlimb unloading models (muscle atrophy from immobilisation) use IGF-1 LR3 to test whether IGF-1R activation preserves muscle mass and force output — mechanistically relevant to research on sarcopenia and disuse atrophy. Cell Culture Media Optimisation IGF-1 LR3 is widely used as a recombinant serum substitute in cell culture media formulations. CHO, BHK, HEK293, and hybridoma cell lines supplemented with IGF-1 LR3 in defined or low-serum media show improved viability, proliferation, and biologic production yields. The LR3 form is preferred over native IGF-1 because its IGFBP resistance results in more consistent bioavailability in conditioned media — native IGF-1 is partially sequestered by secreted IGFBPs in conditioned medium, causing variable effective concentrations between experiments. Bone & Cartilage Biology IGF-1 signalling is required for longitudinal bone growth and periosteal apposition during development, and for maintenance of bone mineral density in adults. In vitro models using primary osteoblasts, osteoblast-like cell lines (MC3T3-E1, Saos-2), and ex vivo fetal long bone cultures characterise IGF-1 LR3's effects on osteoblast proliferation, alkaline phosphatase activity, and mineralisation kinetics. Chondrocyte models (ATDC5, primary articular chondrocytes) use IGF-1 LR3 in studies of cartilage matrix synthesis and the IGF-1/IGFBP axis in osteoarthritis. ## Sourcing IGF-1 LR3 From China
-
-IGF-1 LR3 is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
-
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, IGF-1 LR3 is supplied for
-  laboratory research use only, under strict research-use terms.
-
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
-
-## Frequently Asked Questions
-
-Why is IGF-1 LR3 preferred over native IGF-1 for most research applications? Native IGF-1 has very high binding affinity for circulating and locally produced IGF-binding proteins (IGFBPs), which sequester it and limit receptor availability. This makes dose-response relationships in serum-containing assays highly variable because IGFBP concentrations differ between batches of serum and between cell lines. IGF-1 LR3's ~1000-fold reduced IGFBP affinity means most of the added peptide remains free and receptor-accessible, producing more reproducible and interpretable dose-response data. Its 20–30 hour in vivo half-life also reduces dosing frequency in animal studies. 
-
-**What concentration range is used for IGF-1 LR3 in cell culture?**
-
-For proliferation assays, typical research concentrations range from 1–100 ng/mL (approximately 0.1–11 nM given MW of ~9.1 kDa). For defined serum-free media as a serum substitute, concentrations of 10–100 ng/mL are commonly used in CHO and hybridoma culture protocols. These concentrations are substantially lower than those used for native IGF-1 to achieve equivalent effects, because of the LR3 variant's reduced IGFBP competition in conditioned media. How should IGF-1 LR3 be reconstituted for research use? Reconstitute in sterile 10 mM acetic acid (0.1% acetic acid in sterile water) or PBS containing 0.1–0.5% BSA as a carrier protein to prevent adsorption to plastic surfaces. Avoid plain water at neutral pH without carrier protein — IGF-1 peptides can adsorb to tube walls at low concentrations. Working aliquots at 1–100 μg/mL in 0.1% BSA/PBS are stable for up to 28 days at 4°C. Stock solutions at higher concentrations can be stored at -80°C for long-term use. 
-
-**Is IGF-1 LR3 available in wholesale quantities for laboratory purchasing?**
-
-Yes. IGF-1 LR3 is available through Peptides of China on a B2B wholesale basis. Pricing, vial sizes, and volume tiers are provided upon request after account verification. Contact us via the Request page or Contact form. Related Research Articles IGF-1 LR3 Research Applications: A B2B Sourcing and Technical Guide (2026) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. class, and every listing carries the manufacturer's own specification rather than a reseller's claim. Buyers sourcing **chinese peptides** in this category typically evaluate IGF-1 LR3 across IGF-1 Receptor Signalling Research IGF-1 LR3 is the standard tool compound for sustained IGF-1R activation in cell-based studies. Downstream signalling endpoints — PI3K/Akt/mTOR, MAPK/ERK — are characterised using phosphoproteomics, Western blotting, and proximity ligation assays. The compound's IGFBP-resistance removes the confound of IGFBP-3 and IGFBP-5 competitive inhibition present in serum-containing culture conditions, making dose-response relationships more reproducible than with native IGF-1. IGF-1R knockout cell lines and blocking antibodies (αIR3) are used alongside IGF-1 LR3 to confirm receptor specificity. Skeletal Muscle & Anabolic Research IGF-1 and IGF-1R signalling are central to skeletal muscle hypertrophy, satellite cell activation, and atrophy resistance. C2C12 myoblast differentiation assays (myotube fusion index, myosin heavy chain expression) and primary mouse satellite cell cultures are standard formats for characterising IGF-1 LR3's myogenic effects. In vivo, rodent hindlimb unloading models (muscle atrophy from immobilisation) use IGF-1 LR3 to test whether IGF-1R activation preserves muscle mass and force output — mechanistically relevant to research on sarcopenia and disuse atrophy. Cell Culture Media Optimisation IGF-1 LR3 is widely used as a recombinant serum substitute in cell culture media formulations. CHO, BHK, HEK293, and hybridoma cell lines supplemented with IGF-1 LR3 in defined or low-serum media show improved viability, proliferation, and biologic production yields. The LR3 form is preferred over native IGF-1 because its IGFBP resistance results in more consistent bioavailability in conditioned media — native IGF-1 is partially sequestered by secreted IGFBPs in conditioned medium, causing variable effective concentrations between experiments. Bone & Cartilage Biology IGF-1 signalling is required for longitudinal bone growth and periosteal apposition during development, and for maintenance of bone mineral density in adults. In vitro models using primary osteoblasts, osteoblast-like cell lines (MC3T3-E1, Saos-2), and ex vivo fetal long bone cultures characterise IGF-1 LR3's effects on osteoblast proliferation, alkaline phosphatase activity, and mineralisation kinetics. Chondrocyte models (ATDC5, primary articular chondrocytes) use IGF-1 LR3 in studies of cartilage matrix synthesis and the IGF-1/IGFBP axis in osteoarthritis. 
-
-## Frequently Asked Questions
-
-Why is IGF-1 LR3 preferred over native IGF-1 for most research applications? Native IGF-1 has very high binding affinity for circulating and locally produced IGF-binding proteins (IGFBPs), which sequester it and limit receptor availability. This makes dose-response relationships in serum-containing assays highly variable because IGFBP concentrations differ between batches of serum and between cell lines. IGF-1 LR3's ~1000-fold reduced IGFBP affinity means most of the added peptide remains free and receptor-accessible, producing more reproducible and interpretable dose-response data. Its 20–30 hour in vivo half-life also reduces dosing frequency in animal studies. 
-
-**What concentration range is used for IGF-1 LR3 in cell culture?**
-
-For proliferation assays, typical research concentrations range from 1–100 ng/mL (approximately 0.1–11 nM given MW of ~9.1 kDa). For defined serum-free media as a serum substitute, concentrations of 10–100 ng/mL are commonly used in CHO and hybridoma culture protocols. These concentrations are substantially lower than those used for native IGF-1 to achieve equivalent effects, because of the LR3 variant's reduced IGFBP competition in conditioned media. How should IGF-1 LR3 be reconstituted for research use? Reconstitute in sterile 10 mM acetic acid (0.1% acetic acid in sterile water) or PBS containing 0.1–0.5% BSA as a carrier protein to prevent adsorption to plastic surfaces. Avoid plain water at neutral pH without carrier protein — IGF-1 peptides can adsorb to tube walls at low concentrations. Working aliquots at 1–100 μg/mL in 0.1% BSA/PBS are stable for up to 28 days at 4°C. Stock solutions at higher concentrations can be stored at -80°C for long-term use. 
-
-**Is IGF-1 LR3 available in wholesale quantities for laboratory purchasing?**
-
-Yes. IGF-1 LR3 is available through Peptides of China on a B2B wholesale basis. Pricing, vial sizes, and volume tiers are provided upon request after account verification. Contact us via the Request page or Contact form. Related Research Articles IGF-1 LR3 Research Applications: A B2B Sourcing and Technical Guide (2026) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, IGF-1 LR3 is supplied for laboratory research use only.
-
-
-Buy IGF-1 LR3 | Insulin-like Growth Factor | Research Grade | Peptides of China IGF-1 LR3 Buy IGF-1 LR3 — Research Grade Growth Factor IGF-1 LR3 is a muscle & performance research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+The analogue is used in three main settings. In myoblast and satellite cell culture, it supports proliferation and differentiation in serum-free conditions. In chondrocyte and osteoblast work, it is a defined anabolic stimulus for matrix assays. In recombinant protein production, it is sometimes added to CHO or HEK cultures as a growth supplement. Each of these is a cell-culture application; none of them is a human-use claim.
 
 ## Compound Profile
 
-IGF-1 LR3 (Long Arg3 Insulin-like Growth Factor-I) is a recombinant 83-amino acid analogue of human IGF-1, extended by a 13-residue N-terminal sequence and containing a glutamate-to-arginine substitution at position 3 (Glu³→Arg³). This two-part structural modification produces a dramatic reduction in IGF-binding protein (IGFBP) affinity — approximately 2–3 orders of magnitude lower than native IGF-1 — while retaining full IGF-1 receptor (IGF-1R) binding and activation. Since IGFBPs sequester the majority of circulating IGF-1 in vivo (only ~1% is free at any time), the reduced IGFBP affinity of LR3 translates to a substantially greater proportion of free, bioactive peptide per administered dose. This property makes IGF-1 LR3 the standard IGF-1 variant used in most cell biology and animal pharmacology research where systemic IGF-1 activity is the research endpoint. The extended half-life of IGF-1 LR3 in vivo — approximately 20–30 hours compared to 12–15 minutes for native IGF-1 — results directly from the reduced IGFBP buffering. This makes it a valuable tool in studies examining the chronic anabolic and mitogenic effects of IGF-1R activation across tissues including skeletal muscle, bone, liver, and the central nervous system. IGF-1 LR3 is widely used in cell culture research as a growth factor supplement and in defined-serum conditions where endogenous growth factor concentrations must be controlled — particularly in hybridoma, CHO, and stem cell culture protocols where it partially replaces serum-derived IGF-1. Peptides of China supplies IGF-1 LR3 as lyophilized powder at ≥98% purity, verified by HPLC and confirmed by mass spectrometry. Certificates of Analysis available per batch. Wholesale quantities available on request. This compound is for laboratory research use only. 
+Full Name Long Arg3 Insulin-like Growth Factor-I CAS Number 946870-92-4 Molecular Weight ~9117.5 Da Sequence Length 83 amino acids (native IGF-1: 70 AA + 13 AA N-terminal extension) Key Modification Glu³→Arg³ substitution; 13 AA N-terminal extension Receptor Target IGF-1R (IGF-1 receptor); minimal IR cross-reactivity IGFBP Affinity ~1000× lower than native IGF-1 Half-life (research) ~20–30 h (vs. ~12 min for native IGF-1) Storage -20°C lyophilized; 4°C reconstituted (up to 28 days) Molecular Formula N/A — 83-aa protein analogue
 
-## Profile
+## What the Batch Record Should Show
 
-Chemical Class Long-acting IGF-1 Analogue / Recombinant Peptide Full Name Long Arg3 Insulin-like Growth Factor-I CAS Number 946870-92-4 Molecular Weight ~9117.5 Da Sequence Length 83 amino acids (native IGF-1: 70 AA + 13 AA N-terminal extension) Key Modification Glu³→Arg³ substitution; 13 AA N-terminal extension Receptor Target IGF-1R (IGF-1 receptor); minimal IR cross-reactivity IGFBP Affinity ~1000× lower than native IGF-1 Half-life (research) ~20–30 h (vs. ~12 min for native IGF-1) Storage -20°C lyophilized; 4°C reconstituted (up to 28 days) Molecular Formula N/A — 83-aa protein analogue 
+IGF-1 LR3 is a 83-residue protein with three disulfides, so the certificate needs to establish both the chemical identity and the folded state. A mass alone is not enough, and a purity percentage is not a bioactivity result.
 
-## Available Variants
+**Identity.** The calculated mass of the analogue is about 9,117 Da. The certificate should report the observed mass with charge states, and ideally a peptide map or MS/MS coverage that shows the N-terminal extension and the Arg3 substitution. The extension is the feature that distinguishes LR3 from native IGF-1, and it should be visible in the data, not just in the product name.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| 68.00 IGF-1 LR3 | 1 mg | 10 vials | ≥98% | Out of Stock |
-| IGF-1 LR3 | 1 mg | 10 vials | — | In Stock |
+**Disulfide integrity.** Native IGF-1 has three disulfides, and the analogue retains them. Non-reducing SDS-PAGE and, where available, disulfide mapping confirm the folded form. A reduced or scrambled preparation has the same mass but different receptor binding, which is why a mass check alone can pass a bad batch.
 
-## Specification Highlights
+**Receptor binding and bioactivity.** A cell-based assay, such as IGF-1R phosphorylation in a responsive cell line or a proliferation assay, is the functional check. Receptor binding affinity relative to native IGF-1 and IGFBP-3 binding affinity are the two numbers that define the analogue's behaviour. A certificate that reports neither is a chemical certificate, not a biological one.
 
-Category: Muscle & Performance, Hormonal Regulation Total variants: 4 In-stock variants: 2 of 4 Purity: ≥98% Standard pack size: 10 vials 
+**Aggregation.** SE-HPLC monomer content. Proteins at this size can aggregate during lyophilisation, and aggregate can act as a receptor agonist or antagonist in unpredictable ways. The certificate should report monomer, dimer and higher forms.
 
-## Variant Notes
+**Counterion, content and fill.** Acetate or trifluoroacetate, peptide content per vial and fill volume. The nominal mass on the label may include counterion and water, and a stock prepared from nominal mass can be significantly off.
 
-Modified analogue of insulin-like growth factor IGF-1 with reduced affinity for IGF-binding proteins. Used in studies of IGF receptor signalling, cell proliferation, and regulation of protein synthesis. 
+**Endotoxin and sterility.** Essential for cell-culture work, particularly in primary cells. LAL testing and a sterility result should be stated. The [endotoxin explainer](/blog/what-are-endotoxins-why-they-matter/) covers the assay.
 
-## Research Areas
+## Sourcing & Verification
 
-IGF-1 Receptor Signalling Research IGF-1 LR3 is the standard tool compound for sustained IGF-1R activation in cell-based studies. Downstream signalling endpoints — PI3K/Akt/mTOR, MAPK/ERK — are characterised using phosphoproteomics, Western blotting, and proximity ligation assays. The compound's IGFBP-resistance removes the confound of IGFBP-3 and IGFBP-5 competitive inhibition present in serum-containing culture conditions, making dose-response relationships more reproducible than with native IGF-1. IGF-1R knockout cell lines and blocking antibodies (αIR3) are used alongside IGF-1 LR3 to confirm receptor specificity. Skeletal Muscle & Anabolic Research IGF-1 and IGF-1R signalling are central to skeletal muscle hypertrophy, satellite cell activation, and atrophy resistance. C2C12 myoblast differentiation assays (myotube fusion index, myosin heavy chain expression) and primary mouse satellite cell cultures are standard formats for characterising IGF-1 LR3's myogenic effects. In vivo, rodent hindlimb unloading models (muscle atrophy from immobilisation) use IGF-1 LR3 to test whether IGF-1R activation preserves muscle mass and force output — mechanistically relevant to research on sarcopenia and disuse atrophy. Cell Culture Media Optimisation IGF-1 LR3 is widely used as a recombinant serum substitute in cell culture media formulations. CHO, BHK, HEK293, and hybridoma cell lines supplemented with IGF-1 LR3 in defined or low-serum media show improved viability, proliferation, and biologic production yields. The LR3 form is preferred over native IGF-1 because its IGFBP resistance results in more consistent bioavailability in conditioned media — native IGF-1 is partially sequestered by secreted IGFBPs in conditioned medium, causing variable effective concentrations between experiments. Bone & Cartilage Biology IGF-1 signalling is required for longitudinal bone growth and periosteal apposition during development, and for maintenance of bone mineral density in adults. In vitro models using primary osteoblasts, osteoblast-like cell lines (MC3T3-E1, Saos-2), and ex vivo fetal long bone cultures characterise IGF-1 LR3's effects on osteoblast proliferation, alkaline phosphatase activity, and mineralisation kinetics. Chondrocyte models (ATDC5, primary articular chondrocytes) use IGF-1 LR3 in studies of cartilage matrix synthesis and the IGF-1/IGFBP axis in osteoarthritis. 
+IGF-1 LR3 is a case where the name and the sequence can diverge. The analogue is sold as "LR3", "Long R3 IGF-1", "IGF-1 Long R3" and sometimes simply as "IGF-1", and the last usage is the most dangerous because native IGF-1 is a different molecule with different binding behaviour.
+
+Questions to ask:
+
+- Is the full sequence stated, including the 13-residue extension and the Arg3 substitution?
+- Does the observed mass match the expected 9,117 Da, and is the mass spectrum provided?
+- Is the disulfide pattern confirmed, or only the mass?
+- Is there a receptor-binding or cell-based bioactivity result?
+- Is the IGFBP-3 binding affinity stated, or at least the claim qualified?
+- What is the monomer content by SE-HPLC?
+- Is endotoxin reported, and is the product sterile?
+- Is the counterion and peptide content per vial stated?
+
+A supplier who can show a peptide map and a bioactivity result is selling a characterised analogue. A supplier who shows a single HPLC peak and the catalogue mass is selling a protein of uncertain fold. The [testing guide](/blog/peptide-testing-and-analysis-a-professional-guide-to-laboratory-verification/) and the [quality pillar](/peptide-quality-testing/) explain the orthogonal approach.
+
+There is also a regulatory dimension. IGF-1 and its analogues are regulated as growth factors in some jurisdictions, and import rules vary. The [compliance pillar](/peptide-compliance-risk/) covers the general framework, and the [customs guide](/blog/research-peptide-customs-clearance-a-professional-b2b-sourcing-guide-2026/) covers the documentation chain.
+
+## Handling & Storage
+
+Lyophilised IGF-1 LR3 is stored at −20°C, dry and protected from light. Let the vial equilibrate before opening. Reconstitute gently with water or a dilute acid solution; IGF-1 is more soluble and less prone to surface adsorption at mildly acidic pH, which is why many laboratories prepare a stock in dilute acetic acid and then dilute into neutral buffer for the assay. Add the solvent down the wall and swirl; do not vortex.
+
+The three disulfides make the protein sensitive to reducing agents. Avoid DTT, TCEP and beta-mercaptoethanol in the stock buffer unless the experiment is specifically designed to test the reduced form. Avoid prolonged exposure to high pH, which promotes deamidation and disulfide scrambling. If the solution becomes cloudy, it may be aggregation; centrifuge and check before adding to cells.
+
+Reconstituted solutions are usually held at 4°C for up to four weeks, but the safer practice is to aliquot and freeze at −20°C or below for longer storage. Repeated freeze-thaw cycles cause aggregation and loss. Use low-binding tubes, because IGF-1 adsorbs to plastic at low concentrations, and consider adding a carrier protein if the assay permits it.
+
+For cell culture, filter through a 0.22 µm membrane if sterility is required, and check recovery. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) and the [handling pillar](/peptide-handling-protocols/) cover the general workflow. The steps above are cell-culture handling, not clinical guidance.
+
+## How It Compares
+
+**Native IGF-1.** The 70-residue ligand, with high IGFBP affinity and a short free half-life. It is the right choice when the experiment is about the native system, including the binding-protein interactions. LR3 is the right choice when a defined, free-ligand exposure is wanted.
+
+**IGF-2.** A related ligand with a different receptor preference and a distinct biology, including effects through the insulin receptor isoform A and the IGF-2 receptor. It is not a substitute for IGF-1 in an IGF-1R assay.
+
+**Insulin.** A related hormone that activates the insulin receptor and, at higher concentrations, the IGF-1 receptor. The cross-reactivity is the reason "minimal IR cross-reactivity" appears in the specification: an analogue that activates both receptors is a different tool.
+
+**MGF (IGF-1Ec).** A splice variant of IGF-1 with a different C-terminal sequence, studied in muscle and repair contexts. It is not the same as LR3, and the literature on one does not transfer to the other. The [MGF listing](/catalog/mgf/) is the catalogue entry.
+
+**Growth hormone.** The upstream regulator of hepatic IGF-1 production. GH acts on the GH receptor; IGF-1 LR3 acts on the IGF-1 receptor. They are related in the axis but not interchangeable in an assay.
 
 ## Frequently Asked Questions
 
-Why is IGF-1 LR3 preferred over native IGF-1 for most research applications? Native IGF-1 has very high binding affinity for circulating and locally produced IGF-binding proteins (IGFBPs), which sequester it and limit receptor availability. This makes dose-response relationships in serum-containing assays highly variable because IGFBP concentrations differ between batches of serum and between cell lines. IGF-1 LR3's ~1000-fold reduced IGFBP affinity means most of the added peptide remains free and receptor-accessible, producing more reproducible and interpretable dose-response data. Its 20–30 hour in vivo half-life also reduces dosing frequency in animal studies. 
+**What does LR3 mean?**
 
-**What concentration range is used for IGF-1 LR3 in cell culture?**
+It refers to the "long" R3 analogue: a 13-amino-acid N-terminal extension plus an Arg3 substitution. The modifications reduce binding to IGF-binding proteins, which increases the free fraction in culture and extends the effective exposure.
 
-For proliferation assays, typical research concentrations range from 1–100 ng/mL (approximately 0.1–11 nM given MW of ~9.1 kDa). For defined serum-free media as a serum substitute, concentrations of 10–100 ng/mL are commonly used in CHO and hybridoma culture protocols. These concentrations are substantially lower than those used for native IGF-1 to achieve equivalent effects, because of the LR3 variant's reduced IGFBP competition in conditioned media. How should IGF-1 LR3 be reconstituted for research use? Reconstitute in sterile 10 mM acetic acid (0.1% acetic acid in sterile water) or PBS containing 0.1–0.5% BSA as a carrier protein to prevent adsorption to plastic surfaces. Avoid plain water at neutral pH without carrier protein — IGF-1 peptides can adsorb to tube walls at low concentrations. Working aliquots at 1–100 μg/mL in 0.1% BSA/PBS are stable for up to 28 days at 4°C. Stock solutions at higher concentrations can be stored at -80°C for long-term use. 
+**Is IGF-1 LR3 the same as IGF-1?**
 
-**Is IGF-1 LR3 available in wholesale quantities for laboratory purchasing?**
+No. Native IGF-1 is 70 amino acids; LR3 is 83 amino acids with two sequence changes. The receptor is the same, but the binding-protein behaviour and the pharmacokinetics are different.
 
-Yes. IGF-1 LR3 is available through Peptides of China on a B2B wholesale basis. Pricing, vial sizes, and volume tiers are provided upon request after account verification. Contact us via the Request page or Contact form. Related Research Articles IGF-1 LR3 Research Applications: A B2B Sourcing and Technical Guide (2026) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+**Why does the analogue bind IGFBPs less?**
+
+The N-terminal extension and the Arg3 substitution interfere with the IGFBP-binding surface. The result is a roughly thousand-fold reduction in affinity, which is why the analogue is described as "long-acting" in serum-containing systems.
+
+**How should it be stored?**
+
+Lyophilised at −20°C, protected from light. Reconstitute gently, preferably in a mildly acidic stock, and avoid reducing agents. Aliquot and freeze for long-term storage; avoid repeated freeze-thaw.
+
+**What purity is supplied?**
+
+The catalogue specification is ≥98 percent by RP-HPLC. For this protein, monomer content and bioactivity are more informative than the headline purity, and the certificate should report both.
+
+**Can it be used in serum-free culture?**
+
+Yes, and that is where it is most useful, because the reduced IGFBP binding makes the free concentration more predictable. A carrier protein may still be needed to prevent adsorption at low concentrations.
+
+**Is IGF-1 LR3 a controlled substance?**
+
+It is regulated as a growth factor in some jurisdictions, and import rules vary. Confirm the local requirements before ordering. Research supply does not exempt the buyer from those rules.
+
+## Related Products
+
+- MGF
+- PEG-MGF
+- HGH 191AA (Somatropin)
+- Tesamorelin
+- Ipamorelin
+
+## The Author's Take
+
+**Position.** I would buy IGF-1 LR3 only with a sequence-level identity check and a bioactivity result. The analogue's whole value is in two small sequence changes, and a certificate that does not show them is not describing the product.
+
+**Reasoning.** LR3 is a protein, not a peptide, and the failure modes are protein failure modes: misfolded disulfides, aggregation, and a mass that matches while the fold does not. The analogue's name is also used loosely in the market, and a vial of native IGF-1 sold as LR3 would pass a casual mass check at the level of "about 9 kDa" only if nobody looked closely. In serum-free culture, where the analogue is most useful, the difference between a correctly folded batch and a scrambled one is the difference between a clean concentration-response curve and a flat line. That is worth a documentation premium.
+
+**Disclosure.** Peptides of China lists IGF-1 LR3 for laboratory research supply. This is a sourcing judgement based on batch documents we review, not medical advice. The material is for in vitro and preclinical research only.
+
+## Sources
+
+1. Rinderknecht, E., Humbel, R. E. (1978). The amino acid sequence of human insulin-like growth factor I and its structural homology with proinsulin. *Journal of Biological Chemistry*, 253(8), 2769–2776. https://doi.org/10.1016/S0021-9258(17)40889-1
+2. Ullrich, A., Gray, A., Tam, A. W., Yang-Feng, T., Tsubokawa, M., Collins, C., Henzel, W., Le Bon, T., Kathuria, S., Chen, E., Jacobs, S., Francke, U., Ramachandran, J., Fujita-Yamaguchi, Y. (1986). Insulin-like growth factor I receptor primary structure: comparison with insulin receptor suggests structural determinants that define functional specificity. *The EMBO Journal*, 5(10), 2503–2512. https://doi.org/10.1002/j.1460-2075.1986.tb04528.x
+3. Jones, J. I., Clemmons, D. R. (1995). Insulin-like growth factors and their binding proteins: biological actions. *Endocrine Reviews*, 16(1), 3–34. https://doi.org/10.1210/edrv-16-1-3
+4. Clemmons, D. R. (1997). Insulin-like growth factor binding proteins and their role in controlling IGF actions. *Cytokine & Growth Factor Reviews*, 8(1), 45–62. https://doi.org/10.1016/S1359-6101(96)00053-6
+5. Dunaiski, V., Dunshea, F. R., Walton, P. E., Goddard, C. (1997). Long [R3] insulin-like growth factor-I reduces growth, plasma growth hormone, IGF binding protein-3 and endogenous IGF-I concentrations in pigs. *Journal of Endocrinology*, 155(3), 559–565. https://doi.org/10.1677/joe.0.1550559
+6. Firth, S. M., Baxter, R. C. (2002). Cellular actions of the insulin-like growth factor binding proteins. *Endocrine Reviews*, 23(6), 824–854. https://doi.org/10.1210/er.2001-0033

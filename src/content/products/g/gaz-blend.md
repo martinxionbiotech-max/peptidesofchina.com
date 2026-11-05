@@ -29,17 +29,19 @@ For a research buyer, the practical question is what the certificate can actuall
 
 ## Compound Profile
 
-Chemical Class: Aqueous antioxidant blend (tripeptide, vitamin, and inorganic salt); Synonyms: GAZ Blend, glutathione–ascorbic acid–zinc formulation; Composition: glutathione, ascorbic acid, zinc sulfate; Concentration: 402.5 mg/mL total solids; Form: 10 mL ampoule, ten ampoules per pack; Storage: 2–8°C, protect from light and air; do not freeze
+Chemical Class: Aqueous antioxidant blend (tripeptide, vitamin, and inorganic salt); Synonyms: GAZ Blend, glutathione–ascorbic acid–zinc formulation; Concentration: 402.5 mg/mL total solids; Form: Vial-style ampoule, 10 mL, ten ampoules per pack; Storage: 2-8°C, protect from light and air; do not freeze
+
+The label composition is glutathione, ascorbic acid, and zinc sulfate.
 
 The 402.5 mg/mL figure is a total-solids or label-composition figure, not a measurement of any single component. It tells you how much material is dissolved. It does not tell you the glutathione concentration, the ascorbate concentration, or the zinc concentration, and it certainly does not tell you the ratio of reduced to oxidised glutathione.
 
-That distinction is the whole page in one sentence. A buyer who treats 402.5 mg/mL as an activity specification is reading a density as a dose.
+That distinction is the whole page in one sentence. A buyer who treats 402.5 mg/mL as an activity specification is reading a density as a concentration.
 
 ## What the Batch Record Should Show
 
-A three-component formulation needs a three-method certificate.
+A three-component formulation needs a three-method certificate. The [quality-testing hub](/peptide-quality-testing/) sets out why the panel approach is necessary, and the [CoA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) explains how to read the individual results.
 
-**Glutathione by HPLC, with the oxidation state specified.** The assay should distinguish GSH from GSSG. A total-glutathione result after reduction, reported as "glutathione", hides the fraction that has already oxidised. The certificate should give the GSH value and, where possible, the GSSG value and the ratio. The [HPLC versus LC-MS note](/blog/hplc-vs-lc-ms-peptides/) explains why a single-wavelength run is weak evidence in a mixture.
+**Glutathione by HPLC, with the oxidation state specified.** The assay should distinguish GSH from GSSG. A total-glutathione result after reduction, reported as "glutathione", hides the fraction that has already oxidised. The certificate should give the GSH value and, where possible, the GSSG value and the ratio. The [HPLC versus LC-MS note](/blog/hplc-vs-lc-ms-peptides/) explains why a single-wavelength run is weak evidence in a mixture, and the note on [why purity and concentration tests are not enough](/blog/why-purity-and-concentration-tests-are-not-enough/) applies directly to a blend like this.
 
 **Ascorbic acid by HPLC-UV.** Ascorbate absorbs at 245 nm, and the assay should be run quickly after opening because the analyte degrades on the bench. The certificate should state whether the result is total ascorbate after reduction or the reduced form only. The two are not interchangeable, and the difference grows as the product ages.
 
@@ -57,7 +59,7 @@ A three-component formulation needs a three-method certificate.
 
 ## Sourcing & Verification
 
-Formulated antioxidant blends are common in the supplement trade and less common in regulated research supply. That mismatch produces a predictable set of problems: suppliers who can fill ampoules but cannot assay the contents, and certificates that describe the ingredients rather than the batch.
+Formulated antioxidant blends are common in the supplement trade and less common in regulated research supply. That mismatch produces a predictable set of problems: suppliers who can fill ampoules but cannot assay the contents, and certificates that describe the ingredients rather than the batch. The [China sourcing guide](/china-peptide-sourcing/) sets out the manufacturer checks used for listings of this kind, and the [compliance note](/peptide-compliance-risk/) covers the regulatory side.
 
 - Does the certificate report glutathione, ascorbate, and zinc separately, each with a method?
 - Is the glutathione result split into GSH and GSSG, or reported as a total?
@@ -67,18 +69,18 @@ Formulated antioxidant blends are common in the supplement trade and less common
 - Is the appearance described, and is a colour specification given?
 - Is there a sterility or bioburden result?
 - Is endotoxin reported for cell-culture use?
-- Does the batch number match the ampoule, and is there a retest date?
+- Does the lot number tie the certificate to the ampoule, and is there a retest date?
 - Does the supplier explain how the three components were combined and in what order?
 
 The order of mixing is not a trivial detail. If zinc is added to a concentrated glutathione solution, the thiol can coordinate the metal and change the colour and the solubility. If ascorbate is added before the pH is adjusted, it can oxidise rapidly. A supplier who can describe the process has usually thought about the stability; a supplier who cannot is working from a recipe.
 
 The related products in this catalogue are mostly peptide blends, and the analytical logic is different: a peptide blend can at least be characterised by a common chromatographic method, whereas GAZ requires three orthogonal assays. The [glutathione page](/catalog/glutathione/) covers the single-component case in more depth, and the [GGH Blend page](/catalog/ggh-blend/) is a useful contrast because it combines a copper peptide with glutathione — a formulation with even more metal–thiol chemistry.
 
-Import rules for injectable vitamin and mineral preparations vary. We supply for laboratory research only and do not provide legal advice. The [compliance and sourcing risk](/peptide-compliance-risk/) section covers the general framework.
+Import rules for vitamin and mineral preparations vary. Supply is for laboratory research; local law remains the buyer's concern. The [compliance note](/peptide-compliance-risk/) covers the general framework.
 
 ## Handling & Storage
 
-Store at 2–8°C, protected from light. Do not freeze: freezing a concentrated aqueous formulation can cause the solutes to crystallise, and the redissolved solution may not be homogeneous.
+Keep the ampoules between 2 and 8°C and out of direct light. Do not freeze: freezing a concentrated aqueous formulation can cause the solutes to crystallise, and the redissolved solution may not be homogeneous.
 
 Ampoules are single-use. Score the neck if the glass is not pre-scored, wrap it in a wipe, and break away from the body. Inspect the solution against a dark and a light background before use; glass particles are easier to see against a dark background, and a brown tint is easier to see against a white one.
 
@@ -88,7 +90,7 @@ Do not filter a degraded solution and assume it is now clean. A yellow-brown col
 
 For cell-based work, check the final osmolality and pH after dilution. A hypertonic stock can stress cells independently of the antioxidant effect, and a pH shift can change the speciation of zinc. Include a vehicle control that matches the dilution and the salt load.
 
-All handling described here is bench-scale laboratory procedure. The product is supplied for research use only and is not intended for administration to humans or animals. The [handling and protocols hub](/peptide-handling-protocols/) covers the wider workflow.
+The handling notes above describe bench practice only. The ampoules are sold for laboratory research; they are not for human or animal use. The [handling and protocols hub](/peptide-handling-protocols/) covers the wider workflow.
 
 ## How It Compares
 
@@ -130,9 +132,9 @@ Ascorbate oxidises to dehydroascorbate and further products, which are yellow-br
 
 Yes. Ascorbate can reduce oxidised glutathione, and zinc binds the cysteine thiol of glutathione. The formulation is a redox network, and the interactions are part of what makes it interesting to study — and part of what makes it hard to characterise.
 
-**How should the ampoules be stored?**
+**What storage conditions do the ampoules need?**
 
-At 2–8°C, protected from light, and not frozen. Inspect before use and discard if the solution is cloudy, particulate, or discoloured.
+Between 2 and 8°C, away from light, with no freezing. Warm to room temperature before opening only if the protocol requires it, and never refreeze a chilled ampoule.
 
 **Is it sterile?**
 
@@ -140,7 +142,7 @@ Sterility is not implied by the catalogue listing. Ask for the bioburden or ster
 
 **Can it be used in cell culture?**
 
-It is supplied for laboratory research only. Suitability depends on endotoxin, osmolality, pH, and the dilution used. Request the full panel before planning a cell-based assay.
+For cell work, check endotoxin, osmolality, pH, and the dilution factor; the lot is sold for laboratory research only. Request the full panel before planning a cell-based assay.
 
 ## The Author's Take
 
@@ -148,7 +150,7 @@ It is supplied for laboratory research only. Suitability depends on endotoxin, o
 
 **Reasoning.** The formulation's selling point is that it combines three redox-active components. That is also its analytical weakness: each component can degrade without the others noticing, and the interactions between them mean that a change in one shifts the state of the others. A certificate that reports total solids or a single ingredient is not describing the system. The three assays are not bureaucracy; they are the minimum evidence that the vial contains what the label says. A supplier who runs them has a process. A supplier who does not is asking the buyer to infer quality from a colour and a price.
 
-**Disclosure.** Peptides of China sells GAZ Blend and the related products linked on this page. This is a sourcing judgment based on the batch documents we review, not medical advice. The product is supplied for laboratory research only and is not for human or veterinary use.
+**Disclosure.** Peptides of China sells GAZ Blend and the related listings above. The opinion is about sourcing evidence, not health. Laboratory research only.
 
 ## Sources
 

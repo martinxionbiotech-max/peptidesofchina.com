@@ -23,7 +23,7 @@ Putting them in one ampoule is a formulation decision, not a pharmacological one
 
 That adjacency is also the analytical problem. Six water-soluble compounds with different UV absorbance maxima, different ionization behaviour, and different stability profiles do not fit one generic HPLC method. A supplier that reports a single "purity" figure for the blend is either measuring one marker and extrapolating or reporting a number that has no defined meaning. The useful release package reports each component separately, with a method and a specification for each.
 
-The catalogue concentration of 350.25 mg/mL is a total dissolved solids figure, not a sum of active ingredients with independent release limits. Buyers should ask for the component table and the mass balance. If the sum of declared components accounts for only part of the 350.25 mg/mL, the difference is excipient, buffer, or water — and that difference should be identified.
+The catalogue concentration of 350.25 mg/mL is a total concentration for the finished solution, not a sum of active ingredients with independent release limits. Buyers should ask for the component table and the mass balance. If the sum of declared components accounts for only part of the 350.25 mg/mL, the difference is excipient, buffer, or water — and that difference should be identified.
 
 ## Compound Profile
 
@@ -49,7 +49,7 @@ Uniformity is the next issue. An ampoule is a single unit, so content uniformity
 
 The physical and microbiological tests matter as much as the assays. pH should be recorded with the buffer system identified; a liquid blend at the wrong pH can precipitate or hydrolyse. Osmolality should be stated if the material is intended for cell-culture dilution, because a hypertonic stock can distort a medium. Sterility by membrane filtration and endotoxin by LAL are minimum release tests for a sterile liquid. Particulate matter should be checked by the light-obscuration method, and visible particles by inspection against a black-and-white background.
 
-Preservative status should be explicit. A multi-dose ampoule that contains no preservative has a different handling window from one that does. If a preservative is present, the certificate should identify it and give its concentration. If the label says "sterile" but not "preservative-free," ask which is true.
+Preservative status should be explicit. A multi-use ampoule that contains no preservative has a different handling window from one that does. If a preservative is present, the certificate should identify it and give its concentration. If the label says "sterile" but not "preservative-free," ask which is true.
 
 Finally, a stability-indicating assay is worth requesting. The blend contains vitamins that are light-sensitive and a choline salt that is hygroscopic. A short accelerated study — four weeks at 25°C/60% RH and at 40°C/75% RH — will show whether the label claim survives the shipping lane. A supplier that cannot provide any stability data is selling a batch, not a product.
 
@@ -99,13 +99,13 @@ A second comparison is oral versus liquid format. Many carnitine and choline res
 
 **Reasoning.** A single peptide has one identity, one purity, and one impurity profile. A six-component blend has six of each, plus a solvent, plus a container, plus a fill volume. Every one of those is a place for a supplier to substitute, omit, or overstate. The certificate that matters is not the one with the highest number; it is the one that lists each analyte, its method, its specification, and its result. I would rather buy a batch with a 96% carnitine assay that is fully documented than a batch with a 102% label claim and no component table. The second number is often a calculation, not a measurement.
 
-**Disclosure.** Peptides of China lists SHRED for sale. This is a sourcing opinion about documentation standards, not a claim about the formulation's effects in any model.
+**Disclosure.** Peptides of China lists SHRED for sale. The judgment above concerns assay depth and the concentration basis, not a biological effect.
 
 ## Frequently Asked Questions
 
 **What is SHRED and what is it used for in research?**
 
-SHRED is a six-component liquid formulation containing L-carnitine, methionine, inositol, choline, vitamin B6, and vitamin B12. It is used as a laboratory reagent in studies of lipid transport, methyl-group transfer, phospholipid synthesis, and water-soluble cofactor metabolism. It is not a therapeutic product, and this page does not describe human use.
+SHRED is a six-component liquid formulation containing L-carnitine, methionine, inositol, choline, vitamin B6, and vitamin B12. It is used as a laboratory reagent in studies of lipid transport, methyl-group transfer, phospholipid synthesis, and water-soluble cofactor metabolism. It is not a medicine, and this page does not describe human use.
 
 **Why is there no CAS number or molecular formula?**
 

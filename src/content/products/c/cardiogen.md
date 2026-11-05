@@ -41,7 +41,7 @@ The chemistry is the other reason to work with it. Dipeptides are small enough t
 
 ## What the Batch Record Should Show
 
-Identity for a dipeptide cannot rest on a single mass. Ala-Glu has a small number of possible isomers and sequence reversals, and a low-resolution mass spectrum may not distinguish them. The certificate should report an accurate mass with the calculated value and the mass error, and it should include either a tandem mass spectrum with fragment assignments or a nuclear magnetic resonance spectrum with the diagnostic signals. For a two-residue peptide, the NMR is often the more convincing document.
+Identity for a dipeptide cannot rest on a single mass, and the [HPLC versus LC-MS note](/blog/hplc-vs-lc-ms-peptides/) explains why the method choice changes what a number means. Ala-Glu has a small number of possible isomers and sequence reversals, and a low-resolution mass spectrum may not distinguish them. The certificate should report an accurate mass with the calculated value and the mass error, and it should include either a tandem mass spectrum with fragment assignments or a nuclear magnetic resonance spectrum with the diagnostic signals. For a two-residue peptide, the NMR is often the more convincing document.
 
 Purity by HPLC belongs on the record with the method. Cardiogen has no aromatic residues, so detection at 214 nm relies on the peptide bond and the carboxylic acid. The signal is weak, the baseline can drift, and the integration threshold matters. Ask for the chromatogram and the blank, and look for a peak that elutes before or after the main peak: a cyclic diketopiperazine is the most likely degradant and it can be close to the parent.
 
@@ -51,9 +51,9 @@ Counterion and water content follow. The free peptide is acidic because of the g
 
 Residual trifluoroacetic acid and residual solvents belong on the record if the peptide was purified by preparative HPLC. For a dipeptide, TFA can be a significant fraction of the dry mass if the lyophilisation cycle was short. Ion chromatography or fluorine NMR gives the number.
 
-Endotoxin and sterility are separate. A lyophilized powder is not sterile by default, and the LAL result should be reported with units and limit. The [endotoxin note](/blog/what-are-endotoxins-why-they-matter/) explains why a low endotoxin figure can matter more than an extra point of purity for primary cardiomyocytes.
+Endotoxin and sterility are separate. Do not read "research grade" as sterile: a freeze-dried powder carries a sterility claim only when the fill process supports one, and the endotoxin result should come with units and a limit. For primary cardiomyocytes, a low endotoxin figure can matter more than an extra point of purity; the [endotoxin note](/blog/what-are-endotoxins-why-they-matter/) explains why.
 
-Batch linkage closes the record. The vial number and the certificate number must match, and the document should carry synthesis date, purification method, fill date, and retest date. The [CoA guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) walks through the fields.
+A certificate that cannot be tied to the vial is not a batch record. Check that the lot numbers agree and that the document gives synthesis, purification, fill, and retest dates. Each field is explained in the [CoA guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/).
 
 ## Sourcing & Verification
 
@@ -63,25 +63,25 @@ Ask how the dipeptide was made. Solid-phase synthesis of two residues is simple,
 
 Ask about the diketopiperazine control. This is the question that separates a peptide chemist from a reseller. A manufacturer who understands dipeptides will have a chromatographic method that resolves the cyclic form and will report it. A reseller will not know what the question means. The answer is more informative than the certificate's purity figure.
 
-Ask about the fill and the peptide content. A 20 mg fill is small, and the difference between fill mass and peptide mass is larger for a hygroscopic salt. The certificate should give peptide content per vial, not only the fill weight. The [quality-testing overview](/peptide-quality-testing/) lists the tests and what each establishes.
+Ask about the fill and the peptide content. A 20 mg fill is small, and the difference between fill mass and peptide mass is larger for a hygroscopic salt. The certificate should give peptide content per vial as well as the fill weight. A fuller test list sits in the [quality-testing overview](/peptide-quality-testing/).
 
 Ask about storage history. A dipeptide is chemically stable when dry and cool, but a lot that sat in a warm warehouse for a year may have cyclised at the surface. Ask for the retest date and the storage condition, and treat a certificate older than the retest date as expired.
 
-Finally, ask for a pilot vial and run your own HPLC. For a compound this small, a single injection with a photodiode array detector and a mass spectrometer will tell you more than any certificate. The [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) covers the entity checks that sit behind the document.
+Finally, ask for a pilot vial and run your own HPLC. For a compound this small, one run with a photodiode array detector and a mass spectrometer will tell you more than any certificate. Use the [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) to qualify the company behind the paper.
 
 ## Handling & Storage
 
-Store the lyophilized powder at −20 °C, desiccated, protected from light. Let the vial reach room temperature before opening; a cold vial collects condensation and a hygroscopic dipeptide will absorb it.
+Storage is −20 °C, desiccated, with the vial kept out of light. Let it reach room temperature before opening; a cold vial collects condensation and a hygroscopic dipeptide will absorb it.
 
-Reconstitute with water or a buffer at neutral pH. Add the solvent gently and swirl; do not heat, and do not sonicate for long periods. Heat and high pH both accelerate diketopiperazine formation. If the peptide is slow to dissolve, check the pH and the ionic strength before adding more solvent.
+Reconstitute with water or a buffer at neutral pH, following the [solubility note](/blog/peptide-solubility-troubleshooting/) if the powder is slow to dissolve. Add the solvent gently and swirl; do not heat, and do not sonicate for long periods. Heat and high pH both accelerate diketopiperazine formation. If the peptide is slow to dissolve, check the pH and the ionic strength before adding more solvent.
 
 Avoid storing reconstituted solutions for long periods. A dipeptide has no secondary structure to lose, but it has a cyclisation pathway that runs faster in solution than in the dry state. Prepare the working solution on the day of the experiment, or aliquot and freeze it at −20 °C for short-term storage. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers solvent and container choice.
 
-Do not autoclave the solution or the powder. Steam sterilisation will hydrolyse the peptide and drive cyclisation, and the container may not survive the cycle. If a sterile preparation is required, filter through a 0.22 µm membrane and confirm recovery.
+Do not autoclave the solution or the powder. Steam sterilisation will hydrolyse the peptide and drive cyclisation, and the container may not survive the cycle. Where a sterile stock is needed, pass it through a 0.22 µm membrane and measure what comes through.
 
 Use polypropylene tubes for dilute stocks. The peptide is small and polar, and adsorption to glass and polystyrene is measurable at low concentrations. A recovery check with a quantitative assay is cheaper than repeating an experiment. The [handling hub](/peptide-handling-protocols/) covers general laboratory practice.
 
-The steps above are bench procedures for a research reagent. They are not instructions for preparing anything for human or animal use.
+What is described above is bench practice for a research reagent. It is not a preparation protocol for human or animal use.
 
 ## How It Compares
 
@@ -99,11 +99,11 @@ The steps above are bench procedures for a research reagent. They are not instru
 
 **What is cardiogen?**
 
-Cardiogen is a synthetic dipeptide with the sequence Ala-Glu, supplied as a lyophilized powder for laboratory research. It is one of the short peptide bioregulators associated with the St Petersburg gerontology group and is named for cardiac tissue.
+Cardiogen is a synthetic dipeptide with the sequence Ala-Glu, supplied as a lyophilized powder for laboratory research. The name comes from cardiac tissue, and the compound sits in the St Petersburg series of short peptide bioregulators.
 
 **Is a dipeptide stable in solution?**
 
-It is chemically simple but not inert. The free amine and the free carboxylate can react to form a diketopiperazine, especially at high pH or elevated temperature. Prepare working solutions fresh, keep them cool, and avoid autoclaving.
+It is chemically simple but not inert. The free amine and the free carboxylate can react to form a diketopiperazine, especially at high pH or higher temperature. Prepare working solutions fresh, keep them cool, and avoid autoclaving.
 
 **What should the certificate show for identity?**
 
@@ -111,11 +111,11 @@ An accurate mass with the calculated value and mass error, plus either a tandem 
 
 **Why does the counterion matter?**
 
-The free peptide and the sodium or acetate salt differ in mass, solubility, and hygroscopicity. The certificate should state which form was filled and give the peptide content per vial, not only the fill weight.
+The free peptide and the sodium or acetate salt differ in mass, solubility, and hygroscopicity. The certificate should state which form was filled and give the peptide content per vial as well as the fill weight.
 
 **Can cardiogen be used in cell culture?**
 
-Yes, with a sterile, endotoxin-tested preparation and a vehicle control. Filter through a 0.22 µm membrane and check recovery. For primary cardiomyocytes, endotoxin can dominate the readout.
+Yes, if the stock is sterile and endotoxin-tested and a vehicle control is included. Pass it through a 0.22 µm membrane and check recovery. Primary cardiomyocytes are sensitive enough that endotoxin can dominate the readout.
 
 **Does the catalogue list a CAS number?**
 
@@ -127,7 +127,7 @@ Bronchogen is the tetrapeptide Ala-Glu-Asp-Leu; cardiogen is the dipeptide Ala-G
 
 **Is there clinical evidence for cardiogen?**
 
-The published work is preclinical and includes small studies that have not been independently replicated. This page does not summarise clinical use. The product is sold for laboratory research only.
+The published work is preclinical and includes small studies that have not been independently replicated. No clinical use is summarised here; the product is sold for laboratory research only.
 
 ## Related Products
 

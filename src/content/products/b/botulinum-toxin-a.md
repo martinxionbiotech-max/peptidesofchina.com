@@ -33,7 +33,7 @@ The catalogue describes the product as a "complex", which is a specific term. Na
 
 The SNARE story is one of the cleanest mechanistic narratives in neuroscience. Synaptic vesicles dock at the presynaptic membrane through a four-helix bundle formed by syntaxin, SNAP-25, and synaptobrevin. The bundle pulls the membranes together and drives fusion. Botulinum neurotoxin type A enters the light chain into the cytosol, where it removes nine amino acids from the C-terminus of SNAP-25. The truncated protein can still assemble part of the bundle but cannot complete fusion, so vesicle release falls. The effect is long-lasting because the cleaved SNAP-25 is not quickly replaced at the terminal.
 
-That mechanism makes the toxin a tool rather than a drug in a laboratory context. It is used to silence synaptic release in cultured neurons, to map circuits when injected into defined brain regions in animal models, and to study vesicle cycling by comparing synchronous and asynchronous release. It is also used as an analytical reagent: because the cleavage is specific, an antibody against the neo-epitope can report activity, and a SNAP-25 peptide substrate can be used in a FRET assay to measure the light chain's protease activity in vitro.
+That mechanism makes the toxin a tool rather than a drug in a laboratory context. It is used to silence synaptic release in cultured neurons, to map circuits when delivered into defined brain regions in animal models, and to study vesicle cycling by comparing synchronous and asynchronous release. It is also used as an analytical reagent: because the cleavage is specific, an antibody against the neo-epitope can report activity, and a SNAP-25 peptide substrate can be used in a FRET assay to measure the light chain's protease activity in vitro.
 
 The therapeutic and cosmetic uses of botulinum toxin are well known and deliberately outside the scope of this page. The research literature that supports those uses is a clinical literature with doses, routes, and patient populations. A catalogue page that borrows that language would blur the line between a reagent and a medicine, and that line is the reason this product is sold under research-use terms.
 
@@ -49,7 +49,7 @@ Identity should be established by two orthogonal methods. SDS-PAGE under reducin
 
 Complexing proteins belong on the record if the product is the complex. Haemagglutinin and non-haemagglutinin proteins appear as additional bands on SDS-PAGE and change the molecular weight distribution in size-exclusion chromatography. A certificate that reports a single 150 kDa band is describing the purified neurotoxin, not the complex, and the two should not be sold under the same name.
 
-Purity by HPLC is less informative for a protein of this size than for a peptide. Reversed-phase chromatography can show the intact neurotoxin and its clippings, but the complexing proteins may precipitate or elute poorly; the [HPLC versus LC-MS note](/blog/hplc-vs-lc-ms-peptides/) explains why the method choice changes what a percentage means. Size-exclusion chromatography gives a better view of aggregation and complex size. Ask which method was used and what the chromatogram shows, not only the percentage.
+Purity by HPLC is less informative for a protein of this size than for a peptide. Reversed-phase chromatography can show the intact neurotoxin and its clippings, but the complexing proteins may precipitate or elute poorly; the [HPLC versus LC-MS note](/blog/hplc-vs-lc-ms-peptides/) explains why the method choice changes what a percentage means. Size-exclusion chromatography gives a better view of aggregation and complex size. Ask which method was used and what the chromatogram shows, beyond the percentage.
 
 Residual moisture and reconstitution behaviour matter for a lyophilized protein. Karl Fischer water content, fill mass, and a visual check of the cake belong on the record. A cake that has collapsed or shrunk may still pass a potency assay, but it suggests a freeze-drying cycle that was not controlled, and the next lot may not.
 
@@ -59,7 +59,7 @@ Finally, biosafety documentation. A supplier shipping a high-potency neurotoxin 
 
 ## Sourcing & Verification
 
-Verification starts with the licence. A legitimate manufacturer of botulinum toxin operates under a pharmaceutical or biological licence, and the certificate should name the site. Ask for the licence number and the site address, then check them against the regulator's public register where one exists. The [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) sets out the entity checks.
+Verification starts with the licence. A legitimate manufacturer of botulinum toxin operates under a pharmaceutical or biological licence, and the certificate should name the site. Ask for the licence number and the site address, then check them against the regulator's public register where one exists. For the company checks, work through the [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/).
 
 The second question is whether the product is the complex or the purified neurotoxin. Both are legitimate research reagents, but they are not interchangeable. The complex is more stable in the gut and is the form used in older pharmacology work; the purified neurotoxin is the form used in cell-culture and circuit-mapping studies. Ask for the molecular weight distribution and the band pattern on SDS-PAGE, and compare with the product description.
 
@@ -69,7 +69,7 @@ The fourth question is the cold chain. Botulinum toxin loses potency when it is 
 
 The fifth question is the end-use declaration. A supplier that asks for the institution, the responsible investigator, and the containment level is doing the right thing. A supplier that ships to a residential address without questions is not. The [research-use disclaimer](/research-use-disclaimer/) describes the terms under which the catalogue sells restricted compounds.
 
-Finally, ask for a small pilot before a full pack. A single vial tested in-house for identity, potency, and endotoxin is the only way to confirm that the certificate describes the material. The [quality-testing overview](/peptide-quality-testing/) lists the tests and what each one establishes.
+Finally, ask for a small pilot before a full pack. A single vial tested in-house for identity, potency, and endotoxin is the only way to confirm that the certificate describes the material. The [quality-testing overview](/peptide-quality-testing/) explains what each test covers.
 
 ## Handling & Storage
 
@@ -81,7 +81,7 @@ Do not filter a reconstituted neurotoxin through a membrane that adsorbs protein
 
 Aliquot into single-use volumes and freeze only if the manufacturer's stability data support it. For most research-grade preparations, refrigeration for the working window is preferred, and the window is established by the supplier's stability study, not by convenience. Label each aliquot with the date and the lot.
 
-Inactivate waste with the method specified in the safety data sheet, typically an alkaline or hypochlorite treatment, and autoclave if the institutional protocol requires it. Do not dispose of reconstituted material down a sink. The [handling hub](/peptide-handling-protocols/) covers general laboratory practice, and the [storage note](/blog/peptide-stability-why-lyophilized-peptides-are-far-more-stable-than-you-think/) explains why a lyophilized protein still needs a controlled cold chain. The institutional biosafety officer's instructions take precedence for this compound.
+Inactivate waste with the method specified in the safety data sheet, typically an alkaline or hypochlorite treatment, and autoclave if the institutional protocol requires it. Do not dispose of reconstituted material down a sink. General bench practice sits in the [handling hub](/peptide-handling-protocols/); the [storage note](/blog/peptide-stability-why-lyophilized-peptides-are-far-more-stable-than-you-think/) explains why a freeze-dried protein still needs a controlled cold chain. The institutional biosafety officer's instructions take precedence for this compound.
 
 ## How It Compares
 
@@ -133,7 +133,7 @@ In many jurisdictions it is a select agent or a controlled biological agent. Che
 
 **Position.** Botulinum toxin A is the one product in this catalogue where I would put biosafety and licensing ahead of price, purity, and lead time — in that order. A cheap vial from a supplier who does not ask about your facility is not a bargain.
 
-**Reasoning.** The compound is a high-potency neurotoxin, and the failure modes are not the ones a peptide buyer is used to. A contaminated vial is a problem; an aerosolised vial is a different category of problem. The documentation that matters is therefore not only the certificate but the safety data sheet, the inactivation method, the shipping declaration, and the supplier's willingness to verify the consignee. On the analytical side, the unit is the specification, and a supplier who cannot describe the potency assay cannot support the label. I would ask for the assay method, the reference standard, and the SDS-PAGE band pattern before I asked for a quote. If any of those is missing, the conversation is over.
+**Reasoning.** The compound is a high-potency neurotoxin, and the failure modes are not the ones a peptide buyer is used to. A contaminated vial is a problem; an aerosolised vial is a different category of problem. The documentation that matters is therefore the safety data sheet, the inactivation method, the shipping declaration, and the supplier's willingness to verify the consignee, as much as the certificate. On the analytical side, the unit is the specification, and a supplier who cannot describe the potency assay cannot support the label. I would ask for the assay method, the reference standard, and the SDS-PAGE band pattern before I asked for a quote. If any of those is missing, the conversation is over.
 
 **Disclosure.** Peptides of China lists botulinum toxin A as a research reagent. This is a sourcing and handling judgment, not medical advice. The product is not for human or veterinary use, and nothing here describes a clinical, cosmetic, or administration application.
 

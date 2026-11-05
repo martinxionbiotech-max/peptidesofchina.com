@@ -66,13 +66,13 @@ Let the vial reach room temperature before opening to avoid condensation. Recons
 
 Aqueous solutions are usually held at 2–8°C for short-term use. For longer experiments, aliquot into single-use portions and freeze at −20°C or below; repeated freeze-thaw cycles increase oxidation and adsorption losses. Use low-binding tubes, especially at low micromolar concentrations. If the assay is sensitive to trace metals, note that copper and iron accelerate tryptophan oxidation, so chelator-free buffers are not always the better choice.
 
-For cell culture, filter through a 0.22 µm membrane and check recovery. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) and the [handling pillar](/peptide-handling-protocols/) cover the general workflow. These are bench instructions for research material, not administration guidance.
+For cell culture, filter through a 0.22 µm membrane and check recovery. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) and the [handling pillar](/peptide-handling-protocols/) cover the general workflow. Everything above is bench-scale handling of a research reagent; none of it is a clinical procedure.
 
 ## How It Compares
 
 **GHRP-6.** The closest analogue and the usual comparator. GHRP-6 carries tryptophan at position two and is less potent at GHS-R1a; it also has a longer history in appetite and ghrelin research. Hexarelin is the sharper tool for potency comparisons, GHRP-6 the more common reference for feeding studies.
 
-**GHRP-2.** 2-naphthylalanine at position two, with a different potency and selectivity profile. GHRP-2 is often used where a longer-acting secretagogue is wanted. The three peptides are not interchangeable in a dose-response curve, and the [family overview](/blog/growth-hormone-peptides-wholesale-a-2026-b2b-procurement-guide/) explains why.
+**GHRP-2.** 2-naphthylalanine at position two, with a different potency and selectivity profile. GHRP-2 is often used where a longer-acting secretagogue is wanted. The three peptides are not interchangeable in a concentration-response experiment, and the [family overview](/blog/growth-hormone-peptides-wholesale-a-2026-b2b-procurement-guide/) explains why.
 
 **Ipamorelin.** A pentapeptide with greater selectivity for GH release and less effect on appetite-related pathways in some models. Researchers choosing between ipamorelin and hexarelin are usually choosing between selectivity and potency, not between "better" and "worse". The [ipamorelin sourcing guide](/blog/sourcing-ipamorelin-from-china-a-2026-b2b-procurement-guide/) covers the practical side.
 
@@ -96,7 +96,7 @@ Because a six-residue peptide with a non-natural amino acid can be wrong in ways
 
 **What purity do you supply?**
 
-The catalogue specification is ≥98 percent by RP-HPLC, with identity confirmed by mass spectrometry. The certificate should be read for method detail and for oxidised species, not only for the headline number.
+The catalogue specification is ≥98 percent by RP-HPLC, with identity confirmed by mass spectrometry. The certificate should be read for method detail and for oxidised species, not just for the headline number.
 
 **How should the powder be stored?**
 
@@ -115,7 +115,7 @@ It is not scheduled in most jurisdictions, but import rules for research peptide
 - GHRP-6
 - GHRP-2
 - Ipamorelin
-- CJC-1295 (No DAC)
+- CJC-1295 Without DAC
 - Sermorelin Acetate
 
 ## The Author's Take
@@ -124,7 +124,7 @@ It is not scheduled in most jurisdictions, but import rules for research peptide
 
 **Reasoning.** Hexarelin's distinguishing features are all small: a methyl group on a tryptophan, an amide at the C-terminus, two oxidisable indoles. A supplier can be off by one of those and still produce a certificate that looks clean. The mass difference is small enough that a nominal-mass check may not catch it, and the potency difference is large enough to change an EC50. When a peptide is used as a reference agonist, the reference has to be the right molecule. That is a documentation argument, not a price argument.
 
-**Disclosure.** Peptides of China lists hexarelin for laboratory research supply. This is a sourcing opinion based on batch documents we review; it is not medical advice and says nothing about human use. The compound is supplied for in vitro and preclinical research only.
+**Disclosure.** Peptides of China lists hexarelin for laboratory research supply. This is a sourcing opinion drawn from the batch documents we review. It is not medical advice and says nothing about human use. The compound is supplied for in vitro and preclinical research only.
 
 ## Sources
 

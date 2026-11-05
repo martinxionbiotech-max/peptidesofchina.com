@@ -49,9 +49,9 @@ Identity and assay come first. A gas chromatography method with a flame ionisati
 
 Benzaldehyde belongs on the same chromatogram. A limit of not more than a few tenths of a percent is typical for a pharmacopoeial-grade solution. If the certificate does not mention benzaldehyde at all, the method probably was not designed to see it, and the batch may be older than the label suggests.
 
-Water quality is the next field. Purified water used in a parenteral-grade preparation is tested for conductivity, total organic carbon, and microbial counts; the [purity-testing note](/blog/why-purity-and-concentration-tests-are-not-enough/) explains why those limits do not substitute for an assay of the active ingredient. The certificate should state which water grade was used and give the conductivity and TOC results. "Water for injection" is a claim about a validated process, not a synonym for clean water.
+Water quality is the next field. Purified water used in a pharmacopoeial preparation is tested for conductivity, total organic carbon, and microbial counts; the [purity-testing note](/blog/why-purity-and-concentration-tests-are-not-enough/) explains why those limits do not substitute for an assay of the active ingredient. The certificate should state which water grade was used and give the conductivity and TOC results. A pharmacopoeial water grade is a claim about a validated process, not a synonym for clean water.
 
-Sterility and endotoxin are separate. A solution can be sterile and still contain endotoxin, and it can be low in endotoxin and not sterile. For cell work, both matter. Ask for the sterility method (membrane filtration or direct inoculation) and the limulus amebocyte lysate result with its units and limit. The [endotoxin primer](/blog/what-are-endotoxins-why-they-matter/) explains how the limit is set.
+Sterility and endotoxin are separate. A solution can be sterile and still contain endotoxin, and it can be low in endotoxin and not sterile. For cell work, both matter. Ask for the sterility method (membrane filtration or direct inoculation) and the limulus amebocyte lysate result with its units and limit. The [endotoxin primer](/blog/what-are-endotoxins-why-they-matter/) covers how that limit is chosen.
 
 Particulate matter is often skipped in research-grade material and should not be. A visible-particle inspection and a sub-visible particle count by light obscuration give a direct measure of container and filling quality. A solution that is "clear" to the eye can still fail a sub-visible count by an order of magnitude.
 
@@ -63,11 +63,11 @@ Finally, the batch record should link the lot to the fill date and the expiry. B
 
 The first question is what the product actually is. "BAC water" is sold as a laboratory reagent, as a cosmetic ingredient, and as a pharmacy compound. The three are not the same. A laboratory buyer should ask for the pharmacopoeial reference, the water grade, and the sterility claim, and should reject a listing that answers only with "0.9% benzyl alcohol".
 
-The second question is the grade of the benzyl alcohol itself. The compendial monograph sets limits on related substances, including benzaldehyde and chlorinated impurities. A supplier using technical-grade benzyl alcohol and diluting it in clean water can hit 0.9% by assay and still fail the related-substances limit. Ask for the starting-material specification, not only the finished solution.
+The second question is the grade of the benzyl alcohol itself. The compendial monograph sets limits on related substances, including benzaldehyde and chlorinated impurities. A supplier using technical-grade benzyl alcohol and diluting it in clean water can hit 0.9% by assay and still fail the related-substances limit. Ask for the starting-material specification as well as the finished solution.
 
 The third question is fill volume and headspace. A 10 mL vial that contains 10.5 mL is a different product from one that contains 9.8 mL, and the difference matters when the reagent is used as a diluent at a fixed ratio. Ask for the fill range and the overfill policy. The [quality-testing overview](/peptide-quality-testing/) lists the tests that apply to formulated reagents as well as to peptides.
 
-The fourth question is documentation chain. A certificate issued by a trading company for a product made by someone else is still useful, but the manufacturing site must be named; the [third-party CoA note](/blog/why-we-do-not-provide-third-party-coas-and-what-that-actually-means/) sets out what such a document can and cannot prove. The [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) sets out the entity checks, and they apply to a simple solution as much as to a peptide.
+The fourth question is documentation chain. A certificate issued by a trading company for a product made by someone else is still useful, but the manufacturing site must be named; the [third-party CoA note](/blog/why-we-do-not-provide-third-party-coas-and-what-that-actually-means/) sets out what such a document can and cannot prove. Entity checks for a simple solution are the same as for a peptide; the [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) lists them.
 
 The fifth question is compatibility. If the solution will be used with a specific peptide, ask the peptide supplier whether benzyl alcohol is compatible with that sequence. A preservative that reacts with an N-terminal amine or a lysine side chain is not a neutral choice. Where compatibility is unknown, run a small pilot: prepare the solution, hold it at the intended storage temperature, and check for new peaks by HPLC at 24 and 72 hours.
 
@@ -87,13 +87,13 @@ Dispose of expired or cloudy solution as chemical waste under your local [compli
 
 ## How It Compares
 
-**Sterile water for injection (SWFI).** No preservative, no buffering capacity, and no margin against contamination once opened. It is the right diluent for a single-use preparation or for a peptide that reacts with benzyl alcohol. It is the wrong choice for a multi-dose working stock that will be sampled repeatedly.
+**Unpreserved sterile water.** No preservative, no buffering capacity, and no margin against contamination once opened. It is the right diluent for a single-use preparation or for a peptide that reacts with benzyl alcohol. It is the wrong choice for a multi-dose working stock that will be sampled repeatedly.
 
 **Phosphate-buffered saline (PBS).** Isotonic, buffered, and compatible with most cell assays, but not preserved. A PBS stock that is opened repeatedly is a microbial risk unless it is filter-sterilised into single-use aliquots. PBS also contains phosphate, which can precipitate with some counterions.
 
 **0.9% sodium chloride.** Isotonic and preservative-free. It is a better choice than BAC water when osmolality matters and a single-use aliquot is acceptable. It has no antimicrobial cover, so the same handling discipline applies.
 
-**Benzyl alcohol 0.9% (BAC).** Preserved, hypotonic, and slightly acidic. It buys handling convenience at the cost of a vehicle that is not inert. For a multi-dose laboratory stock of a robust peptide, that trade is often worth it. For an amine-rich peptide or a sensitive cell assay, it may not be.
+**Benzyl alcohol 0.9% (BAC).** Preserved, hypotonic, and slightly acidic. It buys handling convenience at the cost of a vehicle that is not inert. For a multi-dose laboratory stock of a stable peptide, that trade is often worth it. For an amine-rich peptide or a sensitive cell assay, it may not be.
 
 **Ethanol 0.5–1%.** Sometimes used as a preservative alternative. It is volatile, flammable, and can denature peptides at higher concentrations. It is not a drop-in substitute, and the assay blank changes.
 
@@ -103,9 +103,9 @@ Dispose of expired or cloudy solution as chemical waste under your local [compli
 
 No. It is a formulated aqueous solution of benzyl alcohol in water. The catalogue files it under reconstitution because it is used as a diluent, not because it has peptide structure. Its CAS, molecular weight, formula, and sequence fields are marked not applicable for that reason.
 
-**What is the difference between BAC water and sterile water for injection?**
+**What is the difference between BAC water and unpreserved sterile water?**
 
-Sterile water for injection contains no preservative and is intended for single use. BAC water contains 0.9% benzyl alcohol, which suppresses microbial growth and makes repeated sampling less risky. The preservative does not sterilise a contaminated solution, and it does not replace aseptic technique.
+Unpreserved sterile water contains no benzyl alcohol and is intended for single use. BAC water contains 0.9% benzyl alcohol, which suppresses microbial growth and makes repeated sampling less risky. The preservative does not sterilise a contaminated solution, and it does not replace aseptic technique.
 
 **Why is the solution hypotonic?**
 

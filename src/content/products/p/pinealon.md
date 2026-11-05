@@ -39,21 +39,21 @@ The analytical profile is more concrete. Glu-Asp-Arg has a molecular formula of 
 | Storage | −20°C long-term; 2–8°C aqueous, use within two weeks |
 | Research status | Preclinical laboratory use only |
 
-The formula and mass are consistent with a tripeptide of this composition. A buyer can check them against the sequence without trusting the label: the calculated mass for Glu-Asp-Arg should match the certificate's observed value within the resolution of the instrument.
+The formula and mass are the catalogue's values, and the sequence is the reference point. A buyer can calculate the expected mass for Glu-Asp-Arg and compare it with the certificate's observed value; if the two disagree, one of the three fields is wrong.
 
 ## What the Batch Record Should Show
 
-Identity comes first. The certificate should print the sequence, the calculated mass and the observed mass. For a tripeptide, the intact mass is a strong identity check: there are few ways to arrange three residues into a molecule of 432.4 Da, and a one-residue substitution changes the mass enough to be visible. The certificate should also state whether the peptide is the free acid or the C-terminal amide. The catalogue does not specify, and the difference is about 1 Da — small in absolute terms but enough to shift the charge state in LC-MS.
+Identity comes first. The certificate should print the sequence, the calculated mass and the observed mass. For a tripeptide, the intact mass is a strong identity check: a one-residue substitution changes the mass enough to be visible, and the observed value should match the calculated mass for the declared sequence. The certificate should also state whether the peptide is the free acid or the C-terminal amide. The catalogue does not specify, and the difference is about 1 Da — small in absolute terms but enough to shift the charge state in LC-MS.
 
-Purity by HPLC needs the right wavelength. At 214 nm, the peptide bond absorbs weakly, and a tripeptide gives a small signal compared with a larger peptide. The method may need a higher injection volume or a more sensitive detector. At 280 nm, there is nothing to see. A certificate that reports a 280 nm chromatogram for Pinealon is either using a different molecule or a different detection method than the one described. Ask for the chromatogram with the wavelength in the method header.
+Purity by HPLC needs the right wavelength. At 214 nm, the peptide bond absorbs weakly, and a tripeptide gives a small signal compared with a larger peptide. The method may need a larger sample volume or a more sensitive detector. At 280 nm, there is nothing to see. A certificate that reports a 280 nm chromatogram for Pinealon is either using a different molecule or a different detection method than the one described. Ask for the chromatogram with the wavelength in the method header.
 
-The chromatography itself is worth a second look. Glu-Asp-Arg is very polar and may not retain well on a standard C18 column without ion-pairing or a shallow gradient. If the peptide elutes near the solvent front, the main peak can co-elute with salts and injection artefacts, and the reported purity may be optimistic. A method that uses a polar-embedded or mixed-mode column, or an ion-pairing reagent, is more informative. The [HPLC versus LC-MS note](/blog/hplc-vs-lc-ms-peptides/) explains why retention behaviour matters for short polar peptides.
+The chromatography itself is worth a second look. Glu-Asp-Arg is very polar and may not retain well on a standard C18 column without ion-pairing or a shallow gradient. If the peptide elutes near the solvent front, the main peak can co-elute with salts and sample-introduction artefacts, and the reported purity may be optimistic. A method that uses a polar-embedded or mixed-mode column, or an ion-pairing reagent, is more informative. The [HPLC versus LC-MS note](/blog/hplc-vs-lc-ms-peptides/) explains why retention behaviour matters for short polar peptides.
 
 Counterion and water content are the mass-balance fields. Pinealon is commonly supplied as the acetate salt; residual trifluoroacetate from purification is also possible. The certificate should name the counterion and, where measured, report residual TFA. Karl Fischer water content and a peptide-content assay convert the 10 mg fill into peptide mass. Without them, a nominal concentration is a fill-weight calculation, not a peptide concentration.
 
 Endotoxin testing matters if the material will contact primary cells. Ask whether LAL was run and what limit applied. Sterility is a separate test; a lyophilized powder is not sterile by default. The [quality pillar](/peptide-quality-testing/) sets out the difference between a release test and a catalogue specification.
 
-Batch traceability is the last field. The lot number on the certificate should match the vial, and the certificate should name the synthesis site and the date. For a cheap peptide, the temptation to skip this check is high; it is also the check that distinguishes a manufacturer from a reseller.
+Batch traceability is the last field. Traceability requires a lot match between vial and certificate, plus the site and date of manufacture. For a cheap peptide, the temptation to skip this check is high; it is also the check that distinguishes a manufacturer from a reseller.
 
 ## Sourcing & Verification
 
@@ -67,25 +67,25 @@ Ask whether the batch is a catalogue lot or a custom synthesis. Pinealon is inex
 
 Ask about shipping. A lyophilized tripeptide is stable at ambient temperature for short periods, but moisture is the enemy. A desiccant and a sealed vial are more important than a cold pack for a small order. The [sourcing pillar](/china-peptide-sourcing/) covers the document set and the import route.
 
-One caution about the category. Pinealon is listed under Cognitive & Neuro and Bioregulators, two labels that describe research traditions rather than validated mechanisms. The [classification guide](/blog/therapeutic-peptide-classification-a-2026-research-guide/) explains why the shelf label should not be used as a substitute for the sequence.
+One caution about the category. Pinealon is listed on the neuro and bioregulator shelves, two labels that describe research traditions rather than validated mechanisms. The [classification guide](/blog/therapeutic-peptide-classification-a-2026-research-guide/) explains why the shelf label should not be used as a substitute for the sequence.
 
 ## Handling & Storage
 
-Store the dry powder at −20°C, desiccated, protected from light. Bring the vial to room temperature before opening. A cold vial in a warm room condenses water on the glass, and a highly polar tripeptide will take up that water quickly once the cap is removed.
+Store the powder at −20°C, desiccated and protected from light. Bring the vial to room temperature before opening. A cold vial in a warm room condenses water on the glass, and a highly polar tripeptide will take up that water quickly once the cap is removed.
 
 Pinealon dissolves readily in water and in phosphate-buffered saline. Add the solvent down the wall of the vial and mix by gentle inversion. Avoid vortexing; even a small peptide can adsorb to the glass at a foam interface, and the loss is proportionally larger when the total mass is small. If the solution is cloudy, let it stand for a few minutes before adding more solvent.
 
 For stock solutions, use water or the buffer your assay requires. The peptide has two carboxylates and one guanidino group, so its charge state changes with pH. Record the pH and the buffer; a shift of one pH unit can change the peptide's interaction with a surface or a binding partner. Do not assume that a solution made in water behaves the same as one made in PBS.
 
-The catalogue specifies that aqueous solutions should be kept at 2–8°C and used within two weeks. That is a reasonable short-term window for a sterile-filtered stock. For longer storage, aliquot and freeze at −20°C or below, and do not refreeze. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers the mechanics, and the [handling pillar](/peptide-handling-protocols/) covers the wider workflow.
+The catalogue specifies that aqueous solutions should be kept at 2–8°C and used within two weeks. That is a reasonable short-term window for a sterile-filtered stock. For longer storage, aliquot and freeze at −20°C or below, and do not refreeze. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers the mechanics, while the [handling pillar](/peptide-handling-protocols/) covers the wider workflow.
 
 The product is supplied for laboratory research only. Nothing here is a protocol for administration to humans or animals.
 
 ## How It Compares
 
-**Epithalon.** A tetrapeptide (Ala–Glu–Asp–Gly) from the same research tradition, studied mainly in telomerase and cell-aging models. It is one residue longer and has a different charge profile. The two are not interchangeable, and the published data for one do not transfer to the other. The [Epithalon page](/catalog/epithalon/) lists the format.
+**Epithalon.** A tetrapeptide (Ala–Glu–Asp–Gly) from the same research tradition, studied mainly in telomerase and cell-aging models. It is one residue longer and has a different charge profile. The two are not interchangeable, and the published data for one do not transfer to the other. Epithalon is a separate listing.
 
-**Pancragen.** A pancreatic-series tetrapeptide, reported in the primary literature as Lys–Glu–Asp–Trp-NH2. It is larger, contains an aromatic residue, and is studied with different endpoints. The [Pancragen page](/catalog/pancragen/) is the relevant comparison for the pancreatic series.
+**Pancragen.** A pancreatic-series tetrapeptide, reported in the primary literature as Lys–Glu–Asp–Trp-NH2. It is larger, contains an aromatic residue, and is studied with different endpoints. Pancragen is the relevant comparison for the pancreatic series.
 
 **Prostamax.** The prostate-series tetrapeptide Lys–Glu–Asp–Pro. Same research tradition, different sequence and different target tissue in the bioregulator framework. The [Prostamax page](/catalog/prostamax/) lists the format.
 
@@ -131,7 +131,7 @@ It is a tripeptide made by routine solid-phase synthesis, and the raw-material c
 
 **Reasoning.** The compound is small enough that identity is easy to confirm and cheap enough that a bad batch is not a financial disaster. The risk is quieter: a certificate generated from a template, a purity measured at a wavelength where the peptide is invisible, or a fill weight that overstates peptide content. Those problems are common in the low-price end of the catalogue because the margin does not support much documentation. A buyer who asks for the right three fields — sequence, mass, peptide content — gets a better product than one who asks for the lowest price.
 
-**Disclosure.** Peptides of China sells Pinealon and the other bioregulators mentioned here. This is a sourcing opinion based on the documents we review across incoming batches, not medical advice. The product is for laboratory research only; nothing here is a recommendation for human use.
+**Disclosure.** Peptides of China sells Pinealon and the other bioregulators mentioned here. This judgment comes from our review of bioregulator batches, not medical advice; the product is for laboratory research only and not for human use.
 
 ## Sources
 

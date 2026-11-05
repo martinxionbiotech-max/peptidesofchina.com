@@ -51,9 +51,9 @@ Counterion and peptide content are the fields most often missing. AEDL is acidic
 
 Residual solvents and trifluoroacetic acid belong on the record if the peptide was purified by preparative HPLC. TFA binds to basic residues and can persist through lyophilisation; it is detectable by ion chromatography or by fluorine NMR. For a tetrapeptide, the amount is small, but it can affect cell assays at higher concentrations.
 
-Endotoxin and sterility matter for any cell-based work. A lyophilized powder is not sterile by default, and the LAL result should be reported with its units and limit. The [endotoxin note](/blog/what-are-endotoxins-why-they-matter/) explains why a low endotoxin figure can matter more than an extra point of purity for primary cells.
+Endotoxin and sterility matter for any cell-based work. Sterility is a separate claim; a freeze-dried powder is sterile only if the process and the container closure say so. The LAL value, with its units and limit, belongs beside the sterility result. The [endotoxin note](/blog/what-are-endotoxins-why-they-matter/) explains why a low endotoxin figure can matter more than an extra point of purity for primary cells.
 
-Batch linkage closes the record. The vial number and the certificate number must match, and the document should carry synthesis date, purification method, fill date, and retest date. A certificate that could describe any lot is a template. The [CoA guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) walks through the fields in order, and the [purity note](/blog/why-purity-and-concentration-tests-are-not-enough/) explains what area normalisation does not measure.
+Batch linkage closes the record. The lot number on the vial must be the lot number on the certificate, and synthesis date, purification method, fill date, and retest date belong on the same page. A certificate that could describe any lot is a template. The [CoA guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) covers the fields one by one, and the [purity note](/blog/why-purity-and-concentration-tests-are-not-enough/) explains what area normalisation does not measure.
 
 ## Sourcing & Verification
 
@@ -61,25 +61,25 @@ The first question is the sequence, written out. A supplier who answers "broncho
 
 The second question is the synthesis route. A four-residue peptide can be made by solid-phase synthesis at small scale, and the crude can be purified by preparative HPLC. Ask about the resin, the coupling chemistry, and the purification step. A supplier who cannot describe any of these is a trader, and a trader's certificate is a copy of someone else's document.
 
-The third question is the counterion. AEDL is often supplied as the acetate salt; some lots are the sodium salt. The two have different masses and different hygroscopicity. Ask which one is in the vial, and ask whether the certificate's mass refers to the salt or the free peptide. The [counterion note](/blog/role-of-counterions-in-peptide-stability/) explains the practical consequences.
+The third question is the counterion. AEDL is often supplied as the acetate salt; some lots are the sodium salt. The two have different masses and different hygroscopicity. Ask which one is in the vial, and ask whether the certificate's mass refers to the salt or the free peptide. What the counterion does to mass and solubility is covered in the [counterion note](/blog/role-of-counterions-in-peptide-stability/).
 
 The fourth question is the batch size and the fill. A 20 mg fill in a 10-vial pack is a small order, and small fills are less forgiving of weighing error. Ask for the fill range and the peptide content per vial. A supplier who reports only the fill mass has not told you how much peptide you are buying.
 
-The fifth question is documentation provenance. The [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) sets out the entity checks: business licence, production address, reactor scale, and whether the certificate issuer is the manufacturer. For short peptides, the gap between manufacturer and reseller is wide, and the certificate is where it shows.
+The fifth question is documentation provenance. Entity checks are listed in the [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/): business licence, production address, reactor scale, and whether the certificate issuer is the manufacturer. For short peptides, the gap between manufacturer and reseller is wide, and the certificate is where it shows.
 
-Finally, ask for a pilot vial. Reconstitute it, run HPLC and MS in-house, and compare with the certificate. The [quality-testing overview](/peptide-quality-testing/) lists the tests and what each can establish.
+Finally, ask for a pilot vial. Reconstitute it, run HPLC and MS in-house, and compare with the certificate. A fuller account of the test sequence is in the [quality-testing overview](/peptide-quality-testing/).
 
 ## Handling & Storage
 
-Store the lyophilized powder at −20 °C, desiccated, protected from light. Let the vial reach room temperature before opening; condensation on a cold cake is a direct route to hydrolysis and to a sticky powder that is hard to weigh.
+The lyophilized cake belongs at −20 °C, dry and dark. Bring the vial to room temperature first; condensation on a cold cake leads to hydrolysis and a sticky powder that is hard to weigh.
 
 Reconstitute with water or a buffer that matches the assay. AEDL is acidic and dissolves readily at neutral pH; a phosphate buffer at pH 7.2 is a reasonable starting point. Add the solvent gently, swirl, and avoid vortexing. If the solution is cloudy, check the concentration and the pH before assuming contamination, and consult the [solubility note](/blog/peptide-solubility-troubleshooting/).
 
 Use polypropylene tubes for dilute stocks. Short acidic peptides adsorb less than cationic peptides, but the loss at low micromolar concentrations is still measurable, and a recovery check is cheaper than repeating an experiment. For cell work, filter through a 0.22 µm membrane and confirm sterility and endotoxin before use.
 
-Aliquot before freezing. A tetrapeptide without cysteine or methionine is chemically stable, but repeated freeze-thaw still causes aggregation and concentration changes. Reconstituted solutions should be kept at 2–8 °C and used within the working window established for the assay, not one copied from another peptide. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers solvent choice and container effects.
+Aliquot before freezing. A tetrapeptide without cysteine or methionine is chemically stable, but repeated freeze-thaw still causes aggregation and concentration changes. Once dissolved, keep the stock at 2–8 °C and use it within the assay's working window rather than one copied from another peptide. Solvent choice and container effects are covered in the [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/).
 
-The [handling hub](/peptide-handling-protocols/) covers general practice. The steps above are bench procedures for a research reagent, not instructions for preparing anything for human or animal use.
+The [handling hub](/peptide-handling-protocols/) covers general practice. Everything above is bench procedure for a research reagent; none of it describes a preparation for human or animal use.
 
 ## How It Compares
 
@@ -109,7 +109,7 @@ The catalogue specifies ≥98% by HPLC. That figure is an area-normalisation res
 
 **How should the powder be stored?**
 
-At −20 °C, desiccated, protected from light. Warm the vial to room temperature before opening to avoid condensation. Reconstituted solutions should be kept at 2–8 °C and used within the working window established for the assay.
+At −20 °C, dry, in the dark. Bring the vial to room temperature before opening to avoid condensation. Keep the reconstituted stock at 2–8 °C and use it within the assay's working window.
 
 **Does bronchogen have a CAS number?**
 
@@ -117,7 +117,7 @@ The catalogue page does not list one. A CAS number would not by itself confirm t
 
 **Can it be used in cell culture?**
 
-Yes, with a sterile, endotoxin-tested preparation and a vehicle control. Filter the reconstituted stock through a 0.22 µm membrane and check recovery. For primary epithelial cells, endotoxin can dominate the readout, so request LAL data before the experiment.
+Yes, provided the preparation is sterile and endotoxin-tested and the plate carries a vehicle control. Pass the stock through a 0.22 µm membrane and check recovery. With primary epithelial cells, endotoxin can dominate the readout, so request LAL data first.
 
 **Why is the peptide supplied as an acetate salt?**
 
@@ -125,7 +125,7 @@ Acetate is the usual counterion for peptides purified by reversed-phase HPLC wit
 
 **Is there human clinical evidence for bronchogen?**
 
-The published literature is predominantly preclinical and includes small studies that are not independently replicated. This page does not summarise clinical use, and the product is sold for laboratory research only. A buyer should treat efficacy claims in any catalogue, including this one, as unverified.
+The published literature is predominantly preclinical and includes small studies that are not independently replicated. No clinical use is summarised here, and the product is sold for laboratory research only. A buyer should treat efficacy claims in any catalogue, including this one, as unverified.
 
 ## Related Products
 

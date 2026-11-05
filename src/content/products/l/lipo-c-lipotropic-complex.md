@@ -4,152 +4,154 @@ name: "Lipo-C (Lipotropic Complex)"
 slug: "lipo-c-lipotropic-complex"
 price: 87.0
 status: "In Stock"
-description: "Compounded lipotropic injectable containing L-Carnitine 200mg, L-Arginine 20mg, Methionine 25mg, Inositol 50mg, Choline 50mg, B5 (Dexpanthenol) 25mg, B6 25mg, and B12 (Cyanocobalamin) 1mg per ml. Inve"
+description: "MIC lipotropic blend with B12 and optional carnitine, B2, B1 and B5. Composition and analytical notes for laboratory research."
 image: "/images/products/generic-vial.png"
 
 ---
-Lipo-C (Lipotropic Complex) is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Lipotropic agent combination (injectable formulation) Primary Components Methionine, Inositol, Choline (MIC), Cyanocobalamin (B12) Optional Components L-Carnitine, Riboflavin (B2), Thiamine (B1), Dexpanthenol (B5) 
+Lipo-C (Lipotropic Complex) is the product in this family with a variable formula. The declared per-millilitre composition includes L-carnitine 200 mg, L-arginine 20 mg, methionine 25 mg, inositol 50 mg, choline 50 mg, dexpanthenol 25 mg, pyridoxine 25 mg, and cyanocobalamin 1 mg. The profile also lists optional components: L-carnitine, riboflavin, thiamine, and dexpanthenol, depending on the batch.
 
-## Research Areas
+That word — optional — is the whole sourcing story. A formulation that can be made with or without four of its components is not one product; it is a family of products sharing a name. For a laboratory, the practical consequence is that two vials bought six months apart may not be comparable unless the certificate states which version was filled and at what concentration.
 
-Hepatic lipid metabolism, lipotropic biology, methylation research, fatty liver models, one-carbon metabolism Form Sterile liquid formulation Storage 2-8°C; protect from light; do not freeze; use within date CAS Number N/A — complex mixture Molecular Weight N/A — complex mixture Molecular Formula N/A — complex mixture Sequence N/A — complex mixture 
+The chemistry and biology of the individual components are well described. The quality question is whether the document you receive describes the vial in your hand or the idea of the product. This page covers both.
 
-## Available Variants
+## Why This Compound
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| Lipo-C (Lipotropic Complex) | 10 ml | 10 vials | ≥98% | In Stock |
+The core of the formulation is the MIC combination: methionine, inositol, and choline. The name comes from the initials, and the grouping has a long history in lipotropic research, where the three were studied together for their effects on hepatic lipid handling in animal models. The mechanistic rationale is the one described elsewhere in this catalogue: choline is the substrate for phosphatidylcholine synthesis, methionine supplies methyl groups via S-adenosylmethionine for the alternative PEMT route, and inositol contributes to phosphoinositide and phospholipid metabolism.
 
-## Specification Highlights
+Zeisel's 2009 review in *Nutrition Reviews* covers choline as an essential nutrient and the evidence from choline-deficient diets. Mato and Lu's 2008 review in *Annual Review of Nutrition* covers methionine metabolism and its connection to liver disease. Croze and Soulage's 2013 review in *Biochimie* covers myo-inositol. Corbin and Zeisel's 2012 review connects choline metabolism to fatty liver research. Read together, the three components describe a pathway rather than three independent agents, and that is the strongest argument for keeping them together in a formulation.
 
-Category: Weight Management, Vitamins & Nutrients, Blends Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
+Carnitine is the fourth core component in most lots, and at 200 mg/mL it is by far the largest mass contributor in the declared composition. Its role is the CPT1–translocase–CPT2 shuttle described by Bremer in 1983. At that concentration, the carnitine dominates the osmolality and the viscosity of the solution; the other components are comparatively minor by mass even when they are important mechanistically.
 
-## Quality & Testing
+Cyanocobalamin is the B12 form declared here, in contrast to the methylcobalamin used in Lipo-C 216. Cyanocobalamin is the stable synthetic form; it requires conversion to methylcobalamin or adenosylcobalamin in vivo before it can serve as a cofactor. Green and colleagues' 2017 review in *Nature Reviews Disease Primers* covers the biochemistry and the clinical consequences of deficiency. For a research reagent, the relevant point is that the form and the concentration both belong on the certificate.
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+Riboflavin, thiamine, and dexpanthenol appear as optional components. Riboflavin is a redox cofactor; Powers' 2003 review in the *American Journal of Clinical Nutrition* covers its chemistry and its role in flavoprotein enzymes. Thiamine is a cofactor for pyruvate dehydrogenase and for transketolase. Dexpanthenol is a pantothenic acid precursor and therefore a coenzyme A precursor. Each has a rationale; none is guaranteed to be present in a given lot.
 
-## Research Areas
-
-Hepatic Fat Metabolism Research The liver is the primary site of fatty acid synthesis, oxidation, and VLDL export. Choline deficiency is a well-established cause of hepatic steatosis (fatty liver) in rodent models — the choline-deficient diet is a standard model for NAFLD research. Lipo-C provides choline along with methionine (for SAM-dependent phosphatidylcholine synthesis) and inositol (for PI3K signaling and phospholipid synthesis), addressing the nutritional basis of hepatic lipid handling in research models. One-Carbon and Methionine Cycle Research Methionine is converted to SAM (the universal methyl donor) and then to homocysteine; remethylation of homocysteine back to methionine requires B12 and folate. Research using MIC combinations examines how methyl donor availability affects SAM-dependent reactions — including DNA methylation, histone methylation, and phosphatidylcholine synthesis via the PEMT pathway. Lipo-C provides a tool for studying one-carbon metabolism in the context of hepatic lipid biology. Mitochondrial Fatty Acid Transport Research L-Carnitine (when included in Lipo-C formulations) facilitates long-chain fatty acid transport across the inner mitochondrial membrane via the carnitine shuttle — the rate-limiting step for β-oxidation of long-chain fatty acids. Research has used carnitine-containing lipotropic combinations to examine how carnitine availability affects hepatic and skeletal muscle fatty acid oxidation rates, ketone production, and triglyceride accumulation in metabolic disease models. ## Sourcing Lipo-C (Lipotropic Complex) From China
-
-Lipo-C (Lipotropic Complex) is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
-
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, Lipo-C (Lipotropic Complex) is supplied for
-  laboratory research use only, under strict research-use terms.
-
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
-
-## Frequently Asked Questions
-
-**What is the difference between MIC injections and oral lipotropic supplements?**
-
-Injectable MIC formulations deliver components systemically without hepatic first-pass metabolism, achieving higher peak plasma concentrations than oral supplementation. Choline is particularly subject to gut microbial conversion (to TMAO) and first-pass metabolism when taken orally. Research comparing parenteral versus oral MIC delivery examines bioavailability differences and downstream hepatic lipid effects. Why is choline important in lipotropic research? Choline is essential for phosphatidylcholine (PC) synthesis — the primary phospholipid of VLDL lipoprotein particles. Without sufficient choline, hepatic fat cannot be packaged into VLDL for export, resulting in fat accumulation. The choline-deficient diet model is a standard NAFLD/NASH research tool. Lipo-C's choline content makes it relevant for studying choline repletion effects on hepatic steatosis endpoints. 
-
-**What component concentrations does your Lipo-C contain?**
-
-Component concentrations are verified by the manufacturer for each batch as part of routine quality control. Contact us via the Request page for current batch specifications. 
-
-**What are the storage conditions?**
-
-Lipo-C should be stored at 2-8°C, protected from light. Do not freeze (freezing may affect formulation stability). Use within the date specified on the label. 
-
-## Related Products
-
-Lipo-C 120 Lipo-C 216 Fat Blaster (Lipotropic Complex) Lipo-B Lipo-C Focus For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. class, and every listing carries the manufacturer's own specification rather than a reseller's claim. Buyers sourcing **chinese peptides** in this category typically evaluate Lipo-C (Lipotropic Complex) across Hepatic lipid metabolism, lipotropic biology, methylation research, fatty liver models, one-carbon metabolism Form Sterile liquid formulation Storage 2-8°C; protect from light; do not freeze; use within date CAS Number N/A — complex mixture Molecular Weight N/A — complex mixture Molecular Formula N/A — complex mixture Sequence N/A — complex mixture 
-
-## Available Variants
-
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| Lipo-C (Lipotropic Complex) | 10 ml | 10 vials | ≥98% | In Stock |
-
-## Specification Highlights
-
-Category: Weight Management, Vitamins & Nutrients, Blends Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Research Areas
-
-Hepatic Fat Metabolism Research The liver is the primary site of fatty acid synthesis, oxidation, and VLDL export. Choline deficiency is a well-established cause of hepatic steatosis (fatty liver) in rodent models — the choline-deficient diet is a standard model for NAFLD research. Lipo-C provides choline along with methionine (for SAM-dependent phosphatidylcholine synthesis) and inositol (for PI3K signaling and phospholipid synthesis), addressing the nutritional basis of hepatic lipid handling in research models. One-Carbon and Methionine Cycle Research Methionine is converted to SAM (the universal methyl donor) and then to homocysteine; remethylation of homocysteine back to methionine requires B12 and folate. Research using MIC combinations examines how methyl donor availability affects SAM-dependent reactions — including DNA methylation, histone methylation, and phosphatidylcholine synthesis via the PEMT pathway. Lipo-C provides a tool for studying one-carbon metabolism in the context of hepatic lipid biology. Mitochondrial Fatty Acid Transport Research L-Carnitine (when included in Lipo-C formulations) facilitates long-chain fatty acid transport across the inner mitochondrial membrane via the carnitine shuttle — the rate-limiting step for β-oxidation of long-chain fatty acids. Research has used carnitine-containing lipotropic combinations to examine how carnitine availability affects hepatic and skeletal muscle fatty acid oxidation rates, ketone production, and triglyceride accumulation in metabolic disease models. 
-
-## Frequently Asked Questions
-
-**What is the difference between MIC injections and oral lipotropic supplements?**
-
-Injectable MIC formulations deliver components systemically without hepatic first-pass metabolism, achieving higher peak plasma concentrations than oral supplementation. Choline is particularly subject to gut microbial conversion (to TMAO) and first-pass metabolism when taken orally. Research comparing parenteral versus oral MIC delivery examines bioavailability differences and downstream hepatic lipid effects. Why is choline important in lipotropic research? Choline is essential for phosphatidylcholine (PC) synthesis — the primary phospholipid of VLDL lipoprotein particles. Without sufficient choline, hepatic fat cannot be packaged into VLDL for export, resulting in fat accumulation. The choline-deficient diet model is a standard NAFLD/NASH research tool. Lipo-C's choline content makes it relevant for studying choline repletion effects on hepatic steatosis endpoints. 
-
-**What component concentrations does your Lipo-C contain?**
-
-Component concentrations are verified by the manufacturer for each batch as part of routine quality control. Contact us via the Request page for current batch specifications. 
-
-**What are the storage conditions?**
-
-Lipo-C should be stored at 2-8°C, protected from light. Do not freeze (freezing may affect formulation stability). Use within the date specified on the label. 
-
-## Related Products
-
-Lipo-C 120 Lipo-C 216 Fat Blaster (Lipotropic Complex) Lipo-B Lipo-C Focus For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Lipo-C (Lipotropic Complex) is supplied for laboratory research use only.
-
-
-Buy Lipo-C (Lipotropic Complex) | Research Grade | Peptides of China Lipo-C (Lipotropic Complex) Buy Lipo-C (Lipotropic Complex) — Research Grade Peptide Lipo-C (Lipotropic Complex) is a weight management research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+The variable formula is not necessarily a defect. Compounding pharmacies and formulators often offer a base formula with optional additions, and a research supplier may fill to order. The problem is comparability. If a study runs across two lots and one contains riboflavin while the other does not, the difference is a formulation change, not a batch variation, and it can move an assay for reasons unrelated to the hypothesis.
 
 ## Compound Profile
 
-Lipo-C Lipotropic Complex is a combination injectable formulation containing lipotropic agents — compounds that facilitate fat transport, metabolism, and hepatic clearance. The core formulation includes the MIC combination (Methionine, Inositol, Choline) with Cyanocobalamin (Vitamin B12), and may include additional components such as L-Carnitine, Riboflavin (B2), Thiamine (B1), and Dexpanthenol (B5) depending on formulation variant. These components collectively target hepatic fat metabolism, mitochondrial fatty acid transport, and cellular energy production pathways. Each component has a defined metabolic role: Methionine is an essential amino acid and major methyl donor via the SAM cycle, required for phosphatidylcholine synthesis and liver fat export (VLDL assembly); Inositol is a phospholipid precursor and insulin signaling modulator; Choline is essential for phosphatidylcholine synthesis and very-low-density lipoprotein (VLDL) assembly in the liver — choline deficiency causes hepatic steatosis. B12 supports methylation reactions and neurological function. The combination addresses multiple steps in hepatic lipid handling — making it a tool for studying the intersection of methionine metabolism, choline requirements, and fatty liver biology. Peptides of China supplies Lipo-C Lipotropic Complex as a sterile liquid formulation at verified component concentrations. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. All products are for laboratory research use only and are not for human consumption. 
+Chemical Class Lipotropic agent combination (injectable formulation) Primary Components Methionine, Inositol, Choline (MIC), Cyanocobalamin (B12) Optional Components L-Carnitine, Riboflavin (B2), Thiamine (B1), Dexpanthenol (B5) Form Sterile liquid formulation Storage 2-8°C; protect from light; do not freeze; use within date CAS Number N/A — complex mixture Molecular Weight N/A — complex mixture Molecular Formula N/A — complex mixture Sequence N/A — complex mixture
 
-## Profile
+The declared per-millilitre composition from the catalogue is L-carnitine 200 mg, L-arginine 20 mg, methionine 25 mg, inositol 50 mg, choline 50 mg, dexpanthenol 25 mg, pyridoxine 25 mg, and cyanocobalamin 1 mg. Note that this is more detailed than the "primary/optional" summary in the profile and includes arginine and pyridoxine, which do not appear in either list. That inconsistency is itself a documentation finding, and it is the kind of thing a buyer should resolve before ordering.
 
-Chemical Class Lipotropic agent combination (injectable formulation) Primary Components Methionine, Inositol, Choline (MIC), Cyanocobalamin (B12) Optional Components L-Carnitine, Riboflavin (B2), Thiamine (B1), Dexpanthenol (B5) 
+## What the Batch Record Should Show
 
-## Research Areas
+The certificate for a variable-formula product has to answer a question that a fixed-formula certificate does not: which version is this?
 
-Hepatic lipid metabolism, lipotropic biology, methylation research, fatty liver models, one-carbon metabolism Form Sterile liquid formulation Storage 2-8°C; protect from light; do not freeze; use within date CAS Number N/A — complex mixture Molecular Weight N/A — complex mixture Molecular Formula N/A — complex mixture Sequence N/A — complex mixture 
+**Version identification.** The certificate should state the formula version or code, the components actually included, and the concentration of each. If the product is made to order, the certificate should reference the order specification. A certificate that lists "MIC + B12" without the optional components cannot be compared with a certificate that lists all eight.
 
-## Available Variants
+**Carnitine.** At 200 mg/mL, carnitine is the dominant analyte. LC-MS/MS with an isotope-labelled internal standard is the most specific method; enzymatic assay is an alternative. The dilution factor is large, and the certificate should state it.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| Lipo-C (Lipotropic Complex) | 10 ml | 10 vials | ≥98% | In Stock |
+**Methionine, arginine, and pyridoxine.** Amino acid analysis or LC-MS/MS for the first two; HPLC-UV or fluorescence for pyridoxine. Salt forms should be declared: arginine hydrochloride and arginine free base differ by about 20% in mass, and pyridoxine hydrochloride differs from the base.
 
-## Specification Highlights
+**Choline and inositol.** Choline is measured by LC-MS/MS or ion-pair HPLC; inositol by refractive-index HPLC or LC-MS/MS. The choline salt form should be named.
 
-Category: Weight Management, Vitamins & Nutrients, Blends Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
+**Dexpanthenol and riboflavin.** Dexpanthenol by HPLC-UV near 210 nm, either directly or as pantothenic acid after hydrolysis. Riboflavin by fluorescence or UV at 445 nm. Both are light-sensitive; the assay should be run on protected samples.
 
-## Quality & Testing
+**Cyanocobalamin.** LC-MS/MS at 1 mg/mL, or microbiological assay. The certificate should name the form — cyanocobalamin, not the generic "B12" — and state the standard used.
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+**Release measurements.** pH, osmolality, density, fill volume, sterility, endotoxin, and particulate matter. At 200 mg/mL carnitine plus the other solids, osmolality is high and should be measured rather than estimated.
 
-## Research Areas
+**Homogeneity.** With a variable formula and a dominant carnitine component, mixing is critical. The certificate should state the homogeneity check and, ideally, results from different points in the fill.
 
-Hepatic Fat Metabolism Research The liver is the primary site of fatty acid synthesis, oxidation, and VLDL export. Choline deficiency is a well-established cause of hepatic steatosis (fatty liver) in rodent models — the choline-deficient diet is a standard model for NAFLD research. Lipo-C provides choline along with methionine (for SAM-dependent phosphatidylcholine synthesis) and inositol (for PI3K signaling and phospholipid synthesis), addressing the nutritional basis of hepatic lipid handling in research models. One-Carbon and Methionine Cycle Research Methionine is converted to SAM (the universal methyl donor) and then to homocysteine; remethylation of homocysteine back to methionine requires B12 and folate. Research using MIC combinations examines how methyl donor availability affects SAM-dependent reactions — including DNA methylation, histone methylation, and phosphatidylcholine synthesis via the PEMT pathway. Lipo-C provides a tool for studying one-carbon metabolism in the context of hepatic lipid biology. Mitochondrial Fatty Acid Transport Research L-Carnitine (when included in Lipo-C formulations) facilitates long-chain fatty acid transport across the inner mitochondrial membrane via the carnitine shuttle — the rate-limiting step for β-oxidation of long-chain fatty acids. Research has used carnitine-containing lipotropic combinations to examine how carnitine availability affects hepatic and skeletal muscle fatty acid oxidation rates, ketone production, and triglyceride accumulation in metabolic disease models. 
+The [CoA guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) covers the fields that apply across product types, and the [specification sheet note](/blog/why-peptide-specification-sheets-matter-in-procurement/) explains why the specification, not the certificate alone, is the document to audit.
+
+## Sourcing & Verification
+
+The first question with this product is not "what is the purity" but "which formula". The questions below follow from that.
+
+- Which formula version is this lot, and which optional components are present?
+- What is the concentration of each component, including the optional ones?
+- Is the carnitine assay by LC-MS/MS or enzymatic method, and what is the dilution factor?
+- Is the arginine free base or hydrochloride, and is the pyridoxine base or hydrochloride?
+- Is the choline choline chloride or choline base?
+- Is the B12 cyanocobalamin, and what is the evidence for the form?
+- Does the sum of the components reconcile with the stated total concentration?
+- Was homogeneity verified across the fill, and can you show the results?
+
+The formula-version question is the one that most suppliers answer badly, because it requires them to treat the product as a specification rather than a name. A supplier who says "it is the standard formula" has not answered; a supplier who sends a table with eight rows and a version code has.
+
+There is also a regulatory dimension worth noting. Cyanocobalamin, choline, and methionine are all substances with established uses outside research, and the boundary between a research reagent and a medicinal product depends on the market and on the claims made for it. The [compliance and sourcing risk hub](/peptide-compliance-risk/) sets out the general framework. For this product, the practical point is that the documentation should describe a research formulation and should not carry therapeutic claims.
+
+## Handling & Storage
+
+Store at 2-8°C, protected from light, and do not freeze. The carnitine concentration makes the solution viscous and dense; warm to room temperature and invert gently before sampling. A cold sample may not be homogeneous, and a sample taken from the top of a standing vial may be enriched or depleted in the minor components.
+
+Riboflavin, if present, is light-sensitive, and pyridoxine and cyanocobalamin are also affected by light. Keep the vial in its carton and work under subdued light when preparing dilutions.
+
+Dilute in two steps. At 200 mg/mL carnitine, a direct addition to a small culture volume can produce a local osmotic effect and a local pH shift. Prepare an intermediate in buffer or medium, then add that. Record the density and temperature used in the calculation, because the concentration in mg/mL and the concentration in mol/L are not interchangeable across components.
+
+Filter a working aliquot through a 0.22 µm membrane for cell work. Check recovery for the components at the lowest concentration — cyanocobalamin at 1 mg/mL is the most likely to be lost, and it is the hardest to detect without a specific assay.
+
+All handling described here is bench-scale laboratory work. Lipo-C (Lipotropic Complex) is supplied for research use only and is not intended for administration to humans or animals.
+
+## How It Compares
+
+**Lipo-C 216.** A fixed eight-component formula at 216 mg/mL, with methylcobalamin rather than cyanocobalamin. The fixed formula makes lot-to-lot comparison easier; the variable formula makes customisation possible. See [Lipo-C 216](/catalog/lipo-c-216/).
+
+**Lipo-C 120.** Four components at 120 mg/mL, no optional additions, no B12. The simplest and most auditable blend in the family. See [Lipo-C 120](/catalog/lipo-c-120/).
+
+**Lipo-B.** Eight components at 216 mg/mL with a B-vitamin-forward composition. A fixed formula, which is an advantage for reproducibility. See [Lipo-B](/catalog/lipo-b/).
+
+**Lipo-C Focus.** Adds ATP to a carnitine and MIC base at 425 mg/mL in ampoules. The nucleotide introduces a degradation profile that the MIC blends do not have. See [Lipo-C Focus](/catalog/lipo-c-focus/).
+
+**Lipo Mino Mix.** A B1/B2/B6 blend at 244.4 mg/mL in ampoules, with a different vitamin set and no B12. See [Lipo Mino Mix](/catalog/lipo-mino-mix/).
 
 ## Frequently Asked Questions
 
-**What is the difference between MIC injections and oral lipotropic supplements?**
+**What is Lipo-C (Lipotropic Complex)?**
 
-Injectable MIC formulations deliver components systemically without hepatic first-pass metabolism, achieving higher peak plasma concentrations than oral supplementation. Choline is particularly subject to gut microbial conversion (to TMAO) and first-pass metabolism when taken orally. Research comparing parenteral versus oral MIC delivery examines bioavailability differences and downstream hepatic lipid effects. Why is choline important in lipotropic research? Choline is essential for phosphatidylcholine (PC) synthesis — the primary phospholipid of VLDL lipoprotein particles. Without sufficient choline, hepatic fat cannot be packaged into VLDL for export, resulting in fat accumulation. The choline-deficient diet model is a standard NAFLD/NASH research tool. Lipo-C's choline content makes it relevant for studying choline repletion effects on hepatic steatosis endpoints. 
+A liquid research formulation built on the MIC combination — methionine, inositol, and choline — with cyanocobalamin and, depending on the lot, carnitine, riboflavin, thiamine, and dexpanthenol. It is supplied for laboratory research only.
 
-**What component concentrations does your Lipo-C contain?**
+**Why does the formula vary between lots?**
 
-Component concentrations are verified by the manufacturer for each batch as part of routine quality control. Contact us via the Request page for current batch specifications. 
+The product is offered as a base formula with optional components. That allows customisation but makes lot-to-lot comparison dependent on the certificate. Ask for the formula version and the per-component concentrations before comparing two lots.
 
-**What are the storage conditions?**
+**What does MIC stand for?**
 
-Lipo-C should be stored at 2-8°C, protected from light. Do not freeze (freezing may affect formulation stability). Use within the date specified on the label. 
+Methionine, inositol, and choline. The abbreviation is common in lipotropic formulations and refers to the three components grouped together in the older literature.
+
+**Is the B12 cyanocobalamin or methylcobalamin?**
+
+The catalogue declares cyanocobalamin for this product, in contrast to Lipo-C 216, which uses methylcobalamin. The certificate should name the form explicitly.
+
+**How much carnitine does the product contain?**
+
+The declared composition lists L-carnitine at 200 mg/mL, which is the dominant component by mass. Confirm it on the certificate for the lot you receive.
+
+**How should the product be stored?**
+
+At 2-8°C, protected from light, and not frozen. Warm to room temperature and invert gently before sampling. Riboflavin, pyridoxine, and cyanocobalamin are all light-sensitive.
+
+**Can it be added directly to cell culture medium?**
+
+Use a two-step dilution. At 200 mg/mL carnitine the stock is viscous and concentrated; a direct addition can produce a local osmotic and pH effect.
+
+**Is the product sterile?**
+
+The catalogue describes a sterile liquid formulation. Where the certificate does not name the sterilization method and report a sterility result, the lot should be treated as non-sterile.
 
 ## Related Products
 
-Lipo-C 120 Lipo-C 216 Fat Blaster (Lipotropic Complex) Lipo-B Lipo-C Focus For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+- Lipo-C 120
+- Lipo-C 216
+- Fat Blaster (Lipotropic Complex)
+- Lipo-B
+- Lipo-C Focus
+
+## The Author's Take
+
+**Position.** I would not order this product without a formula version in writing. The name covers more than one formulation, and a certificate that does not say which one is not a certificate for the vial in front of you.
+
+**Reasoning.** Variable-formula products are common in compounding and rare in good documentation. The failure mode is not adulteration; it is ambiguity. A lot made with riboflavin and a lot made without it are both "Lipo-C (Lipotropic Complex)", and a study that spans both has a confound that no statistical test can fix. The suppliers who handle this well issue a version code, a per-component table, and a certificate that matches the order. The ones who handle it badly rely on the name. Asking for the version costs nothing and tells you which kind of supplier you are dealing with.
+
+**Disclosure.** Peptides of China sells Lipo-C (Lipotropic Complex) and the blends listed on this page. This is a sourcing opinion based on the documents we review, not medical advice. This product is a laboratory reagent; nothing on this page is a recommendation for human use.
+
+## Sources
+
+1. Zeisel, S. H. (2009). Choline: an essential nutrient for public health. *Nutrition Reviews*, 67(11), 615–623. https://doi.org/10.1111/j.1753-4887.2009.00246.x
+2. Mato, J. M., & Lu, S. C. (2008). Methionine metabolism and liver disease. *Annual Review of Nutrition*, 28, 273–293. https://doi.org/10.1146/annurev.nutr.28.061807.155438
+3. Green, R., et al. (2017). Vitamin B12 deficiency. *Nature Reviews Disease Primers*, 3, 17040. https://doi.org/10.1038/nrdp.2017.40
+4. Powers, H. J. (2003). Riboflavin (vitamin B2) and health. *The American Journal of Clinical Nutrition*, 77(6), 1352–1360. https://doi.org/10.1093/ajcn/77.6.1352
+5. Bremer, J. (1983). Carnitine — metabolism and functions. *Physiological Reviews*, 63(4), 1420–1480. https://doi.org/10.1152/physrev.1983.63.4.1420
+6. Corbin, K. D., & Zeisel, S. H. (2012). Choline metabolism provides novel insights into nonalcoholic fatty liver disease and its progression. *Current Opinion in Gastroenterology*, 28(2), 159–165. https://doi.org/10.1097/MOG.0b013e32834e7b4b

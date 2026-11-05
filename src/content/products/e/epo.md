@@ -7,7 +7,7 @@ status: "In Stock"
 description: "Erythropoietin (EPO) for preclinical erythropoiesis research, supplied as 3,000 IU vials with identity, potency and purity documentation."
 image: "/images/products/generic-vial.png"
 ---
-Erythropoietin is the one entry in this catalogue that is not really a peptide in the sense the other pages use. It is a 165-residue glycoprotein, produced in mammalian cells, with four carbohydrate chains and a molecular mass around 30 kDa for the protein backbone alone. A specification written for synthetic peptides — "≥98% by HPLC" — does not describe it adequately, and a buyer who reads it as if it did will miss the two properties that matter most: potency and glycosylation.
+Erythropoietin is the one entry in this catalogue that is not really a peptide in the sense the other pages use. It is a 165-residue glycoprotein, produced in mammalian cells, with four carbohydrate chains and a molecular mass around 30 kDa once glycosylated. A specification written for synthetic peptides — "≥98% by HPLC" — does not describe it adequately, and a buyer who reads it as if it did will miss the two properties that matter most: potency and glycosylation.
 
 The catalogue format is a 3,000 IU vial, five to a pack. The unit is a bioassay unit, not a mass. That single fact should reshape every question you ask about a batch.
 
@@ -17,9 +17,9 @@ This page covers what EPO is in a research setting, why its certificate looks di
 
 Erythropoietin is the principal hormone controlling red cell production. It is produced mainly by interstitial fibroblasts in the renal cortex in response to tissue hypoxia, and it acts on erythroid progenitor cells in the bone marrow. The receptor, EPOR, is a cytokine receptor without intrinsic kinase activity; ligand binding brings two receptor chains together and recruits JAK2, which phosphorylates STAT5 and other substrates. The JAK2–STAT5 axis is the canonical signalling route, and it is the pathway most preclinical EPO research is designed to interrogate.
 
-The biology is studied at several levels. At the cell level, erythroid progenitor assays measure colony formation — CFU-E and BFU-E — in methylcellulose or similar semisolid media. At the signalling level, EPO-dependent cell lines such as UT-7/Epo or TF-1 are used to measure proliferation or STAT5 phosphorylation as a function of dose. At the tissue level, rodent models of anaemia or hypoxia are used to examine the erythropoietic response. Each of these is preclinical. None of them establishes a clinical outcome, and none should be presented as one.
+The biology is studied at several levels. At the cell level, erythroid progenitor assays measure colony formation — CFU-E and BFU-E — in methylcellulose or similar semisolid media. At the signalling level, EPO-dependent cell lines such as UT-7/Epo or TF-1 are used to measure proliferation or STAT5 phosphorylation as a function of concentration. At the tissue level, rodent models of anaemia or hypoxia are used to examine the erythropoietic response. Each of these is preclinical. None of them establishes a clinical outcome, and none should be presented as one.
 
-What makes EPO unusual as a reagent is that its activity is defined biologically. The international unit is calibrated against a WHO reference standard, and a laboratory potency assay compares the test article with that standard in a responsive cell line. Two batches with identical protein concentration can differ in potency if their glycosylation differs, because glycosylation affects receptor binding, stability, and clearance. That is not a technicality. It is the reason a certificate for EPO that reports only "purity 98%" is incomplete for any experiment where the dose is expressed in IU.
+What makes EPO unusual as a reagent is that its activity is defined biologically. The international unit is calibrated against a WHO reference standard, and a laboratory potency assay compares the test article with that standard in a responsive cell line. Two batches with identical protein concentration can differ in potency if their glycosylation differs, because glycosylation affects receptor binding, stability, and clearance. That is not a technicality. It is the reason a certificate for EPO that reports only "purity 98%" is incomplete for any experiment where the amount is expressed in IU.
 
 Glycosylation is also the reason the molecule is heterogeneous. Human EPO carries three N-linked chains at asparagine residues 24, 38, and 83, plus one O-linked chain at serine 126. The N-glycans are sialylated to varying degrees, and the number of sialic acids per molecule gives rise to isoforms with different isoelectric points. More sialic acid generally means a longer circulating half-life in vivo, which is why glycoengineered analogues such as darbepoetin alfa were developed. For in vitro work, the isoform profile still matters because it affects receptor affinity and stability in culture.
 
@@ -27,9 +27,9 @@ For a research buyer, the practical consequence is that EPO is a product where t
 
 ## Compound Profile
 
-Chemical Class: Recombinant glycoprotein hormone (erythropoietin); Synonyms: EPO, epoetin, erythropoietin; Receptor Target: erythropoietin receptor (EPOR), JAK2–STAT5 signalling; Form: 3,000 IU vial, five vials per pack; Storage: 2–8°C for liquid presentations; confirm the lyophilised format on the batch certificate; CAS Number: not applicable to a recombinant glycoprotein
+Chemical Class: Recombinant glycoprotein hormone (erythropoietin); Synonyms: EPO, epoetin, erythropoietin; Receptor Target: Erythropoietin receptor (EPOR), JAK2–STAT5 signalling; Form: Vial, 3,000 IU, five vials per pack; Storage: 2-8°C for liquid presentations; confirm the lyophilised format on the batch certificate; CAS Number: n/a — not applicable to a recombinant glycoprotein
 
-The molecular weight is deliberately not printed here. A single number would be misleading: the protein backbone is about 30 kDa, the carbohydrate adds several kilodaltons, and the observed mass depends on the expression system and the glycan occupancy. A supplier who prints a precise molecular weight for a glycoprotein is usually quoting the polypeptide chain and ignoring the sugars.
+The molecular weight is deliberately not printed here. A single number would be misleading: the polypeptide is about 18 kDa, the carbohydrate adds a further ten to twelve kilodaltons, and the observed mass depends on the expression system and the glycan occupancy. A supplier who prints a precise molecular weight for a glycoprotein is usually quoting the polypeptide chain and ignoring the sugars.
 
 The catalogue does not state whether the 3,000 IU vial is a liquid formulation or a lyophilised powder. That distinction matters. A liquid presentation requires a cold chain and typically contains albumin or a surfactant as a carrier; a lyophilised presentation requires reconstitution and may contain a bulking agent. Ask which one the lot is before planning storage. The [handling and protocols hub](/peptide-handling-protocols/) covers both cases.
 
@@ -64,13 +64,13 @@ Erythropoietin is a mature product with a global market, a large generic sector,
 - Is endotoxin reported in EU/mL or EU/mg, with the method?
 - Is the presentation liquid or lyophilised, and what are the excipients?
 - Does the certificate show a batch number, manufacture date, and expiry or retest date?
-- Can the supplier provide a certificate for a lot that has already shipped, not only a specimen document?
+- Can the supplier provide a certificate for a lot that has already shipped, not just a specimen document?
 - Is the cold-chain history available for a liquid presentation?
 - Does the supplier distinguish EPO from darbepoetin alfa and from EPO-mimetic peptides, which are different molecules with different assays?
 
 The last question is not pedantic. Darbepoetin alfa has additional glycosylation sites and a longer half-life; peginesatide is a synthetic dimeric peptide that bears no sequence resemblance to EPO but activates the same receptor. A listing that treats all three as "EPO" is not describing a reagent, it is describing a category.
 
-Import rules for erythropoiesis-stimulating agents are stricter than for most research peptides in many jurisdictions, and customs authorities may treat them as prescription medicines regardless of the research-use label. We supply for laboratory research only and do not provide legal advice. Buyers should verify local requirements before ordering; the [compliance and sourcing risk](/peptide-compliance-risk/) section sets out the general framework.
+Import rules for erythropoiesis-stimulating agents are stricter than for most research peptides in many jurisdictions, and customs authorities may treat them as prescription medicines regardless of the research-use label. Supply is for laboratory research; local requirements remain the buyer's responsibility. The [compliance and sourcing risk](/peptide-compliance-risk/) section sets out the general framework.
 
 ## Handling & Storage
 
@@ -82,7 +82,7 @@ For cell-based potency assays, prepare dilutions in medium containing a carrier 
 
 Aliquot liquid stocks only if the formulation allows it, and freeze aliquots at −80°C only if the certificate says the product tolerates freezing. Many liquid EPO presentations do not. For lyophilised material, single-use aliquots of the reconstituted solution are preferable to repeated freeze-thaw cycles.
 
-All handling described here is bench-scale laboratory procedure. The product is supplied for research use only and is not intended for administration to humans or animals. The [stability note](/blog/peptide-stability-why-lyophilized-peptides-are-far-more-stable-than-you-think/) explains why lyophilised and liquid presentations behave so differently.
+The steps above are laboratory handling notes. EPO is sold for research use; it is not a product for human or animal administration. The [stability note](/blog/peptide-stability-why-lyophilized-peptides-are-far-more-stable-than-you-think/) explains why lyophilised and liquid presentations behave so differently.
 
 ## How It Compares
 
@@ -134,7 +134,7 @@ Regulatory status varies by country, and some jurisdictions treat erythropoiesis
 
 **Reasoning.** EPO is the clearest case in this catalogue where the standard peptide checklist fails. The molecule is heterogeneous by design: its carbohydrate chains vary in number and sialylation, and that variation changes receptor binding, stability, and clearance. A supplier can produce a lot that runs as a single band on SDS-PAGE and still deliver something with lower potency than the label implies. The only way to catch that is to ask for the bioassay method, the reference standard, and the isoform pattern. Those three items are also the hardest to fake, because they require a cell-based potency assay and a validated electrophoretic method rather than a generic HPLC run. When a supplier has them, the conversation becomes technical. When a supplier does not, the conversation stays on price.
 
-**Disclosure.** Peptides of China sells EPO and the related products linked on this page. This is a sourcing judgment based on the batch documents we review, not medical advice. The compound is supplied for laboratory research only and is not for human or veterinary use.
+**Disclosure.** Peptides of China sells EPO and the products linked above. The judgment here comes from reading batch records, not from clinical practice. Supply is for laboratory research.
 
 ## Sources
 

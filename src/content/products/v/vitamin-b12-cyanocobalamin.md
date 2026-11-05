@@ -4,119 +4,23 @@ name: "Vitamin B12 (Cyanocobalamin)"
 slug: "vitamin-b12-cyanocobalamin"
 price: 30.0
 status: "In Stock"
-description: "Cyanocobalamin — essential cofactor for methionine synthase and methylmalonyl-CoA mutase. Used as a reference compound in B12 research and as a control in metabolic and neurological study designs."
+description: "Cyanocobalamin as an analytical reference standard: identity, photostability and what a vitamin label does not tell a lab."
 image: "/images/products/generic-vial.png"
 
 ---
-Vitamin B12 (Cyanocobalamin) is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Cobalamin (vitamin B12 vitamer, synthetic stable form) Synonyms Cyanocobalamin, Vitamin B12, Cobalamin (cyano form) Molecular Formula C₆₃H₈₈CoN₁₄O₁₄P Molecular Weight 1355.4 Da CAS Number 68-19-9 PubChem CID 5479203 Active Coenzyme Forms Methylcobalamin (methionine synthase), Adenosylcobalamin (methylmalonyl-CoA mutase) 
+Cyanocobalamin is not a peptide, and treating it like one is the first mistake a laboratory can make with this catalogue item. It is an organometallic cobalamin with a cobalt centre, a corrin ring, and a cyano ligand, and it is supplied here as a 10 mg vial at a price that reflects its status as a bulk fermentation product rather than a custom synthesis. The chemistry is well characterised, the analytical methods are mature, and the sourcing risk is almost entirely about grade and documentation rather than molecular complexity.
 
-## Research Areas
+The compliance issue is equally important. Vitamin B12 is a nutrient with a large consumer market, and a catalogue description written for that market will use language that a research-use listing cannot support. This page stays on the analytical side: identity, photostability, assay use as a reference material, and the difference between the various cobalamin forms. No nutritional, neurological, or medical claim is made for the product.
 
-One-carbon metabolism, homocysteine biology, methylation research, neurological function, B12 deficiency models Form Lyophilized powder / injectable formulation Storage 2-8°C; protect from light (light-sensitive); aqueous solutions stable at 2-8°C short-term Sequence N/A — corrinoid compound (not a peptide) 
-
-## Available Variants
-
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| Vitamin B12 (Cyanocobalamin) | 10 mg | 10 vials | ≥98% | In Stock |
-
-## Specification Highlights
-
-Category: Vitamins & Nutrients Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Research Areas
-
-One-Carbon Metabolism and Methylation Research Methylcobalamin is the cofactor for methionine synthase — the enzyme that regenerates methionine from homocysteine using 5-methyltetrahydrofolate as the methyl donor. This reaction is the central node of one-carbon metabolism: it connects the folate cycle (methylenetetrahydrofolate reductase, MTHFR) to the methionine cycle (SAM production, SAM-dependent methylation). Research using B12-deficient cell cultures and animal models defines how B12 availability affects SAM/SAH ratios, global DNA methylation, and gene expression in metabolic and neurological research contexts. Neurological Function and Myelin Research B12 deficiency produces subacute combined degeneration of the spinal cord — a neurological syndrome reflecting the role of methylcobalamin in myelin maintenance. Research has examined the mechanistic link between B12-dependent methylation reactions and myelin basic protein gene expression, and between elevated methylmalonic acid (from adenosylcobalamin deficiency) and neuronal mitochondrial function. B12-deficient rodent models are used to study the neurostructural consequences of methylation cycle blockade. Homocysteine Biology and Cardiovascular Research Hyperhomocysteinemia — elevated plasma homocysteine — is an established marker of B12/folate deficiency and a cardiovascular risk factor in epidemiological research. Studies have examined how homocysteine affects endothelial function, platelet activation, oxidative stress (homocysteine auto-oxidizes to generate superoxide), and smooth muscle cell proliferation. B12 treatment as a homocysteine-lowering intervention in these models provides mechanistic insight into the relationship between one-carbon metabolism and vascular biology. ## Sourcing Vitamin B12 (Cyanocobalamin) From China
-
-Vitamin B12 (Cyanocobalamin) is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
-
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, Vitamin B12 (Cyanocobalamin) is supplied for
-  laboratory research use only, under strict research-use terms.
-
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
-
-## Frequently Asked Questions
-
-**What is the difference between cyanocobalamin and methylcobalamin?**
-
-Cyanocobalamin is the synthetic stable storage form; methylcobalamin is the bioactive coenzyme form directly used by methionine synthase. Cyanocobalamin must be converted in the body to methylcobalamin and adenosylcobalamin. Methylcobalamin is preferred in research where direct coenzyme activity without conversion steps is required, or for CNS studies (as methylcobalamin crosses the blood-brain barrier more readily). Cyanocobalamin is preferred for stability and storage. 
-
-**What are the two biomarkers of B12 deficiency used in research?**
-
-Homocysteine (elevated due to methionine synthase blockade — methylcobalamin deficiency) and methylmalonic acid (MMA, elevated due to methylmalonyl-CoA mutase blockade — adenosylcobalamin deficiency). Both markers are used to assess B12 adequacy in deficiency models, with MMA being more specific for B12 deficiency than homocysteine (which is also elevated in folate and B6 deficiency). 
-
-**What purity is your cyanocobalamin?**
-
-Cyanocobalamin is supplied at 99%+ purity, verified by HPLC. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Why must B12 be protected from light? The cobalt-corrin ring and cyano ligand in cyanocobalamin are photosensitive — UV and visible light cause degradation of the molecule, reducing its activity. Aqueous solutions exposed to light can lose significant activity within hours. Store in amber vials and minimize light exposure during preparation. 
-
-## Related Products
-
-Methylcobalamin (Vitamin B12) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. class, and every listing carries the manufacturer's own specification rather than a reseller's claim. Buyers sourcing **chinese peptides** in this category typically evaluate Vitamin B12 (Cyanocobalamin) across One-carbon metabolism, homocysteine biology, methylation research, neurological function, B12 deficiency models Form Lyophilized powder / injectable formulation Storage 2-8°C; protect from light (light-sensitive); aqueous solutions stable at 2-8°C short-term Sequence N/A — corrinoid compound (not a peptide) 
-
-## Available Variants
-
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| Vitamin B12 (Cyanocobalamin) | 10 mg | 10 vials | ≥98% | In Stock |
-
-## Specification Highlights
-
-Category: Vitamins & Nutrients Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Research Areas
-
-One-Carbon Metabolism and Methylation Research Methylcobalamin is the cofactor for methionine synthase — the enzyme that regenerates methionine from homocysteine using 5-methyltetrahydrofolate as the methyl donor. This reaction is the central node of one-carbon metabolism: it connects the folate cycle (methylenetetrahydrofolate reductase, MTHFR) to the methionine cycle (SAM production, SAM-dependent methylation). Research using B12-deficient cell cultures and animal models defines how B12 availability affects SAM/SAH ratios, global DNA methylation, and gene expression in metabolic and neurological research contexts. Neurological Function and Myelin Research B12 deficiency produces subacute combined degeneration of the spinal cord — a neurological syndrome reflecting the role of methylcobalamin in myelin maintenance. Research has examined the mechanistic link between B12-dependent methylation reactions and myelin basic protein gene expression, and between elevated methylmalonic acid (from adenosylcobalamin deficiency) and neuronal mitochondrial function. B12-deficient rodent models are used to study the neurostructural consequences of methylation cycle blockade. Homocysteine Biology and Cardiovascular Research Hyperhomocysteinemia — elevated plasma homocysteine — is an established marker of B12/folate deficiency and a cardiovascular risk factor in epidemiological research. Studies have examined how homocysteine affects endothelial function, platelet activation, oxidative stress (homocysteine auto-oxidizes to generate superoxide), and smooth muscle cell proliferation. B12 treatment as a homocysteine-lowering intervention in these models provides mechanistic insight into the relationship between one-carbon metabolism and vascular biology. 
-
-## Frequently Asked Questions
-
-**What is the difference between cyanocobalamin and methylcobalamin?**
-
-Cyanocobalamin is the synthetic stable storage form; methylcobalamin is the bioactive coenzyme form directly used by methionine synthase. Cyanocobalamin must be converted in the body to methylcobalamin and adenosylcobalamin. Methylcobalamin is preferred in research where direct coenzyme activity without conversion steps is required, or for CNS studies (as methylcobalamin crosses the blood-brain barrier more readily). Cyanocobalamin is preferred for stability and storage. 
-
-**What are the two biomarkers of B12 deficiency used in research?**
-
-Homocysteine (elevated due to methionine synthase blockade — methylcobalamin deficiency) and methylmalonic acid (MMA, elevated due to methylmalonyl-CoA mutase blockade — adenosylcobalamin deficiency). Both markers are used to assess B12 adequacy in deficiency models, with MMA being more specific for B12 deficiency than homocysteine (which is also elevated in folate and B6 deficiency). 
-
-**What purity is your cyanocobalamin?**
-
-Cyanocobalamin is supplied at 99%+ purity, verified by HPLC. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Why must B12 be protected from light? The cobalt-corrin ring and cyano ligand in cyanocobalamin are photosensitive — UV and visible light cause degradation of the molecule, reducing its activity. Aqueous solutions exposed to light can lose significant activity within hours. Store in amber vials and minimize light exposure during preparation. 
-
-## Related Products
-
-Methylcobalamin (Vitamin B12) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Vitamin B12 (Cyanocobalamin) is supplied for laboratory research use only.
-
-
-Buy Vitamin B12 (Cyanocobalamin) | Research Grade | Peptides of China Vitamin B12 (Cyanocobalamin) Buy Vitamin B12 (Cyanocobalamin) — Research Grade Peptide Vitamin B12 (Cyanocobalamin) is a vitamins & nutrients research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+This is a laboratory reference material, not a nutritional product, and it is supplied for research only.
 
 ## Compound Profile
 
-Cyanocobalamin is the synthetic, most stable form of vitamin B12 — a water-soluble organometallic coenzyme with a cobalt center coordinated in a corrin ring. Cyanocobalamin is distinguished from other B12 vitamers (methylcobalamin, adenosylcobalamin, hydroxocobalamin) by the cyano ligand bound to cobalt; in the body, cyanocobalamin is converted to the active coenzyme forms methylcobalamin and 5-deoxyadenosylcobalamin. These active forms serve as cofactors for two critical enzymatic reactions: methionine synthase (methylcobalamin — remethylation of homocysteine to methionine, essential for SAM production and one-carbon metabolism) and methylmalonyl-CoA mutase (adenosylcobalamin — isomerization of methylmalonyl-CoA to succinyl-CoA, essential for amino acid and odd-chain fatty acid catabolism). Research interest in cyanocobalamin and vitamin B12 spans one-carbon metabolism, neurological function, and methylation research. B12 deficiency produces two distinct biochemical defects: elevated homocysteine (methylation pathway blockade, measurable as hyperhomocysteinemia) and elevated methylmalonic acid (MMA — odd-chain fatty acid catabolism blockade, measurable by urine/plasma MMA). These biochemical markers are used in research to assess B12 adequacy and to study the downstream effects of B12 deficiency on DNA methylation, neurological integrity, and cardiovascular risk markers. Cyanocobalamin injection preparations deliver B12 systemically without dependence on intrinsic factor-mediated intestinal absorption. Peptides of China supplies Cyanocobalamin (Vitamin B12) as a lyophilized powder or injectable formulation at verified concentration. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. All products are for laboratory research use only and are not for human consumption. 
+Chemical Class Cobalamin (vitamin B12 vitamer, synthetic stable form) Synonyms Cyanocobalamin, Vitamin B12, Cobalamin (cyano form) Molecular Formula C₆₃H₈₈CoN₁₄O₁₄P Molecular Weight 1355.4 Da CAS Number 68-19-9 PubChem CID 5479203 Active Components Methylcobalamin (methionine synthase), Adenosylcobalamin (methylmalonyl-CoA mutase) Primary Application One-carbon metabolism, homocysteine biology, methylation research, neurological function, B12 deficiency models Form Lyophilized powder / injectable formulation Storage 2-8°C; protect from light (light-sensitive); aqueous solutions stable at 2-8°C short-term Sequence N/A — corrinoid compound (not a peptide)
 
-## Profile
+Category: Vitamins & Nutrients Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials
 
-Chemical Class Cobalamin (vitamin B12 vitamer, synthetic stable form) Synonyms Cyanocobalamin, Vitamin B12, Cobalamin (cyano form) Molecular Formula C₆₃H₈₈CoN₁₄O₁₄P Molecular Weight 1355.4 Da CAS Number 68-19-9 PubChem CID 5479203 Active Coenzyme Forms Methylcobalamin (methionine synthase), Adenosylcobalamin (methylmalonyl-CoA mutase) 
-
-## Research Areas
-
-One-carbon metabolism, homocysteine biology, methylation research, neurological function, B12 deficiency models Form Lyophilized powder / injectable formulation Storage 2-8°C; protect from light (light-sensitive); aqueous solutions stable at 2-8°C short-term Sequence N/A — corrinoid compound (not a peptide) 
+Two entries deserve a note. The "injectable formulation" line describes a category of pharmaceutical presentation, not necessarily the vial supplied; a research catalogue should state which physical form is in the box, and a buyer should confirm it before assuming a sterile solution. The "sequence N/A" line is correct: a corrinoid has no amino-acid backbone, so peptide analytics do not apply.
 
 ## Available Variants
 
@@ -124,32 +28,121 @@ One-carbon metabolism, homocysteine biology, methylation research, neurological 
 | --- | --- | --- | --- | --- |
 | Vitamin B12 (Cyanocobalamin) | 10 mg | 10 vials | ≥98% | In Stock |
 
-## Specification Highlights
+## Why This Compound
 
-Category: Vitamins & Nutrients Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
+The cobalamin coenzymes sit at two metabolic junctions. Methylcobalamin is the cofactor for methionine synthase, which transfers a methyl group from 5-methyltetrahydrofolate to homocysteine and regenerates methionine. That reaction links the folate cycle to the methionine cycle and to S-adenosylmethionine, the methyl donor used in most cellular methylation reactions. Adenosylcobalamin is the cofactor for methylmalonyl-CoA mutase, which converts methylmalonyl-CoA to succinyl-CoA in the catabolism of odd-chain fatty acids and some amino acids. The two reactions are the reason B12 status is assessed with two different markers: homocysteine for the methylation side and methylmalonic acid for the mutase side.
 
-## Quality & Testing
+Cyanocobalamin is the stable synthetic form. The cyano ligand is not the natural coenzyme ligand; it is a handle that makes the molecule crystalline, light-stable enough to handle, and inexpensive to produce by fermentation and chemical conversion. In a cell or an organism, cyanocobalamin is converted to the coenzyme forms, but that conversion is enzymatic and depends on the system. In a cell-free assay, cyanocobalamin is not a substitute for methylcobalamin. It is a precursor with different reactivity. That distinction is the most common conceptual error in B12 research procurement.
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+For an analytical laboratory, the compound has a second life as a reference material. Cyanocobalamin is used to calibrate HPLC and LC-MS methods for cobalamin analysis, to spike matrices for recovery studies, and to check instrument response across the B12 vitamer panel. Those uses depend on certified purity, a known counterion or water content, and a documented storage history. A vial that has been sitting on a shelf in a clear container is not a reference material, whatever the label says.
 
-## Research Areas
+The photochemistry is the reason. The cyano ligand is displaced by light, and the corrin ring is sensitive to both ultraviolet and visible radiation. Aqueous solutions exposed to laboratory light lose absorbance at the characteristic maxima and accumulate hydroxocobalamin and other photoproducts. The change is visible in the UV-visible spectrum before it is visible to the eye. That makes cyanocobalamin a compound where handling discipline is not optional and where a certificate measured at release says little about a vial that has been opened and left on a bench.
 
-One-Carbon Metabolism and Methylation Research Methylcobalamin is the cofactor for methionine synthase — the enzyme that regenerates methionine from homocysteine using 5-methyltetrahydrofolate as the methyl donor. This reaction is the central node of one-carbon metabolism: it connects the folate cycle (methylenetetrahydrofolate reductase, MTHFR) to the methionine cycle (SAM production, SAM-dependent methylation). Research using B12-deficient cell cultures and animal models defines how B12 availability affects SAM/SAH ratios, global DNA methylation, and gene expression in metabolic and neurological research contexts. Neurological Function and Myelin Research B12 deficiency produces subacute combined degeneration of the spinal cord — a neurological syndrome reflecting the role of methylcobalamin in myelin maintenance. Research has examined the mechanistic link between B12-dependent methylation reactions and myelin basic protein gene expression, and between elevated methylmalonic acid (from adenosylcobalamin deficiency) and neuronal mitochondrial function. B12-deficient rodent models are used to study the neurostructural consequences of methylation cycle blockade. Homocysteine Biology and Cardiovascular Research Hyperhomocysteinemia — elevated plasma homocysteine — is an established marker of B12/folate deficiency and a cardiovascular risk factor in epidemiological research. Studies have examined how homocysteine affects endothelial function, platelet activation, oxidative stress (homocysteine auto-oxidizes to generate superoxide), and smooth muscle cell proliferation. B12 treatment as a homocysteine-lowering intervention in these models provides mechanistic insight into the relationship between one-carbon metabolism and vascular biology. 
+The [types of reference standards](/blog/types-of-peptide-reference-standards-a-lab-guide/) note is useful for the general framework, even though this compound is not a peptide. The [quality pillar](/peptide-quality-testing/) covers the analytical vocabulary.
+
+## What the Batch Record Should Show
+
+**Identity by UV-visible spectrum.** Cyanocobalamin has a distinctive absorption pattern with maxima near 278, 361, and 550 nm. The ratio of the absorbances at those wavelengths is a quick identity check and a sensitive indicator of photodegradation. A certificate should include the spectrum or the ratio, not just a single absorbance value.
+
+**Identity by mass.** The molecular weight is 1355.4 Da, and electrospray ionisation gives a characteristic doubly charged ion and a cobalt isotope pattern. The isotope pattern is diagnostic: cobalt has a single stable isotope, but the corrin ring and the various adducts produce a cluster that a competent laboratory can interpret. A mass spectrum that matches the calculated mass within a few ppm confirms the molecular formula.
+
+**Purity by HPLC.** Reversed-phase HPLC with UV detection at 361 nm is standard. The method should resolve cyanocobalamin from hydroxocobalamin, methylcobalamin, adenosylcobalamin, and the photodegradation products. A generic method may not resolve all of them. Ask for the retention times of the related substances and for the limit of detection.
+
+**Cobalt content.** ICP-MS or atomic absorption gives the cobalt fraction. The theoretical cobalt content of cyanocobalamin is about 4.3% by mass. A measured value well below that suggests dilution or degradation; a value above it suggests an inorganic cobalt contaminant. This is a useful orthogonal check that a purity percentage cannot provide.
+
+**Water content and residual solvents.** Karl Fischer titration for water. Residual solvents depend on the manufacturing route and should be reported against the relevant ICH limits. A crystalline solid can hold surface water that changes the effective potency of a weighing.
+
+**Related substances.** Hydroxocobalamin is the main photodegradation product and a common impurity. Adenosylcobalamin and methylcobalamin may be present as carry-over from fermentation or as deliberate blends. The certificate should quantify them separately rather than folding them into a single impurity figure.
+
+**Sterility and endotoxin.** Only relevant if the product is sold as sterile or for cell culture. A non-sterile research powder should not carry a sterility claim. If the label says "injectable formulation", the buyer should ask for the sterility and endotoxin data that the phrase implies.
+
+## Sourcing & Verification
+
+Cyanocobalamin is a fermentation product, not a peptide synthesis. The global supply is concentrated among a small number of manufacturers, and most catalogue sellers are repackagers. That structure has two consequences. First, the molecule is inexpensive, so price differences mostly reflect fill size and documentation rather than quality. Second, the grade matters more than the brand: a food-grade or feed-grade material is chemically similar but may not carry the impurity, solvent, and sterility data that a laboratory needs.
+
+Ask for the grade and the pharmacopoeial reference. A supplier that works to a USP or Ph. Eur. monograph should be able to say so and to supply the corresponding certificate. A supplier that works to an internal specification should supply the specification and the validation data behind it. "99% pure" is not a grade. The [supplier authentication note](/blog/coa-verified-peptides-supplier-how-to-authenticate-research-purity-in-2026/) covers the documents that make a certificate checkable.
+
+Ask for the lot's storage history. Cyanocobalamin is light-sensitive, and a lot that has been repackaged into clear vials and stored on a shelf is a different material from one that has been kept in amber glass at 2-8°C. The packaging should be opaque, and the certificate should state the storage condition used before shipment.
+
+Ask for a small aliquot and check the UV-visible spectrum yourself. The ratio of absorbance at 361 nm to 550 nm is a quick, cheap test that catches photodegradation before it reaches an assay. If the ratio is off, the lot has been exposed. This is the single most useful incoming test for this compound, and it requires nothing more than a spectrophotometer and a quartz cuvette.
+
+The [COA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) explains how to compare certificates across suppliers, and the [purity versus concentration note](/blog/why-purity-and-concentration-tests-are-not-enough/) is relevant even though the molecule is not a peptide: a purity percentage does not tell you how much cobalamin is in the vial.
+
+Customs classification is straightforward for a vitamin, but the invoice description should match the product and carry the research-use statement. The [customs guide](/blog/research-peptide-customs-clearance-a-professional-b2b-sourcing-guide-2026/) covers the document set, and the [compliance pillar](/peptide-compliance-risk/) explains why a nutrient label and a research-use label are not interchangeable.
+
+## Handling & Storage
+
+Store at 2-8°C in the dark. Amber glass or an opaque container is not a marketing preference; it is the difference between a stable lot and a degraded one. If the vial is clear, wrap it in foil before putting it in the refrigerator.
+
+Weighing and transfer should be done under subdued light. A few minutes on the bench is not a disaster, but a working day under fluorescent light is. Prepare solutions immediately before use, and keep them in amber tubes or foil-wrapped containers.
+
+Aqueous solutions are stable at 2-8°C for short periods, as the catalogue states. The exact window depends on the concentration, the buffer, and the light exposure. A neutral buffer at pH 6-7 is preferable to an alkaline buffer, which accelerates hydrolysis of the amide side chains. Avoid autoclaving; heat degrades the corrin ring. If sterile filtration is required, use a 0.22 µm filter and accept some loss to adsorption.
+
+Freeze-thaw is less damaging than light exposure for this compound, but repeated cycles still promote degradation and concentration changes. Aliquot the stock into single-use volumes, freeze at −20°C, and thaw in the dark. Do not refreeze a solution that has been warmed to room temperature for an assay.
+
+For cell-culture work, check the medium components. Some formulations contain B12 at concentrations that are not negligible relative to the planned exposure, and a "B12-free" medium may still carry the vitamin from serum. The [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers general technique, though the light-protection step matters more here than for most peptides.
+
+## How It Compares
+
+| Form | Ligand | Stability | Use as a standard | Notes |
+| --- | --- | --- | --- | --- |
+| Cyanocobalamin | Cyano | High, light-sensitive | Common calibration standard | Requires conversion in biological systems |
+| Methylcobalamin | Methyl | Low, light-sensitive | Coenzyme-form assays | Direct cofactor for methionine synthase |
+| Adenosylcobalamin | 5′-deoxyadenosyl | Low, light-sensitive | Mutase assays | Sensitive to light and pH |
+| Hydroxocobalamin | Hydroxo | Moderate | Photodegradation reference | Common impurity in cyanocobalamin |
+
+The comparison that matters for a laboratory is cyanocobalamin against methylcobalamin. Cyanocobalamin is the better reference material because it is stable and inexpensive. Methylcobalamin is the better tool when the experiment requires the actual cofactor without a conversion step. Using cyanocobalamin in a cell-free methionine synthase assay and expecting methylcobalamin-like activity is a design error, not a sourcing error.
+
+Hydroxocobalamin is worth knowing because it is the product of light degradation. If a certificate lists hydroxocobalamin as an impurity, the number is a history of the lot's light exposure. A low hydroxocobalamin figure is a good sign; a high one is a reason to ask how the material was stored. The [methylcobalamin listing](/catalog/methylcobalamin-vitamin-b12/) covers the coenzyme form.
+
+## The Author's Take
+
+**Position.** I would buy cyanocobalamin as a certified reference material with a UV-visible spectrum and a stated grade, not as a "vitamin B12" vial whose main selling point is a low price.
+
+**Reasoning.** The molecule is cheap and well characterised, so the only meaningful differentiators are grade, documentation, and light history. A purity percentage alone does not capture any of them. The UV spectrum does, and it takes five minutes. For a laboratory that uses B12 as a calibrant or a control, that five-minute check is worth more than a page of marketing copy.
+
+**Disclosure.** I write for Peptides of China, which lists this product. The emphasis on grade and photostability reflects what I would ask any supplier of a light-sensitive reference material.
 
 ## Frequently Asked Questions
 
 **What is the difference between cyanocobalamin and methylcobalamin?**
 
-Cyanocobalamin is the synthetic stable storage form; methylcobalamin is the bioactive coenzyme form directly used by methionine synthase. Cyanocobalamin must be converted in the body to methylcobalamin and adenosylcobalamin. Methylcobalamin is preferred in research where direct coenzyme activity without conversion steps is required, or for CNS studies (as methylcobalamin crosses the blood-brain barrier more readily). Cyanocobalamin is preferred for stability and storage. 
+Cyanocobalamin is the synthetic stable form with a cyano ligand; methylcobalamin is the coenzyme form used by methionine synthase. Cyanocobalamin must be converted enzymatically to the coenzyme forms, so it is not a direct substitute in a cell-free assay. Cyanocobalamin is preferred for storage and calibration; methylcobalamin is preferred when the cofactor itself is required.
 
-**What are the two biomarkers of B12 deficiency used in research?**
+**What are the two biomarkers of B12 status used in research?**
 
-Homocysteine (elevated due to methionine synthase blockade — methylcobalamin deficiency) and methylmalonic acid (MMA, elevated due to methylmalonyl-CoA mutase blockade — adenosylcobalamin deficiency). Both markers are used to assess B12 adequacy in deficiency models, with MMA being more specific for B12 deficiency than homocysteine (which is also elevated in folate and B6 deficiency). 
+Homocysteine, which rises when the methionine synthase reaction is impaired, and methylmalonic acid, which rises when methylmalonyl-CoA mutase is impaired. Methylmalonic acid is the more specific marker because homocysteine also rises in folate and vitamin B6 deficiency. Both are measured in deficiency models and in method-development work.
 
 **What purity is your cyanocobalamin?**
 
-Cyanocobalamin is supplied at 99%+ purity, verified by HPLC. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Why must B12 be protected from light? The cobalt-corrin ring and cyano ligand in cyanocobalamin are photosensitive — UV and visible light cause degradation of the molecule, reducing its activity. Aqueous solutions exposed to light can lose significant activity within hours. Store in amber vials and minimize light exposure during preparation. 
+The catalogue specification is ≥98% by HPLC. The lot certificate should also report the UV-visible spectrum, related substances, cobalt content, water content, and the grade or pharmacopoeial reference. Purity without those values does not establish that the material is a suitable reference standard.
+
+**Why must B12 be protected from light?**
+
+The cyano ligand is photolabile and the corrin ring absorbs visible and ultraviolet light. Exposure converts cyanocobalamin to hydroxocobalamin and other photoproducts, which changes the absorbance spectrum and the activity. Amber glass, foil wrapping, and subdued lighting during preparation are the practical controls.
+
+**Is cyanocobalamin a peptide?**
+
+No. It is a cobalamin, an organometallic corrinoid with a cobalt centre. It has no amino-acid backbone, so peptide analytics such as amino-acid analysis and MS/MS sequencing do not apply. The identity tests are UV-visible spectroscopy, mass spectrometry, HPLC, and cobalt determination.
+
+**Can this product be used in cell culture?**
+
+It can be used as a medium component or an exposure in cell-culture models, but the catalogue material is a research reagent and may not be sterile. The user is responsible for sterility, endotoxin control, and for accounting for B12 already present in the medium and serum. No nutritional or clinical effect is claimed.
+
+**What is the difference between the powder and the injectable form?**
+
+The catalogue profile lists both "lyophilized powder" and "injectable formulation" as form descriptors. They are different presentations with different sterility and excipient requirements. A buyer should confirm which one is supplied before assuming that the vial contains a sterile solution.
 
 ## Related Products
 
-Methylcobalamin (Vitamin B12) For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+Methylcobalamin (Vitamin B12) NAD Glutathione L-Carnitine
+
+## Sources
+
+1. Banerjee R, Ragsdale SW. The many faces of vitamin B12: catalysis by cobalamin-dependent enzymes. *Annual Review of Biochemistry*. 2003;72:209-247.
+2. Green R, Allen LH, Bjørke-Monsen AL, et al. Vitamin B12 deficiency. *Nature Reviews Disease Primers*. 2017;3:17040.
+3. Stabler SP. Clinical practice. Vitamin B12 deficiency. *New England Journal of Medicine*. 2013;368(2):149-160.
+4. Randaccio L, Geremia S, Demitri N, Wuerges J. Vitamin B12: chemistry and biochemistry. *Biochemical Society Transactions*. 2005;33(Pt 4):806-810.
+5. International Council for Harmonisation. *ICH Q1B: Photostability Testing of New Drug Substances and Products*. Geneva: ICH; 1996.
+6. United States Pharmacopeia. Cyanocobalamin monograph. *USP-NF*. Rockville, MD: USP.
+7. National Center for Biotechnology Information. PubChem compound summary: cyanocobalamin, CID 5479203. https://pubchem.ncbi.nlm.nih.gov/compound/5479203

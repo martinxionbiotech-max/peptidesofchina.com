@@ -20,7 +20,7 @@ The research rationale comes from work on growth hormone's lipolytic domain. Ear
 
 The counter-evidence is worth stating plainly. Frigeri and colleagues reported that purified human growth hormone showed no lipolytic activity in cultured 3T3-L1 adipocytes, which complicates the premise that the fragment isolates a discrete lipolytic domain. Other studies using GH fragments have reported effects on lipolysis and on glucose metabolism, but the mechanisms remain unresolved, and the literature is a mixture of in vitro, ex vivo and rodent work with different endpoints. A researcher who reads only the supplier copy would think the mechanism is settled. It is not.
 
-That makes the fragment a legitimate tool for a narrow question: does a defined C-terminal peptide produce a measurable change in a specific adipose or bone assay, under conditions where the full hormone is the comparator? It is a poor tool for a broad claim about "fat loss" because the assays that would support such a claim are exactly the ones where the literature is inconsistent.
+That makes the fragment a legitimate tool for a narrow question: does a defined C-terminal peptide produce a measurable change in a specific adipose or bone assay, under conditions where the full hormone is the comparator? It is a poor tool for a broad claim about body composition because the assays that would support such a claim are exactly the ones where the literature is inconsistent.
 
 ## Compound Profile
 

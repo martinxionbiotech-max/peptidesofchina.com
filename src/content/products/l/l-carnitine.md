@@ -61,9 +61,9 @@ The questions worth asking are therefore about grade and traceability rather tha
 - Is the material from fermentation or chemical synthesis, and are residual solvents reported?
 - Does the batch documentation match the vial label, including the lot number?
 
-For a laboratory that needs carnitine as a medium additive, the grade question is the important one. Technical-grade material may contain counterions and residues that interfere with cell culture. For a laboratory using carnitine to perturb the shuttle in a cell model, enantiomeric purity is the important one. The [supplier GMP assessment guide](/blog/how-to-assess-peptide-supplier-gmp-compliance-in-2026/) is written for peptides but the audit logic applies here too: ask what was measured, how, and by whom.
+For a laboratory that needs carnitine as a medium additive, the grade question is the important one. Technical-grade material may contain counterions and residues that interfere with cell culture. For a laboratory using carnitine to perturb the shuttle in a cell model, enantiomeric purity is the important one. The [supplier GMP assessment guide](/blog/how-to-assess-peptide-supplier-gmp-compliance-in-2026/) is written for peptides but the audit logic applies here too, and the [quality testing hub](/peptide-quality-testing/) covers the analytical side: ask what was measured, how, and by whom.
 
-One sourcing note specific to this catalogue: carnitine is sold as a powder in 600 mg vials and as a liquid at 500 mg/mL. The [liquid format](/catalog/l-carnitine-liquid/) solves the weighing problem and introduces a concentration-verification problem. Neither is inherently better; they fail in different ways.
+One sourcing note specific to this catalogue: carnitine is sold as a powder in 600 mg vials and as a liquid at 500 mg/mL. The [liquid format](/catalog/l-carnitine-liquid/) solves the weighing problem and introduces a concentration-verification problem. Neither is inherently better; they fail in different ways. The [handling protocols hub](/peptide-handling-protocols/) is the place to start for shared bench practice.
 
 ## Handling & Storage
 
@@ -79,7 +79,7 @@ All handling described here is bench-scale laboratory work. L-Carnitine is suppl
 
 ## How It Compares
 
-**L-Carnitine liquid.** The same molecule at 500 mg/mL in 10 mL vials. The liquid removes the weighing step and adds questions about density, fill volume, and microbial control. Laboratories doing high-throughput screens often prefer it; laboratories doing precise dose-response work often prefer the powder because the gravimetric record is cleaner.
+**L-Carnitine liquid.** The same molecule at 500 mg/mL in 10 mL vials. The liquid removes the weighing step and adds questions about density, fill volume, and microbial control. Laboratories doing high-throughput screens often prefer it; laboratories doing precise concentration-response work often prefer the powder because the gravimetric record is cleaner.
 
 **Acetyl-L-Carnitine.** An ester with different distribution and a second role as an acetyl donor. It is not a substitute in shuttle experiments. If the endpoint is mitochondrial fatty acid oxidation, use L-carnitine; if the endpoint is acetyl-CoA supply or central nervous system carnitine transport, ALCAR is the relevant reagent.
 

@@ -14,9 +14,9 @@ Mixtures are analytically inconvenient. There is no single purity value, no mole
 
 ## Why This Compound
 
-The formulation sits in a research tradition that began with phosphatidylcholine injections. Rotunda and Kolodney reviewed that history in *Dermatologic Surgery* in 2006, tracing how lecithin-derived phosphatidylcholine moved from a proposed solubilising agent into subcutaneous use, and how the evidence base developed around tissue response rather than around a single molecular mechanism. Their review is the most useful starting point because it separates the formulation's components from the claims made for them.
+The formulation sits in a research tradition that began with phosphatidylcholine-based mesotherapy. Rotunda and Kolodney reviewed that history in *Dermatologic Surgery* in 2006, tracing how lecithin-derived phosphatidylcholine moved from a proposed solubilising agent into subcutaneous use, and how the evidence base developed around tissue response rather than around a single molecular mechanism. Their review is the most useful starting point because it separates the formulation's components from the claims made for them.
 
-Phosphatidylcholine is an amphipathic lipid. In aqueous solution it forms bilayers and vesicles, and at sufficient concentration it can interact with cell membranes. In adipocyte culture, exposure to phosphatidylcholine has been used to study membrane disruption, lipid droplet release, and the subsequent inflammatory response. That is a laboratory observation about a lipid's physical chemistry, not a statement about what happens in a person after an injection, and the distinction matters for anyone reading marketing material.
+Phosphatidylcholine is an amphipathic lipid. In aqueous solution it forms bilayers and vesicles, and at sufficient concentration it can interact with cell membranes. In adipocyte culture, exposure to phosphatidylcholine has been used to study membrane disruption, lipid droplet release, and the subsequent inflammatory response. That is a laboratory observation about a lipid's physical chemistry, not a statement about what happens in a person, and the distinction matters for anyone reading marketing material.
 
 Bromelain is a proteolytic enzyme preparation from pineapple stem. Maurer's 2001 review in *Cellular and Molecular Life Sciences* describes its biochemistry and its use as an anti-inflammatory and proteolytic agent in research settings. In this formulation it is included for its enzymatic activity against proteinaceous connective tissue, and the relevant analytical question is activity, not mass: a milligram of bromelain is not equivalent to a milligram of another bromelain preparation unless the activity units match.
 
@@ -67,7 +67,7 @@ Formulation products attract a particular kind of supplier: one who can copy a l
 - What is the source of the artichoke extract, and what marker compound is used for standardisation?
 - Can you define "thyidine" and provide a specification for it?
 
-The last two questions are the ones most suppliers cannot answer, and the answer is informative either way. A supplier who says "the extract is standardised to caffeoylquinic acids at 5%" has a specification; a supplier who says "it is a natural extract" does not. The [specification sheet note](/blog/why-peptide-specification-sheets-matter-in-procurement/) explains why a written specification is the minimum for any formulated product.
+The last two questions are the ones most suppliers cannot answer, and the answer is informative either way. A supplier who says "the extract is standardised to caffeoylquinic acids at 5%" has a specification; a supplier who says "it is a natural extract" does not. The [specification sheet note](/blog/why-peptide-specification-sheets-matter-in-procurement/) explains why a written specification is the minimum for any formulated product, and the [quality testing hub](/peptide-quality-testing/) covers the analytical methods behind it.
 
 There is also a compliance dimension. Mesotherapy formulations have been the subject of regulatory attention in several markets, and the boundary between a research reagent and a medicinal product is drawn differently from country to country. The [compliance and sourcing risk hub](/peptide-compliance-risk/) sets out the general framework; for this product, the practical point is that documentation should describe a research formulation, not a treatment.
 
@@ -85,11 +85,11 @@ All handling described here is bench-scale laboratory work. Lemon Bottle is supp
 
 ## How It Compares
 
-**Phosphatidylcholine and deoxycholate formulations.** The older injectable tradition used phosphatidylcholine with sodium deoxycholate as a solubiliser. Deoxycholate is a bile acid with detergent-like membrane activity; phosphatidylcholine is a bilayer-forming lipid. The two are not interchangeable, and the literature on one does not transfer automatically to the other. Rotunda's review covers the distinction.
+**Phosphatidylcholine and deoxycholate formulations.** The older clinical tradition used phosphatidylcholine with sodium deoxycholate as a solubiliser. Deoxycholate is a bile acid with detergent-like membrane activity; phosphatidylcholine is a bilayer-forming lipid. The two are not interchangeable, and the literature on one does not transfer automatically to the other. Rotunda's review covers the distinction.
 
-**Lipotropic blends.** [Lipo-C (Lipotropic Complex)](/catalog/lipo-c-lipotropic-complex/) and [Lipo-B](/catalog/lipo-b/) are aqueous vitamin and amino acid mixtures with no lipid phase. They are analytically simpler: no vesicles, no enzyme activity, no plant extract. A laboratory choosing between them should start from the analytical method it can actually run.
+**Lipotropic blends.** [Lipo-C (Lipotropic Complex)](/catalog/lipo-c-lipotropic-complex/) and [Lipo-B](/catalog/lipo-b/) are aqueous vitamin and amino acid mixtures with no lipid phase. They are analytically simpler: no vesicles, no enzyme activity, no plant extract. A laboratory choosing between them should start from the analytical method it can actually run. The [category overview](/peptide-categories-mechanisms/) sets out how these product classes differ.
 
-**L-Carnitine alone.** A single-component solution at 500 mg/mL, with a clean identity and assay story. If the research question is about carnitine transport, the single compound is the right reagent; a multi-component formulation adds variables that cannot be attributed.
+**L-Carnitine alone.** A single-component solution at 500 mg/mL, with a clean identity and assay story. The [carnitine liquid page](/catalog/l-carnitine-liquid/) covers the format. If the research question is about carnitine transport, the single compound is the right reagent; a multi-component formulation adds variables that cannot be attributed.
 
 **Single-component phospholipid products.** Where a supplier offers purified phosphatidylcholine, the analytical comparison is straightforward: phospholipid class profile, fatty acid composition, and vesicle size. The formulation here is broader and therefore harder to characterise, which is a trade-off rather than a defect.
 
@@ -125,7 +125,7 @@ It appears in the source specification but is not a standard biochemical name. A
 
 **Is this product intended for human use?**
 
-No. It is supplied for laboratory research only. Nothing in this page is a clinical claim, a dose recommendation, or a statement of therapeutic effect.
+No. It is supplied for laboratory research only. Nothing in this page is a clinical claim.
 
 ## Related Products
 

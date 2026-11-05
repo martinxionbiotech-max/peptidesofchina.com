@@ -4,152 +4,123 @@ name: "AHK-Cu"
 slug: "ahk-cu"
 price: 83.0
 status: "In Stock"
-description: "Copper-chelating tripeptide analog. Investigated in dermatological research for effects on follicular biology, extracellular matrix remodeling, and collagen biosynthesis."
+description: "AHK-Cu is an Ala-His-Lys copper tripeptide complex for skin and extracellular-matrix research. Copper content and batch testing explained."
 image: "/images/products/ahk-cu-bottle.webp"
 
 ---
-AHK-Cu is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Copper-peptide complex (tripeptide) Synonyms Ala-His-Lys copper complex, AHK copper tripeptide Sequence Ala-His-Lys Amino Acids 3 Copper Chelation Cu²⁺ via histidine imidazole nitrogen and N-terminal amine 
+AHK-Cu is a small compound with a large specification problem. The peptide is three amino acids long — alanine, histidine, lysine — and the active species is not the peptide alone but the copper complex it forms. That means a vial can contain the right peptide sequence, at the right purity, and still be the wrong reagent, because the copper loading, the coordination geometry, and the counterion all affect what the molecule does in a cell culture dish.
 
-## Research Areas
-
-Skin biology, fibroblast research, wound healing, copper-dependent enzyme biology, extracellular matrix Form Lyophilized powder Storage −20°C long-term; 2-8°C aqueous (short-term); protect from light Molecular Formula C₁₂H₂₄CuN₆O₄ (copper complex) Molecular Weight ~416 Da (copper complex) CAS Number Available on request 
-
-## Available Variants
-
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| AHK-Cu | 100 mg | 10 vials | ≥98% | In Stock |
-
-## Specification Highlights
-
-Category: Skin, Hair & Nails, Healing & Repair Total variants: 2 In-stock variants: 1 of 2 Purity: ≥98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Variant Notes
-
-Copper complex of the tripeptide alanyl-histidyl-lysine. Investigated in cellular models of skin, hair follicles, and the extracellular matrix, including processes related to fibroblast activity and collagen metabolism. 
-
-## Research Areas
-
-Copper-Peptide Biology Research AHK-Cu is studied as a structural variant of GHK-Cu in copper-peptide pharmacology research. The His residue provides a high-affinity coordination site for Cu²⁺, forming the stable 3N coordination complex (imidazole N, N-terminal amine, backbone amide nitrogen) characteristic of copper-tripeptide complexes. Research has compared AHK-Cu with GHK-Cu in terms of copper-binding affinity (Kd), copper delivery efficiency to cellular cuproenzymes, and receptor-mediated activity in fibroblast models. Extracellular Matrix and Collagen Research Copper-dependent lysyl oxidase (LOX) is required for collagen and elastin crosslinking — a fundamental ECM maturation process. Research has examined whether AHK-Cu can serve as a copper donor for LOX activity in fibroblast culture models, improving ECM organization markers. Studies of TGF-β1 expression, collagen synthesis rates, and MMP/TIMP balance in AHK-Cu-treated fibroblast cultures contribute to understanding of copper-peptide effects on connective tissue biology. Angiogenesis and Wound Healing Models Copper is an essential cofactor for angiogenesis — endothelial migration and tube formation require copper-dependent enzyme activity, and copper chelation suppresses angiogenic responses in vitro. Research has examined AHK-Cu's ability to promote endothelial cell migration, tube formation in Matrigel assays, and VEGF expression in wound healing model systems, as part of broader copper-peptide angiogenesis research. ## Sourcing AHK-Cu From China
-
-AHK-Cu is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
-
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, AHK-Cu is supplied for
-  laboratory research use only, under strict research-use terms.
-
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
-
-## Frequently Asked Questions
-
-**How does AHK-Cu compare to GHK-Cu?**
-
-Both are copper-peptide triplex complexes with similar histidine-mediated Cu²⁺ chelation. GHK-Cu (Gly-His-Lys) is the more extensively studied compound with a well-characterized research literature in wound healing and skin biology. AHK-Cu (Ala-His-Lys) is a structural variant used to probe how the N-terminal residue affects copper-binding geometry, receptor interactions, and biological activity in parallel research models. Why does copper complexation matter for peptide research activity? The copper ion in copper-peptide complexes is not incidental — it is hypothesized to be required for the biological activity associated with these compounds. The Cu²⁺ coordinates with cellular receptors and delivers copper to cuproenzymes (LOX, SOD) that drive the downstream effects on ECM synthesis, angiogenesis, and wound healing. Decomplexed peptide alone shows reduced activity in most research models, confirming the copper's functional role. 
-
-**What purity is your AHK-Cu?**
-
-AHK-Cu is synthesized to 99%+ purity, verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
-
-**What are the storage conditions?**
-
-Lyophilized AHK-Cu should be stored at −20°C, protected from moisture and light. Copper-peptide complexes can undergo oxidation of Cu²⁺ to Cu⁰ in solution under certain conditions — use degassed buffers and minimize air exposure for aqueous preparations. For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. class, and every listing carries the manufacturer's own specification rather than a reseller's claim. Buyers sourcing **chinese peptides** in this category typically evaluate AHK-Cu across Skin biology, fibroblast research, wound healing, copper-dependent enzyme biology, extracellular matrix Form Lyophilized powder Storage −20°C long-term; 2-8°C aqueous (short-term); protect from light Molecular Formula C₁₂H₂₄CuN₆O₄ (copper complex) Molecular Weight ~416 Da (copper complex) CAS Number Available on request 
-
-## Available Variants
-
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| AHK-Cu | 100 mg | 10 vials | ≥98% | In Stock |
-
-## Specification Highlights
-
-Category: Skin, Hair & Nails, Healing & Repair Total variants: 2 In-stock variants: 1 of 2 Purity: ≥98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Variant Notes
-
-Copper complex of the tripeptide alanyl-histidyl-lysine. Investigated in cellular models of skin, hair follicles, and the extracellular matrix, including processes related to fibroblast activity and collagen metabolism. 
-
-## Research Areas
-
-Copper-Peptide Biology Research AHK-Cu is studied as a structural variant of GHK-Cu in copper-peptide pharmacology research. The His residue provides a high-affinity coordination site for Cu²⁺, forming the stable 3N coordination complex (imidazole N, N-terminal amine, backbone amide nitrogen) characteristic of copper-tripeptide complexes. Research has compared AHK-Cu with GHK-Cu in terms of copper-binding affinity (Kd), copper delivery efficiency to cellular cuproenzymes, and receptor-mediated activity in fibroblast models. Extracellular Matrix and Collagen Research Copper-dependent lysyl oxidase (LOX) is required for collagen and elastin crosslinking — a fundamental ECM maturation process. Research has examined whether AHK-Cu can serve as a copper donor for LOX activity in fibroblast culture models, improving ECM organization markers. Studies of TGF-β1 expression, collagen synthesis rates, and MMP/TIMP balance in AHK-Cu-treated fibroblast cultures contribute to understanding of copper-peptide effects on connective tissue biology. Angiogenesis and Wound Healing Models Copper is an essential cofactor for angiogenesis — endothelial migration and tube formation require copper-dependent enzyme activity, and copper chelation suppresses angiogenic responses in vitro. Research has examined AHK-Cu's ability to promote endothelial cell migration, tube formation in Matrigel assays, and VEGF expression in wound healing model systems, as part of broader copper-peptide angiogenesis research. 
-
-## Frequently Asked Questions
-
-**How does AHK-Cu compare to GHK-Cu?**
-
-Both are copper-peptide triplex complexes with similar histidine-mediated Cu²⁺ chelation. GHK-Cu (Gly-His-Lys) is the more extensively studied compound with a well-characterized research literature in wound healing and skin biology. AHK-Cu (Ala-His-Lys) is a structural variant used to probe how the N-terminal residue affects copper-binding geometry, receptor interactions, and biological activity in parallel research models. Why does copper complexation matter for peptide research activity? The copper ion in copper-peptide complexes is not incidental — it is hypothesized to be required for the biological activity associated with these compounds. The Cu²⁺ coordinates with cellular receptors and delivers copper to cuproenzymes (LOX, SOD) that drive the downstream effects on ECM synthesis, angiogenesis, and wound healing. Decomplexed peptide alone shows reduced activity in most research models, confirming the copper's functional role. 
-
-**What purity is your AHK-Cu?**
-
-AHK-Cu is synthesized to 99%+ purity, verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
-
-**What are the storage conditions?**
-
-Lyophilized AHK-Cu should be stored at −20°C, protected from moisture and light. Copper-peptide complexes can undergo oxidation of Cu²⁺ to Cu⁰ in solution under certain conditions — use degassed buffers and minimize air exposure for aqueous preparations. For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, AHK-Cu is supplied for laboratory research use only.
-
-
-Buy AHK-Cu | Research Grade | Peptides of China AHK-Cu Buy AHK-Cu — Research Grade Peptide AHK-Cu is a skin, hair & nails research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+For a buyer, the practical consequence is that peptide purity is necessary but not sufficient. This page explains what AHK-Cu is used to study, what the copper-specific batch data should look like, and how the compound differs from the much better-known GHK-Cu.
 
 ## Compound Profile
 
-AHK-Cu (Ala-His-Lys copper complex) is a synthetic tripeptide complexed with Cu²⁺ ions, structurally analogous to the copper-binding tripeptide GHK-Cu (Gly-His-Lys). The substitution of glycine with alanine at the N-terminus alters the peptide's conformational flexibility while preserving the histidine-mediated copper chelation that is central to the biological activity attributed to copper-peptide complexes. Research interest in AHK-Cu centers on its copper-dependent interactions with growth factor receptors and extracellular matrix proteins, paralleling the biological profile studied for GHK-Cu in skin biology and tissue remodeling research. Copper-peptide complexes have been studied in the context of wound healing, collagen and elastin production, and angiogenesis — biological processes in which copper-dependent enzymes (lysyl oxidase, superoxide dismutase, ceruloplasmin) play critical roles. Research has examined whether AHK-Cu modulates fibroblast activity, matrix metalloproteinase (MMP) balance, and growth factor production in skin cell culture models. Its smaller size compared to GHK-Cu provides a complementary tool for studying minimal peptide-copper pharmacophores in receptor-mediated and enzymatic contexts. Peptides of China supplies AHK-Cu as a lyophilized powder at 99%+ purity, verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. All products are for laboratory research use only and are not for human consumption. 
+Chemical Class Copper-peptide complex (tripeptide) Synonyms Ala-His-Lys copper complex, AHK copper tripeptide Sequence Ala-His-Lys Amino Acids 3 Copper Chelation Cu²⁺ via histidine imidazole nitrogen and N-terminal amine Form Lyophilized powder Storage −20°C long-term; 2-8°C aqueous (short-term); protect from light Molecular Formula C₁₂H₂₄CuN₆O₄ (copper complex) Molecular Weight ~416 Da (copper complex) CAS Number Available on request
 
-## Profile
+## Why This Compound
 
-Chemical Class Copper-peptide complex (tripeptide) Synonyms Ala-His-Lys copper complex, AHK copper tripeptide Sequence Ala-His-Lys Amino Acids 3 Copper Chelation Cu²⁺ via histidine imidazole nitrogen and N-terminal amine 
+Copper is an obligatory cofactor for a set of enzymes that build and remodel connective tissue. Lysyl oxidase crosslinks collagen and elastin; superoxide dismutase handles oxidative stress; cytochrome c oxidase sits at the end of the mitochondrial chain. A cell that cannot acquire copper cannot mature its extracellular matrix, which is why copper deficiency produces fragile skin and defective wound repair in animal models.
 
-## Research Areas
+GHK-Cu, the Gly-His-Lys copper complex, is the best-studied member of this family. It was isolated from human plasma in the 1970s and has since accumulated a literature covering fibroblast collagen synthesis, matrix metalloproteinase balance, angiogenesis, and hair follicle biology. The histidine imidazole provides the high-affinity copper-binding site, and the N-terminal amine contributes a second nitrogen ligand, producing a stable complex at physiological pH.
 
-Skin biology, fibroblast research, wound healing, copper-dependent enzyme biology, extracellular matrix Form Lyophilized powder Storage −20°C long-term; 2-8°C aqueous (short-term); protect from light Molecular Formula C₁₂H₂₄CuN₆O₄ (copper complex) Molecular Weight ~416 Da (copper complex) CAS Number Available on request 
+AHK-Cu substitutes alanine for glycine at the N-terminus. The change is small — one methyl group — but it alters the peptide's conformational freedom and its packing around the copper ion. Researchers use the pair as a matched set: if GHK-Cu produces an effect and AHK-Cu does not, the glycine position matters; if both work, the copper delivery is probably the dominant mechanism. That comparative design is the main reason a lab would choose AHK-Cu over its more famous relative.
 
-## Available Variants
+The published literature on AHK-Cu specifically is thinner than the GHK-Cu literature, and buyers should know that before designing a study. Pyo and colleagues examined tripeptide-copper complexes in human hair follicle culture and reported effects on follicle growth and survival; later work on copper peptides in skin generally uses GHK-Cu as the reference compound. AHK-Cu appears in that literature as a structural variant, not as a independently validated active.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| AHK-Cu | 100 mg | 10 vials | ≥98% | In Stock |
+That is not a reason to avoid it. It is a reason to frame experiments as comparative and mechanistic rather than as efficacy studies. A study asking whether the N-terminal residue changes copper delivery is well posed. A study assuming AHK-Cu is interchangeable with GHK-Cu is not.
 
-## Specification Highlights
+## What the Batch Record Should Show
 
-Category: Skin, Hair & Nails, Healing & Repair Total variants: 2 In-stock variants: 1 of 2 Purity: ≥98% Standard pack size: 10 vials 
+The first field is peptide identity. HPLC retention time and mass spectrometry should confirm Ala-His-Lys, and the amino acid analysis should give the expected 1:1:1 ratio. A peptide map is optional for a tripeptide, but the MS/MS spectrum should show the expected b and y ions; for three residues, the fragmentation is simple enough that a missing signal is a red flag.
 
-## Quality & Testing
+The second field is copper content, and this is where most certificates fall short. Copper should be measured by ICP-OES or ICP-MS and reported as a percentage of the theoretical 1:1 complex. The theoretical copper content for C₁₂H₂₄CuN₆O₄ is about 15.3% by mass; a lot reporting 10% is under-loaded, and one reporting 18% may contain free copper salt. Either condition changes the biology, because free Cu²⁺ is redox-active and toxic in a way the complex is not.
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+Stoichiometry should be stated explicitly. Copper-peptide complexes can form 1:1 and 2:1 species depending on pH and concentration, and the two have different charges and different behaviour on a column. A certificate that says "copper peptide" without a ratio has not defined the product.
 
-## Variant Notes
+Counterion and pH belong on the record. These complexes are often isolated as acetates or chlorides, and the counterion affects solubility and the pH of the reconstituted solution. The appearance should be a blue to blue-green powder; a brown or grey tint suggests oxidation or free copper. Water content by Karl Fischer matters because the complex is hygroscopic, and residual TFA should be low if the peptide was purified on a TFA gradient before copper loading.
 
-Copper complex of the tripeptide alanyl-histidyl-lysine. Investigated in cellular models of skin, hair follicles, and the extracellular matrix, including processes related to fibroblast activity and collagen metabolism. 
+Endotoxin and bioburden apply for cell-culture use. Copper complexes can be antimicrobial at high concentration, which can mask a contaminated preparation in a simple sterility test; a bioburden count before filtration is more informative than a pass/fail sterility result.
 
-## Research Areas
+## Sourcing & Verification
 
-Copper-Peptide Biology Research AHK-Cu is studied as a structural variant of GHK-Cu in copper-peptide pharmacology research. The His residue provides a high-affinity coordination site for Cu²⁺, forming the stable 3N coordination complex (imidazole N, N-terminal amine, backbone amide nitrogen) characteristic of copper-tripeptide complexes. Research has compared AHK-Cu with GHK-Cu in terms of copper-binding affinity (Kd), copper delivery efficiency to cellular cuproenzymes, and receptor-mediated activity in fibroblast models. Extracellular Matrix and Collagen Research Copper-dependent lysyl oxidase (LOX) is required for collagen and elastin crosslinking — a fundamental ECM maturation process. Research has examined whether AHK-Cu can serve as a copper donor for LOX activity in fibroblast culture models, improving ECM organization markers. Studies of TGF-β1 expression, collagen synthesis rates, and MMP/TIMP balance in AHK-Cu-treated fibroblast cultures contribute to understanding of copper-peptide effects on connective tissue biology. Angiogenesis and Wound Healing Models Copper is an essential cofactor for angiogenesis — endothelial migration and tube formation require copper-dependent enzyme activity, and copper chelation suppresses angiogenic responses in vitro. Research has examined AHK-Cu's ability to promote endothelial cell migration, tube formation in Matrigel assays, and VEGF expression in wound healing model systems, as part of broader copper-peptide angiogenesis research. 
+AHK-Cu is made in two steps: synthesize the tripeptide, purify it, then load copper. Each step has a failure mode, and suppliers rarely document both. A peptide that is pure by HPLC but only half-loaded with copper will pass a peptide certificate and fail a biological assay.
+
+Ask for the copper assay first. A supplier who cannot provide an ICP result for the lot is not measuring the thing that makes the product work. Ask for the peptide assay second: HPLC at 214 nm will show the peptide backbone, but the copper complex may elute as a broad peak because of its charge; a method that resolves the complex from the free peptide is better. Ask for the counterion third.
+
+There is also a colour check that costs nothing. Copper tripeptide complexes are blue. A pale pink or colourless powder is either not complexed or heavily diluted with peptide-free excipient. Colour is not a specification, but it is a fast screen before the paperwork arrives.
+
+For buyers comparing Chinese suppliers, a small sample sent for ICP-MS settles the copper question faster than any certificate. Pair that with an HPLC run and you have both halves of the specification. The [quality testing pillar](/peptide-quality-testing/) describes the broader documentation set, and [how to read a peptide COA](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) explains which fields are worth insisting on.
+
+## Handling & Storage
+
+Store lyophilized AHK-Cu at −20°C, protected from light and moisture. The copper centre is the fragile part: Cu²⁺ can be reduced to Cu⁺ by reducing agents, displaced by chelators, and precipitated as hydroxide at alkaline pH.
+
+Reconstitute in water or a mild buffer at slightly acidic to neutral pH. Avoid phosphate buffers at high concentration, where copper phosphate can precipitate; a low-phosphate or HEPES-based buffer is safer. Avoid EDTA and other strong chelators entirely — they will strip the copper and leave you with a peptide solution that looks fine and is biologically different.
+
+Prepare solutions fresh. Ascorbate, glutathione, and other reducing agents in medium will reduce the copper over time, and the colour will shift from blue to pale green or yellow as that happens. If a protocol requires a reducing agent, add it after the peptide and keep the exposure short.
+
+Light protection is not optional. Copper complexes are photochemically active, and ambient laboratory light over hours can drive redox cycling. Use amber tubes or wrap them in foil, and keep working solutions on ice during the experiment.
+
+## How It Compares
+
+| Compound | Sequence | Copper | Research role |
+| --- | --- | --- | --- |
+| AHK-Cu | Ala-His-Lys | 1:1 complex | N-terminal variant; comparative probe |
+| GHK-Cu | Gly-His-Lys | 1:1 complex | Reference copper peptide; larger literature |
+| GHK Basic | Gly-His-Lys | None | Peptide-only control |
+| Matrixyl | Palmitoyl-KTTKS | None | Cosmetic signal peptide; different mechanism |
+
+The GHK Basic comparison is the one that makes an experiment interpretable. If AHK-Cu produces an effect and the copper-free peptide does not, the copper is doing the work. If both produce the same effect, the peptide sequence is the active element and the copper is along for the ride. Labs that skip the copper-free control often cannot tell which explanation fits.
+
+Against Matrixyl, the difference is mechanism rather than potency. Matrixyl is a lipopeptide that signals through the extracellular matrix; AHK-Cu delivers a metal cofactor. They are not substitutes, and a formulation study that swaps one for the other is testing a different hypothesis.
+
+## The Author's Take
+
+I would not accept an AHK-Cu certificate without a copper assay. This is a product where the peptide can be 99% pure and the reagent still be wrong, and the copper number is the only field that catches it. A supplier who reports peptide purity but not copper content is documenting half a molecule.
+
+My second position is that AHK-Cu should be sold with the GHK-Cu literature clearly separated from its own. The temptation to borrow GHK-Cu's evidence is strong, and buyers deserve to know which claims are direct and which are extrapolated.
+
+Disclosure: I write for Peptides of China, which sells this compound. The analytical recommendations apply to any supplier's material.
 
 ## Frequently Asked Questions
 
 **How does AHK-Cu compare to GHK-Cu?**
 
-Both are copper-peptide triplex complexes with similar histidine-mediated Cu²⁺ chelation. GHK-Cu (Gly-His-Lys) is the more extensively studied compound with a well-characterized research literature in wound healing and skin biology. AHK-Cu (Ala-His-Lys) is a structural variant used to probe how the N-terminal residue affects copper-binding geometry, receptor interactions, and biological activity in parallel research models. Why does copper complexation matter for peptide research activity? The copper ion in copper-peptide complexes is not incidental — it is hypothesized to be required for the biological activity associated with these compounds. The Cu²⁺ coordinates with cellular receptors and delivers copper to cuproenzymes (LOX, SOD) that drive the downstream effects on ECM synthesis, angiogenesis, and wound healing. Decomplexed peptide alone shows reduced activity in most research models, confirming the copper's functional role. 
+Both are copper tripeptide complexes with histidine-mediated copper binding. GHK-Cu has the larger research literature; AHK-Cu differs by a single N-terminal residue and is used to test whether that position affects copper delivery or receptor interaction. They are comparative tools, not interchangeable products.
 
 **What purity is your AHK-Cu?**
 
-AHK-Cu is synthesized to 99%+ purity, verified by HPLC and Mass Spectrometry. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. 
+The catalog specification is ≥98% by HPLC for the peptide, supplied as the copper complex. The batch record should also report copper content by ICP, the peptide-to-copper ratio, and the counterion; peptide purity alone does not define the reagent.
 
 **What are the storage conditions?**
 
-Lyophilized AHK-Cu should be stored at −20°C, protected from moisture and light. Copper-peptide complexes can undergo oxidation of Cu²⁺ to Cu⁰ in solution under certain conditions — use degassed buffers and minimize air exposure for aqueous preparations. For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+Store the lyophilized powder at −20°C, protected from light and moisture. Reconstituted solutions should be used promptly and kept cold and dark. Avoid chelating agents and high-phosphate buffers, which can strip or precipitate the copper.
+
+**Why is the powder blue?**
+
+The blue colour comes from the copper-donor charge-transfer band in the complex. A colourless or pale pink powder is a sign that copper is missing or that the material has been diluted, and it should be queried before use.
+
+**Can I use AHK-Cu in serum-containing medium?**
+
+Yes, but serum proteins bind copper and can shift the speciation. Include a copper-free peptide control and, if possible, measure the free copper in the medium. Serum lot variation is a real source of assay drift for metal-peptide work.
+
+**Does the copper complex survive filtration?**
+
+It survives 0.22 µm filtration through PVDF or PES, but it can adsorb to some membranes and to glass. Use low-binding tubes and avoid cellulose acetate. If recovery matters, compare pre- and post-filter absorbance at the complex's visible band.
+
+**Is AHK-Cu supplied with a certificate of analysis?**
+
+The manufacturer's batch specification accompanies the order. Ask specifically for the copper content and the peptide HPLC trace for the lot, since those are the two fields that determine whether the complex is correctly formed.
+
+## Related Products
+
+GHK-Cu GHK Basic Matrixyl KPV
+
+## Sources
+
+1. Pyo HK, Yoo HG, Won CH, et al. The effect of tripeptide-copper complex on human hair growth in vitro. *Arch Pharm Res*. 2007;30(7):834–839. [doi:10.1007/BF02978833](https://doi.org/10.1007/BF02978833)
+2. Pickart L, Vasquez-Soltero JM, Margolina A. GHK peptide as a natural modulator of multiple cellular pathways in skin regeneration. *Biomed Res Int*. 2015;2015:648108. [doi:10.1155/2015/648108](https://doi.org/10.1155/2015/648108)
+3. Mateescu DM, Gavrilescu DM, Mincioaga RI, et al. GHK-Cu as a bioactive metallopeptide and drug-delivery cargo: coordination chemistry, formulation science, therapeutic evidence. *Pharmaceutics*. 2026;18(9):1077. [doi:10.3390/pharmaceutics18091077](https://doi.org/10.3390/pharmaceutics18091077)
+4. Najafi N, Maatouk H, Vardanyan KG, et al. A systematic review of the mechanisms and therapeutic applications of GHK-Cu in topical formulations. *Arch Intern Med Res*. 2026. [doi:10.26502/aimr.0255](https://doi.org/10.26502/aimr.0255)
+5. Bharathi Devi SR, Dhivya MA, Sulochana KN. Copper transporters and chaperones: their function on angiogenesis and cellular signalling. *J Biosci*. 2016;41(3):487–496. [doi:10.1007/s12038-016-9629-6](https://doi.org/10.1007/s12038-016-9629-6)
+
+For the formulation questions in this page, see [peptide solubility troubleshooting](/blog/peptide-solubility-troubleshooting/) and [role of counterions in peptide stability](/blog/role-of-counterions-in-peptide-stability/). The skin-peptide category is covered in [types of bioactive peptides for skincare](/blog/types-of-bioactive-peptides-for-skincare-2026-guide/) and the [categories and mechanisms pillar](/peptide-categories-mechanisms/). Analytical background: [peptide molecular weight verification](/blog/peptide-molecular-weight-verification-steps/) and the [quality testing pillar](/peptide-quality-testing/). Related catalog pages: [GHK-Cu](/catalog/ghk-cu/), [GHK Basic](/catalog/ghk-basic/), [Matrixyl](/catalog/matrixyl/), [KPV](/catalog/kpv/).
