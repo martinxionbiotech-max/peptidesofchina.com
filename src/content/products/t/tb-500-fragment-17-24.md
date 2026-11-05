@@ -72,7 +72,7 @@ The handling guidance is laboratory guidance only. The fragment is supplied for 
 
 **TB-500 (full sequence).** The 43-residue thymosin β4 protein is a different reagent with a different mass, a different literature and a different set of handling concerns. It is not a larger version of the fragment; it is the parent protein. The TB-500 page lists the format.
 
-**TB-500 (Oral).** An oral catalogue format of the full protein. The presentation is different from the lyophilized research vial, and the two should not be treated as interchangeable in a laboratory assay. The [oral TB-500 page](/catalog/tb-500-oral/) gives the format.
+**TB-500 (lyophilized).** The full-protein vial is a different presentation from the fragment, and the two should not be treated as interchangeable in a laboratory assay. The [TB-500 page](/catalog/tb-500/) covers that format.
 
 **BPC-157 + TB-500 Fragment 10mg.** A fixed blend of the fragment with BPC-157. It saves a weighing step but makes attribution harder: a response in a culture cannot be assigned to either peptide without single-agent controls. The blend page gives the ratio.
 
