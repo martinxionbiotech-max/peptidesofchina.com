@@ -4,120 +4,133 @@ name: "Thymosin Alpha-1"
 slug: "thymosin-alpha-1"
 price: 138.0
 status: "In Stock"
-description: "Thymosin Alpha-1 immunomodulatory peptide sourced from verified Chinese manufacturer. Purity tested per batch, HPLC tested. Wholesale pricing."
+description: "Thymosin Alpha-1 28-mer for laboratory research. N-terminal acetylation, peptide content and batch documentation explained."
 image: "/images/products/thymosin-alpha-1-bottle.webp"
 
 ---
-Thymosin Alpha-1 is a research compound available through our **china peptide** catalog as a finished, lyophilized vial from an established Chinese manufacturer. It belongs to the Thymic Immunomodulatory Peptide CAS Number 62304-98-7 Molecular Formula C₁₂₉H₂₁₅N₃₃O₅₅ Molecular Weight 3108.4 Da Sequence Ac-SDAAVDTSSEITTKDLKEKKEVVEEAEN (28 amino acids, N-acetylated) N-terminal Modification Acetylation (required for full activity) Synonyms Tα1, Thymalfasin, Thymosin α1 Primary Receptors TLR-2, TLR-9; dendritic cell surface signalling Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
-
-## Available Variants
-
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| Thymosin Alpha-1 | 5 mg | 10 vials | ≥98% | In Stock |
-| Thymosin Alpha-1 | 5 mg | 10 vials | — | In Stock |
-| Thymosin Alpha-1 | 10 mg | 10 vials | ≥98% | In Stock |
-| Thymosin Alpha-1 | 10 mg | 10 vials | — | In Stock |
-
-## Specification Highlights
-
-Category: Immunity Total variants: 4 In-stock variants: 4 of 4 Purity: ≥98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Research Areas
-
-T-Cell Maturation & Thymic Biology Thymosin Alpha-1 was originally characterised through its ability to restore T-cell rosette formation and mitogen responsiveness in thymectomised mice — the seminal assay that established the thymus-derived nature of the activity. Contemporary models use it to characterise T-cell subset maturation (naïve CD4⁺/CD8⁺ development, Treg induction) in thymus-deficient models including neonatal thymectomy, nude mice, and in vitro thymic organoid systems. TLR-9 activation by Tα1 in plasmacytoid dendritic cells triggers type I interferon production and downstream T-cell activation — a mechanism established using TLR-9 knockout macrophage and dendritic cell assays. Antiviral Immune Response Research The clinical development of Thymosin Alpha-1 focused primarily on viral hepatitis — hepatitis B and C — where immune exhaustion and defective T-cell responses are central to viral persistence. In vitro models using peripheral blood mononuclear cells (PBMCs) from chronic hepatitis B patients show Tα1-induced enhancement of IFN-γ and IL-2 production by HBsAg-stimulated T cells. Murine hepatitis B and C surrogate models (HBV-transgenic mice, LCMV chronic infection models used as immune exhaustion models) use Tα1 to characterise recovery of virus-specific T-cell responses. SARS-CoV-2 infection research has also revisited Tα1 as a potential modulator of the dysregulated innate immune response in severe COVID-19. Sepsis & Immune Paralysis Models Sepsis-associated immunosuppression — characterised by exhausted lymphocytes, monocyte deactivation, and increased regulatory T-cell activity — has been modelled in cecal ligation and puncture (CLP) and endotoxaemia rodent models. Thymosin Alpha-1 administration in these models is reported to reduce bacterial burden and improve survival, associated with restored NK cell cytotoxicity, improved monocyte HLA-DR expression, and reduced IL-10/TNF-α ratios. These studies position Tα1 as a tool for investigating immune paralysis reversal mechanisms rather than broad immunostimulation. Cancer Immunology & Checkpoint Research Emerging research examines Thymosin Alpha-1's effects on immune checkpoint molecule expression in tumour-bearing models. Studies in murine solid tumour models (LLC, 4T1) and in vitro human PBMC-tumour co-culture systems report Tα1-associated reductions in PD-1 expression on CD8⁺ T cells and enhanced tumour-infiltrating lymphocyte (TIL) activity. This is studied in the context of whether immune restorative peptides can sensitise exhausted T cells in the tumour microenvironment to checkpoint blockade, complementing rather than replacing anti-PD-1 therapy in combination protocols. ## Sourcing Thymosin Alpha-1 From China
-
-Thymosin Alpha-1 is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
-
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, Thymosin Alpha-1 is supplied for
-  laboratory research use only, under strict research-use terms.
-
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
-
-## Frequently Asked Questions
-
-**What is the difference between Thymosin Alpha-1 and Thymalin?**
-
-Thymosin Alpha-1 (Tα1) is a defined, single 28-amino acid peptide with a known sequence and synthetic manufacturing process. Thymalin is a polypeptide fraction extracted from bovine thymus tissue, containing multiple biologically active peptides of varying chain lengths — it is not a defined single molecular entity. Tα1 is the characterised bioactive component, while Thymalin contains Tα1 alongside other thymic peptides. Research requiring a defined molecular target uses synthetic Tα1; research on the broader thymic extract uses Thymalin. 
-
-**Is the N-terminal acetylation required for Thymosin Alpha-1 activity?**
-
-Yes. The N-terminal acetyl group (Ac-Ser) is essential for full biological activity. Des-acetyl Thymosin Alpha-1 (non-acetylated form) shows significantly reduced potency in T-cell rosette formation assays and TLR-9 activation experiments. When evaluating supplier quality or research-grade Tα1, confirmation that the peptide carries the N-terminal acetylation is important — RP-HPLC and mass spectrometry can confirm the presence of the acetyl modification. How is Thymosin Alpha-1 typically used in PBMC assays? For in vitro PBMC stimulation assays, Tα1 is typically added at 1–100 nM (3–300 ng/mL) to PBMCs in RPMI-1640 + 10% FBS or human AB serum. Cells are stimulated for 24–72 hours with concurrent antigen or mitogen stimulation (e.g., HBsAg, PHA, anti-CD3). Endpoints include cytokine secretion (IFN-γ, IL-2, IL-10 by ELISA or Luminex), T-cell proliferation (CFSE dilution assay), and surface marker analysis (CD25, CD69, PD-1 by flow cytometry). 
-
-**Is Thymosin Alpha-1 available for wholesale purchase?**
-
-Yes. Thymosin Alpha-1 is available through Peptides of China on a B2B wholesale basis with tiered pricing. Contact us via the Request page or Contact form for pricing and minimum order quantities after account verification. Related Research Articles Thymosin Alpha-1 Wholesale: 2026 Lab Procurement Guide Thymosin Alpha-1 vs TB-500: A B2B Sourcing Comparison for Research Labs For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. class, and every listing carries the manufacturer's own specification rather than a reseller's claim. Buyers sourcing **chinese peptides** in this category typically evaluate Thymosin Alpha-1 across T-Cell Maturation & Thymic Biology Thymosin Alpha-1 was originally characterised through its ability to restore T-cell rosette formation and mitogen responsiveness in thymectomised mice — the seminal assay that established the thymus-derived nature of the activity. Contemporary models use it to characterise T-cell subset maturation (naïve CD4⁺/CD8⁺ development, Treg induction) in thymus-deficient models including neonatal thymectomy, nude mice, and in vitro thymic organoid systems. TLR-9 activation by Tα1 in plasmacytoid dendritic cells triggers type I interferon production and downstream T-cell activation — a mechanism established using TLR-9 knockout macrophage and dendritic cell assays. Antiviral Immune Response Research The clinical development of Thymosin Alpha-1 focused primarily on viral hepatitis — hepatitis B and C — where immune exhaustion and defective T-cell responses are central to viral persistence. In vitro models using peripheral blood mononuclear cells (PBMCs) from chronic hepatitis B patients show Tα1-induced enhancement of IFN-γ and IL-2 production by HBsAg-stimulated T cells. Murine hepatitis B and C surrogate models (HBV-transgenic mice, LCMV chronic infection models used as immune exhaustion models) use Tα1 to characterise recovery of virus-specific T-cell responses. SARS-CoV-2 infection research has also revisited Tα1 as a potential modulator of the dysregulated innate immune response in severe COVID-19. Sepsis & Immune Paralysis Models Sepsis-associated immunosuppression — characterised by exhausted lymphocytes, monocyte deactivation, and increased regulatory T-cell activity — has been modelled in cecal ligation and puncture (CLP) and endotoxaemia rodent models. Thymosin Alpha-1 administration in these models is reported to reduce bacterial burden and improve survival, associated with restored NK cell cytotoxicity, improved monocyte HLA-DR expression, and reduced IL-10/TNF-α ratios. These studies position Tα1 as a tool for investigating immune paralysis reversal mechanisms rather than broad immunostimulation. Cancer Immunology & Checkpoint Research Emerging research examines Thymosin Alpha-1's effects on immune checkpoint molecule expression in tumour-bearing models. Studies in murine solid tumour models (LLC, 4T1) and in vitro human PBMC-tumour co-culture systems report Tα1-associated reductions in PD-1 expression on CD8⁺ T cells and enhanced tumour-infiltrating lymphocyte (TIL) activity. This is studied in the context of whether immune restorative peptides can sensitise exhausted T cells in the tumour microenvironment to checkpoint blockade, complementing rather than replacing anti-PD-1 therapy in combination protocols. 
-
-## Frequently Asked Questions
-
-**What is the difference between Thymosin Alpha-1 and Thymalin?**
-
-Thymosin Alpha-1 (Tα1) is a defined, single 28-amino acid peptide with a known sequence and synthetic manufacturing process. Thymalin is a polypeptide fraction extracted from bovine thymus tissue, containing multiple biologically active peptides of varying chain lengths — it is not a defined single molecular entity. Tα1 is the characterised bioactive component, while Thymalin contains Tα1 alongside other thymic peptides. Research requiring a defined molecular target uses synthetic Tα1; research on the broader thymic extract uses Thymalin. 
-
-**Is the N-terminal acetylation required for Thymosin Alpha-1 activity?**
-
-Yes. The N-terminal acetyl group (Ac-Ser) is essential for full biological activity. Des-acetyl Thymosin Alpha-1 (non-acetylated form) shows significantly reduced potency in T-cell rosette formation assays and TLR-9 activation experiments. When evaluating supplier quality or research-grade Tα1, confirmation that the peptide carries the N-terminal acetylation is important — RP-HPLC and mass spectrometry can confirm the presence of the acetyl modification. How is Thymosin Alpha-1 typically used in PBMC assays? For in vitro PBMC stimulation assays, Tα1 is typically added at 1–100 nM (3–300 ng/mL) to PBMCs in RPMI-1640 + 10% FBS or human AB serum. Cells are stimulated for 24–72 hours with concurrent antigen or mitogen stimulation (e.g., HBsAg, PHA, anti-CD3). Endpoints include cytokine secretion (IFN-γ, IL-2, IL-10 by ELISA or Luminex), T-cell proliferation (CFSE dilution assay), and surface marker analysis (CD25, CD69, PD-1 by flow cytometry). 
-
-**Is Thymosin Alpha-1 available for wholesale purchase?**
-
-Yes. Thymosin Alpha-1 is available through Peptides of China on a B2B wholesale basis with tiered pricing. Contact us via the Request page or Contact form for pricing and minimum order quantities after account verification. Related Research Articles Thymosin Alpha-1 Wholesale: 2026 Lab Procurement Guide Thymosin Alpha-1 vs TB-500: A B2B Sourcing Comparison for Research Labs For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.; we confirm availability and batch documentation with the factory before the order is confirmed. Like every listing on this platform, Thymosin Alpha-1 is supplied for laboratory research use only.
-
-
-Buy Thymosin Alpha-1 | Immune Research Peptide | Research Grade | Peptides of China Thymosin Alpha-1 Buy Thymosin Alpha-1 — Research Grade Immunomodulatory Peptide Thymosin Alpha-1 is a immunity research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+Thymosin Alpha-1 is a 28-residue acetylated peptide supplied as a lyophilized powder for laboratory research. Its sequence begins with Ac-Ser, and that N-terminal acetyl group is the first thing a batch record should prove: the des-acetyl form is a different molecule with different behaviour in T-cell and dendritic-cell assays. At 3,108 Da the peptide is large enough that mass confirmation requires deconvolution, and small enough that fill weight can hide a meaningful amount of water and counterion. This page covers the research context, the analytical package, and the handling details that matter for immune-response studies.
 
 ## Compound Profile
 
-Thymosin Alpha-1 (Tα1) is a 28-amino acid peptide originally isolated from thymosin fraction 5 — a calf thymus extract — by Allan Goldstein and colleagues in the 1970s. The mature peptide carries an N-terminal acetyl group (Ac-Ser-) and encompasses the N-terminal sequence of prothymosin alpha, from which it is proteolytically released in vivo. Thymosin Alpha-1 is produced primarily in thymic epithelial cells and circulates at low nanomolar concentrations in healthy individuals, with levels declining progressively with age — a pattern that has driven its investigation as an immune restorative agent. The compound is distinguished from other thymic peptides by its well-characterised receptor interactions, most notably its activation of Toll-like receptors (TLR-2, TLR-9) and dendritic cell maturation pathways. The most extensively researched applications of Thymosin Alpha-1 are in infectious disease and immune dysfunction models. It received regulatory approval in multiple Asian and Eastern European markets for treatment of hepatitis B and hepatitis C, providing a substantial clinical pharmacology dataset including human PK, immunological endpoints (NK cell activity, T-cell subset normalisation), and safety data. This translational foundation distinguishes Tα1 from many immunomodulatory research peptides. Beyond viral disease, research has examined its role in T-cell maturation in thymus-deficient models, dendritic cell activation, sepsis immune paralysis, and — more recently — its effects on checkpoint molecule expression in cancer immunology models. Peptides of China supplies Thymosin Alpha-1 as lyophilized powder at ≥98% purity, verified by HPLC and confirmed by mass spectrometry. Certificates of Analysis available per batch. Wholesale quantities on request. For laboratory research use only. 
+Chemical Class Thymic Immunomodulatory Peptide CAS Number 62304-98-7 Molecular Formula C₁₂₉H₂₁₅N₃₃O₅₅ Molecular Weight 3108.4 Da Sequence Ac-SDAAVDTSSEITTKDLKEKKEVVEEAEN (28 amino acids, N-acetylated) N-terminal Modification Acetylation (required for full activity) Synonyms Tα1, Thymalfasin, Thymosin α1 Primary Receptors TLR-2, TLR-9; dendritic cell surface signalling Storage -20°C lyophilized; 4°C reconstituted (up to 14 days)
 
-## Profile
+## Why This Compound
 
-Chemical Class Thymic Immunomodulatory Peptide CAS Number 62304-98-7 Molecular Formula C₁₂₉H₂₁₅N₃₃O₅₅ Molecular Weight 3108.4 Da Sequence Ac-SDAAVDTSSEITTKDLKEKKEVVEEAEN (28 amino acids, N-acetylated) N-terminal Modification Acetylation (required for full activity) Synonyms Tα1, Thymalfasin, Thymosin α1 Primary Receptors TLR-2, TLR-9; dendritic cell surface signalling Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
+Thymosin Alpha-1 was isolated from thymosin fraction 5, a calf thymus extract, by Allan Goldstein and colleagues in the 1970s. The mature peptide corresponds to the N-terminal 28 residues of prothymosin alpha and is released from that precursor by proteolytic processing. It is produced mainly by thymic epithelial cells and circulates at low nanomolar concentrations. The acetylation is not a purification artefact; it is part of the natural structure and is required for full activity in the assays that first characterised the peptide.
 
-## Available Variants
+The research literature has several strands. The oldest is T-cell biology: thymectomised mice and thymic organoid systems are used to study T-cell subset maturation and the restoration of mitogen responsiveness. A second strand is dendritic-cell activation through Toll-like receptor signalling. Romani and colleagues showed that Tα1 activates dendritic cells for antifungal Th1 resistance through TLR signalling, which gave the peptide a defined innate-immune mechanism rather than a vague "immunomodulatory" label (Romani et al., 2004). A third strand is immune exhaustion, including sepsis and chronic viral infection models, where the readouts are cytokine production, HLA-DR expression, and T-cell recovery. Clinical development in hepatitis B and C and in severe sepsis exists and is cited in the literature, but clinical use is outside the scope of this page.
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| Thymosin Alpha-1 | 5 mg | 10 vials | ≥98% | In Stock |
-| Thymosin Alpha-1 | 5 mg | 10 vials | — | In Stock |
-| Thymosin Alpha-1 | 10 mg | 10 vials | ≥98% | In Stock |
-| Thymosin Alpha-1 | 10 mg | 10 vials | — | In Stock |
+The compound is interesting to a laboratory because it sits at the boundary between innate and adaptive immunity. It is not a receptor agonist in the classical sense; it modulates dendritic-cell maturation and cytokine output, and the downstream effects depend on the cell type and the activation state. That context dependence makes assay design important, and it also makes batch quality important. A preparation with a large des-acetyl fraction may still bind antibodies in an ELISA and still produce a signal in a reporter assay, but it is not the same reagent that was used in the published work.
 
-## Specification Highlights
+There is a commercial dimension as well. Tα1 is a 28-mer, which is long enough that synthesis and purification are non-trivial, and short enough that several manufacturers can produce it. The market includes material derived from thymic extracts, synthetic peptide with incomplete acetylation, and lyophilised powder with variable water content. The sequence alone does not distinguish these. The certificate and the peptide-content value do.
 
-Category: Immunity Total variants: 4 In-stock variants: 4 of 4 Purity: ≥98% Standard pack size: 10 vials 
+## What the Batch Record Should Show
 
-## Quality & Testing
+Identity for a 28-mer is a deconvolution problem. The average mass of the acetylated peptide is 3,108.4 Da. Electrospray ionisation produces a series of multiply charged ions, and the certificate should show the deconvoluted mass rather than a single m/z value. A report that lists only "MW 3108.4" is quoting the catalogue, not measuring the batch. The deconvoluted spectrum should also show whether a des-acetyl species is present at about 42 Da lower, because that is the most common structural impurity for this peptide.
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+Purity by reversed-phase HPLC needs method detail. Tα1 is a large, moderately hydrophobic peptide, and its peak shape is sensitive to column age, temperature, and gradient slope. A certificate should state the column, mobile phase, gradient, flow, wavelength, and integration threshold. Area normalisation at 214 nm is the usual convention; it does not see water, acetate, or salts. For a peptide of this size, size-exclusion chromatography or sedimentation analysis can also be useful to check for aggregation, though most catalogue certificates do not include it.
 
-## Research Areas
+The N-terminal acetyl group deserves a separate line. Acetylation adds about 42 Da and blocks the N-terminus against aminopeptidases. Des-acetyl Tα1 has reduced potency in T-cell rosette formation and TLR-9 activation experiments, and it is a plausible contaminant in any synthetic batch. A certificate that does not mention acetylation is incomplete, even if the main mass is correct. Ask for the acetylated mass, the des-acetyl percentage, and the method used to distinguish them.
 
-T-Cell Maturation & Thymic Biology Thymosin Alpha-1 was originally characterised through its ability to restore T-cell rosette formation and mitogen responsiveness in thymectomised mice — the seminal assay that established the thymus-derived nature of the activity. Contemporary models use it to characterise T-cell subset maturation (naïve CD4⁺/CD8⁺ development, Treg induction) in thymus-deficient models including neonatal thymectomy, nude mice, and in vitro thymic organoid systems. TLR-9 activation by Tα1 in plasmacytoid dendritic cells triggers type I interferon production and downstream T-cell activation — a mechanism established using TLR-9 knockout macrophage and dendritic cell assays. Antiviral Immune Response Research The clinical development of Thymosin Alpha-1 focused primarily on viral hepatitis — hepatitis B and C — where immune exhaustion and defective T-cell responses are central to viral persistence. In vitro models using peripheral blood mononuclear cells (PBMCs) from chronic hepatitis B patients show Tα1-induced enhancement of IFN-γ and IL-2 production by HBsAg-stimulated T cells. Murine hepatitis B and C surrogate models (HBV-transgenic mice, LCMV chronic infection models used as immune exhaustion models) use Tα1 to characterise recovery of virus-specific T-cell responses. SARS-CoV-2 infection research has also revisited Tα1 as a potential modulator of the dysregulated innate immune response in severe COVID-19. Sepsis & Immune Paralysis Models Sepsis-associated immunosuppression — characterised by exhausted lymphocytes, monocyte deactivation, and increased regulatory T-cell activity — has been modelled in cecal ligation and puncture (CLP) and endotoxaemia rodent models. Thymosin Alpha-1 administration in these models is reported to reduce bacterial burden and improve survival, associated with restored NK cell cytotoxicity, improved monocyte HLA-DR expression, and reduced IL-10/TNF-α ratios. These studies position Tα1 as a tool for investigating immune paralysis reversal mechanisms rather than broad immunostimulation. Cancer Immunology & Checkpoint Research Emerging research examines Thymosin Alpha-1's effects on immune checkpoint molecule expression in tumour-bearing models. Studies in murine solid tumour models (LLC, 4T1) and in vitro human PBMC-tumour co-culture systems report Tα1-associated reductions in PD-1 expression on CD8⁺ T cells and enhanced tumour-infiltrating lymphocyte (TIL) activity. This is studied in the context of whether immune restorative peptides can sensitise exhausted T cells in the tumour microenvironment to checkpoint blockade, complementing rather than replacing anti-PD-1 therapy in combination protocols. 
+Peptide content is the next field. A 5 mg vial may contain 5 mg of total powder, or 5 mg of peptide, or a fill weight that includes water and counterion. On a 3,108 Da peptide with acetate and residual moisture, the difference can be several percent. The literature on lyophilised thymalfasin includes direct comparisons of peptide-content assays, which is a useful reminder that the method matters: nitrogen analysis, amino acid analysis, and UV extinction can give different values depending on the standard and the assumptions (Vemuri, 2005). Ask for mg of peptide per vial and the method behind the number.
+
+Counterion and water content belong in the same block. Acetate is the common form; TFA can remain from purification. Karl Fischer water content is a simple measurement that many certificates omit. For a hygroscopic 28-mer, water content can change on storage, so the value should be tied to the batch release date rather than assumed to be constant.
+
+Endotoxin is more important here than for a small peptide. Tα1 is used with dendritic cells, PBMCs, and primary immune cells, and lipopolysaccharide contamination can produce exactly the cytokine signals the experiment is trying to measure. A LAL value should be requested for any cell-based work. Sterility is a separate test and should not be inferred from the word "lyophilised".
+
+Traceability closes the record. The lot number on the certificate should be the same one printed on the vial; synthesis and retest dates and the manufacturing site should also appear. A certificate that could apply to any Tα1 lot is a template, not a batch record. The [CoA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) explains how to read the chromatography and mass fields together, and the [quality-testing overview](/peptide-quality-testing/) separates identity from content.
+
+## Sourcing & Verification
+
+The questions below are specific to Thymosin Alpha-1. They are also a useful way to compare quotes that look identical on a price sheet.
+
+- Does the certificate show a deconvoluted mass for the acetylated peptide, or only a rounded molecular weight?
+- Is the des-acetyl fraction reported, and at what percentage?
+- What is the peptide content in milligrams per vial, and which assay produced it?
+- Is the counterion acetate or TFA, and is residual TFA measured?
+- What is the water content by Karl Fischer?
+- Is endotoxin data available, and what limit was tested?
+- Can the supplier provide the raw chromatogram and the deconvoluted spectrum?
+- Is the batch synthesised and lyophilised at the named site, or bought in bulk and repackaged?
+- Is a retain sample kept, and what is the retest date?
+- Is a one-vial pilot available before a ten-vial pack?
+
+A supplier who can answer the acetylation and peptide-content questions is usually close to the manufacturing process. A supplier who answers only with "98% purity" is usually reselling. The [Thymosin Alpha-1 procurement guide](/blog/thymosin-alpha-1-wholesale-2026-lab-procurement-guide/) covers order sizing and documentation flow, and the [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) covers the entity checks that sit behind the certificate.
+
+## Handling & Storage
+
+Lyophilised Tα1 is hygroscopic. Store it at −20°C in a desiccator, protected from light, and let the vial reach room temperature before opening. A cold vial pulls moisture from the air, and a damp cake aggregates and hydrolyses faster. Wipe the outside, wait, and open in a low-humidity space.
+
+Reconstitution should be gentle. Introduce water or assay buffer down the vial wall, then swirl; do not vortex. Large peptides are prone to adsorption at the air-liquid interface, and foaming can create aggregates that are invisible in solution but visible in an assay as a loss of activity. The [solvent selection note](/blog/peptide-reconstitution-materials/) covers the choices in more detail. Turbidity usually means undissolved powder or a pH mismatch; wait before adding more liquid. For cell work, filter through a 0.22 µm membrane and check recovery by UV absorbance, because some of the peptide can bind to the filter.
+
+Use polypropylene tubes for dilute stocks. Tα1 is less cationic than Selank, but it is still a peptide, and adsorption to polystyrene can be significant at low concentrations. Keep stocks concentrated and dilute immediately before use. If the assay tolerates a carrier protein, 0.1% BSA can reduce losses, but it adds a background that may interfere with cytokine measurements; test it first.
+
+Aliquot before freezing. Repeated freeze-thaw cycles promote aggregation, and a 28-mer has more opportunity for intermolecular contacts than a short peptide. The catalogue's reconstituted shelf life is a planning figure, not a stability study. A laboratory should define its own working window with a fresh preparation and a suitable analytical check, especially when the readout is a small cytokine change.
+
+Do not autoclave the powder or the solution. Heat and steam can hydrolyse the sequence and promote aggregation. If a sterile solution is required, filter through a 0.22 µm membrane and verify that the peptide does not adsorb to the filter material. The procedures above are laboratory handling instructions. Tα1 is supplied for research use only, not for human or animal use. The [research-only policy](/research-use-disclaimer/) sets out the supply conditions.
+
+## How It Compares
+
+**Thymalin.** A polypeptide fraction extracted from bovine thymus tissue, containing multiple peptides of varying chain lengths. It is not a defined single molecular entity, and its composition varies by preparation. Tα1 is the characterised 28-residue component; a laboratory that needs a defined molecular target should use the synthetic peptide. The [Thymalin page](/catalog/thymalin/) lists the extract format.
+
+**TB-500.** A 43-residue actin-binding fragment with a quite different research literature, centred on cell migration and tissue repair. It is sometimes grouped with Tα1 because both are sold as "research peptides", but the sequences, sizes, and assay contexts are unrelated. The [TB-500 page](/catalog/tb-500/) and the [direct comparison](/blog/thymosin-alpha-1-vs-tb-500-a-b2b-sourcing-comparison-for-research-labs/) set out the difference.
+
+**VIP.** A 28-residue neuroimmune peptide with a different receptor family and a different literature. The similar length is coincidental; VIP acts through VPAC receptors, while Tα1 acts through TLR and dendritic-cell pathways. A laboratory choosing between them should start from the cell type and the readout, not from the size. The [VIP page](/catalog/vip/) lists its formats.
 
 ## Frequently Asked Questions
 
-**What is the difference between Thymosin Alpha-1 and Thymalin?**
+**Why is N-terminal acetylation important?**
 
-Thymosin Alpha-1 (Tα1) is a defined, single 28-amino acid peptide with a known sequence and synthetic manufacturing process. Thymalin is a polypeptide fraction extracted from bovine thymus tissue, containing multiple biologically active peptides of varying chain lengths — it is not a defined single molecular entity. Tα1 is the characterised bioactive component, while Thymalin contains Tα1 alongside other thymic peptides. Research requiring a defined molecular target uses synthetic Tα1; research on the broader thymic extract uses Thymalin. 
+The acetyl group is part of the natural structure and is required for full activity in T-cell and TLR assays. Des-acetyl Tα1 has reduced potency, and it is a common impurity in synthetic batches. The certificate should show a deconvoluted mass consistent with the acetylated peptide and, ideally, report the des-acetyl fraction separately.
 
-**Is the N-terminal acetylation required for Thymosin Alpha-1 activity?**
+**How can I tell des-acetyl Tα1 from the acetylated form?**
 
-Yes. The N-terminal acetyl group (Ac-Ser) is essential for full biological activity. Des-acetyl Thymosin Alpha-1 (non-acetylated form) shows significantly reduced potency in T-cell rosette formation assays and TLR-9 activation experiments. When evaluating supplier quality or research-grade Tα1, confirmation that the peptide carries the N-terminal acetylation is important — RP-HPLC and mass spectrometry can confirm the presence of the acetyl modification. How is Thymosin Alpha-1 typically used in PBMC assays? For in vitro PBMC stimulation assays, Tα1 is typically added at 1–100 nM (3–300 ng/mL) to PBMCs in RPMI-1640 + 10% FBS or human AB serum. Cells are stimulated for 24–72 hours with concurrent antigen or mitogen stimulation (e.g., HBsAg, PHA, anti-CD3). Endpoints include cytokine secretion (IFN-γ, IL-2, IL-10 by ELISA or Luminex), T-cell proliferation (CFSE dilution assay), and surface marker analysis (CD25, CD69, PD-1 by flow cytometry). 
+By mass. The acetylated peptide has an average mass of 3,108.4 Da; the des-acetyl form is about 42 Da lower. A deconvoluted electrospray spectrum can resolve the two, and a peptide map can confirm the N-terminal modification. A certificate that shows only a single rounded molecular weight has not addressed the question.
 
-**Is Thymosin Alpha-1 available for wholesale purchase?**
+**What is peptide content, and why does it differ from fill weight?**
 
-Yes. Thymosin Alpha-1 is available through Peptides of China on a B2B wholesale basis with tiered pricing. Contact us via the Request page or Contact form for pricing and minimum order quantities after account verification. Related Research Articles Thymosin Alpha-1 Wholesale: 2026 Lab Procurement Guide Thymosin Alpha-1 vs TB-500: A B2B Sourcing Comparison for Research Labs For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+Peptide content is the mass of peptide in the vial, excluding water, counterion, and residual solvent. Fill weight is the total mass of powder. A 5 mg fill can contain less than 5 mg of peptide, and the difference matters when preparing a concentration series. Ask for mg peptide per vial and the assay used to measure it.
+
+**Is Thymosin Alpha-1 a peptide or a protein?**
+
+It is a peptide: 28 amino acids, about 3.1 kDa. The boundary between peptide and protein is informal, but 28 residues places it firmly in the peptide category. The distinction matters for handling because the molecule is large enough to aggregate and small enough to be synthesised by solid-phase methods.
+
+**How should I reconstitute the powder?**
+
+Add water or a compatible buffer gently down the vial wall and swirl. Avoid vortexing, which creates foam and promotes aggregation. Filter through a 0.22 µm membrane for cell work, and check recovery. Use polypropylene tubes for dilute stocks and aliquot before freezing.
+
+**Is endotoxin testing necessary?**
+
+For cell-based work with PBMCs, dendritic cells, or primary immune cells, yes. Lipopolysaccharide can produce the same cytokine signals the experiment is designed to measure. A LAL value should be requested before the assay is designed, not after an unexplained result.
+
+**What is the difference between Tα1 and Thymalin?**
+
+Tα1 is a defined 28-residue synthetic peptide with a known sequence and acetylation state. Thymalin is a bovine thymus extract containing multiple peptides of varying lengths. They are not interchangeable, and a certificate for one does not describe the other.
+
+**Can the powder be autoclaved?**
+
+No. Heat and steam can hydrolyse the sequence and promote aggregation. If a sterile solution is needed, filter through a 0.22 µm membrane and verify peptide recovery. Autoclaving is not a suitable sterilisation method for this peptide.
+
+## Related Products
+
+- Thymalin
+- TB-500
+- VIP
+
+## The Author's Take
+
+**Position.** For a 28-mer, I would not accept a certificate without a deconvoluted mass and a peptide-content value. The headline purity number is the least informative field on the page.
+
+**Reasoning.** Tα1 is large enough that deconvolution is necessary and small enough that water and counterion can account for a meaningful share of the fill. The acetylation state is the structural feature that distinguishes the research reagent from a close analogue, and it is easy to omit from a template certificate. A supplier who reports the acetylated mass, the des-acetyl fraction, and mg of peptide per vial is demonstrating process control. A supplier who reports only "98% HPLC" is asking you to assume the rest.
+
+**Disclosure.** Peptides of China sells Thymosin Alpha-1 and the related items on this page. The opinion above is about sourcing and documentation, not medical advice; the compound is a laboratory reagent.
+
+## Sources
+
+1. Romani, L., et al. (2004). Thymosin alpha 1 activates dendritic cells for antifungal Th1 resistance through toll-like receptor signaling. *Blood*. https://pubmed.ncbi.nlm.nih.gov/14982877/
+2. Liu, Y., et al. (2020). Thymosin Alpha 1 reduces the mortality of severe coronavirus disease 2019 by restoration of lymphocytopenia and reversion of exhausted T cells. *Clinical Infectious Diseases*. https://pubmed.ncbi.nlm.nih.gov/32442287/
+3. Wu, J., et al. (2013). The efficacy of thymosin alpha 1 for severe sepsis (ETASS): a multicenter, single-blind, randomized and controlled trial. *Critical Care*. https://pubmed.ncbi.nlm.nih.gov/23327199/
+4. Haritos, A. A., Goodall, G. J., & Horecker, B. L. (1984). Prothymosin alpha: isolation and properties of the major immunoreactive form of thymosin alpha 1 in rat thymus. *Proceedings of the National Academy of Sciences*. https://pubmed.ncbi.nlm.nih.gov/6583693/
+5. Goldstein, A. L., & Goldstein, A. L. (2009). From lab to bedside: emerging clinical applications of thymosin alpha 1. *Expert Opinion on Biological Therapy*. https://pubmed.ncbi.nlm.nih.gov/19392576/
+6. Vemuri, S. (2005). Comparison of assays for determination of peptide content for lyophilized thymalfasin. *Journal of Peptide Research*. https://pubmed.ncbi.nlm.nih.gov/15813890/
+7. National Center for Biotechnology Information. PubChem Compound Summary for CID 16130571, Thymosin alpha-1. https://pubchem.ncbi.nlm.nih.gov/compound/16130571

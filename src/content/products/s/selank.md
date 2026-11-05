@@ -4,79 +4,128 @@ name: "Selank"
 slug: "selank"
 price: 74.0
 status: "In Stock"
-description: "Selank nootropic peptide sourced directly from China. Batch number included. Verified purity, fast international delivery."
+description: "Selank heptapeptide for laboratory research. Sequence, C-terminal amide, counterion and batch documentation explained for buyers."
 image: "/images/products/selank-bottle.webp"
 
 ---
-Selank is one of the most studied anxiolytic research peptides available from chinese peptides manufacturers, with a long preclinical literature covering anxiety models and cognitive endpoints. It is also structurally forgiving in formulation — which is precisely why underqualified labs feel confident selling it. Verified sourcing is the point of difference we offer china peptide buyers: the finished vial, not the raw powder, from the factory that lyophilized it.
-
-
-Buy Selank Peptide | Research Grade | Direct from China | Peptides of China Selank Buy Selank — Research Peptide, Purity Tested Selank is a cognitive & neuro research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+Selank is a seven-residue tuftsin analogue supplied as a lyophilized powder for laboratory work. Its sequence, Thr-Lys-Pro-Arg-Pro-Gly-Pro-NH₂, ends in a C-terminal amide, and that single modification is one of the first things a batch record should prove. The compound has a substantial Russian-language pharmacology literature and a much smaller English-language one, which makes source quality unusually visible: a supplier either knows the amidation state and the counterion or is repeating a catalogue entry. This page covers the research context, the analytical package, and the handling details that affect assay-to-assay consistency.
 
 ## Compound Profile
 
-Selank is a synthetic heptapeptide anxiolytic-nootropic compound developed at the Institute of Molecular Genetics (IMG), Russian Academy of Sciences, by a research programme led by Nikolai Myasoedov and colleagues. Its sequence — Thr-Lys-Pro-Arg-Pro-Gly-Pro-NH₂ — is derived from the immunomodulatory tetrapeptide tuftsin (Thr-Lys-Pro-Arg) with a stabilising Pro-Gly-Pro tripeptide extension at the C-terminus. Tuftsin is a natural spleen-produced tetrapeptide with demonstrated immunomodulatory activity; the extension in Selank was designed to increase proteolytic stability and extend biological half-life while retaining tuftsin-like activity. Selank is registered as a pharmaceutical in Russia for anxiety disorders and mild cognitive impairment, providing clinical context that is rare for compounds in this class. Selank's pharmacological profile spans two primary research areas: anxiolytic activity via GABAergic and serotonergic modulation, and nootropic/neuroprotective activity via BDNF upregulation and enkephalin metabolism. Electrophysiological studies in rat hippocampal slice preparations document increased GABAergic inhibitory postsynaptic currents following Selank administration, consistent with the anxiolytic behavioural phenotype observed in elevated plus maze (EPM), light-dark box, and open-field animal models. Selank does not bind GABA-A receptor benzodiazepine sites in direct radioligand binding assays, suggesting an indirect mechanism involving GABA system modulation rather than direct agonism. Peptides of China supplies research-grade Selank as lyophilized powder at ≥98% purity verified by HPLC and confirmed by mass spectrometry. Certificates of Analysis per batch. Wholesale quantities available on request. For laboratory research use only. 
+Chemical Class Synthetic Anxiolytic Heptapeptide / Tuftsin Analogue CAS Number 129954-34-3 Molecular Formula C₃₃H₅₇N₁₁O₉ Molecular Weight 751.86 Da Sequence Thr-Lys-Pro-Arg-Pro-Gly-Pro-NH₂ (7 amino acids) Parent Compound Tuftsin (Thr-Lys-Pro-Arg) + Pro-Gly-Pro stabilising extension Developed by Institute of Molecular Genetics, Russian Academy of Sciences Synonyms TP-7 (development code) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days)
 
-## Profile
+## Why This Compound
 
-Chemical Class Synthetic Anxiolytic Heptapeptide / Tuftsin Analogue CAS Number 129954-34-3 Molecular Formula C₃₃H₅₇N₁₁O₉ Molecular Weight 751.86 Da Sequence Thr-Lys-Pro-Arg-Pro-Gly-Pro-NH₂ (7 amino acids) Parent Compound Tuftsin (Thr-Lys-Pro-Arg) + Pro-Gly-Pro stabilising extension Developed by Institute of Molecular Genetics, Russian Academy of Sciences Synonyms TP-7 (development code) Storage -20°C lyophilized; 4°C reconstituted (up to 14 days) 
+Selank belongs to a small group of peptides that moved from a state research institute into routine catalogue supply. It was designed at the Institute of Molecular Genetics in Moscow as a stabilised version of tuftsin, a tetrapeptide released from IgG by splenic enzymes. The parent sequence, Thr-Lys-Pro-Arg, carries most of the immunological interest; the added Pro-Gly-Pro tail was a deliberate stability fix, intended to slow cleavage by circulating peptidases. That design choice explains why the molecule appears so often in Russian papers on peptide persistence rather than in receptor pharmacology.
 
-## Available Variants
+The English-language literature is thinner than the Russian one and circles three experimental themes. The first is peptidase inhibition: Selank has been reported to slow enkephalin breakdown in cell-free assays, a measurable enzymatic effect rather than a receptor-binding one (Zozulya et al., 2001). The second is GABAergic gene expression: in IMR-32 neuroblastoma cells, Selank changed transcript levels for several GABA-transmission genes (Filatova et al., 2017). The third is stress-adaptive behaviour in rodents, where the readouts are open-arm time, emergence latency, and locomotor counts rather than clinical endpoints (Kozlovskaya et al., 2003).
 
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| Selank | 5 mg | 10 vials | ≥98% | In Stock |
-| Selank | 5 mg | 10 vials | — | In Stock |
-| Selank | 10 mg | 10 vials | — | In Stock |
-| Selank | 10 mg | 10 vials | ≥98% | In Stock |
+None of those findings settles a mechanism. The peptidase work used cell-free preparations; the gene-expression work used a transformed cell line; the behavioural work used small rodent cohorts. A laboratory buying Selank today is usually testing one of those strands in a new model, or using the peptide as a comparator against a longer or acetylated analogue. That is a legitimate use, but it puts weight on identity and purity. A batch that is partly the free-acid form will not behave like the amidated peptide in a peptidase assay, and a batch with a different counterion may shift the ionic conditions enough to change an adsorption measurement.
 
-## Specification Highlights
+There is also a commercial reason to know the molecule closely. Selank is short, cheap to synthesise, and widely copied. The barrier to entry is low, so the market contains everything from documented manufacturer material to vials filled from bulk powder with a reprinted certificate. The sequence is only seven residues, which makes it easy to confirm and easy to fake with a plausible-looking mass. The buyer's defence is not a better catalogue description; it is a batch record that can be checked against the structure.
 
-Category: Cognitive & Neuro Total variants: 4 In-stock variants: 4 of 4 Purity: ≥98% Standard pack size: 10 vials 
+## What the Batch Record Should Show
 
-## Quality & Testing
+A Selank certificate has one job that a generic peptide certificate often fails: proving the C-terminal amide. The sequence ends in Pro-NH₂, not Pro-OH. The two forms differ by roughly one dalton, and a low-resolution "MW 751.9" line cannot tell them apart. Ask for the deconvoluted mass and the observed charge states. If the certificate only prints the catalogue molecular weight, it is quoting, not measuring.
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+Purity needs method detail. Selank is a basic heptapeptide with one lysine and one arginine, and its peak shape in reversed-phase HPLC is sensitive to trifluoroacetic acid concentration, column age, and gradient slope. A certificate should state column dimensions and particle size, mobile phase composition, gradient, flow rate, detection wavelength, and integration threshold. Area-normalised purity at 214 nm is the usual convention; it counts UV-absorbing material and ignores water, acetate, and salts. Pair that number with Karl Fischer water content and a peptide-content assay, or the "5 mg" on the label tells you little about the mass of peptide in the vial. The [quality-testing overview](/peptide-quality-testing/) explains why identity, purity, and content are separate measurements.
 
-## Research Areas
+The counterion is the second field to read. Acetate is the common catalogue form, but trifluoroacetate can remain from purification, and the two salts have different masses per milligram of peptide. A certificate that says only "Selank" leaves the buyer to guess. Residual TFA deserves a separate value if the material will contact cells, because the ion-pairing reagent can persist through lyophilisation.
 
-Anxiolytic Mechanisms & GABAergic Research Selank's anxiolytic activity has been characterised in standard rodent behavioural models including the elevated plus maze (EPM), forced swim test (FST), open field test (OFT), and light-dark emergence box. In EPM assays, Selank at 300 μg/kg in rats produces open arm time increases comparable to diazepam at sub-maximal doses, without sedation or motor impairment endpoints. Electrophysiological studies in hippocampal slices report enhanced IPSP amplitude and frequency following bath application, attributed to indirect GABAergic potentiation. Benzodiazepine receptor binding assays (³H-flunitrazepam displacement) confirm that Selank does not displace benzodiazepines — indicating its mechanism is distinct from classical anxiolytics. BDNF Expression & Neurotrophin Research Selank upregulates brain-derived neurotrophic factor (BDNF) mRNA and protein in hippocampal and prefrontal cortex tissue in rodent models, as measured by RT-PCR and ELISA. BDNF is a key mediator of synaptic plasticity, neuronal survival, and long-term potentiation (LTP) — processes central to learning and memory consolidation. BDNF upregulation by Selank is studied as a mechanism for its reported nootropic effects (improved maze learning, memory retention in water maze tests) in normal and aged rodent models. The TrkB receptor pathway — the primary BDNF signal transducer — is examined using TrkB antagonists (ANA-12) to confirm whether BDNF induction mediates the behavioural effects. Enkephalin Metabolism & Endogenous Opioid Research Selank inhibits the enzymatic degradation of enkephalins — endogenous opioid pentapeptides — by suppressing the activity of enkephalin-degrading aminopeptidase N (APN/CD13) and neutral endopeptidase (NEP/CD10). In cell-free enzyme assays and cell culture models, Selank prolongs the half-life of exogenously applied Leu-enkephalin and Met-enkephalin, documented by HPLC-based degradation assays. The functional consequence — increased extracellular enkephalin signalling at μ and δ opioid receptors in limbic regions — is a proposed mechanism for both the anxiolytic and mood-stabilising effects observed in behavioural models. Immunomodulatory Activity (Tuftsin Heritage) As a tuftsin analogue, Selank retains some of the parent tetrapeptide's immunomodulatory activity. Tuftsin is a natural activator of phagocytosis, NK cell activity, and macrophage cytokine production. Studies comparing Selank and native tuftsin in macrophage models (peritoneal macrophages, RAW264.7) show Selank produces tuftsin-like enhancement of phagocytic index and IL-2 production, with improved duration of effect attributable to its greater proteolytic resistance. This immunomodulatory strand of research is studied independently of the neurological effects and is relevant to the compound's potential in infectious disease and oncology immune research. ## Sourcing Selank From China
+Fill mass and peptide content are not the same measurement. A 5 mg vial may contain 5 mg of total powder, or 5 mg of peptide, or 5 mg of peptide plus a stated overfill. On a 751.86 Da molecule with acetate and residual moisture, those readings can differ by a meaningful percentage. Ask for mg of peptide per vial and the method used to obtain it, whether nitrogen analysis, amino acid analysis, or UV extinction against a standard.
 
-Selank is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
+The amide itself is not inert. Prolonged exposure to alkaline pH can hydrolyse the C-terminal amide to the free acid, and a small free-acid shoulder in the chromatogram is worth questioning even when the main peak looks clean. This is also why the reconstitution buffer matters: carbonate and bicarbonate buffers at higher pH are a poor choice for a stock that will sit on a bench.
 
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, Selank is supplied for
-  laboratory research use only, under strict research-use terms.
+For cell-based work, endotoxin data belongs in the package. LAL testing is not universal for catalogue peptides, and a certificate that omits it is not automatically deficient, but the omission should be known before primary cells are exposed. Sterility is tested separately; a lyophilised powder should not be assumed sterile.
 
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
+Finally, traceability. The batch number on the certificate should match the vial label, and the document should carry a synthesis date, a retest date, and the manufacturing site. A certificate that could apply to any lot of Selank is a template, not a record. The same chromatogram appearing across 5 mg and 10 mg pack sizes is another warning sign, because different fill masses should produce different peak areas even when the purity percentage is similar.
+
+## Sourcing & Verification
+
+The questions below are specific to Selank and are worth asking before a first order. They also separate a manufacturer from a trading layer faster than any website claim.
+
+- Does the certificate print the full sequence with the C-terminal amide, or only the trade name?
+- Which counterion is present, and is residual TFA reported?
+- What is the peptide content in milligrams per vial, and how was it measured?
+- Can the supplier provide the raw chromatogram and the deconvoluted mass spectrum as separate files?
+- Is the observed mass consistent with 751.86 Da average mass for the amidated free peptide, and does the isotope envelope look like a real measurement?
+- Who synthesised the batch, and who performed the lyophilisation?
+- Is a retain sample kept, and for how long?
+- What is the retest date, and was the vial stored at −20°C before shipment?
+- Will the supplier send one vial before a ten-vial pack, so the assay can be piloted?
+- Does the quoted price refer to peptide mass or fill mass?
+
+A pattern worth recognising: sellers who answer the amidation question immediately usually know the process. Sellers who reply with a generic purity percentage and a catalogue number are often reselling. The [CoA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) walks through the fields in more detail, and the [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) covers entity checks that a certificate alone cannot provide.
+
+## Handling & Storage
+
+Lyophilised Selank is stable for long periods at −20°C when kept dry and protected from light. Let the vial equilibrate to room temperature before opening. A cold vial attracts condensation, and moisture on the cake accelerates hydrolysis and aggregation. Wipe the outside, wait, and open in a low-humidity space.
+
+For reconstitution, water or a buffer matched to the assay is preferable to a generic diluent. The peptide is basic, so a concentrated stock in water may sit slightly acidic because of residual acetate. Add the solvent down the vial wall and swirl rather than vortex; foaming creates an air-liquid interface where peptide can adsorb or aggregate. A cloudy solution is usually a sign of incomplete dissolution or a pH mismatch; give it time rather than adding more solvent at once. For cell work, filter through a 0.22 µm membrane and check recovery by UV absorbance before and after filtration, because basic peptides can bind to some membrane materials. The [solvent and container guide](/blog/peptide-reconstitution-materials/) covers the choices in more detail.
+
+Adsorption is a real source of irreproducibility with short cationic peptides. Use polypropylene tubes rather than polystyrene, keep stocks concentrated, and dilute immediately before use. Bovine serum albumin at 0.1% can reduce losses in some assays, but it adds a protein background that may interfere with mass spectrometry or fluorescence readouts; test it rather than assuming it helps.
+
+Freeze aliquots rather than the whole stock. Repeated freeze-thaw cycles promote aggregation and change the effective concentration. The catalogue's two-week reconstituted figure is a planning assumption, not a stability guarantee; a laboratory should define its own working window with a fresh preparation and a suitable analytical check.
+
+The C-terminal amide is stable near neutral pH but hydrolyses faster as pH rises. Avoid storing stock solutions in carbonate or bicarbonate buffers, and do not leave dilute solutions at room temperature for extended periods. Everything above describes bench-scale handling. Selank is sold for laboratory research only and is not for human or animal use. The [supply conditions](/research-use-disclaimer/) are set out in full on that page.
+
+## How It Compares
+
+**NA Selank Amidate.** The N-acetylated, C-amidated version of the same core sequence. Acetylation caps the N-terminus against aminopeptidases and adds about 42 Da. The mechanism is not different; the stability profile is. If an assay uses serum, tissue homogenate, or a long incubation, the acetylated form may survive longer, and the two should not be treated as interchangeable by mass or by price. The [NA Selank Amidate page](/catalog/na-selank-amidate/) lists its formats.
+
+**Semax.** Same institute, different parent. Semax is an ACTH(4-7) analogue with the same Pro-Gly-Pro tail, and its literature centres on neurotrophin transcription rather than peptidase inhibition. The shared tail is a stabiliser, not a shared mechanism. Researchers often study the two side by side, but a result obtained with one does not transfer automatically to the other. The [Semax page](/catalog/semax/) and the [Selank vs Semax guide](/blog/selank-vs-semax-2026-research-and-procurement-guide/) set out the differences.
+
+**Selank 10mg + Semax 10mg.** A fixed combination for laboratories that want both compounds in one vial. It saves handling steps but complicates attribution: if a readout shifts, the blend cannot tell you which peptide caused it. For a first study, single compounds give cleaner data. The [blend page](/catalog/selank-10mg-semax-10mg/) lists the pack.
 
 ## Frequently Asked Questions
 
-**How does Selank differ mechanistically from benzodiazepine anxiolytics?**
+**What is the difference between Selank and NA Selank Amidate?**
 
-Benzodiazepines are direct positive allosteric modulators of GABA-A receptors at the benzodiazepine binding site, producing sedation, muscle relaxation, and anxiolysis as part of the same pharmacological action. Selank does not bind the GABA-A benzodiazepine site in radioligand displacement assays, and does not produce sedation or motor impairment at anxiolytic doses in rodent models. Its mechanism appears to involve indirect GABA system modulation, BDNF upregulation, and enkephalin stabilisation — a multi-target profile distinct from classical GABA-A direct agonism. 
+NA Selank Amidate carries an N-terminal acetyl group in addition to the C-terminal amide. The acetyl cap blocks aminopeptidase attack and adds about 42 Da to the mass. Selank itself is already C-terminally amidated, so the difference is not the amide; it is the N-terminus. The two are separate catalogue items and require separate identity checks.
 
-**What is the relationship between Selank and Semax?**
+**Is Selank C-terminally amidated?**
 
-Selank and Semax were both developed at the Institute of Molecular Genetics, Russian Academy of Sciences, in the same peptide bioregulator research programme. Both are registered pharmaceuticals in Russia (nasal formulations). Selank is derived from tuftsin and has a primarily anxiolytic-immunomodulatory profile. Semax is derived from ACTH(4-7) and has a primarily nootropic-neuroprotective profile via BDNF and nerve growth factor (NGF) upregulation. They are studied as complementary rather than redundant compounds — Selank for anxiety/stress-related endpoints, Semax for cognitive enhancement and neuroprotection. 
+Yes. The catalogue sequence ends in Pro-NH₂. A free-acid form would be a different molecule with a different mass and different stability. The certificate should show a deconvoluted mass consistent with the amidated peptide, not merely a rounded molecular weight copied from a catalogue.
 
-**What in vivo doses are used in standard rodent anxiolytic research?**
+**Which counterion should I expect?**
 
-Published rodent studies report active doses of Selank typically in the range 100–300 μg/kg by intraperitoneal or intranasal administration. EPM and FST protocols use doses of 150–300 μg/kg in Wistar rats as the standard effective range. These doses are derived from the published IMG studies (Semenova et al., Medvedev et al.) and should be confirmed against current literature for the specific rodent strain and administration route used in a given study design. 
+Acetate is the usual form in catalogue supply. Trifluoroacetate can remain from reversed-phase purification, and some batches contain a mixture. Ask for the counterion and, if the material will contact cells, for residual TFA. The counterion changes the mass of powder per milligram of peptide, so it belongs in the batch specification.
 
-**Is Selank available for wholesale research purchase?**
+**How do I confirm the sequence rather than just the mass?**
 
-Yes. Selank is available through Peptides of China on a B2B wholesale basis. Purity ≥98% by HPLC, confirmed by ESI-MS. Certificates of Analysis per batch. Pricing and minimum order quantities provided on request after account verification. 
+A deconvoluted mass confirms the composition, not the order of residues. For sequence confirmation, ask for MS/MS fragmentation or a peptide map. For a seven-residue peptide, MS/MS is practical and inexpensive. A certificate that shows only a single mass peak has confirmed identity at the composition level, which is weaker than a sequence-level check.
+
+**How stable is Selank in solution?**
+
+The lyophilised powder is stable at −20°C when dry. In solution, the main risks are adsorption, freeze-thaw aggregation, and amide hydrolysis at alkaline pH. Keep stocks near neutral pH, use polypropylene tubes, aliquot before freezing, and define your own working window rather than relying on a catalogue figure.
+
+**Can I order a single vial before committing to a pack?**
+
+The catalogue lists ten-vial packs as the standard format. A pilot vial is often available on request, and it is the sensible way to test solubility, adsorption, and assay response before a larger order. Ask before assuming the pack is the only option.
+
+**Is Selank supplied sterile?**
+
+No. Lyophilised peptide powder is not sterile by default, and sterility is a separate test. If the assay requires sterile solution, filter through a 0.22 µm membrane and verify peptide recovery, because filtration can remove material through adsorption.
 
 ## Related Products
 
-NA Selank Amidate Selank + Semax Related Research Articles Selank vs Semax: 2026 Research and Procurement Guide For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+- NA Selank Amidate
+- Semax
+- Selank 10mg Semax 10mg
+
+## The Author's Take
+
+**Position.** I would ask for the amidation evidence before I ask for the price. A Selank quote without a deconvoluted mass is a quote for an unnamed molecule.
+
+**Reasoning.** The peptide is short and cheap to make, so the market is full of material that is close but not identical: free acid instead of amide, a different counterion, or a fill weight that includes water and salt. None of those differences shows up in a "98% purity" line. The suppliers who can answer the amide question are usually the ones who control synthesis, and that control is what makes a batch reproducible from one order to the next.
+
+**Disclosure.** Peptides of China sells Selank and the items linked here. The view above is a sourcing judgement drawn from batch documents, not medical advice; the product is for laboratory research only.
+
+## Sources
+
+1. Zozulya, A. A., et al. (2001). The inhibitory effect of Selank on enkephalin-degrading enzymes as a possible mechanism of its anxiolytic activity. *Bulletin of Experimental Biology and Medicine*. https://pubmed.ncbi.nlm.nih.gov/11550013/
+2. Filatova, E., et al. (2017). GABA, Selank, and Olanzapine affect the expression of genes involved in GABAergic neurotransmission in IMR-32 cells. *Frontiers in Pharmacology*. https://pubmed.ncbi.nlm.nih.gov/28293190/
+3. Kozlovskaya, M. M., et al. (2003). Selank and short peptides of the tuftsin family in the regulation of adaptive behavior in stress. *Neuroscience and Behavioral Physiology*. https://pubmed.ncbi.nlm.nih.gov/14969422/
+4. Siebert, A., et al. (2017). Tuftsin — properties and analogs. *Current Medicinal Chemistry*. https://pubmed.ncbi.nlm.nih.gov/28745220/
+5. Deigin, V. I., et al. (2022). Development of peptide biopharmaceuticals in Russia. *Pharmaceutics*. https://pubmed.ncbi.nlm.nih.gov/35456550/
+6. National Center for Biotechnology Information. PubChem Compound Summary for CID 11765600, Selank. https://pubchem.ncbi.nlm.nih.gov/compound/11765600
