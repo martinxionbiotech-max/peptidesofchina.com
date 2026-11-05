@@ -4,109 +4,15 @@ name: "Cagrilintide + Semaglutide"
 slug: "cagrilintide-semaglutide"
 price: 183.0
 status: "In Stock"
-description: "Dual amylin/GLP-1 receptor agonist combination. Subject of clinical investigation examining complementary mechanisms in metabolic research."
+description: "Cagrilintide and semaglutide as separate lyophilized vials for dual amylin/GLP-1 receptor research, ≥98% HPLC specification, 5 mg + 5 mg per kit."
 image: "/images/products/cagrilintide-bottle.webp"
 
 ---
-Cagrilintide + Semaglutide is listed in our **china peptide** catalog as a finished research compound from an established Chinese manufacturer. It is catalogued under the Weight Management, Blends Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Research Areas
-
-Dual-Receptor Pharmacology Research interest in CagriSema centers on whether simultaneous amylin and GLP-1 receptor engagement produces additive or synergistic effects on metabolic endpoints. Studies have examined receptor expression patterns in brainstem and hypothalamic regions, with particular attention to whether the two pathways share downstream signaling nodes or operate independently — a key mechanistic question for combination metabolic research. Body Weight and Composition Research Preclinical studies in diet-induced obesity models have examined the combination's effects on fat mass reduction, lean mass preservation, and body weight trajectories. The research question driving much of this work is whether dual-pathway satiety signaling produces greater outcomes than either agent in isolation — and whether the mechanisms are truly complementary or partially redundant. Metabolic Parameter Studies Studies have investigated glycemic markers, insulin sensitivity, glucagon levels, and gastric emptying rate in rodent models receiving the combination. The distinct receptor mechanisms of each component — amylin's primary role in glucagon suppression versus GLP-1's insulin secretagogue and gastric emptying effects — provides a basis for examining independent versus overlapping metabolic contributions. ## Sourcing Cagrilintide + Semaglutide From China
-
-Cagrilintide + Semaglutide is available through our platform as a **china peptide** sourced directly from an
-established Chinese manufacturer. Three points define how we handle it:
-
-- **Factory-direct, not trader-sourced.** We confirm availability and specification with the
-  manufacturer before the order is confirmed. There is no intermediary resale of unknown-origin
-  vials in this catalog.
-- **Specification before shipment.** The purity and concentration specification shown on this
-  page is the manufacturer's batch specification. Product-specific quality-control information
-  travels with the order.
-- **Research-use discipline.** Like every listing in our catalog, Cagrilintide + Semaglutide is supplied for
-  laboratory research use only, under strict research-use terms.
-
-For buyers comparing **chinese peptides** suppliers, the practical test is whether the seller can
-name the manufacturer and show the batch documentation. We work the other way around: the
-manufacturer and the documentation are the offer. [Browse the full catalog](/catalog/) or
-[see how sourcing works](/how-it-works/).
-
-## Frequently Asked Questions
-
-Do you supply the combination as a single vial or as separate components? We supply cagrilintide and semaglutide as separate lyophilized vials, allowing researchers to formulate at custom ratios. Both components are available individually or together. 
-
-**What is the research difference between CagriSema and tirzepatide?**
-
-Tirzepatide is a GLP-1/GIP dual agonist — a single molecule acting at two incretin receptors. CagriSema combines an amylin analogue with a GLP-1 agonist — two separate molecules acting at distinct receptor systems (amylin receptors vs. incretin receptors). Mechanistically different approaches to multi-receptor metabolic research. 
-
-**What purity level are the components?**
-
-Both cagrilintide and semaglutide are synthesized to 99%+ purity, verified by HPLC and Mass Spectrometry. Certificates of Analysis from the manufacturing facilities are included with each batch. 
-
-**What are the storage conditions?**
-
-Both components in lyophilized form should be stored at −20°C, protected from light and moisture. Reconstituted solutions should be kept at 2-8°C and used promptly. 
-
-## Related Products
-
-Semaglutide oral tablet Semaglutide Cagrilintide Retatrutide + Cagrilintide For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes. research category, and its specification is confirmed with the manufacturer before the order ships. Identity documentation includes its CAS registration (N/A — combination product Molecular Weight N/A — see individual components Molecular Formula N/A — combination product Sequence N/A — combination product 
-
-## Available Variants
-
-| Name | Strength | Pack Size | Purity | Availability |
-| --- | --- | --- | --- | --- |
-| Cagrilintide 5mg + Semaglutide 5mg | 10 mg | 10 vials | ≥98% | In Stock |
-
-## Specification Highlights
-
-Category: Weight Management, Blends Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
-
-## Quality & Testing
-
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
-
-## Research Areas
-
-Dual-Receptor Pharmacology Research interest in CagriSema centers on whether simultaneous amylin and GLP-1 receptor engagement produces additive or synergistic effects on metabolic endpoints. Studies have examined receptor expression patterns in brainstem and hypothalamic regions, with particular attention to whether the two pathways share downstream signaling nodes or operate independently — a key mechanistic question for combination metabolic research. Body Weight and Composition Research Preclinical studies in diet-induced obesity models have examined the combination's effects on fat mass reduction, lean mass preservation, and body weight trajectories. The research question driving much of this work is whether dual-pathway satiety signaling produces greater outcomes than either agent in isolation — and whether the mechanisms are truly complementary or partially redundant. Metabolic Parameter Studies Studies have investigated glycemic markers, insulin sensitivity, glucagon levels, and gastric emptying rate in rodent models receiving the combination. The distinct receptor mechanisms of each component — amylin's primary role in glucagon suppression versus GLP-1's insulin secretagogue and gastric emptying effects — provides a basis for examining independent versus overlapping metabolic contributions. 
-
-## Frequently Asked Questions
-
-Do you supply the combination as a single vial or as separate components? We supply cagrilintide and semaglutide as separate lyophilized vials, allowing researchers to formulate at custom ratios. Both components are available individually or together. 
-
-**What is the research difference between CagriSema and tirzepatide?**
-
-Tirzepatide is a GLP-1/GIP dual agonist — a single molecule acting at two incretin receptors. CagriSema combines an amylin analogue with a GLP-1 agonist — two separate molecules acting at distinct receptor systems (amylin receptors vs. incretin receptors). Mechanistically different approaches to multi-receptor metabolic research. 
-
-**What purity level are the components?**
-
-Both cagrilintide and semaglutide are synthesized to 99%+ purity, verified by HPLC and Mass Spectrometry. Certificates of Analysis from the manufacturing facilities are included with each batch. 
-
-**What are the storage conditions?**
-
-Both components in lyophilized form should be stored at −20°C, protected from light and moisture. Reconstituted solutions should be kept at 2-8°C and used promptly. 
-
-## Related Products
-
-Semaglutide oral tablet Semaglutide Cagrilintide Retatrutide + Cagrilintide For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.), so buyers can verify the compound independently of the seller's description. Researchers sourcing **chinese peptides** in this field typically evaluate Cagrilintide + Semaglutide for metabolic research, dual-agonism pharmacology, energy homeostasis, body composition administration form individual lyophilized powders for co-administration storage −20°c long-term; 2-8°c aqueous (use promptly) cas number n/a — combination product molecular weight n/a — see individual components molecular formula n/a — combination product sequence n/a — combination product available variants name strength pack size purity availability price (usd) cagrilintide 5mg + semaglutide 5mg 10 mg 10 vials ≥98% in stock $183.00 specification highlights category: weight management, blends total variants: 1 in-stock variants: 1 of 1 purity: ≥98% standard pack size: 10 vials quality & testing testing method: hplc / lc-ms . products are supplied against the specification shown on the applicable product page. the standard catalog purity specification is ≥98% unless otherwise stated. product-specific specifications and quality-control information may vary by compound and batch. every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as hplc and lc-ms. these results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. research areas dual-receptor pharmacology research interest in cagrisema centers on whether simultaneous amylin and glp-1 receptor engagement produces additive or synergistic effects on metabolic endpoints. studies have examined receptor expression patterns in brainstem and hypothalamic regions, with particular attention to whether the two pathways share downstream signaling nodes or operate independently — a key mechanistic question for combination metabolic research. body weight and composition research preclinical studies in diet-induced obesity models have examined the combination's effects on fat mass reduction, lean mass preservation, and body weight trajectories. the research question driving much of this work is whether dual-pathway satiety signaling produces greater outcomes than either agent in isolation — and whether the mechanisms are truly complementary or partially redundant. metabolic parameter studies studies have investigated glycemic markers, insulin sensitivity, glucagon levels, and gastric emptying rate in rodent models receiving the combination. the distinct receptor mechanisms of each component — amylin's primary role in glucagon suppression versus glp-1's insulin secretagogue and gastric emptying effects — provides a basis for examining independent versus overlapping metabolic contributions. frequently asked questions do you supply the combination as a single vial or as separate components? we supply cagrilintide and semaglutide as separate lyophilized vials, allowing researchers to formulate at custom ratios. both components are available individually or together. what is the research difference between cagrisema and tirzepatide? tirzepatide is a glp-1/gip dual agonist — a single molecule acting at two incretin receptors. cagrisema combines an amylin analogue with a glp-1 agonist — two separate molecules acting at distinct receptor systems (amylin receptors vs. incretin receptors). mechanistically different approaches to multi-receptor metabolic research. what purity level are the components? both cagrilintide and semaglutide are synthesized to 99%+ purity, verified by hplc and mass spectrometry. certificates of analysis from the manufacturing facilities are included with each batch. what are the storage conditions? both components in lyophilized form should be stored at −20°c, protected from light and moisture. reconstituted solutions should be kept at 2-8°c and used promptly. related products semaglutide oral tablet semaglutide cagrilintide retatrutide + cagrilintide for laboratory research use only. not for human or veterinary use. peptides of china is a b2b wholesale supplier operating under strict research-use-only terms. all products are sold exclusively for in vitro and preclinical research purposes.; availability and batch documentation are confirmed factory-side before the invoice is issued. Like every listing on this platform, Cagrilintide + Semaglutide is supplied for laboratory research use only.
-
-
-Buy Cagrilintide + Semaglutide | Research Grade | Peptides of China Cagrilintide + Semaglutide Buy Cagrilintide + Semaglutide — Research Grade Peptide Cagrilintide + Semaglutide is a weight management research compound currently in stock directly from a verified Chinese manufacturer. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control. Sourcing is direct — no intermediaries. Public catalog minimum is $600 in goods per supplier. Eligible new customers may use one first-order trial without a monetary minimum; 5% off goods applies from $3,500 per supplier, excluding shipping. International shipping available. 
+Cagrilintide + Semaglutide is a two-vial research kit: one vial of cagrilintide, a long-acting amylin analogue, and one vial of semaglutide, a GLP-1 receptor agonist. Each is lyophilized, each carries a ≥98% HPLC specification, and the standard kit pairs 5 mg with 5 mg. Supplying them separately rather than pre-mixed lets a laboratory set its own ratio and characterise each component before combining them. Nothing here is a finished combination product, and nothing is intended for human use.
 
 ## Compound Profile
 
-The cagrilintide-semaglutide combination — commonly referenced as CagriSema in clinical research — pairs a long-acting amylin analogue (cagrilintide) with a GLP-1 receptor agonist (semaglutide) in a fixed-ratio co-formulation. The research rationale centers on mechanistic complementarity: amylin receptors and GLP-1 receptors are expressed in distinct but overlapping regions of the hypothalamus and brainstem, with additive or potentially synergistic effects on satiety signaling hypothesized from dual-pathway engagement. Preclinical studies in rodent models of diet-induced obesity have examined the combination's effects on body weight reduction, food intake, and metabolic parameters. The central hypothesis is that simultaneous amylinergic (hindbrain area postrema, nucleus tractus solitarius) and GLP-1 receptor (hypothalamic arcuate nucleus, ventromedial nucleus) signaling produces greater metabolic response than either pathway alone. This dual-receptor approach represents a broader trend in metabolic peptide research toward multi-target strategies. Peptides of China supplies cagrilintide and semaglutide as individual lyophilized powders, each at 99%+ purity verified by HPLC and Mass Spectrometry, allowing researchers to formulate the combination at custom ratios. Certificates of Analysis accompany every batch. All products are for laboratory research use only and are not for human consumption. 
-
-## Profile
-
-Combination Components Cagrilintide (amylin analogue) + Semaglutide (GLP-1 RA) Receptor Targets AMY1/2/3 (amylin) + GLP-1R (glucagon-like peptide-1 receptor) Clinical Designation CagriSema 
-
-## Research Areas
-
-Metabolic research, dual-agonism pharmacology, energy homeostasis, body composition Administration Form Individual lyophilized powders for co-administration Storage −20°C long-term; 2-8°C aqueous (use promptly) CAS Number N/A — combination product Molecular Weight N/A — see individual components Molecular Formula N/A — combination product Sequence N/A — combination product 
+Primary Components Cagrilintide (amylin analogue) + Semaglutide (GLP-1 receptor agonist) Receptor Targets AMY1/2/3 (amylin) + GLP-1R (glucagon-like peptide-1 receptor) CAS Number N/A — combination product Molecular Weight N/A — see individual components Molecular Formula N/A — combination product Sequence N/A — combination product Form Lyophilized powder, two separate vials Storage −20°C long-term; 2-8°C aqueous (use promptly)
 
 ## Available Variants
 
@@ -116,32 +22,124 @@ Metabolic research, dual-agonism pharmacology, energy homeostasis, body composit
 
 ## Specification Highlights
 
-Category: Weight Management, Blends Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials 
+Category: Weight Management, Blends Total variants: 1 In-stock variants: 1 of 1 Purity: ≥98% Standard pack size: 10 vials
 
-## Quality & Testing
+## Why This Compound
 
-Testing method: HPLC / LC-MS . Products are supplied against the specification shown on the applicable product page. The standard catalog purity specification is ≥98% unless otherwise stated. Product-specific specifications and quality-control information may vary by compound and batch. Every batch is tested by the manufacturer for purity and concentration as part of routine quality control, using methods such as HPLC and LC-MS. These results are kept in the manufacturer's internal quality-control records and are not issued as a separate certificate or document. 
+Amylin is the less familiar half of this pair, and it deserves the first paragraph. It is a 37-residue hormone co-secreted with insulin from pancreatic beta cells, and it acts on receptors assembled from the calcitonin receptor plus one of three receptor activity-modifying proteins. The resulting AMY1, AMY2 and AMY3 subtypes differ in pharmacology and in tissue distribution, with dense expression in the area postrema and the nucleus tractus solitarius, two hindbrain structures that sit outside the blood-brain barrier and sample circulating signals directly. That anatomy explains why amylinergic compounds affect food intake and gastric emptying without needing to cross into the cortex.
 
-## Research Areas
+Cagrilintide is a long-acting analogue built to exploit that system. Semaglutide is a GLP-1 receptor agonist with a well-characterised hypothalamic and brainstem footprint. Put them together and you have two satiety pathways that converge on the hindbrain but arrive through different receptors, different second messengers and different temporal profiles. The research question is whether that convergence is additive, redundant or genuinely synergistic, and it is a question that cannot be answered with a single molecule.
 
-Dual-Receptor Pharmacology Research interest in CagriSema centers on whether simultaneous amylin and GLP-1 receptor engagement produces additive or synergistic effects on metabolic endpoints. Studies have examined receptor expression patterns in brainstem and hypothalamic regions, with particular attention to whether the two pathways share downstream signaling nodes or operate independently — a key mechanistic question for combination metabolic research. Body Weight and Composition Research Preclinical studies in diet-induced obesity models have examined the combination's effects on fat mass reduction, lean mass preservation, and body weight trajectories. The research question driving much of this work is whether dual-pathway satiety signaling produces greater outcomes than either agent in isolation — and whether the mechanisms are truly complementary or partially redundant. Metabolic Parameter Studies Studies have investigated glycemic markers, insulin sensitivity, glucagon levels, and gastric emptying rate in rodent models receiving the combination. The distinct receptor mechanisms of each component — amylin's primary role in glucagon suppression versus GLP-1's insulin secretagogue and gastric emptying effects — provides a basis for examining independent versus overlapping metabolic contributions. 
+The clinical programme for this combination uses a fixed-ratio product and refers to it as CagriSema. That product is a formulation decision: two peptides in one container, at a ratio chosen by the developer. The catalog item here is a different object. It supplies the two components as separate vials so that a laboratory can vary the ratio, run each component as its own control, and measure what happens when the proportions change. For mechanism work that flexibility is the point; for replication work it is a complication, because the ratio becomes a variable the protocol has to define.
+
+Three confounds deserve a place in the study design. First, both pathways can suppress feeding through mechanisms that include malaise, so a food-intake result should be read alongside a conditioned taste aversion or similar control. Second, both affect gastric emptying, which changes the absorption of anything else given in the same protocol. Third, amylin and GLP-1 receptors are expressed in overlapping hindbrain regions, so a behavioural effect may reflect convergence rather than two independent pathways. Pair-feeding and careful timing help separate these.
+
+## What the Batch Record Should Show
+
+A two-component kit doubles the documentation. Each vial needs its own identity, purity and content data, and the kit needs a record that ties the two together.
+
+For cagrilintide, identity by mass spectrometry should show a deconvoluted mass consistent with the full-length lipidated peptide, with adducts declared. Because the molecule is lipidated, the chromatogram should resolve the lipopeptide region rather than only the main peak. Purity by reverse-phase HPLC at 214 nm, method attached, is the minimum. Peptide content and counterion identity are needed before the fill can be converted into a molar amount.
+
+For semaglutide, the same standards apply, with one addition: the acylation step is the manufacturing bottleneck, so the chromatogram should demonstrate mono-acylated product and show where the over-acylated species elute. A supplier who cannot show that separation is not documenting the chemistry that matters.
+
+The kit itself needs a ratio record. If the two vials are filled independently, the ratio is nominal and depends on each fill's peptide content; a 5 mg + 5 mg label is a claim about peptide mass, not about the gross weight of two powders. If the two are filled from the same bulk solution, the ratio is fixed by the formulation and the record should show the mixing calculation and a homogeneity check. These are different products with different failure modes, and the buyer should know which one is being supplied.
+
+Cross-contamination is a real concern when two peptides are handled on the same filling line. Ask how the line is cleaned between products and whether the batch record includes a carryover check. For a research kit this may seem excessive, but a semaglutide contamination in a cagrilintide vial would quietly corrupt a ratio experiment.
+
+Endotoxin and bioburden results are needed for in vivo work, and appearance and reconstitution clarity should be recorded for both vials. The lot numbers for each component belong on the invoice, and they should match the vial labels and the analytical records.
+
+## Sourcing & Verification
+
+The questions for this listing split into three groups: one per component and one for the kit.
+
+- For cagrilintide: what is the measured mass, and does the chromatogram resolve the lipidated species from unconjugated peptide?
+- For cagrilintide: what is the peptide content, and which assay was used?
+- For semaglutide: can you provide the acylation chromatogram, not just the final purity trace?
+- For both: what are the lot numbers, and do they appear on the vial labels and the certificates?
+- For the kit: are the vials filled independently or from a common bulk solution?
+- For the kit: what ratio does the record support, and how was each fill verified?
+- For both: what are the water content and counterion, and how were they measured?
+- For both: has endotoxin been tested, and at what limit?
+
+The answers usually reveal the supplier's actual position in the chain. A manufacturer will talk about acylation, purification and fill; a reseller will talk about the catalog and the price. The [China peptide sourcing guide](/china-peptide-sourcing/) explains why that distinction matters more than country of origin, and the [COA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) shows which lines in a certificate carry real information.
+
+Independent testing is worth considering for both components, not just the one that looks harder to make. Cagrilintide's lipidation and semaglutide's acylation are different chemistries with different failure modes, and a single combined test can miss a problem in one arm. The platform's position on seller-commissioned certificates is set out in [why we do not provide third-party COAs](/blog/why-we-do-not-provide-third-party-coas-and-what-that-actually-means/); the practical consequence is that the buyer owns verification.
+
+Shipping two vials together adds a small logistical risk: if one vial is damaged or delayed, the kit is unusable for a ratio experiment. Ask how the kit is packed and what the replacement terms are. Lyophilized powder tolerates short ambient exposure, but a kit that arrives warm after three weeks in transit is a kit to inspect before use.
+
+## Handling & Storage
+
+Store both vials at -20°C, sealed with desiccant and protected from light. Equilibrate to room temperature before opening. The two powders are hygroscopic, and condensation on a cold cake is the most common cause of a slow-to-dissolve plug.
+
+Reconstitute each component separately, following the buffer that suits its own assay. Do not assume that a buffer which works for semaglutide will work for cagrilintide; the lipid chains and the isoelectric points differ, and solubility should be checked per component. Add buffer down the vial wall and swirl gently. Avoid vortexing.
+
+If the experiment requires a combined solution, prepare it immediately before use and record the order of addition, the final buffer composition and the time between mixing and application. Co-formulation stability is a formulation question, not something that can be assumed from the stability of the individual peptides. A short compatibility check — visual inspection, turbidity, and a quick HPLC run if the lab has access — is cheap insurance against an artefact.
+
+Dilute solutions of both peptides can adsorb to plastic, so low-binding tubes are a sensible default. Aliquot before freezing and avoid repeated freeze-thaw cycles. Short-term storage at 2-8°C is workable for many buffers, though the specific matrix should be checked.
+
+These notes cover laboratory handling only. They are not instructions for preparing anything for administration to people, and the products are not supplied for that purpose.
+
+## How It Compares
+
+Tirzepatide is the single-molecule alternative: one 39-residue peptide that activates GIP and GLP-1 receptors together. It removes the ratio question entirely, which is an advantage for replication and a limitation for mechanism work. The [tirzepatide listing](/catalog/tirzepatide/) is the relevant page, and the [semaglutide versus tirzepatide comparison](/blog/semaglutide-vs-tirzepatide/) covers the receptor-level differences.
+
+Semaglutide alone is the right control when the question is purely GLP-1 receptor mediated, and [cagrilintide alone](/catalog/cagrilintide/) is the right control for the amylin arm. Running both controls alongside the combination is the only way to see whether an effect is additive, redundant or interactive.
+
+Retatrutide + Cagrilintide is the other blend in this catalog, pairing a triple incretin agonist with an amylin analogue. It pushes the same logic further: three receptors from one molecule plus a fourth from a second molecule. The [Retatrutide + Cagrilintide listing](/catalog/retatrutide-cagrilintide/) covers that kit.
+
+For background on how amylin fits into the wider peptide landscape, the [amylin agonist research guide](/blog/cagrilintide-a-researchers-guide-to-the-amylin-agonist-landscape/) is a useful starting point, and the [peptide categories and mechanisms](/peptide-categories-mechanisms/) pillar places these receptors in context.
+
+## The Author's Take
+
+**Position.** I would not buy a two-component kit unless the supplier can tell me, in writing, whether the vials were filled independently or from a common bulk, and what ratio the batch record actually supports.
+
+**Reasoning.** The label says 5 mg plus 5 mg, but the label is a claim about peptide mass, not about the powder in the vial. Independent fills drift with content and fill weight; a common bulk fixes the ratio but introduces mixing and homogeneity questions. Those are different products with different failure modes, and a buyer who does not know which one they have cannot interpret a ratio experiment. The question costs one email and prevents a month of confusing data.
+
+**Disclosure.** Peptides of China sells this two-vial research kit and coordinates sourcing with manufacturing partners. We do not operate the synthesis or filling site and we do not issue third-party certificates. The page is technical reference material for laboratory buyers, not medical advice, and it contains no human-use guidance.
 
 ## Frequently Asked Questions
 
-Do you supply the combination as a single vial or as separate components? We supply cagrilintide and semaglutide as separate lyophilized vials, allowing researchers to formulate at custom ratios. Both components are available individually or together. 
+**Is this a single combined product or two separate vials?**
 
-**What is the research difference between CagriSema and tirzepatide?**
+Two separate lyophilized vials, one containing cagrilintide and one containing semaglutide. The kit pairs 5 mg of each in the standard configuration. Supplying them separately lets a laboratory set its own ratio and run each component as a control.
 
-Tirzepatide is a GLP-1/GIP dual agonist — a single molecule acting at two incretin receptors. CagriSema combines an amylin analogue with a GLP-1 agonist — two separate molecules acting at distinct receptor systems (amylin receptors vs. incretin receptors). Mechanistically different approaches to multi-receptor metabolic research. 
+**How does this differ from the CagriSema product studied in clinical trials?**
 
-**What purity level are the components?**
+The clinical programme uses a fixed-ratio combination product with a ratio chosen by the developer. This kit supplies the same two peptides as separate vials, so the ratio is a protocol decision rather than a formulation constant. The two are not interchangeable in a replication study.
 
-Both cagrilintide and semaglutide are synthesized to 99%+ purity, verified by HPLC and Mass Spectrometry. Certificates of Analysis from the manufacturing facilities are included with each batch. 
+**What documentation should come with each vial?**
 
-**What are the storage conditions?**
+A lot-linked certificate with a deconvoluted mass, the HPLC method and chromatogram, peptide content, water content and counterion identity. For semaglutide, the chromatogram should show the acylated product region. For cagrilintide, it should resolve the lipidated species.
 
-Both components in lyophilized form should be stored at −20°C, protected from light and moisture. Reconstituted solutions should be kept at 2-8°C and used promptly. 
+**How should the two components be stored?**
+
+Both at -20°C, sealed with desiccant, protected from light. Equilibrate to room temperature before opening. Reconstitute separately, aliquot, and avoid repeated freeze-thaw cycles. Combined solutions should be prepared immediately before use.
+
+**Can the two be mixed into one solution for an assay?**
+
+They can be combined in a laboratory matrix, but the combination has its own solubility and stability behaviour. Run a small compatibility check first and record the buffer, order of addition and time between mixing and use. Do not assume that stability data for either single peptide applies to the mixture.
+
+**Why does the certificate say N/A for CAS number and molecular formula?**
+
+Because the item is a combination of two distinct molecules, each with its own identifiers. A single CAS number or formula would be misleading. The individual component records carry the relevant values.
+
+**Are both components tested for endotoxin?**
+
+Endotoxin testing is available for both and should be requested for any in vivo work. The certificate should state the method and the limit, not just a pass or fail.
 
 ## Related Products
 
-Semaglutide oral tablet Semaglutide Cagrilintide Retatrutide + Cagrilintide For laboratory research use only. Not for human or veterinary use. Peptides of China is a B2B wholesale supplier operating under strict research-use-only terms. All products are sold exclusively for in vitro and preclinical research purposes.
+Semaglutide
+Cagrilintide
+Retatrutide Cagrilintide
+
+## Sources
+
+1. [CagriSema phase 3 trial record, REDEFINE 1 (NCT05567796)](https://clinicaltrials.gov/study/NCT05567796) — ClinicalTrials.gov.
+2. [STEP 1 trial record for semaglutide (NCT03548935)](https://clinicaltrials.gov/study/NCT03548935) — ClinicalTrials.gov.
+3. [CALCR, calcitonin receptor, entry P30988](https://www.uniprot.org/uniprotkb/P30988/entry) — UniProt Knowledgebase.
+4. [RAMP1, receptor activity-modifying protein 1, entry O60894](https://www.uniprot.org/uniprotkb/O60894/entry) — UniProt Knowledgebase.
+5. [IAPP, islet amyloid polypeptide, entry P10997](https://www.uniprot.org/uniprotkb/P10997/entry) — UniProt Knowledgebase.
+6. [Cagrilintide compound record, CID 171397054](https://pubchem.ncbi.nlm.nih.gov/compound/171397054) — PubChem, National Library of Medicine.
+7. [Semaglutide compound record, CID 56843331](https://pubchem.ncbi.nlm.nih.gov/compound/56843331) — PubChem, National Library of Medicine.
+8. [ICH Q6B: specifications, test procedures and acceptance criteria for biotechnological products](https://database.ich.org/sites/default/files/Q6B%20Guideline.pdf) — International Council for Harmonisation.
