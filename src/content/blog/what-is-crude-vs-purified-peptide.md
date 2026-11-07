@@ -1,206 +1,155 @@
 ---
-title: "What Is Crude Vs Purified Peptide"
+title: "Crude vs Purified Peptides: Purity Grades, Yield, and What the COA Proves"
 slug: "what-is-crude-vs-purified-peptide"
-description: "Discover what is crude vs purified peptide and how it impacts research. Learn about purity levels, COA documentation, and best practices."
-
-
-
-
-
+description: "What crude and purified peptide mean in practice: synthesis by-products, preparative HPLC, purity grades, net peptide content, yield loss, and COA verification."
 ---
-This guide examines what is crude vs purified peptide from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
-## Crude vs Purified Peptide: A Lab Researcher’s Guide
+Crude peptide is the material recovered after cleavage from the synthesis resin, before chromatographic fractionation. It contains the target sequence plus truncated sequences, deletion variants, diastereomers, residual protecting groups, cleavage reagents, and counterions. Purified peptide is the fractionated product that meets a stated purity threshold, usually 95% or 98% by reversed-phase HPLC area normalization. The distinction is not cosmetic: it changes the impurity profile, the net peptide content, the cost per milligram of active sequence, and the experiments the material can support.
 
-Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory.
+This guide explains where the two grades come from, how the purity number is produced, and which specification fields a buyer should require before treating a "98% peptide" as equivalent to another supplier's 98%.
 
-## Table of Contents
+## What crude peptide actually contains
 
-- What do “crude” and “purified” actually mean on a supplier listing?
-- How is peptide purity measured and reported on a COA?
-- How crude peptide gets converted to purified material
-- When should you use crude versus purified peptide?
-- What can go wrong when purity is insufficient?
-- What to specify when placing a peptide order
-- Reconstitution, storage, and handling in the lab
-- Supplier verification, batch traceability, and independent testing
-- Key Takeaways
-- The case for staged purity decisions
-- Research-grade peptides with documented purity from Peptides of China
-- Useful sources
+Solid-phase peptide synthesis builds a chain from the C-terminus on a resin. Each coupling adds an amino acid, and each step has a yield below 100%. A 20-residue peptide with 99% average coupling efficiency leaves roughly 82% of chains full length before cleavage; at 98% average efficiency, the full-length fraction falls to about 67%. Those are illustrations, not supplier specifications, but they explain why crude material is a mixture.
 
-## What do “crude” and “purified” actually mean on a supplier listing?
+The main impurities in crude peptide fall into five groups:
 
-The terminology varies between vendors, which creates real confusion when ordering. Here is how the labels typically map to purity ranges in practice.
+- **Truncated sequences** from incomplete coupling or premature termination.
+- **Deletion sequences** missing one or more internal residues.
+- **Diastereomers** from racemization, most often at cysteine and histidine during activation.
+- **Oxidized or reduced forms**, especially for methionine, cysteine, and tryptophan.
+- **Salts, solvents, and protecting-group remnants** carried through cleavage and precipitation.
 
-“Crude” or “desalted” material sits in the [>50%–70% purity range](https://www.biocompare.com/Editorial-Articles/117894-Peptide-Synthesis/) by RP-HPLC area%. Desalting removes small-molecule reagents and counterions but does not separate sequence-related impurities. Some vendors call this “crude purified,” which is a contradiction in terms — it means the material has been through a simple SPE or desalting step, not a preparative HPLC run. Mid-range material, labeled “partially purified” or simply “>75%” or “>80%”, falls in the 70%–85% band. High-purity material runs from 85%–95%, and analytical or ultrapure grades are specified at >95% to >98%+
+Crude peptide is not waste. For screening, epitope mapping, or process development, a 50–70% crude preparation can be adequate and much cheaper. The error is assuming that a crude lot behaves like a purified lot in a quantitative assay.
 
-One distinction that often gets overlooked: peptide content versus total dry weight. A vial labeled “5 mg” reflects the total mass of the lyophilized powder, which includes the peptide itself plus counterion salts (typically trifluoroacetate, or TFA, from HPLC mobile phases, or acetate after ion-exchange treatment). The actual peptide content can be meaningfully lower. Vendors should report both figures. If a COA lists only dry weight with no peptide content value, the dosing calculations for any quantitative assay will be off.
+## What purification removes, and what it cannot
 
-| Purity Band | Common Label | Typical Research Uses |
-| --- | --- | --- |
-| >50%–70% | Crude / desalted | Initial screening, lead generation, epitope mapping |
-| >70%–85% | Partially purified | Antibody production, ELISA, semi-quantitative assays |
-| >85%–95% | High purity | Enzymology, cell-based assays, structural studies |
-| >95%–98%+ | Analytical / ultrapure | Quantitative binding, in vivo studies, reference standards |
+Preparative reversed-phase HPLC separates peptides by hydrophobicity. The target sequence elutes at a characteristic retention time, and the fraction collector takes the portion of the peak that meets a purity criterion. That process removes most deletion and truncation variants that differ enough in hydrophobicity. It also concentrates the target and exchanges the sample into a volatile mobile phase.
 
-## How is peptide purity measured and reported on a COA?
+It does not remove everything:
 
-RP-HPLC area% is the standard purity metric. The method integrates UV absorbance peaks across the chromatogram and expresses the target peak as a percentage of total peak area. It is a relative measure, not an absolute one — a peptide with no chromophore at 214 nm will be underrepresented, and co-eluting impurities with similar retention times will inflate the apparent purity. LC-MS identity confirmation is the complementary check: it verifies the molecular weight of the target sequence and flags any mass-shifted variants (oxidation, deamidation, incomplete deprotection).
+- **Co-eluting impurities** with similar hydrophobicity can survive the main peak cut.
+- **Diastereomers** may separate poorly on a C18 column, particularly when the change is a single stereocenter far from the hydrophobic face.
+- **Counterions** from the mobile phase, typically trifluoroacetate, remain associated with basic residues.
+- **Water** remains after lyophilization, often at 3–8% by Karl Fischer titration.
+- **Residual solvents** can persist if drying is incomplete.
 
-Core QC methods to require on any COA:
+A 98% HPLC purity means 98% of the integrated peak area at the chosen wavelength is the target peak. It does not mean 98% of the vial mass is peptide. The difference is net peptide content, and it is the number that determines how much sequence you actually have.
 
-- RP-HPLC area% with the actual chromatogram (not just a number)
-- LC-MS spectrum showing the expected [M+H]+ or multiply charged ions
-- Reported peptide content (not just dry weight) — ideally from amino acid analysis or UV quantification at 280 nm for Trp/Tyr-containing sequences
-- Counterion notation (TFA or acetate form) and salt form
-- Lot number, synthesis date, and recommended storage conditions
+## How purity is measured, and where the number misleads
 
-The counterion matters more than most researchers realize. TFA is the default counterion from RP-HPLC purification and is cytotoxic at concentrations relevant to cell-based assays. If your experiment uses cell culture, request acetate-form peptide or plan for a TFA-removal step. Vendors should state the counterion explicitly on the COA; if they do not, ask before ordering. For a detailed breakdown of what a complete COA should contain, the [peptide characterization reporting checklist](/blog/peptide-characterization-reporting-checklist) from Peptides of China covers the documentation expectations in full.
+Most certificates report purity by area normalization: the target peak area divided by the total integrated peak area, multiplied by 100. The result depends on the column, gradient, wavelength, injection load, and integration threshold. A typical method uses a C18 column of 4.6 × 250 mm with 5 µm particles and 300 Å pores, a water/acetonitrile mobile phase with 0.1% TFA, a gradient of 5–65% acetonitrile over 30 minutes, detection at 214 or 220 nm, and an injection load of 10–50 µg. Change any of those and the reported percentage can move by several points.
 
-**Pro Tip:** *When reviewing a chromatogram, look for a flat baseline before and after the main peak. A rising baseline, a shoulder on the main peak, or a cluster of small peaks within 0.5 minutes of the target retention time all suggest co-eluting impurities that area% alone will not resolve. Request the raw chromatogram file or a zoomed view if the vendor provides only a thumbnail.*
+A certificate that states "purity 98.5%" without these details is not reproducible. Two labs can test the same lot and report 96% and 99% by changing the gradient or the integration threshold. The [HPLC versus LC-MS guide](/blog/hplc-vs-lc-ms-peptides) explains why retention time alone is weak identity evidence, and the [COA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports) shows how to audit the chromatogram.
 
-Marketing language is a separate problem. Terms like “purified peptides” in consumer skincare contexts carry no analytical meaning — there is no chromatogram behind them. As [Cleveland Clinic’s peptide guidance](https://health.clevelandclinic.org/peptides-for-skin) notes, the consumer use of “purified” does not map to laboratory-grade purification standards. Always validate vendor claims with the actual analytical data, not the product description.
+Area normalization also ignores non-UV-absorbing impurities. Salts, water, and residual solvents do not appear in the chromatogram. That is why a complete specification includes Karl Fischer water, residual solvent by gas chromatography, counterion content by ion chromatography, and net peptide content by amino acid analysis or nitrogen determination.
 
-## How crude peptide gets converted to purified material
+## The purification train
 
-Preparative RP-HPLC is the standard purification method for synthetic peptides. The same column chemistry used for analytical work (typically C18 or C8 reversed-phase) scales to preparative columns with larger internal diameters and higher mass loads. [Waters’ practical guidance on peptide isolation](https://www.waters.com/nextgen/us/en/education/primers/practical-approaches-to-peptide-isolation.html) describes how preserving gradient slope per column volume — expressed as % change per column volume rather than % per minute — maintains resolution when moving from analytical to preparative scale. This is the detail that separates a supplier who understands prep chromatography from one who simply runs a bigger column.
+Preparative HPLC is the default for research peptides, but it is not the only step. A typical purification sequence combines crude precipitation, one or two chromatographic steps, and lyophilization.
 
-Common purification approaches and their tradeoffs:
+| Step | Purpose | Typical condition | What it costs |
+| --- | --- | --- | --- |
+| Ether precipitation | Remove cleavage reagents and some small fragments | Cold methyl tert-butyl ether, repeated washes | Solvent handling and loss of very hydrophobic peptide |
+| Preparative RP-HPLC | Main purity upgrade | C18, 5–10 µm, acetonitrile gradient with 0.1% TFA | Column time, solvent, yield loss |
+| Ion-exchange chromatography | Separate charge variants and exchange counterion | DEAE or SP Sepharose, salt gradient | Additional buffer and dialysis step |
+| Ultrafiltration or dialysis | Remove salts and exchange buffer | 1–3 kDa membrane | Dilution and adsorption loss |
+| Lyophilization | Produce stable powder | Shelf temperature below collapse temperature | Cycle time and water content |
 
-- RP-HPLC (preparative): highest resolution, separates sequence-related impurities, scalable from milligrams to grams; reduces yield because overlapping fractions are discarded
-- SPE / desalting: removes small-molecule reagents and salts but does not resolve deletion peptides or truncated sequences; fast and low-cost, appropriate for crude-grade material
-- Ion-exchange chromatography: useful for charge-based separations, particularly for basic or acidic peptides where RP-HPLC resolution is limited; often used as an orthogonal step
-- Size-exclusion chromatography (SEC): separates by molecular weight; practical for removing aggregates or high-molecular-weight impurities, not for resolving closely related sequences
+The order depends on the peptide. Hydrophobic sequences may need organic co-solvent throughout; basic sequences may bind strongly to C18 and require ion pairing; long sequences may need two orthogonal steps to reach 98%. Each step loses material, and the lost material is often the fraction closest to the target.
 
-Mass-directed fraction collection adds confidence when the target peak is low-abundance or co-elutes with a closely related impurity. The mass spectrometer triggers fraction collection only when the target m/z is detected, which recovers more of the correct sequence and discards less material to waste. For complex sequences or those with known synthesis challenges (long chains, aggregation-prone motifs), this approach is worth requesting explicitly from the supplier.
+A realistic recovery from crude to purified is 40–70% for a well-behaved peptide, lower for hydrophobic, cysteine-rich, or aggregation-prone sequences. That yield loss is the main reason a 98% grade costs more than a 95% grade, and why a supplier quoting the same price for both deserves a question.
 
-Pushing for >99% purity on complex sequences can cause exponential cost increases and yield loss, because closely eluting sequence variants require repeated repurification and discard of overlapping fractions. For most research applications, >95% is the practical ceiling where cost and purity are still in reasonable balance.
+## Purity grades and where they fit
 
-## When should you use crude versus purified peptide?
+Purity grades are a commercial convention, not a universal standard. The labels below reflect common research-market usage; the specification, not the label, is what matters.
 
-The decision comes down to what the experiment actually requires, not what sounds rigorous. Using >95% material for a 384-well primary screen of 200 sequences wastes budget. Using crude material for a receptor binding Kd determination produces unreliable data.
+| Grade | Typical HPLC purity | Typical use | Main limitation |
+| --- | --- | --- | --- |
+| Crude | 30–70% | Screening, epitope mapping, process development | Unknown impurity profile; poor quantitative use |
+| Desalted | 60–85% | Early assays where salts interfere | Still contains truncations and diastereomers |
+| Research grade | ≥95% | General in vitro work | Close impurities may co-elute; net content varies |
+| High purity | ≥98% | Assays sensitive to impurity load | Cost; still not a certified reference standard |
+| Reference grade | ≥99% with orthogonal data | Method validation, quantification | Requires characterization beyond HPLC |
 
-| Experiment Type | Recommended Purity | Key QC Required |
-| --- | --- | --- |
-| Primary screening / lead generation | >50%–70% (crude/desalted) | MS identity, lot number |
-| Epitope mapping, antibody generation | >70%–85% | HPLC chromatogram, MS |
-| ELISA, semi-quantitative cell assays | >70%–85% | HPLC chromatogram, peptide content |
-| Enzymology, quantitative cell assays | >90%–98% | Full COA, peptide content |
-| Receptor-ligand binding (Kd), SPR | >90%–98% | Full COA, TFA-free form |
-| In vivo animal studies | >90%–98% | Full COA, endotoxin testing |
-| Reference standards, structural work | >90%–98% | Full COA, amino acid analysis |
+The grade label should be tied to a specification version. Ask for the exact limit, the method, and the acceptance criteria for each impurity category. "≥98%" without a method is a marketing claim; "≥98% by RP-HPLC, 220 nm, area normalization, single peak, maximum unspecified impurity ≤0.5%" is a specification.
 
-Biocompare’s peptide synthesis guidance supports this tiered approach: crude or desalted peptides are cost-effective for initial screens and lead generation, mid-range purities (>70%–85%) are appropriate for antibody production and ELISA work, and purities >90%–98% are recommended for quantitative bioassays, receptor-ligand binding, and in vivo studies.
+## Yield, cost, and the economics of the last two percent
 
-A practical staging strategy: order crude or desalted material for broad sequence screening, then commission preparative purified batches only for validated leads. This approach balances budget against experimental rigor and avoids paying for high-purity material on sequences that will not advance. For proteomics applications where LC-MS/MS is the readout, purity requirements differ from cell-based work — the [peptides in proteomics methods guide](/blog/peptides-in-proteomics-research-2026-methods-guide) covers those specific considerations.
+The cost curve is steep at the top. Moving from 95% to 98% can require a second chromatographic step, tighter fraction pooling, and a larger loss of product. That is why the price per milligram may rise by 50–150% for a two-point purity gain, and why some suppliers sell a "98%" lot that is really a 95% lot with a tighter integration threshold.
 
-## What can go wrong when purity is insufficient?
+The main cost drivers are synthesis scale, crude purity, the number of purification steps, column and solvent consumption, lyophilization cycle time, and documentation. Larger scale usually lowers cost per gram, but a higher crude purity reduces the purification load and can matter more than scale. Ask for the crude HPLC before purification and the recovery after each step; those two numbers explain most of a price difference.
 
-The risks from using insufficiently purified peptides fall into three categories: assay interference, biological effects, and dosing errors.
+A buyer comparing quotes should compare cost per milligram of net peptide, not cost per vial. A 10 mg vial at 80% net content contains 8 mg of peptide; a 10 mg vial at 95% net content contains 9.5 mg. The difference is 19% more sequence for the same label weight, and it is invisible unless the certificate reports net content.
 
-- Deletion peptides and truncated sequences can have partial agonist or antagonist activity, producing false positives or attenuated signals in activity screens
-- Residual TFA from RP-HPLC purification is cytotoxic in cell-based assays at concentrations that overlap with typical peptide working concentrations
-- Incomplete deprotection products (e.g., residual Pbf on Arg, tBu on Ser/Thr) alter the peptide’s charge state and binding properties
-- Variable peptide content between batches — when only dry weight is reported — leads to inconsistent dosing across experiments
-- Immunogenic impurities in crude material can trigger inflammatory responses in animal studies, confounding pharmacological readouts
+## Counterions, water, and net peptide content
 
-> Deletion peptides are among the most insidious impurities because they are structurally similar to the target sequence and can co-elute on a poorly optimized HPLC method. A crude peptide used in a receptor binding screen may show apparent activity that disappears entirely when the same sequence is re-tested at >95% purity — not because the target is inactive, but because a deletion variant was driving the signal. This is a documented source of false positives in early-stage peptide drug discovery and one of the strongest arguments for confirming hits with purified material before committing resources to follow-up work.
+Lyophilized peptide is rarely pure sequence by mass. Trifluoroacetate, acetate, chloride, or sodium counterions add mass. Water adds mass. Residual solvent adds mass. The sum of these components can be 10–30% of the vial contents.
 
-Supplier QC can miss these issues when LC methods are not optimized for the specific sequence. A generic gradient run on a C18 column may not resolve a one-residue deletion from the full-length target. Requesting the chromatographic method parameters alongside the chromatogram — column, gradient, temperature, flow rate — lets you assess whether the separation was adequate. For a broader look at how impurities affect [peptide selectivity](/blog/peptide-selectivity-explained-for-researchers) in biological assays, the linked resource covers the mechanistic detail.
+| Component | Typical range | Method | Consequence |
+| --- | --- | --- | --- |
+| Water | 3–8% | Karl Fischer titration | Hydrolysis and stability risk |
+| Trifluoroacetate | 5–20% by mass for basic peptides | Ion chromatography or fluorine analysis | Acidic solution, altered solubility |
+| Acetate | 2–10% | Ion chromatography | Buffer compatibility |
+| Residual solvent | <0.5% after drying | Headspace GC | Toxicological and assay interference |
+| Net peptide | 70–90% | Amino acid analysis or nitrogen determination | Actual sequence content |
 
-## What to specify when placing a peptide order
+Net peptide content is the correction factor for weighing. If a certificate reports 85% net peptide, 10 mg of powder contains 8.5 mg of peptide. For qualitative work, the correction may not matter. For a concentration-response study, it changes every dilution.
 
-A complete order specification prevents the most common sourcing problems. Vague requests produce variable results; explicit documentation requirements give the supplier no room to substitute lower-grade material.
+The [molecular weight verification guide](/blog/peptide-molecular-weight-verification-steps) explains how to check the observed mass against the theoretical mass, including the mass shift from counterions. A peptide supplied as the TFA salt will not match the free-base mass, and that is expected, not an error.
 
-Ordering checklist:
+Counterions also change dissolution behavior. A TFA salt can drive an unbuffered solution to pH 3 or below, which affects both solubility and assay compatibility. The [solubility troubleshooting guide](/blog/peptide-solubility-troubleshooting) covers the pH and co-solvent decisions that follow.
 
-- Sequence (single-letter or three-letter code, with any modifications specified)
-- Requested purity (%, by RP-HPLC area%)
-- Scale (mg or g of peptide content, not total dry weight)
-- Counterion preference (TFA or acetate)
-- Required COA items: HPLC chromatogram, LC-MS spectrum, peptide content value, lot number, synthesis date, storage conditions
-- Lyophilized form confirmed (not in solution)
-- Vial labeling requirements: peptide content per vial, lot number, storage temperature
-- Any special requirements: endotoxin testing, sterile filtration, mass-directed fraction collection
+## How to verify the grade you paid for
 
-Higher target purity reduces overall recovery yield and increases cost, so ask the supplier for expected recovery before committing to a large-scale order. A supplier who cannot give a rough yield estimate for a given sequence and purity target is not running a well-characterized process. For new sequences, a pilot run at analytical scale before committing to preparative quantities is standard practice — it surfaces synthesis problems early and gives you a baseline chromatogram for comparison. The [high purity peptide supplier guide](/blog/how-to-choose-a-high-purity-peptide-supplier) covers the supplier qualification questions in more detail.
+Verification has three layers: documents, in-house checks, and independent testing.
 
-## Reconstitution, storage, and handling in the lab
+**Documents.** Confirm that the certificate is lot-specific, names the method and wavelength, reports the main peak purity and the largest unspecified impurity, and includes water, counterion, and net peptide content. A certificate that reports only "purity: 98%" is incomplete.
 
-Lyophilized peptides require careful reconstitution to preserve integrity and avoid aggregation artifacts.
+**In-house checks.** Weigh the vial, reconstitute to a known volume, and measure absorbance at 280 nm if the sequence contains tryptophan or tyrosine. Compare the result with the extinction coefficient calculated from the sequence. A large shortfall can mean low net content, incomplete dissolution, or adsorption to the vial.
 
-Stepwise reconstitution:
+**Independent testing.** For a first lot or a high-value order, commission RP-HPLC and LC-MS from a third-party laboratory. Ask for the chromatogram and the mass spectrum, not just a pass/fail line. The [quality standards guide](/blog/research-peptide-quality-standards-2026-guide) lists the acceptance criteria worth specifying.
 
-- Calculate the volume needed from peptide content (not dry weight) to reach your target concentration
-- For hydrophilic sequences, dissolve in sterile water or aqueous buffer; for hydrophobic sequences, add a small volume of DMSO first (typically 10%–20% of final volume), then dilute with aqueous buffer
-- Avoid prolonged DMSO contact with assay components — dilute into buffer immediately after dissolution
-- Aliquot into single-use volumes before freezing to avoid repeated freeze-thaw cycles
-- Label each aliquot with peptide content, lot number, and date of reconstitution
+## Purchase specification checklist
 
-Storage recommendations depend on planned use timeline. Lyophilized peptides are stable at -20°C for most sequences; -80°C is preferred for long-term storage of oxidation-sensitive sequences (Met, Cys, Trp-containing peptides) or when the material will not be used within six months. Keep lyophilized vials sealed and equilibrate to room temperature before opening to prevent moisture condensation on the powder.
+A purchase order for purified peptide should state the following, even if the supplier's catalog already lists a grade:
 
-**Pro Tip:** *For hydrophobic or aggregation-prone sequences, brief sonication in a water bath (30–60 seconds) after initial dissolution helps break up aggregates before dilution. A quick UV absorbance check at 280 nm (for Trp/Tyr-containing peptides) or a rapid LC-MS injection after reconstitution confirms that the material dissolved correctly and has not degraded during storage.*
+- Sequence, modifications, and expected molecular formula.
+- Counterion form (TFA, acetate, chloride, or free base).
+- Purity method, wavelength, gradient, and integration criterion.
+- Minimum main-peak purity and maximum largest unspecified impurity.
+- Water content limit by Karl Fischer.
+- Residual solvent limit if the route uses dimethylformamide or dichloromethane.
+- Net peptide content and the method used to determine it.
+- Appearance and fill weight per vial.
+- Lot-specific certificate and raw data availability.
+- Retention sample quantity and storage condition.
 
-## Supplier verification, batch traceability, and independent testing
+For a repeat order, add a batch-to-batch comparison: main peak purity within 1%, impurity profile visually comparable, and net peptide content within 5% of the qualified lot. The [high-purity bulk sourcing guide](/blog/high-purity-peptides-bulk-order-a-b2b-guide-to-direct-sourcing-in-2026) covers scale-up and sampling.
 
-A COA number is not the same as a verified COA. The document needs to contain specific analytical data — not just a purity percentage — to be useful for research documentation and batch acceptance decisions.
+The [reseller comparison](/blog/direct-sourcing-vs-peptide-resellers) is useful when the same grade is offered through several channels at different prices.
 
-Supplier verification checklist:
+## When crude is the better buy
 
-- Lot number that traces back to a specific synthesis batch (not a generic catalog number)
-- Complete COA with HPLC chromatogram (not just area%), LC-MS spectrum, and explicit peptide content value
-- Preparative method description: column chemistry, gradient, scale, fraction pooling criteria
-- Retention sample policy: does the supplier hold a portion of each batch for re-testing if questions arise?
-- Repurification strategy for side fractions: how are overlapping fractions handled?
+Crude peptide is a reasonable choice when the assay does not depend on absolute purity: initial binding screens, epitope mapping with overlapping sequences, immunization antigen preparation, or process development where the target is recovery rather than final specification. It is a poor choice for quantitative LC-MS, receptor pharmacology with a narrow window, or any study where a 5% impurity could produce the observed effect.
 
-The EMA guideline on synthetic peptide development and manufacture treats crude post-cleavage peptide as an intermediate and expects documented criteria for pooling main and side fractions, acceptance criteria for each purification step, and justification for any repurification. While this guidance targets pharmaceutical development, it provides a useful reference framework for what rigorous documentation looks like — and a practical benchmark for what to request from any research-grade supplier.
+The decision rule is simple: if the impurity could plausibly cause the result, buy purified and characterize the lot. If the impurity cannot plausibly cause the result and the readout is qualitative, crude can save money without weakening the study.
 
-Independent verification is worth building into the procurement workflow for critical work. A third-party LC-MS check on the first batch from a new supplier, or on any batch where the COA chromatogram looks unusual, costs far less than repeating a failed experiment. Peptides of China provides batch traceability, COA documentation, and independent verification as standard components of its research-grade sourcing process.
+## The Author's Take
 
-## Key Takeaways
+**Position:** The useful distinction is not crude versus purified. It is specified versus unspecified. A 95% lot with a complete impurity profile, water content, counterion data, and net peptide content is a better research material than a "98%" lot with a single HPLC percentage and no method details.
 
-Crude peptide is a post-synthesis intermediate suitable for screening; purified peptide with a verified COA is required for any quantitative, in vivo, or mechanistically interpretable experiment.
+**Reasoning:** Purity by area normalization is a ratio, and the denominator is whatever the method happens to integrate. I have seen the same lot pass as 97% on one gradient and 93% on another. Buyers who ask for the chromatogram, the mass spectrum, and the net peptide content get a material they can weigh and defend. Buyers who buy the number get a label. The price premium for 98% is real, but it is only worth paying when the specification explains what the extra two percent excludes.
 
-| Point | Details |
-| --- | --- |
-| Crude vs purified defined | Crude is a post-cleavage mixture (>50%–70% purity); purified is chromatographically isolated material with a specified purity %. |
-| Purity bands and uses | Use >70%–85% for antibody work and ELISA; require >90%–98% for receptor binding, in vivo, quantitative assays, and reference standards. |
-| COA minimum requirements | Always require an HPLC chromatogram, LC-MS spectrum, and explicit peptide content value — not just dry weight. |
-| Cost and yield tradeoff | Higher target purity reduces recovery yield and increases cost; request expected yield estimates before large-scale orders. |
-| Peptides of China sourcing | Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory. |
+**Disclosure:** Peptides of China sells research peptides. This article describes analytical interpretation and procurement specifications, not an effects claim. Products are supplied for research use only and are not for human or veterinary use.
 
-## The case for staged purity decisions
+## Sources
 
-The most common sourcing mistake is treating purity as a single fixed specification rather than a variable matched to experimental stage. Labs that order >95% material for every sequence in a discovery screen are spending three to five times more than necessary on material that will mostly be discarded. Labs that use crude peptide for quantitative assays are generating data that cannot be reproduced when the sequence advances.
-
-The practical approach is staged: crude or desalted for broad sequence coverage in primary screens, mid-range purity for confirmation and immunological work, and fully characterized high-purity material only for the sequences that earn it. This is not a cost-cutting compromise — it is how rigorous peptide research is actually structured. The verification layer matters at every stage: a lot number, a chromatogram, and a peptide content value are non-negotiable regardless of purity grade. Suppliers who cannot provide those three items for crude material are not running a traceable process, and that is a problem that compounds as the work scales.
-
-Independent batch testing before committing to large preparative orders is underused in research procurement. A single LC-MS check on a pilot sample from a new supplier surfaces synthesis failures, counterion problems, and purity discrepancies before they affect a full experiment series. The cost of that check is trivial relative to the cost of repeating six weeks of assay work.
-
-## Research-grade peptides with documented purity from Peptides of China
-
-Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory.
-
-The platform works directly with established synthesis facilities rather than through reseller intermediaries, which means batch-specific documentation is available and retention samples are held for re-testing when needed. The catalog covers research peptides across purity grades, from desalted material for screening applications to high-purity analytical-grade batches for quantitative work. Browse the [research-grade catalog](/catalog/vip) or submit a sourcing request to receive a COA sample and pilot batch quote for your specific sequence and purity requirements. Wholesale orders only; all supply is for research purposes.
-
-## Useful sources
-
-| Source | What it covers |
-| --- | --- |
-| EMA Guideline on Synthetic Peptides | Regulatory expectations for intermediates, purification documentation, and acceptance criteria under ICH Q7 |
-| Waters: Peptide Isolation and Purification | Practical RP-HPLC method development, prep scaling, and mass-directed fraction collection |
-| Biocompare: Peptide Synthesis Purity Guide | Purity band definitions, application mapping, and cost considerations for research use |
-| Cleveland Clinic: Peptides for Skin | Consumer vs. laboratory-grade “purified” terminology — a useful contrast for interpreting vendor claims |
-| Harvard Health: Peptides Overview | Background biology and safety context for lab-synthesized peptide use |
-
-## China Peptides Sourcing Perspective
-
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
-
-## Related Products
-
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+- European Medicines Agency. *ICH Q6B: Specifications — Test Procedures and Acceptance Criteria for Biotechnological/Biological Products.* https://database.ich.org/sites/default/files/Q6B%20Guideline.pdf
+- European Medicines Agency. *ICH Q3A(R2): Impurities in New Drug Substances.* https://www.ema.europa.eu/en/scientific-guidelines/ich-q3a-r2-impurities-new-drug-substances
+- European Medicines Agency. *ICH Q2(R2): Validation of Analytical Procedures.* https://www.ema.europa.eu/en/scientific-guidelines/ich-q2r2-validation-analytical-procedures
+- United States Pharmacopeia. *USP General Chapter <621> Chromatography.* https://www.usp.org/usp-nf
+- Bruckdorfer T, Marder O, Albericio F. *From production of peptides in milligram amounts for research to multi-tons quantities for drugs of the future.* Current Pharmaceutical Biotechnology 5(1): 29–43 (2004). https://doi.org/10.2174/1389201043489620
+- Rivier J, McClintock R, Galyean R, Anderson H. *Reversed-phase high-performance liquid chromatography: preparative purification of synthetic peptides.* Journal of Chromatography A 288: 303–328 (1984). https://doi.org/10.1016/S0021-9673%2801%2993709-4
+- *Towards a consensus for the analysis and exchange of TFA as a counterion in synthetic peptides and its influence on membrane permeation.* Pharmaceuticals 18(8): 1163 (2025). https://doi.org/10.3390/ph18081163
+- *Advances in therapeutic peptides separation and purification.* Separations 11(8): 233 (2024). https://doi.org/10.3390/separations11080233
