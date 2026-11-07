@@ -1,132 +1,153 @@
 ---
-title: "Hplc Vs Lc Ms Peptides"
+title: "HPLC vs LC-MS for Peptides: Purity, Identity, and COA Evidence"
 slug: "hplc-vs-lc-ms-peptides"
-description: "Learn how to read peptide COAs and insist on paired HPLC plus LC‑MS evidence before accepting a batch. Practical checks and Peptides of China's..."
-
-
-
-
-
+description: "How RP-HPLC purity and LC-MS identity differ, which method answers which question, and the specific data a peptide batch release should include."
 ---
-This guide examines hplc vs lc ms peptides from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
+**HPLC and LC-MS answer two different questions, and a peptide batch needs both answers.** Reversed-phase HPLC with UV detection at 214 or 220 nm reports how much of the integrated peak area belongs to the target peak. LC-MS reports the mass of what is in that peak, and LC-MS/MS fragmentation reports whether the amino acid sequence matches the label. A purity number without a mass confirmation is a quantity claim with no identity behind it. A mass match without a chromatogram is an identity claim with no purity behind it.
 
-Learn how to read peptide COAs and insist on paired HPLC plus LC‑MS evidence before accepting a batch. Practical checks and Peptides of China's...
+The practical consequence for buyers is simple: a certificate of analysis that lists "purity 99.2%" and nothing else has not told you what the 99.2% is. The rest of this guide covers how each method generates its number, where each one fails, and how to choose a method based on batch risk rather than habit.
 
-HPLC gives you purity, the percentage of your sample that elutes as the main peak. LC-MS gives you identity, confirmation that the molecule in that peak is actually the sequence it’s labeled as. Reversed-phase HPLC with UV detection at 220 nm produces the area% purity figure on most certificates of analysis, while LC-MS/MS fragmentation maps the amino acid sequence through b and y ions. Neither method alone gives you a defensible COA. Together, they do.
+If you are still mapping the broader documentation set, the [COA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) covers batch linkage and report structure, while this page stays on the analytical chemistry.
 
----
+## What RP-HPLC Measures, and What It Does Not
 
-> **TL;DR:**
+Reversed-phase HPLC separates peptides by hydrophobicity. A C18 stationary phase binds hydrophobic side chains; a water/acetonitrile gradient with 0.1% trifluoroacetic acid gradually reduces the mobile phase polarity and releases peptides in order of increasing hydrophobicity. Trifluoroacetic acid does two jobs: it protonates basic residues to sharpen peaks, and it pairs with cationic peptides to improve retention. The typical analytical column for a synthetic peptide is 4.6 × 250 mm, 5 µm particles, 300 Å pore size, run at 35 °C and 1.0 mL/min.
 
-> - HPLC purity reports are based on UV peak area, but alone cannot confirm peptide sequence or detect certain impurities.
+Detection usually happens at 214 nm or 220 nm. The peptide backbone amide bond absorbs strongly below 230 nm, so these wavelengths see nearly every peptide regardless of sequence. A 280 nm channel is useful when tryptophan or tyrosine is present, but it misses peptides that lack aromatic residues. This is why a COA that reports 280 nm purity for a peptide with no aromatic residues is reporting a weak signal, not a clean one.
 
-> - LC-MS/MS provides crucial sequence confirmation by analyzing fragmentation ions, catching impurities UV detection might miss.
+Purity is calculated as area percent: the target peak area divided by the total integrated area, multiplied by 100. That number is relative. It does not account for water content, counterions, residual salts, or material that never elutes from the column. A peptide can be 99% pure by area and still be 80% peptide by mass once trifluoroacetate, sodium, and moisture are counted. [Purity and concentration tests measure different things](/blog/why-purity-and-concentration-tests-are-not-enough/), and a COA should not let one stand in for the other.
 
-> - Combining HPLC and LC-MS/MS in one run offers a comprehensive validation method for both purity and identity, especially for modified peptides.
+## Reading the Chromatogram: Wavelength, Gradient, and System Suitability
 
-> - A trustworthy certificate of analysis should include detailed chromatograms, purity percentages with method details, and annotated spectral data.
+A chromatogram carries more information than the purity percentage printed above it. Four parameters tell you whether the method was capable of resolving the sample in the first place.
 
-> - Relying solely on HPLC purity without independent mass verification can lead to accepting batches with incorrect sequences or undetected modifications.
+**Wavelength and bandwidth.** A 214 nm channel with 4 nm bandwidth is standard for peptides. A 220 nm channel reduces baseline drift from trifluoroacetic acid and is common on older instruments. If the report does not state the wavelength, the purity number cannot be compared with any other lab's result.
 
----
+**Gradient slope.** A shallow gradient, such as 5–65% acetonitrile over 30 minutes, spreads hydrophobic variants apart. A steep 5–95% gradient over 10 minutes compresses them into the target peak. Fast gradients are not invalid, but they hide closely eluting impurities, and they make the purity figure look better than a slower method would.
 
-## Table of Contents
+**System suitability.** USP &lt;621&gt; expects the chromatography to meet predetermined criteria before sample results are accepted. For peptide assays, common criteria are resolution of at least 2.0 between the target and the nearest specified impurity, tailing factor no greater than 2.0, and five replicate injections with a relative standard deviation of 2.0% or less. A report that omits these values gives no evidence the run was controlled.
 
-Manufacturer-Side QC and Buyer-Arranged Verification
+**Integration parameters.** The reporting threshold matters. A method that ignores peaks below 0.05% area will report a higher purity than one that integrates down to 0.01%. Neither is wrong, but the number means different things, and the reporting threshold belongs in the method description rather than in a footnote.
 
-## HPLC vs LC-MS for Peptides: How Reversed-Phase HPLC Measures Purity
+| Parameter | Typical peptide setting | What it controls |
+|---|---|---|
+| Detection | 214 nm, 4 nm bandwidth | Backbone amide absorbance; near-universal response |
+| Column | C18, 4.6 × 250 mm, 5 µm, 300 Å | Hydrophobic selectivity and peptide access to pores |
+| Mobile phase | A: 0.1% TFA in water; B: 0.1% TFA in acetonitrile | Ion pairing and peak shape |
+| Gradient | 5–65% B over 30 min | Resolution of hydrophobic variants |
+| Flow / temperature | 1.0 mL/min / 35 °C | Retention reproducibility |
+| Injection | 10 µL of 1 mg/mL | Signal within detector linear range |
+| System suitability | Resolution ≥ 2.0; tailing ≤ 2.0; RSD ≤ 2.0% | Evidence the run was fit for purpose |
 
-Reversed-phase HPLC, or RP-HPLC, separates peptides by hydrophobicity. The sample travels through a column packed with a nonpolar stationary phase, typically C18-bonded silica, while a mobile phase gradient (usually water and acetonitrile with a trace of trifluoroacetic acid) becomes progressively less polar. Peptides that are more hydrophobic cling to the column longer and elute later. The result is a chromatogram: a series of peaks, each representing a chemically distinct species in the sample.
+## Where UV Purity Numbers Break Down
 
-Purity gets calculated from peak area, not peak height. If your target peptide’s peak accounts for 98.5% of the total integrated area under UV detection at [220 nm](https://pmc.ncbi.nlm.nih.gov/articles/PMC7119934/), the COA reports 98.5% purity. This wavelength detects the peptide backbone amide bond directly, which is why it has become the default for peptide UV work rather than the 280 nm used for proteins with aromatic side chains.
+The main weakness of UV purity is that it reports absorbance, not structure. Several classes of impurity absorb at the same wavelength as the target and can elute close enough to be integrated as one peak.
 
-RP-HPLC does more than QC. It’s the workhorse for [preparative purification](https://pubmed.ncbi.nlm.nih.gov/18604941/), where scaled-up columns process sample loads reaching hundreds of milligrams. It also drives impurity profiling and real-time stability studies, tracking degradation products as a lyophilized peptide ages or as a reconstituted vial sits at room temperature.
+- **Deletion sequences.** A peptide missing one residue from a 20-mer has a mass difference of roughly 57 to 186 Da, depending on the residue, but often a similar hydrophobicity. It can sit under the target peak.
+- **Deamidation.** Asparagine to aspartate conversion adds 0.984 Da and shifts retention slightly. For a large peptide, the shift may be a few seconds.
+- **Oxidation.** Methionine oxidation adds 15.995 Da and usually shifts retention earlier, but not always enough to resolve.
+- **Truncation and capping.** Acetylated or formylated failure sequences can be more hydrophobic than the target and elute later, sometimes outside the integration window.
+- **Counterion and salt effects.** Trifluoroacetate content changes peak shape and retention without changing peptide purity.
 
-The technique has real blind spots, though:
+Area percent also assumes that every species has the same extinction coefficient at the detection wavelength. They do not. A peptide with three tryptophans absorbs far more at 280 nm than a truncated variant with one, so a 280 nm method can under-report the impurity. At 214 nm the variation is smaller but still present, because the number of amide bonds differs between the target and a deletion sequence.
 
-- Co-eluting impurities with similar hydrophobicity can hide inside what looks like a single clean peak.
-- Retention time shifts with column age, temperature, and mobile phase composition, making cross-lab comparisons unreliable without matched methods.
-- UV absorbance cannot distinguish your target peptide from a truncated or deamidated variant that happens to co-elute at nearly the same time.
-- HPLC has no mechanism to confirm amino acid sequence. It reports quantity, not identity.
+The result is a number that is useful for batch-to-batch comparison within one validated method, and unreliable for comparing across suppliers, columns, or gradients. This is the gap that mass spectrometry fills.
 
-That’s the gap LC-MS exists to close.
+## What LC-MS Adds: Mass, Charge State, and Sequence
 
-## HPLC vs LC-MS for Peptide Identification: Reading Mass and Sequence
+LC-MS attaches a mass spectrometer to the same separation. As the peptide elutes, electrospray ionization produces multiply charged ions, usually +2 to +4 for a 1–4 kDa peptide. The instrument records mass-to-charge ratios, and deconvolution software converts the charge envelope into a neutral molecular mass.
 
-LC-MS couples the same chromatographic separation to a mass spectrometer instead of, or in addition to, a UV detector. As each peak elutes, the mass spectrometer measures its mass-to-charge ratio (m/z), which gets converted to a molecular weight. If your peptide’s theoretical mass is 1,047.2 Da and the instrument reads 1,047.3 Da, that’s a mass match, strong evidence the right molecule is present.
+A mass match is necessary but not sufficient. If the theoretical mass is 1,411.63 Da and the measured value is 1,411.65 Da, the difference is 14 ppm, which is close enough to warrant a closer look at calibration and peak shape. If the measured value is 1,411.63 Da within 2 ppm, the identity is strongly supported. But mass alone cannot distinguish leucine from isoleucine, and it cannot tell a linear peptide from a cyclized isomer with the same formula.
 
-Mass alone isn’t sequence confirmation. That’s what LC-MS/MS (tandem mass spectrometry) adds. The instrument isolates a precursor ion, fragments it along the peptide backbone, and records the resulting pieces. Fragmentation produces two families of ions, b-ions (containing the N-terminus) and y-ions (containing the C-terminus). Mapping the observed b/y ion ladder against the expected sequence confirms residue-by-residue identity, not just overall mass. This is also how LC-MS/MS catches co-eluting impurities that HPLC’s UV trace missed entirely: a second species with nearly identical retention time but a different mass shows up as a distinct m/z signal even when the chromatogram shows one peak.
+That is where MS/MS enters. The instrument selects a precursor ion, fragments it along the amide backbone, and records the product ions. Fragments that retain the N-terminus are b ions; fragments that retain the C-terminus are y ions. A complete b/y ladder read against the expected sequence confirms residue order rather than just composition. For a 10–30 residue peptide, coverage of at least 90% of the backbone by assigned b/y ions is a reasonable target for a release-grade report.
 
-Labs run this in different acquisition modes. Data-dependent acquisition (DDA) selects the most intense ions for fragmentation in real time; data-independent acquisition (DIA) fragments broader mass windows regardless of intensity, capturing more of the sample at the cost of more complex data. Search engines then match fragment spectra against theoretical sequences, and postprocessing tools have gotten considerably better at this. MSBooster, integrated with the FragPipe pipeline, uses deep learning to predict retention time, ion mobility, and expected spectral patterns, then rescores peptide-spectrum matches against those predictions. That measurably raises identification confidence, especially for weak or ambiguous spectra that a search engine alone might reject or misassign.
+MS/MS also catches what UV missed. A co-eluting impurity with a different mass appears as a second precursor in the extracted ion chromatogram, even when the UV trace shows one peak. That is the practical difference between "the peak is clean" and "the peak contains one molecule."
 
-**Pro Tip:** *Ask whether a lab’s LC-MS/MS report includes an actual annotated fragmentation spectrum, not just a summary line saying “mass confirmed.” A single MS1 mass match can occur by coincidence with isobaric contaminants; a full b/y ion map cannot.*
+## Judging Mass Accuracy and Resolution
 
-LC-MS has its own tradeoffs. Ionization efficiency varies by peptide sequence, so MS signal intensity doesn’t translate cleanly into concentration the way HPLC peak area does, and instrument time plus operator expertise cost more per sample.
+Mass accuracy is usually reported in parts per million: the measured mass minus the theoretical mass, divided by the theoretical mass, multiplied by one million. The acceptance threshold depends on the instrument and the question.
 
-## HPLC or LC-MS: Matching the Method to the Research Question
+| Instrument class | Typical mass accuracy | Resolution | Appropriate use |
+|---|---|---|---|
+| Single quadrupole | ±0.1 Da (unit mass) | Low | Confirming nominal mass only |
+| Triple quadrupole (MRM) | ±0.1 Da at unit resolution | Low | Quantitation of a known peptide |
+| TOF | ±5 ppm with external calibration | 10,000–30,000 | Identity confirmation and impurity mass |
+| Orbitrap | ±2–5 ppm external; <2 ppm with internal lock mass | 60,000–120,000 | Sequence variants, modifications, deconvolution |
 
-The mapping is straightforward once you separate the two questions. HPLC answers “how much of this is the right thing?” LC-MS answers “is this actually the right thing?” Most procurement decisions need both answers, not one.
+Three details change how a mass result should be read. First, calibration: an external calibration at 5 ppm is weaker evidence than an internal lock mass at 1 ppm. Second, adducts: sodium adducts appear at +21.98 Da and can be mistaken for a modification if the report does not annotate them. Third, TFA: trifluoroacetic acid suppresses electrospray signal, so a method transferred directly from UV to MS often needs formic acid or a lower TFA concentration.
 
-HPLC alone can be acceptable for well-characterized, frequently reordered peptides from a supplier with a long batch history and no reported sequence issues, where the research use is low-stakes and reproducibility risk is already understood. It is not acceptable as the sole evidence for a new peptide, a modified or unusual sequence, or any batch where identity has never been independently confirmed.
+Resolution matters for large peptides. At 60,000 resolving power, the isotope envelope of a 3 kDa peptide is partly resolved; at 120,000 it is cleanly separated. A report that claims "mass confirmed" without stating resolution, calibration mode, and adduct handling is giving a conclusion without the evidence behind it. [Molecular weight verification](/blog/peptide-molecular-weight-verification-steps/) walks through the calculation and the common failure modes.
 
-LC-MS or LC-MS/MS becomes essential when:
+## HPLC vs LC-MS: Side-by-Side
 
-- The peptide is synthetic with post-translational modifications, cyclization, or non-standard residues that are easy to get subtly wrong during synthesis.
-- A prior batch from the same or a different supplier showed unexplained results in downstream research use.
-- The COA reports a rounded or suspiciously clean purity number with no accompanying method detail.
-- Reproducibility across labs or over time matters more than a fast turnaround.
+The two methods are complementary, not competing. The table below maps what each one contributes to a batch record.
 
-Operationally, HPLC-only workflows run faster and cost less: shorter method development, simpler sample prep, and interpretation any trained technician can handle. Full LC-MS/MS work demands more expensive instrumentation, more specialized staff, and heavier data interpretation, particularly when spectra need manual review. The efficient middle path is a single LC-MS run that captures both a UV or total-ion chromatogram for quantification and mass data for identity, peak by peak, in one injection. That combined approach is what a rigorous COA should be built on, not two disconnected reports run on different days by different methods.
+| Question | RP-HPLC-UV | LC-MS (MS1) | LC-MS/MS |
+|---|---|---|---|
+| How much target is present? | Yes, as area% or assay | Semiquantitative | No |
+| Is the molecular mass correct? | No | Yes | Yes |
+| Is the sequence correct? | No | Partial | Yes, by b/y ions |
+| Can it detect co-eluting impurities? | Only if retained differently | Yes, by mass | Yes, by mass and fragments |
+| Does it detect counterions or water? | No | No | No |
+| Typical sample load | 10–100 µg | 1–10 µg | 1–10 µg |
+| Typical run time | 20–40 min | 15–30 min | 30–60 min |
+| Destructive? | Yes | Yes | Yes |
+| Best-fit role | Quantitation and release | Identity confirmation | Sequence and variant mapping |
 
-## What a Trustworthy COA Should Actually Contain
+Neither column answers the counterion question. Trifluoroacetate content, sodium content, and water content require ion chromatography, inductively coupled plasma, or Karl Fischer titration. A COA that reports HPLC and MS but no counterion data has left a known gap, particularly for peptides supplied as acetate or TFA salts.
 
-Before accepting any batch, request the following from a supplier or in-house lab, and treat vague answers as a warning sign rather than a formality:
+## Method Selection by Batch Risk
 
-1. **A full RP-HPLC chromatogram with stated method**, including column type (commonly C18), gradient profile, flow rate, and detection wavelength, ideally [220 nm](https://www.chromatographyonline.com/view/basics-hplc-peptide-analysis).
-2. **An area% purity figure tied to that chromatogram**, not a bare number with no trace attached.
-3. **Measured mass data**, including the instrument type and resolution, so you can judge how tight a “mass match” actually is.
-4. **An MS/MS summary or annotated spectrum** showing b/y ion coverage across the sequence, not just a single confirmed mass.
-5. **Digestion and sample prep notes** when the peptide required enzymatic cleavage for mapping, since chromatography conditions and digestion protocol both affect how a chromatogram should be read.
+Running full LC-MS/MS on every vial is expensive and slow. Running HPLC alone on a new supplier's first batch is cheap and risky. The useful rule is to match method intensity to the consequence of being wrong.
 
-Reject or push back on any COA that reports HPLC purity with zero method detail, an unexplained mass shift from theoretical, or a purity number that never changes batch to batch, which usually signals a template report rather than a fresh run. An HPLC-only COA is one of the more common shortcuts in the peptide resale market, because purity testing is cheaper and faster to fake convincingly than mass data.
+| Scenario | Minimum method | Recommended addition | Reason |
+|---|---|---|---|
+| Reorder from an established supplier, same lot documentation | HPLC-UV with system suitability | MS1 identity check | Confirms nothing changed between batches |
+| First order from a new supplier | HPLC-UV | MS1 plus MS/MS | No batch history to rely on |
+| Modified, cyclic, or non-standard peptide | HPLC-UV | MS/MS with modification mapping | Mass shift alone cannot localize a modification |
+| Batch intended for a long study | HPLC-UV | MS1, MS/MS, and stability timepoint | Reproducibility across months |
+| Disputed or anomalous result | HPLC-UV | MS/MS plus orthogonal method (NMR or CE) | Resolves ambiguity that one method cannot |
+| Formulation or salt change | HPLC-UV | Ion chromatography plus MS1 | Counterion change affects mass balance |
 
-**Pro Tip:** *If a supplier can’t produce raw chromatogram files or spectra on request, and only offers a finished PDF summary, ask why. A lab running real per-batch testing usually has no problem sharing the underlying trace.*
+The same logic applies to the release specification. A 98.0% area threshold at 214 nm is a reasonable internal criterion for a research-grade peptide, but it means little if the method's reporting threshold is 0.5% or the gradient is too steep to resolve the main impurity. The specification and the method have to be read together.
 
-The decision logic is simple: quantitative HPLC tells you the batch is clean enough to use; qualitative LC-MS tells you it’s the molecule you think it is. Accept a batch only when both boxes are checked, and treat a supplier’s willingness to supply raw data, not just conclusions, as part of the evaluation.
+## Batch Release Checks and COA Requests
 
-## Manufacturer-Side QC and Buyer-Arranged Verification
+A batch record built on both methods should let an independent reviewer reconstruct what was measured. The checklist below is the minimum set worth requesting; [peptide characterization reporting](/blog/peptide-characterization-reporting-checklist/) expands each item into a full data package.
 
-HPLC and mass spectrometry answer different analytical questions: chromatographic homogeneity and molecular identity. Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory. Buyers who require paired independent results may arrange third-party testing after receipt.
+| Check | Target or expectation | Evidence to request |
+|---|---|---|
+| Identity by MS | Within 5 ppm of theoretical mass | Deconvoluted spectrum with charge states annotated |
+| Sequence by MS/MS | ≥ 90% backbone coverage | Annotated b/y ion map |
+| Purity by HPLC | ≥ 98.0% area at 214 nm | Full chromatogram with gradient and wavelength |
+| System suitability | Resolution ≥ 2.0; tailing ≤ 2.0; RSD ≤ 2.0% | Suitability table from the run |
+| Impurity profile | Individual peaks above 0.05% reported | Peak table with retention times |
+| Counterion | Stated identity and content | Ion chromatography or titration report |
+| Water content | Stated by Karl Fischer | KF result and method |
+| Endotoxin | Method, limit, and numeric result | LAL or rFC report with spike recovery |
+| Batch linkage | Same lot on vial, COA, and invoice | Lot number cross-reference |
 
-Verification in practice draws on:
+Two checks are frequently skipped. The first is system suitability: without it, the chromatogram could have been produced on a failing column. The second is spike recovery for endotoxin, which is covered in the [endotoxin testing guide](/blog/endotoxin-testing-peptide-manufacturing/). A COA that passes identity and purity but fails either of these is incomplete rather than wrong.
 
-- Molecular-weight verification against theoretical mass when independently arranged by the buyer
-- Method comparisons across HPLC, LC-MS, and NMR so procurement teams understand what each technique can and can’t tell them.
-- Documented COA-reading guidance built for procurement teams evaluating unfamiliar supplier reports.
+For a broader view of how these individual tests fit into a supplier qualification, the [laboratory verification guide](/blog/peptide-testing-and-analysis-a-professional-guide-to-laboratory-verification/) covers sampling, chain of custody, and third-party testing. The [quality testing page](/peptide-quality-testing/) describes the documentation set we work from.
 
-Batch traceability and lyophilization consistency matter just as much as the analytical report itself, since a technically correct COA tied to a poorly controlled vialing process still leaves reproducibility exposed.
+## The Author's Take
 
-## Why Identity Confirmation Changes How You Source
+**Position.** A peptide COA should be rejected as incomplete if it reports HPLC purity without a mass confirmation, or mass without a chromatogram. The two data types are cheap enough at batch scale that a supplier choosing to publish only one is making a documentation decision, not an analytical one.
 
-Supplier onboarding fails most often on identity, not purity. A resale channel can produce a clean HPLC trace fairly easily; matching sequence identity across every batch, over time, is a harder operational commitment. That’s the real test of supply chain stability, not the purity number on page one.
+**Reasoning.** Purity by UV area is a relative measurement with known blind spots: co-eluting deletion sequences, deamidation variants, and counterions all sit outside what the number can see. Mass spectrometry closes the identity gap but does not quantify. Buyers who treat either result as a complete release test end up comparing numbers that were never measuring the same thing. The cost difference between an HPLC-only panel and an HPLC plus MS1 panel is small relative to the cost of repeating a study with a misidentified batch.
 
-Insist on paired HPLC and mass spec evidence before you accept a batch into any research workflow.
-
-> *— Sam Levin*
+**Disclosure.** Peptides of China sells research peptides. This article describes analytical methods and sourcing judgment; it is not an effects claim, a dosing guide, or medical advice. Products referenced on this site are supplied for laboratory research use only. Analytical documentation varies by product and batch, and buyers who need independent verification should arrange third-party testing after receipt.
 
 ## Sources
 
-- [A practical guide to HPLC methods for peptides (PMC7119934)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7119934/)
-- [HPLC analysis and purification of peptides - PubMed (18604941)](https://pubmed.ncbi.nlm.nih.gov/18604941/)
-- [The basics of HPLC peptide analysis (Chromatography Online)](https://www.chromatographyonline.com/view/basics-hplc-peptide-analysis)
-
-## China Peptides Sourcing Perspective
-
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
-
-## Related Products
-
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+- USP &lt;621&gt; Chromatography. United States Pharmacopeia. [usp.org/usp-nf](https://www.usp.org/usp-nf)
+- USP &lt;1225&gt; Validation of Compendial Procedures. United States Pharmacopeia. [usp.org/usp-nf](https://www.usp.org/usp-nf)
+- ICH Q2(R2) Validation of Analytical Procedures (2023). [database.ich.org](https://database.ich.org/sites/default/files/ICH_Q2%28R2%29_Guideline_2023_1130.pdf)
+- ICH Q6B Specifications: Test Procedures and Acceptance Criteria for Biotechnological/Biological Products. [database.ich.org](https://database.ich.org/sites/default/files/Q6B%20Guideline.pdf)
+- FDA Guidance for Industry: Bioanalytical Method Validation (2018). [fda.gov](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/bioanalytical-method-validation-guidance-industry)
+- FDA Guidance for Industry: Q2B Validation of Analytical Procedures: Methodology (1996). [fda.gov](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/q2b-validation-analytical-procedures-methodology)
+- Rivier, J. et al. Reversed-phase high-performance liquid chromatography: preparative purification of synthetic peptides. *Journal of Chromatography A* (1984). [doi:10.1016/S0021-9673(01)93709-4](https://doi.org/10.1016/S0021-9673%2801%2993709-4)
+- Aguilar, M.-I. Reversed-Phase High-Performance Liquid Chromatography. In *HPLC of Peptides and Proteins: Methods and Protocols* (2004). [doi:10.1385/1-59259-742-4:9](https://doi.org/10.1385/1-59259-742-4:9)
+- Sleno, L. Applications of high-resolution mass spectrometry in drug discovery and development. In *Applications of High-Resolution Mass Spectrometry in Drug Discovery and Development* (Future Science, 2014). [doi:10.4155/ebo.13.515](https://doi.org/10.4155/ebo.13.515)
+- Ma, B. Peptide De Novo Sequencing with MS/MS. In *Encyclopedia of Algorithms* (2016). [doi:10.1007/978-1-4939-2864-4_286](https://doi.org/10.1007/978-1-4939-2864-4_286)
