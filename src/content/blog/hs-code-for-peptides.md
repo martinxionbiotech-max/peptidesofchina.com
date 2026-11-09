@@ -1,157 +1,149 @@
 ---
-title: "Hs Code For Peptides"
+title: "HS Code for Peptides: How Customs Classifies Imports"
 slug: "hs-code-for-peptides"
-description: "How CBP assigns HS codes to U.S. peptide imports: the four HTS headings used and the five documents importers must have to survive audit."
-
-
-
-
-
+description: "Why peptides have no single HS code: the Chapter 29 and 3822 headings customs uses, the GRI sequence, entry documents, and binding rulings."
 ---
-This guide examines hs code for peptides from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
+There is no single HS code for peptides. Customs classifies a peptide shipment by its chemical structure, its preparation state, and the terms of the headings and chapter notes, not by the word "peptide" on the invoice. Two vials of the same sequence can land in different subheadings if one is a bare lyophilised powder and the other is a formulated laboratory reagent.
 
-## U. S. Peptide HS Codes: 4 HTS Headings and 5 Documents CBP Requires
+This guide explains how the classification decision is actually made, which headings appear most often, what documents support an entry, and how to obtain a binding ruling before a shipment is committed. It is written for importers and procurement teams, not as legal advice. Classification is fact-specific, and a customs broker or trade counsel should review any high-value entry. The [customs clearance guide](/blog/research-peptide-customs-clearance-a-professional-b2b-sourcing-guide-2026/) covers the shipment-level workflow that sits around the tariff decision.
 
-There is no single HS code for peptides. Depending on chemical structure and how the product is prepared, U. S. Customs and Border Protection places peptide shipments under Chapter 29 headings like 2937 (polypeptide hormones), 2930, 2933, or 2934, or under 3822 for prepared laboratory reagents. CBP classifies based on molecular structure, preparation state, and the General Rules of Interpretation (GRIs), not on marketing terms like “research use only.” When in doubt, importers should request a binding ruling before shipping at volume.
+## There Is No Single HS Code for Peptides
 
----
+The Harmonized System is a six-digit nomenclature maintained by the World Customs Organization. Countries add national digits on top: the United States uses a ten-digit Harmonized Tariff Schedule, where the first six digits are international and the last four are statistical suffixes that determine the duty rate.
 
-> **TL;DR:**
+A peptide is an organic compound built from amino acids. That fact points toward Chapter 29, which covers organic chemicals. But Chapter 29 is not a single basket. It is divided by functional group and structure: sulfur-containing compounds in 2930, nitrogen heterocycles in 2933, other heterocycles in 2934, and hormones in 2937. A peptide with no better fit may fall to 2942, the residual heading for other organic compounds. A prepared laboratory reagent can move to 3822.
 
-> - Peptides are classified based on their chemical structure and preparation, not on marketing terms like “research use only,” and require detailed documentation for proper classification.
+The classification question is therefore not "what is a peptide?" It is "what is this specific molecule, how is it prepared, and which heading's terms and notes describe it?" The answer changes with the sequence, the salt, the formulation, and the packaging.
 
-> - Customs usually determines the correct HTS heading by analyzing molecular formulas, synthesis methods, and purity data, with the most common categories being Chapter 29 subheadings and 3822.
+## The Six Headings That Cover Most Shipments
 
-> - A batch-specific certificate of analysis, detailed structural formula, and synthesis route are essential for smooth import clearance and defending classification in audits.
+The table below is a starting point for a classification file, not a lookup table. The heading text and the section and chapter notes control.
 
-> - Requesting a binding ruling is advisable for large-volume imports or ambiguous structures, with rulings binding at all ports and valid for ongoing shipments of the same product.
+| Heading | Scope in plain terms | When it tends to apply |
+| --- | --- | --- |
+| 2937 | Hormones and their derivatives, including chain-modified polypeptides used primarily as hormones | The peptide is a hormone analogue and its principal use is hormonal |
+| 2930 | Organo-sulphur compounds | The structure is defined by sulfur functionality, such as a disulfide bridge or thioether |
+| 2933 | Heterocyclic compounds with nitrogen heteroatoms only | The molecule contains a nitrogen heterocycle that determines classification |
+| 2934 | Other heterocyclic compounds | A heterocycle other than a nitrogen-only ring defines the structure |
+| 2942 | Other organic compounds | The peptide fits Chapter 29 but no preceding subheading |
+| 3822 | Prepared diagnostic or laboratory reagents; certified reference materials | The product is a formulated kit or reagent, not a bare bulk chemical |
 
-> - Relying solely on general HTS codes like 2937 without supporting chemistry and documentation often leads to reclassification delays and customs issues.
+Heading 2937 is the one buyers overuse. Its text is not "all peptides." It covers hormones and structurally related compounds used primarily as hormones. A research peptide sold as a bare chemical may fail the principal-use test even if it influences a hormonal pathway. The chapter notes and the explanatory notes to the heading, not the product's marketing category, decide the question.
 
----
+Heading 3822 is the other common misapplication. A lyophilised peptide in a vial is still a chemical. The same peptide packaged with a buffer, diluent, and instructions as a ready-to-use laboratory reagent may be a prepared reagent. Packaging and formulation change the classification analysis, which is why the invoice description should state the presentation, not just the compound name.
 
-## Table of Contents
+## How GRI 1 Decides Most Peptide Cases
 
-- Which HTS Headings Apply to Peptide Imports
-- How U. S. Customs Decides Classification
-- Precedents Worth Citing in Your Classification File
-- Building an Importer Checklist That Survives Audit
-- Requesting a CBP Binding Ruling
-- What Supply-Chain Documentation Actually Supports a Classification Claim
-- Where to Verify HTS Codes and Rulings Directly
-- Why the “One Correct Code” Question Is the Wrong Question
-- Sources
+The General Rules for the Interpretation of the Harmonized System are applied in sequence. GRI 1 says classification is determined by the terms of the headings and any relative section or chapter notes. GRI 2 through 6 apply only when GRI 1 does not resolve the question.
 
-## Which HTS Headings Apply to Peptide Imports
+For peptides, GRI 1 usually does the work once the structure is known. The importer does not start with the tariff rate or with a comparable shipment. The importer starts with the molecule: sequence, molecular formula, molecular weight, salt form, and preparation state. Then the heading text is read against those facts.
 
-Peptide classification starts with a structural question, not a functional one: what is the molecule actually made of, and how is it packaged for entry? CBP does not accept “peptide” as a self-defining commercial term. Four headings come up repeatedly in practice.
+GRI 3 matters when a product could fit two headings. It introduces the most specific description, then essential character, then the heading that occurs last in numerical order. A peptide supplied as part of a kit can raise this question. So can a product that combines a peptide with a buffer or a second active ingredient. The analysis should be documented, because a later auditor will ask why one heading was preferred over another.
 
-**Heading 2937** covers hormones and their derivatives, including polypeptide hormones. It applies only when the molecule has hormone-like structure *and* the principal use is hormonal. A growth-hormone-releasing peptide analog might qualify; a generic signaling peptide sold for lab research often does not, because it fails the “principal use” test built into the heading’s explanatory notes.
+GRI 6 applies the same logic at the subheading level. The six-digit heading is only the first decision; the national suffix determines the duty rate and may carry additional statistical requirements. A classification file that stops at 2937 is incomplete.
 
-**Chapter 29 organic subheadings** (2930 for sulfur-containing compounds, 2933 for nitrogen heterocycles, 2934 for other heterocyclic compounds) apply when specific chemical features, aromatic rings, sulfur bridges, or nitrogen heterocycles, determine the classification instead. This is where most bulk research peptides actually land.
+## Why "Research Use Only" Does Not Classify Anything
 
-- **2942** functions as a basket category for organic compounds that don’t fit elsewhere in Chapter 29.
-- **3822** applies to prepared diagnostic or laboratory reagents, meaning finished kits or formulated products rather than raw active pharmaceutical ingredient (API) powder.
+"Research use only" is a label about intended use and regulatory status. It is not a tariff term. Customs officials classify goods by their objective characteristics and the heading text, and a marketing phrase does not override either.
 
-A lyophilized peptide vial sold as a bare compound tends to sit in Chapter 29. The same peptide packaged with buffer, diluent, and instructions as a testing kit often shifts to 3822.
+That does not make the intended use irrelevant. Principal use can be part of a heading's text, as it is in 2937. But the importer must support the claimed use with evidence about the product and its commercial context, not with a disclaimer printed on the vial.
 
-## How U. S. Customs Decides Classification
+The practical consequence is that an invoice reading "peptide, 10 mg vial, research use only" gives a customs officer almost nothing to classify. A better description reads: "Synthetic peptide, 39 amino acids, free-base molecular formula C225H348N48O68, molecular weight 4813.45 Da, lyophilised powder, 10 mg per vial, for laboratory research." That description points to a chemical identity and a presentation. The officer can then apply the heading text. The site's [research-use disclaimer](/research-use-disclaimer/) sets out the boundary that the label is meant to mark.
 
-CBP applies the [General Rules of Interpretation](https://www.census.gov/foreign-trade/schedules/b/2021/c29.html) in strict sequence: GRI 1 looks at the heading text and chapter/section notes first; GRI 2 and 3 only come into play when GRI 1 doesn’t resolve the question, covering incomplete goods and mixtures. For peptides, this almost always means GRI 1 settles the case once the actual chemical structure is known.
+The same principle applies to "pharmaceutical grade," "GMP," or "cosmetic grade." These are quality or market descriptors. They do not replace a structural description, and they can create a compliance problem if they imply a regulatory status the product does not have.
 
-CBP typically expects to see:
+## The Document Set Behind a Defensible Entry
 
-1. A structural formula or molecular diagram identifying the peptide sequence.
-2. A Certificate of Analysis (COA) confirming purity and identity.
-3. Analytical data, usually mass spectrometry (MS) or HPLC results, supporting the stated structure.
-4. A description of the synthesis route (solid-phase vs. liquid-phase synthesis).
+A classification is only as good as the records behind it. The following documents should be in the entry file, even if they are not all transmitted with the entry.
 
-Rulings like [NY B81132](https://www.customsmobile.com/rulings/docview?doc_id=NY%20b81132&highlight=2933.29.35%2A) confirm that labeling something “for research use only” carries no weight in classification. Composition and documentation do the work.
+| Document | What it should show | Why it matters |
+| --- | --- | --- |
+| Commercial invoice | Chemical name, sequence or formula, salt form, presentation, quantity, value | Starts the classification analysis |
+| Packing list | Vial count, fill mass, gross and net weight | Reconciles the physical shipment |
+| Certificate of analysis | Lot number, identity result, purity method and result | Supports the chemical description |
+| Structural formula or sequence | Amino acid sequence and modifications | Distinguishes the molecule from analogues |
+| Synthesis route summary | Solid-phase or liquid-phase, purification step | Explains impurities and preparation state |
+| Entry summary, CBP Form 7501 | HTSUS classification, value, duty | The formal declaration being audited |
+| Prior ruling, if any | Ruling number and product description | Binds future entries of identical goods |
 
-**Pro Tip:** *Never submit a commercial invoice that just says “peptide, 10mg vial.” Add a one-line chemical descriptor (sequence or CAS number) and reference the COA directly on the paperwork. This single habit prevents most of the reclassification delays importers run into at the port.*
+The importer of record has a duty of reasonable care under 19 U.S.C. § 1484. That standard is not satisfied by forwarding a supplier's invoice without review. It requires the importer to exercise reasonable care in classifying and valuing the goods, which in practice means keeping the structural and analytical records that support the declared heading.
 
-## Precedents Worth Citing in Your Classification File
+Recordkeeping also has a clock. CBP's recordkeeping rules in 19 CFR Part 163 generally require entry records to be retained for five years from the date of entry. A classification file that exists only in a broker's portal, or only for the current quarter, is not a five-year record.
 
-Peptide classification is inconsistent across shipments, and that inconsistency is documented, not anecdotal. CBP ruling W563169 classified individual polypeptides across three different Chapter 29 subheadings (2930, 2933, and 2934) based purely on chemical structure, despite all of them being marketed under the generic “polypeptide” label. NY B81132 went further, placing synthetic peptides into narrow subheadings like 2930.90.2900 and 2930.90.9050 depending on sulfur content and side-chain composition.
+The analytical records that support the chemical description are the same ones a buyer should already hold for quality purposes. The [COA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) explains the fields, and the [documentation package guide](/blog/peptide-documentation-package/) explains how batch records, certificates, and raw data fit together.
 
-> Trade-data records compiled by [Datamyne](https://www.datamyne.com/hts/38/382200) show peptide-related imports entering the U. S. under 2937, multiple Chapter 29 subheadings, and 3822 simultaneously, with no single heading dominating the commodity class.
+## How to Request a Binding Ruling
 
-That spread matters for compliance strategy. If your product line includes several peptide variants, assume each one may require its own classification determination rather than applying one heading across the catalog. The [WCO’s customs laboratory guidance](https://www.wcoomd.org/-/media/wco/public/global/pdf/topics/key-issues/customs-laboratories/materials-for-the-classification-of-chemical-products/classification-of-polypeptides.pdf?la=en) is built around exactly this problem, mapping amino acid composition to HS placement so customs chemists can make structure-based calls rather than guessing from a product name.
+A binding ruling is the cleanest way to settle a classification question before a high-value shipment. In the United States, the procedure is set out in 19 CFR Part 177, and rulings are published in the Customs Rulings Online Search System.
 
-## Building an Importer Checklist That Survives Audit
+A request should include:
 
-Documentation quality determines whether a shipment clears smoothly or gets flagged for a laboratory review. The checklist below reflects what actually shows up in CBP rulings and audit requests, not a generic compliance template.
+- The name and address of the importer or requester.
+- A complete description of the goods, including the sequence, molecular formula, and molecular weight.
+- The salt form, presentation, and packaging.
+- The proposed HTSUS classification and the reasoning behind it.
+- Supporting analytical data, such as a certificate of analysis or mass spectrum.
+- A statement of the facts relied on, including the intended use if principal use is relevant.
 
-1. **Structural identification.** Attach the amino acid sequence or structural formula, not just a trade name.
-2. **Certificate of Analysis.** Include batch-specific COA data covering purity percentage and identity confirmation, tied to a batch or lot number.
-3. **Analytical backup.** Keep MS or HPLC reports on file even if not submitted with every entry, since CBP can request them during a post-entry audit.
-4. **Synthesis method disclosure.** Note whether the peptide was produced via solid-phase synthesis, since this affects impurity profiles that show up in structural review.
-5. **Consistent invoice language.** Use the same chemical descriptor across the invoice, packing list, and COA. Mismatched terminology between documents is one of the more common triggers for a customs hold.
+Submit the request through the CROSS portal and keep the acknowledgment. The regulation sets out a procedure, not a guaranteed turnaround; plan the filing weeks before the shipment, not days. A ruling issued for one product is binding for that product as described, not for every peptide in a catalogue. If the sequence, salt, or presentation changes, the ruling may not cover the new goods.
 
-Whether you present a peptide as a raw API or as a finished lab reagent changes which heading applies. A bare lyophilized powder generally points toward Chapter 29. Add buffer, diluent, or packaging designed for direct lab use, and the classification conversation shifts toward 3822. Peptides of China’s guidance on [why documentation matters in peptide shipping](/blog/why-legitimate-documentation-matters-in-peptide-shipping) covers sample invoice language importers can adapt directly.
+A binding ruling is also useful evidence in a later protest. If a port officer proposes a different classification, the ruling number and the product description give the importer a documented position. That is worth more than a broker's informal opinion, which is not binding on CBP.
 
-**Pro Tip:** *If your supplier can’t produce a batch-specific COA on request, before shipment, treat that as a documentation gap, not a formality. CBP audits look for batch traceability, and a generic “typical purity” sheet doesn’t hold up the same way a lot-specific COA does.*
+The [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) is relevant here because a ruling describes a product made at a specific site. If the supplier changes the synthesis site, the product description in the ruling may no longer match the goods.
 
-## Requesting a CBP Binding Ruling
+## Build a Classification Log
 
-A binding ruling makes sense when you’re importing a new peptide variant at commercial volume, when a broker and an internal compliance team disagree on the correct heading, or when the chemical structure sits ambiguously between 2937 and a Chapter 29 subheading. It is not worth the process for a one-time small sample shipment.
+A classification log turns a one-time decision into a repeatable control. For each SKU, record:
 
-To request one:
+- Product name and internal SKU.
+- Sequence, molecular formula, and molecular weight.
+- Salt form and presentation.
+- The HTSUS heading and statistical suffix claimed.
+- The GRI or chapter note relied on.
+- The supporting documents and their locations.
+- The ruling number, if any.
+- The date of the last review and the reviewer.
 
-- Submit through CBP’s Customs Rulings Online Search System (CROSS) portal with a complete structural description.
-- Include the amino acid sequence, molecular weight, COA, and intended commercial use.
-- Specify the proposed HTS subheading and your reasoning, referencing comparable rulings like W563169 if applicable.
-- Expect a response window of roughly 30 to 90 days depending on complexity and CBP’s current caseload.
+Review the log when the product changes, when the HTSUS is revised, or when a shipment is flagged. The HTSUS is updated periodically, and duty rates can change through legislation or presidential proclamation. A code that was correct at the last entry is not automatically correct at the next one.
 
-A favorable ruling is binding for future entries of that identical product at any port, and it becomes strong evidence in a protest if a different port official challenges the classification later. Keep the ruling number attached to every subsequent entry for that SKU.
+The log also supports a prior disclosure or a protest if a classification error is discovered. A documented, good-faith analysis is treated differently from an entry with no file behind it. The difference is not a guarantee of penalty relief, but it is evidence of reasonable care.
 
-## What Supply-Chain Documentation Actually Supports a Classification Claim
+## Common Errors and Their Consequences
 
-The chemical evidence CBP wants overlaps almost exactly with the quality documentation a serious peptide supplier should already be generating. A COA with lot-specific purity data, independent third-party purity verification, and batch records tracing a vial back to a specific synthesis run give an importer something concrete to attach to a customs entry, rather than a generic spec sheet copied across every batch.
+Most peptide classification problems are avoidable, and most of them start with the invoice.
 
-Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory.
+| Error | What it looks like | Better practice |
+| --- | --- | --- |
+| Treating "peptide" as a heading | Invoice says only "peptide" | Add sequence, formula, mass, and presentation |
+| Defaulting to 2937 | Every peptide is declared as a hormone | Read the heading text and principal-use requirement |
+| Ignoring the salt | Acetate and TFA batches share one code | State the counterion and its effect on the product |
+| Missing the presentation | Powder and kit are declared identically | Describe formulation, buffer, and packaging |
+| Copying a supplier's code | Supplier invoices a code with no rationale | Independently verify against the HTSUS and notes |
+| No ruling for a new SKU | First import is the test case | Request a binding ruling before volume |
 
-- A batch-specific COA tied to a lot number, not a generic product-level spec sheet.
-- Documentation of the synthesis method used for that specific batch.
-- Independent purity verification results, separate from the manufacturer’s own internal testing.
-- A clear chain of custody from API manufacturer to finished, vialed product.
+The consequences range from a request for information to a post-entry adjustment, penalty, or seizure. A reclassification can also change the duty owed, which turns a pricing assumption into a margin problem. The cost of a ruling is small compared with the cost of rebuilding an entry file after the fact.
 
-Retaining these records in a per-SKU classification log, alongside the proposed HTS code and supporting rationale, turns a customs audit from a scramble into a five-minute document pull.
+Customs brokers can help, but they are not the importer of record and do not carry the reasonable-care duty. The importer signs the entry. The classification file should be owned by the importer, not stored only with the broker.
 
-## Where to Verify HTS Codes and Rulings Directly
+The [shipping documentation guide](/blog/why-legitimate-documentation-matters-in-peptide-shipping/) covers the invoice and packing-list fields that customs officers see first, and the [supplier GMP assessment guide](/blog/how-to-assess-peptide-supplier-gmp-compliance-in-2026/) explains how to verify the manufacturing claims that sit behind a product description.
 
-Don’t take any secondhand summary, including this one, as the final word on a specific SKU. Check primary sources directly:
+## The Author's Take
 
-- The [U. S. Census Bureau’s Chapter 29 schedule](https://www.census.gov/foreign-trade/schedules/b/2021/c29.html) for the current HTSUS text governing organic chemicals.
-- CBP ruling W563169 and [NY B81132](https://www.customsmobile.com/rulings/docview?doc_id=NY%20b81132&highlight=2933.29.35%2A) for actual precedent on polypeptide and synthetic peptide classification.
-- [WCO’s polypeptide classification guidance](https://www.wcoomd.org/-/media/wco/public/global/pdf/topics/key-issues/customs-laboratories/materials-for-the-classification-of-chemical-products/classification-of-polypeptides.pdf?la=en) for how customs laboratories map amino acid composition to HS categories.
-- [Datamyne’s trade-data records](https://www.datamyne.com/hts/38/382200) for real import activity showing how similar products have cleared under different headings.
+**Position.** Classify the molecule, not the marketing category. A peptide invoice that leads with "research use only" and omits the sequence is asking customs to guess, and a guess is not a compliance strategy.
 
-For deeper procurement-side context, Peptides of China’s guide to [research peptide customs clearance](/blog/research-peptide-customs-clearance-a-professional-b2b-sourcing-guide-2026/) walks through how these primary sources connect to sourcing decisions.
+**Reasoning.** The tariff schedule is structured around chemistry. The headings that matter for peptides are separated by functional groups, ring structure, and principal use, and the General Rules force the importer through the heading text before any comparison shopping. In practice, the entries that go wrong are not the ones with an unusual molecule; they are the ones with a generic description, a copied code, and no structural file. A sequence, a formula, a mass, a salt form, and a presentation cost little to assemble and answer most of the questions an officer will ask. The remaining questions are for a broker or counsel, and they are easier to answer when the chemistry is already on paper.
 
-## Why the “One Correct Code” Question Is the Wrong Question
-
-Most importers ask which HS code is correct for peptides as if there’s a lookup table somewhere with the answer. There isn’t, and the CBP rulings prove it: identical marketing labels split across three or four different Chapter 29 subheadings depending on sulfur content, ring structure, and preparation state. Treating “peptide” as a classification category rather than a chemistry problem is the single most common mistake compliance teams make, and it’s an expensive one when a port officer disagrees with a self-filed entry after the fact.
-
-The conventional advice, “just use 2937, it’s a hormone,” falls apart the moment you read the heading’s own explanatory notes, which require both structure and principal hormonal use. Most research peptides fail that second test entirely.
-
-What should come first is not the code, but the documentation. Get the structural formula, the batch-specific COA, and the synthesis method nailed down before you worry about which four-digit heading applies. The classification tends to follow naturally once the chemistry is on paper. Importers who skip that step and back into a heading based on what “sounds right” are the ones filing protests eighteen months later.
-
-> *— Sam Levin*
+**Disclosure.** Peptides of China sells research peptides. This article is a sourcing and documentation judgment, not legal or customs advice, and it is not a guarantee of clearance. Every material discussed is for research use only.
 
 ## Sources
 
-- [NY B81132 (classification of synthetic peptides)](https://www.customsmobile.com/rulings/docview?doc_id=NY+b81132&highlight=2933.29.35*)
-- [Datamyne trade-data for HTS 382200](https://www.datamyne.com/hts/38/382200)
-- [WCO — Classification of polypeptides (customs laboratory guidance)](https://www.wcoomd.org/-/media/wco/public/global/pdf/topics/key-issues/customs-laboratories/materials-for-the-classification-of-chemical-products/classification-of-polypeptides.pdf?la=en)
-
-## China Peptides Sourcing Perspective
-
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
-
-## Related Products
-
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+1. United States International Trade Commission. Harmonized Tariff Schedule of the United States. https://hts.usitc.gov/
+2. U.S. Customs and Border Protection. Customs Rulings Online Search System (CROSS). https://rulings.cbp.gov/
+3. Code of Federal Regulations. 19 CFR Part 177: Administrative Rulings. https://www.ecfr.gov/current/title-19/chapter-I/part-177
+4. Code of Federal Regulations. 19 CFR Part 163: Recordkeeping. https://www.ecfr.gov/current/title-19/chapter-I/part-163
+5. Code of Federal Regulations. 19 CFR Part 134: Country of Origin Marking. https://www.ecfr.gov/current/title-19/chapter-I/part-134
+6. World Customs Organization. Classification of polypeptides: customs laboratory guidance. https://www.wcoomd.org/-/media/wco/public/global/pdf/topics/key-issues/customs-laboratories/materials-for-the-classification-of-chemical-products/classification-of-polypeptides.pdf?la=en
+7. World Customs Organization. What is the Harmonized System? https://www.wcoomd.org/en/topics/nomenclature/overview.aspx
+8. U.S. Census Bureau. Schedule B, Chapter 29: Organic Chemicals. https://www.census.gov/foreign-trade/schedules/b/2021/c29.html
+9. U.S. Code. 19 U.S.C. § 1484: Entry of merchandise. https://www.law.cornell.edu/uscode/text/19/1484
+10. U.S. Customs and Border Protection. Rulings and agreements. https://www.cbp.gov/trade/rulings

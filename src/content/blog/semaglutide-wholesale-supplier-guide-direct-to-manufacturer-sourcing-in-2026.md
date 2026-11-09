@@ -1,163 +1,167 @@
 ---
-title: "Semaglutide Wholesale Supplier Guide Direct To Manufacturer Sourcing In 2026"
+title: "Semaglutide Wholesale Supplier: 2026 Sourcing Guide"
 slug: "semaglutide-wholesale-supplier-guide-direct-to-manufacturer-sourcing-in-2026"
-description: "A practical 2026 guide to semaglutide wholesale sourcing for research: supplier questions, documents, ordering workflow, and independent quality checks."
-
-
-
-
+description: "How lab buyers compare semaglutide wholesale suppliers in 2026: specifications, identity data, batch documents, independent testing, and landed cost."
 ---
-This guide examines semaglutide wholesale supplier guide direct to manufacturer sourcing in 2026 from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
+A semaglutide wholesale supplier should be judged on four things before price: the exact material and salt form, the batch-linked analytical record, the supplier's actual role in the chain, and the terms that govern rejection. Most sourcing failures are not chemistry failures. They are mismatches between what was ordered, what was tested, and what arrived.
 
-## Semaglutide Wholesale Supplier: What Laboratory Buyers Should Compare Before They Order
+This guide is written for laboratory and procurement readers buying research-use-only (RUO) semaglutide. It does not address approved medicines, compounded preparations, dosing, or human use. The goal is narrower and more useful: a specification and document trail that let you compare suppliers on evidence rather than adjectives.
 
-Searching for a [Semaglutide](https://en.wikipedia.org/wiki/Semaglutide) wholesale supplier can be confusing, because the same word, "semaglutide," is used in three very different markets. A clear view of which market you are in makes every later decision easier: what to ask for, what documents to expect, and how to compare proposals. This guide is written for laboratory and procurement readers who need research materials, and it walks through the market landscape, the specifications to define, documentation, logistics, and a practical workflow.
+## Three Markets Behind One Name
 
-## Three Different Markets Behind One Name
+"Semaglutide" appears in three markets with different rules, and a wholesale enquiry can land in any of them.
 
-Semaglutide appears in three distinct contexts, and they follow different rules.
+- **Approved medicines.** Finished products authorised by regulators, sold through licensed pharmaceutical channels with fixed labels, indications, and manufacturing controls.
+- **Compounded preparations.** Products prepared by licensed compounders under temporary regulatory policies. Those policies changed repeatedly as national GLP-1 supply recovered.
+- **Research-use-only materials.** Peptides sold to laboratories for in-vitro or animal research, not for human or veterinary use.
 
-- **Approved medicines.** Finished products authorized by regulators and supplied through licensed pharmaceutical channels.
-- **Compounded preparations.** Products prepared by licensed compounders under specific regulatory policies, which have changed considerably in recent years.
-- **Research-use-only (RUO) materials.** Materials sold for laboratory research, not for human or veterinary use.
+The regulatory timeline matters because suppliers borrow credibility from it. The FDA resolved the semaglutide shortage on 21 February 2025. Initial compounding compliance dates of 22 April 2025 for 503A and 22 May 2025 for 503B were modified after litigation. On 28 April 2025 the FDA announced the end of 503A enforcement discretion, while 503B discretion continued through 22 May 2025. On 30 April 2026 the agency issued a proposal, not a final determination, to exclude semaglutide, tirzepatide, and liraglutide from the 503B bulks list. The [FDA statement on compounder policy](https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize) and the [2026 proposal announcement](https://www.fda.gov/news-events/press-announcements/fda-proposes-exclude-semaglutide-tirzepatide-and-liraglutide-503b-bulks-list) are the primary documents.
 
-This article concerns the third category only. Developments in the first two do not authorize RUO materials for human use, and nothing here is guidance on clinical or personal use.
+None of those actions authorise RUO material for human use. A supplier that uses regulatory headlines to imply otherwise is telling you something about its sales method, not its quality system.
 
-### The Regulatory Timeline in Brief
+## Define the Specification Before You Request a Quote
 
-Because regulatory news often shapes search interest, it helps to have the dates straight. The FDA resolved the semaglutide shortage on February 21, 2025. Initial compounding compliance dates of April 22, 2025 (for 503A) and May 22, 2025 (for 503B) were then modified following litigation. On April 28, 2025, the FDA announced the end of 503A enforcement discretion, while 503B discretion remained in effect through May 22, 2025. You can read the agency's own explanation in the [FDA statement on compounder policies](https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize) and the [FDA document on this topic](https://www.fda.gov/media/185526/download).
+A quotation is only comparable if it answers a written specification. Send the same document to every supplier and require a line-by-line response.
 
-On April 30, 2026, the FDA issued a proposal (not a final determination) to exclude semaglutide, tirzepatide, and liraglutide from the 503B bulks list. The details are in the [FDA press announcement](https://www.fda.gov/news-events/press-announcements/fda-proposes-exclude-semaglutide-tirzepatide-and-liraglutide-503b-bulks-list). Since this is a proposal, its final form may differ.
-
-## Understanding Supplier Roles Fairly
-
-Different kinds of suppliers serve different needs, and each model has trade-offs worth weighing.
-
-- **Manufacturers** synthesize and release material under their own specifications. They may work with minimum quantities and sometimes prefer direct, high-volume relationships.
-- **Domestic distributors and resellers** hold local stock, which can mean faster delivery and simpler local handling. Pricing, documentation, and the visibility they have into upstream production vary from seller to seller.
-- **Sourcing platforms** coordinate between buyers and manufacturers, handling requests, availability checks, order processing, and logistics.
-
-Peptides of China (Peptides of China) is a B2B sourcing platform. It coordinates manufacturer-side sourcing, availability, requested specifications, order processing, international logistics, and support. It does not manufacture peptides or operate production facilities, and international delivery may involve logistics partners.
-
-## Define Exactly What You Are Buying
-
-Much of the confusion in peptide procurement comes from vague requests. Before asking anyone for a quote, write down the following.
-
-- **Material:** the compound name and any specific form or salt you require.
-- **Material form:** for example, lyophilized powder in vials versus another presentation.
-- **Quantity:** the amount per vial and the number of vials or kits.
-- **Specification:** the purity and content values you need, and how they should be measured.
-- **Documentation:** what paperwork you want to see before approving a proposal.
-
-The [semaglutide catalog page](/catalog/semaglutide/) shows what is currently listed. Writing the same specification into every request makes proposals easy to compare line by line.
-
-## Documentation: What the Terms Actually Mean
-
-Documentation varies by product, manufacturer, and batch. Ask which documents are available for the proposed material and use the analytical concepts below to review them.
-
-- **Identity:** whether the material is the intended molecule. Mass spectrometry reports a molecular mass, which is consistent with a structure but does not by itself prove identity. Identity is best supported by several lines of evidence.
-- **Chromatographic purity:** the share of the main peak in an HPLC trace under specific method conditions. It depends on the method used, so a percentage is only meaningful alongside the method.
-- **Content:** how much peptide is actually present in the vial. Net peptide content is the actual weight of the peptide excluding salts, water, and other components, and it differs from purity.
-- **Material form:** the salt form and physical presentation, which affect how content is calculated.
-- **Batch relationship:** whether a document refers to the specific batch you receive. A report for a different batch tells you little about yours.
-
-Available documentation should be reviewed against the proposed material and its batch identifiers. Product specifications vary by manufacturer and batch. Seller-provided documents and independent analysis serve different purposes. For background, read the [peptide COA guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) and the [Peptides of China peptide quality page](/peptide-quality/) .
-
-### Independent Testing
-
-Buyers may arrange independent testing of a received product through a qualified laboratory under their own protocol. This is initiated by the buyer and is not automatically performed on any order. If a buyer reports an inconsistency, it is handled under Peptides of China's current written support and quality process.
-
-## Comparison Table: Sourcing Models
-
-| Factor | Domestic Distributor | Sourcing Platform (e.g., Peptides of China) |
+| Field | What to write | Why it decides the comparison |
 | --- | --- | --- |
-| Stock | Local inventory, often quick to dispatch | Availability checked with the manufacturing side during processing |
-| Delivery | Generally shorter domestic transit | International; depends on destination and route |
-| Order size | Often flexible, including small lots | Standard catalog minimum applies |
-| Documentation | Varies by seller | Varies by product, manufacturer, and batch |
-| Process | Typically a direct purchase | Single coordinated request with a proposal before full payment |
-| Best suited to | Urgent or small local needs | Planned, larger procurement |
+| Compound and modification | Semaglutide, Aib8, Arg34, C18 diacid at Lys26 | Distinguishes the analogue from a generic GLP-1 sequence |
+| Salt form | Acetate, TFA, or another stated counterion | Changes net peptide content and handling |
+| Presentation | Lyophilised powder, fill mass per vial, vial count | Makes unit price calculable |
+| Identity method | LC-MS with stated mass tolerance | A number without a tolerance cannot be accepted or rejected |
+| Purity method | RP-HPLC, column, gradient, wavelength, limit | Area percentages from different methods are not interchangeable |
+| Water content | Karl Fischer, limit | Water dilutes the powder and is excluded from area purity |
+| Net peptide content | Basis and calculation method | Separates peptide mass from salt and water |
+| Endotoxin | LAL method and unit, if required | A claim without a raw report is not a result |
+| Documentation | Batch record, COA, raw chromatogram and spectrum | Defines what arrives with the vials |
+| Storage and transit | Temperature range and excursion handling | Stability claims must match the shipping lane |
 
-Neither model is right for every project. Time-sensitive work may favor local stock, while planned procurement may benefit from a coordinated request.
+Two practical rules follow. First, do not accept "99% pure" as a specification; ask for the method, wavelength, integration criterion, and acceptance limit. Second, do not compare a price per vial with a price per milligram of peptide. The first number includes salt and water; the second does not.
 
-## How to Compare Proposals
+## Identity: Sequence, Salt Form, and Mass
 
-When you hold two or more proposals, compare them on the same footing.
+Semaglutide is a 31-residue GLP-1 analogue. It carries an alpha-aminoisobutyric acid substitution at position 8, an arginine at position 34, and a C18 fatty diacid side chain attached at lysine 26. The free-base molecular formula is C187H291N45O59 and the molecular weight is approximately 4113.58 Da. Those details are the identity baseline; a supplier should be able to reproduce them on a certificate without copying a catalogue page.
 
-1. Confirm that the material, form, and quantity match your written specification.
-2. Check which documents are offered and whether they refer to the specific batch.
-3. Look at the full landed cost, including shipping, rather than unit price alone.
-4. Note the stated availability and what is reserved for you.
-5. Review payment terms and when the remaining balance falls due.
-6. Ask how questions or reported inconsistencies are handled after delivery.
+Mass spectrometry supports identity by producing a charge envelope. For electrospray in positive mode, each observed m/z value follows m/z = (M + zH) / z. For a neutral mass of 4113.58 Da, the 3+ envelope is centred near m/z 1372, the 4+ near 1029, and the 5+ near 824. A report that labels one of those peaks as "the molecular weight" has misread its own data. The molecular weight is the neutral mass, not the m/z of a charge state.
 
-## Logistics and Delivery
+Tolerance belongs next to the result. Unit-resolution instruments commonly accept ±0.5 Da; a high-resolution instrument at 60,000 resolution can hold ±5 ppm, which at 4113.58 Da is about ±0.021 Da. MALDI-TOF with a CHCA matrix often lands within 0.1%. A mass reported as "4114" with no decimal and no tolerance has discarded the information needed to judge it.
 
-Shipping methods, pricing, and estimated transit times vary by destination and are confirmed during order processing. Parcel structure, available shipping lines, and the product itself can all affect options. Destination-specific customs requirements should be included in the procurement plan. Plan lead time into your project schedule and ask for destination-specific information before you commit.
+Salt form is the second identity question. Acetate and trifluoroacetate salts change the mass balance, the powder's behaviour in water, and the net peptide content. They are not interchangeable in a specification, even when the peptide sequence is identical. If the certificate does not state the counterion, the fill mass cannot be converted into peptide mass with confidence.
 
-## The Peptides of China Workflow
+A single mass confirms composition, not sequence order. Two peptides with the same amino acid composition can share a mass while differing in sequence. Tandem MS fragmentation, reported as b and y ion series, is the stronger identity evidence. For a 31-residue analogue, partial terminal coverage plus the expected modifications is usually enough to distinguish the target from a scrambled or truncated sequence. The [molecular weight verification walkthrough](/blog/peptide-molecular-weight-verification-steps/) shows the arithmetic in more detail.
 
-Peptides of China is built around one coordinated request. Here is how the process works, with more detail on the [how it works page](/how-it-works/).
+## Purity Is Not Content: Reading the Release Numbers
 
-1. **Submit a request.** Share the product, quantity, and specifications you need.
-2. **Pay the USD 10 deposit.** It initiates manual processing and is credited toward the final invoice. Peptides of China then confirms the current proposal before requesting the remaining balance.
-3. **Availability check.** Current availability is checked directly with the manufacturing side.
-4. **Receive a proposal.** Availability, reservation, and commercial terms are confirmed before the remaining balance is collected.
-5. **Pay the balance and ship.** Payment options are described on the [how to pay page](/how-to-pay/), and logistics are coordinated by Peptides of China.
+Purity and content answer different questions, and conflating them is the most common buying error in this category.
 
-The benefits are practical: one request instead of many, a proposal before full payment, and a consolidated workflow with support throughout.
+**Purity** is the share of the target peak in the integrated chromatogram. A 98.5% area result at 220 nm means 98.5% of the detected UV signal came from the main peak. Water, counterions, and residual solvents do not absorb meaningfully at that wavelength and are excluded by construction.
 
-### Order Requirements
+**Net peptide content** is the mass of peptide in the vial divided by the total fill mass. It accounts for water, counterion, and residual solvents. A 10.0 mg fill that contains 8.2 mg of peptide has 82.0% net peptide content, even if the chromatogram reads 98.5%.
 
-Peptides of China’s standard catalog minimum is USD 600. Multiple standard catalog products may be combined to reach the minimum, with orders normally starting from one 10-vial kit per product.
+The arithmetic is simple and worth doing before you compare quotes:
 
-## Buyer Checklist
+Net peptide content (%) = (peptide mass ÷ fill mass) × 100.
 
-- I have identified which of the three markets applies, and I am sourcing for laboratory research use only.
-- My request states the material, form, quantity, and specification.
-- I know which documents I want and whether they relate to a specific batch.
-- I understand the difference between identity, purity, and content.
-- I have compared the full landed cost across proposals.
-- I have asked for destination-specific shipping information.
-- I have planned whether to arrange independent testing on receipt.
-- I have confirmed local compliance requirements for my site.
+If water is 4.0% by Karl Fischer and the counterion accounts for 6.0% of the powder, the remaining mass is not automatically peptide; residual solvents and inorganic matter can take another share. A mass-balance table is the only honest way to connect the numbers.
 
-## Frequently Asked Questions
+| Result | What it establishes | What it does not establish |
+| --- | --- | --- |
+| RP-HPLC area % at 220 nm | Proportion of detected material in the main peak | Identity, water, salt, or peptide mass |
+| LC-MS mass within tolerance | Molecular mass consistent with the structure | Purity or sequence order |
+| Karl Fischer water | Water content of the powder | Residual organic solvents |
+| Ion chromatography | Counterion identity and amount | Peptide content by itself |
+| LAL endotoxin, EU/mg | Endotoxin activity in the tested sample | Sterility or absence of other pyrogens |
+| USP &lt;71&gt; sterility | Growth in the tested units under the method | Endotoxin level or viral safety |
 
-### Is it legal to buy semaglutide for research?
+A certificate can legitimately report 98.5% purity and 82% net peptide content. It cannot legitimately report "99% peptide" when the assay was an area percentage. Ask which quantity the number describes, and on what basis: "as is" or anhydrous. The two bases are not interchangeable.
 
-Research procurement should meet the receiving institution’s requirements and the destination’s applicable import and research rules. RUO material is supplied for laboratory work; it is distinct from an approved medicine.
+## What a Manufacturer-Side Document Package Should Contain
 
-### How do I tell what a supplier actually does?
+A batch-linked package has five parts, and each answers a different question.
 
-Ask directly whether they manufacture, hold stock, or coordinate sourcing, and ask what documents they can provide for the specific batch.
+1. **Batch record header.** Product name, sequence or modification, lot number, synthesis date, purification date, fill date, and the site that performed each step. This is the document that ties the vial to a manufacturing event.
+2. **Release certificate.** Method, result, unit, specification, and pass/fail for each test. The lot number must match the vial label and the packing list.
+3. **Raw analytical data.** The chromatogram file and the mass spectrum, not merely a picture pasted into a PDF. Retention time, peak area, integration events, and charge-state assignments should be recoverable.
+4. **Method details.** Column dimensions and particle size, mobile phase, gradient, flow rate, injection volume, detection wavelength, and run time. Without these, the purity percentage is a number without a definition.
+5. **Storage and retest statement.** Recommended temperature, protect-from-light instruction, and a retest or expiry date supported by stability data rather than a default phrase.
 
-### What is the minimum order?
+The [COA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) walks through each field, and the [documentation package guide](/blog/peptide-documentation-package/) explains how the pieces fit together. The practical test is simple: can the supplier produce the raw file for the lot, not just a certificate for the product?
 
-Peptides of China’s standard catalog minimum is USD 600. Multiple standard catalog products may be combined to reach it, with orders normally starting from one 10-vial kit per product.
+What manufacturer-side documents cannot do is prove independence. They are the manufacturer's own release records. They show what the producer says it tested and released; they do not show that the vial you received came from that lot, or that the sample was handled correctly after release. That gap is covered by receipt inspection and, where the project requires it, buyer-initiated testing.
 
-### How long does shipping take?
+## How to Tell a Manufacturer From a Repackager
 
-It depends on the destination and route. Shipping methods, pricing, and estimated transit times are confirmed during order processing.
+The word "manufacturer" is used loosely in this market. A supplier may synthesise the peptide, buy bulk powder and fill vials, or simply forward orders to a third party. Each model can be legitimate, but the documents differ.
 
-### Does mass spectrometry prove a peptide's identity?
+Ask five questions and require written answers:
 
-Not on its own. It reports molecular mass, which supports identity alongside other evidence but does not prove it by itself.
+- Who synthesises the peptide, and at which site?
+- Who performs purification and lyophilisation?
+- Who fills and labels the vials?
+- Whose name appears on the release certificate?
+- Who owns the batch record if a buyer requests it?
 
-### Can I test the material myself?
+A manufacturer can answer all five with site names and dates. A repackager can usually answer the third and fourth, and becomes vague on the first two. A broker answers none of them and substitutes a product brochure.
 
-Yes. Buyers may commission independent testing through a qualified laboratory under their own protocol, and reported inconsistencies are handled under Peptides of China's current written support and quality process.
+| Supplier role | Can issue | Cannot issue |
+| --- | --- | --- |
+| Manufacturer | Batch record, release COA, raw analytical data, stability summary | Independent verification of its own release |
+| Repackager | Fill record, repackaging COA, certificate for the filled lot | Synthesis record for the upstream batch |
+| Distributor | Resale documents, supplier COA, packing list | Manufacturing record it does not hold |
+| Broker or platform | Coordination records and supplier documents | A guarantee that the supplier's claims are true |
 
-### Ready to Request a Proposal?
+Red flags are rarely subtle. A certificate with no manufacturer name, a lot format that changes between documents, a "GMP" claim with no defined scope, or a price far below the market without an explanation all justify a pause. So does a supplier who cannot say whether the material is acetate or TFA when the listing does not specify it.
 
-If you have your specification written down, you can [contact Peptides of China to start a sourcing request](/contact/) and receive a proposal before paying the full balance.
+## Independent Testing on Receipt
 
-All materials discussed are strictly for laboratory research use only (RUO).
+Buyer-initiated testing is the only step that connects the analytical result to the material in your hands. It does not need to be elaborate, but it does need a written plan.
 
-## Related Products
+A workable receipt protocol for a lyophilised peptide lot:
 
-- [Buy Semaglutide](/catalog/semaglutide/)
+- **Sample three vials.** Keep one unopened as a retain, test two. Record vial masses and label photographs before opening anything.
+- **Identity:** LC-MS with the expected mass and a stated tolerance; request the annotated charge envelope.
+- **Purity:** RP-HPLC at 220 nm with the method recorded, including column, gradient, and integration threshold.
+- **Water:** Karl Fischer, because water changes the net peptide content and can affect weighing.
+- **Endotoxin:** LAL in EU/mg if the study requires a limit; state the method and the control standard.
+- **Sterility:** USP &lt;71&gt; only if a sterile claim is being made. A sterility test is not a substitute for endotoxin testing.
 
-## China Peptides Sourcing Perspective
+Use a laboratory accredited to ISO/IEC 17025 for the methods in scope, and ask for the raw data with the report. A result without a method is not transferable, and a result without a sample identity is not evidence about your lot.
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+Set acceptance rules before the results arrive. Identity outside tolerance is a rejection, not a discussion. Purity below the specification is a retest trigger: test a second vial from the same lot with the same method before concluding that the lot failed. Water above the limit needs a calculation of net peptide content, not an automatic rejection, because the specification may have been written on an anhydrous basis.
+
+If a result fails, quarantine the lot, stop opening vials, and send the supplier the lot number, the method, the raw files, and photographs of the labels. A supplier with a real quality system answers with batch records and a proposed disposition. One that answers with a new certificate and no data is confirming the gap.
+
+## Commercial Terms, MOQ, and Landed Cost
+
+The commercial terms should be as explicit as the analytical ones.
+
+Peptides of China's standard catalog minimum is USD 600. Multiple catalog products can be combined to reach it, and orders normally start from one 10-vial kit per product. The USD 10 deposit initiates manual processing and is credited toward the final invoice; availability and the current proposal are confirmed before the remaining balance is requested. Those terms are on the [how it works page](/how-it-works/), and they should be read as order mechanics rather than quality evidence.
+
+Landed cost has five components: unit price, international shipping, insurance if used, import duties and fees, and the cost of testing on receipt. A sixth, less visible cost is delay: a cheap batch that arrives three weeks late can cost more than a faster batch at a higher unit price. The [lead-time evaluation guide](/blog/how-to-evaluate-peptide-supplier-lead-times-in-2026/) sets out how to compare transit claims across suppliers.
+
+Payment timing matters too. A deposit that is credited against the invoice is not a fee, but it does shift risk before availability is confirmed. Ask what happens if the batch is unavailable, what the cancellation terms are, and whether the proposal is tied to a specific lot. "In stock" is a statement about a warehouse, not a statement about a batch.
+
+The [bulk order guide](/blog/how-to-buy-peptides-in-bulk-a-2026-direct-to-manufacturer-sourcing-protocol/) covers how quantity, kit structure, and reorder timing interact once a first lot has passed testing.
+
+Customs is the buyer's responsibility in most cross-border research supply chains. A supplier can prepare invoices and packing lists; it cannot guarantee clearance, and a guarantee of clearance is a claim to distrust. The [customs clearance guide](/blog/research-peptide-customs-clearance-a-professional-b2b-sourcing-guide-2026/) covers the document set and the importer's role.
+
+## The Author's Take
+
+**Position.** For semaglutide, the document package is the product. The molecule is well characterised and widely available; what separates a reliable supplier from a risky one is whether the batch record, the certificate, and the vial label describe the same object.
+
+**Reasoning.** Semaglutide's analytical signature is mature: a 4113.58 Da mass, a reproducible reverse-phase profile, and a known set of modifications. That maturity makes it easy to produce a convincing-looking certificate and hard for a buyer to tell a real release package from a copied one. The failures I see are rarely "the peptide was the wrong molecule." They are lot mismatches, missing methods, area percentages presented as peptide content, and suppliers who cannot name the site that filled the vial. A buyer who insists on five documents and performs one mass calculation catches most of those before the first experiment.
+
+**Disclosure.** Peptides of China sells research peptides. This article is sourcing judgment, not an effects claim. Every material discussed is for research use only, and nothing here is medical advice or a statement of equivalence to an approved medicine.
+
+## Sources
+
+1. U.S. Food and Drug Administration. FDA clarifies policies for compounders as national GLP-1 supply begins to stabilize. 2025. https://www.fda.gov/drugs/drug-alerts-and-statements/fda-clarifies-policies-compounders-national-glp-1-supply-begins-stabilize
+2. U.S. Food and Drug Administration. FDA proposes to exclude semaglutide, tirzepatide, and liraglutide from 503B bulks list. 2026. https://www.fda.gov/news-events/press-announcements/fda-proposes-exclude-semaglutide-tirzepatide-and-liraglutide-503b-bulks-list
+3. U.S. Food and Drug Administration. Drugs@FDA database. https://www.accessdata.fda.gov/scripts/cder/daf/
+4. Lau J, Bloch P, Schäffer L, et al. Discovery of the once-weekly glucagon-like peptide-1 (GLP-1) analogue semaglutide. Journal of Medicinal Chemistry. 2015;58(18):7370–7380. https://doi.org/10.1021/acs.jmedchem.5b00726
+5. D'Hondt M, Bracke N, Taevernier L, et al. Related impurities in peptide medicines. Journal of Pharmaceutical and Biomedical Analysis. 2014;101:2–30. https://doi.org/10.1016/j.jpba.2014.06.012
+6. International Council for Harmonisation. ICH Q6A: Specifications — Test Procedures and Acceptance Criteria for New Drug Substances and New Drug Products. https://database.ich.org/sites/default/files/Q6A%20Guideline.pdf
+7. International Council for Harmonisation. ICH Q2(R2): Validation of Analytical Procedures. 2023. https://database.ich.org/sites/default/files/ICH_Q2%28R2%29_Guideline_2023_1130.pdf
+8. U.S. Food and Drug Administration. Analytical Procedures and Methods Validation for Drugs and Biologics: Guidance for Industry. 2015. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/analytical-procedures-and-methods-validation-drugs-and-biologics
+9. United States Pharmacopeia. &lt;1058&gt; Analytical Instrument Qualification. https://doi.org/10.31003/uspnf_m1124_10101_01
+10. United States Pharmacopeia. &lt;1225&gt; Validation of Compendial Procedures. https://doi.org/10.31003/uspnf_m99945_40101_01
