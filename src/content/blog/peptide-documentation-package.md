@@ -1,144 +1,148 @@
 ---
-title: "Peptide Documentation Package"
+title: "Peptide Documentation Package: A Batch File Checklist"
 slug: "peptide-documentation-package"
-description: "Six checks procurement teams can use to verify batch matched COAs, inspect HPLC and MS outputs, confirm sterility/endotoxin results, and avoid mismatched..."
-
-
-
-
-
+description: "The batch-specific records a peptide supplier should provide: COA fields, chromatograms, MS data, endotoxin results, traceability, and red flags."
 ---
-This guide examines peptide documentation package from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
+**A peptide documentation package is the batch-specific set of records that lets a buyer prove what is in the vial, who made it, and what was measured before release.** It is not a certificate of analysis with a logo on it. It is a bundle in which every document carries the same lot identifier and every analytical claim is backed by raw data.
 
-A peptide documentation package is the batch-specific bundle of records that proves what’s in the vial: a Certificate of Analysis (COA), the raw HPLC chromatogram, mass spectrometry identity confirmation, and traceability fields tying that paperwork to a physical lot. Procurement teams should treat a supplier’s refusal to provide this bundle, matched to the shipped batch, as disqualifying. Without it, purity and identity claims are marketing copy, not evidence.
+The test for completeness is simple: hand the package to an analyst who has never spoken to the supplier and ask whether that person could reconstruct the batch. If the answer depends on calling someone, the package is incomplete. This guide sets out the fields, the documents, and the failure modes that matter in practice. For the analytical side of the same question, the [laboratory verification guide](/blog/peptide-testing-and-analysis-a-professional-guide-to-laboratory-verification/) covers sampling and method validation.
 
----
+## What Counts as a Complete Package
 
-> **TL;DR:**
+A usable package answers five questions, and each one requires a different document.
 
-> - Verifying lot number consistency across the vial label, packing slip, and COA is crucial to confirm the shipment’s authenticity.
+| Question | Document that answers it | What "complete" looks like |
+|---|---|---|
+| What was made? | Product specification and batch record summary | Sequence, salt form, fill mass, lot number |
+| Was it made consistently? | Batch manufacturing record extract | Synthesis scale, coupling strategy, purification runs |
+| What did release testing show? | COA with raw chromatogram and mass spectrum | Method, result, acceptance criterion, analyst, date |
+| Is it safe for the intended handling? | Endotoxin, sterility, and bioburden reports | Method, limit, numeric result, spike recovery where applicable |
+| Can the paperwork be tied to the vial? | Label, packing list, and lot cross-reference | Identical lot identifier on all three |
 
-> - Mass spectrometry data should match the theoretical peptide mass to confirm identity beyond just purity percentage.
+Most suppliers provide the first and third rows and stop. The second row is where manufacturers separate themselves from traders, because a trader cannot produce a batch record for a product it did not make. The fourth row is frequently missing on research-grade material, and it should be requested explicitly when the study design requires it.
 
-> - Endotoxin and sterility test results must include numeric values and test dates, not vague claims, especially for injectable peptides.
+## Batch Linkage: The Field That Makes the Rest Usable
 
-> - Building a standardized recordkeeping workflow for each lot improves traceability and prevents reconstruction issues during disputes.
+The lot number is the hinge on which the entire package turns. A COA without a lot number, or with a lot number that does not match the vial label, is a generic document. It may describe a real batch, but it does not describe yours.
 
-> - Reused or suspiciously perfect documentation patterns, such as identical COAs for different batches or missing chromatograms, indicate potential fraud or lapses.
+Three identifiers should agree: the label on the vial, the packing list or invoice line, and the COA header. Ask for a photograph of the labelled vial next to the packing list if you are buying remotely. Suppliers that manufacture their own material can usually produce this in minutes. Suppliers that drop-ship from a distributor often cannot.
 
----
+Lot numbering conventions vary, which is not itself a problem. A date-coded format such as YYMMDD-sequence, a campaign code, or an internal batch number all work if the supplier can trace the number back to a manufacturing record. What matters is that the identifier is unique, stable, and used consistently across documents. A supplier that reuses one lot number for multiple production runs has removed the ability to investigate a complaint.
 
-## Table of Contents
+The COA should also carry a **manufacture date** and a **retest or expiry date**. For lyophilized research peptides, a 24 to 36 month retest period at −20 °C is common. A COA with no date, or with an expiry date that precedes the manufacture date, is a document-control failure regardless of the analytical results.
 
-- What Goes Into a Complete Peptide Documentation Package
-- How Do You Verify a COA Matches Your Shipment?
-- Endotoxin and Sterility Records for Injectable-Use Peptides
-- Building a Traceable Recordkeeping Workflow
-- Documentation Red Flags Procurement Teams Should Never Ignore
-- Why Complete Documentation Changes How Research Actually Runs
-- Requesting Batch-Matched COAs From Peptides of China
-- Sources
+## The Analytical Core: Purity, Identity, Content, and Mass Balance
 
-## What Goes Into a Complete Peptide Documentation Package
+Three measurements form the analytical core, and each one answers a different question.
 
-Most COAs look similar at a glance: a header, a purity percentage, a signature block. The differences that matter live in the fields procurement teams tend to skim past.
+**Purity by RP-HPLC.** The [COA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) breaks the report into its component fields; here the point is what the package must contain. The report should state the column dimensions, particle size, pore size, mobile phase composition, gradient, flow rate, column temperature, detection wavelength, injection volume, and integration threshold. A purity value without those parameters cannot be reproduced. For a typical peptide, a C18 column of 4.6 × 250 mm with 5 µm particles and 300 Å pores, run at 1.0 mL/min and 35 °C with a water/acetonitrile gradient containing 0.1% trifluoroacetic acid, is a standard configuration.
 
-The header should carry a lot or batch number that matches the vial label and the packing slip exactly, along with the report issue date, the test date, and the name and location of the testing laboratory. A COA with no lab name, or one that lists only a generic “quality control department,” gives you nothing to verify against.
+**Identity by mass spectrometry.** The deconvoluted mass should be reported alongside the theoretical mass and the difference in ppm or Da. A mass tolerance of 5 ppm is a reasonable expectation for a modern instrument on a peptide under 5 kDa. The report should also show the charge state envelope, because a deconvoluted number with no raw spectrum is a calculation, not evidence.
 
-The HPLC chromatogram is the purity evidence. It needs to show a clean, labeled peak with a retention time, and the report should disclose the [method parameters](/blog/peptide-testing-and-analysis-a-professional-guide-to-laboratory-verification/) behind it, including column type, mobile phase composition, gradient profile, flow rate, and detection wavelength. Change any of those variables and the apparent purity shifts, sometimes significantly, which is why a bare percentage with no method attached is close to meaningless.
+**Content by quantitative assay.** This is the measurement buyers most often skip and most often need. Amino acid analysis, nitrogen determination, or a validated HPLC assay against a reference standard can establish how much peptide is present by mass. A vial labelled 10 mg may contain 10 mg of total powder, of which 8.6 mg is peptide and the balance is counterion and water.
 
-Mass spectrometry data confirms identity rather than purity. A credible report lists the observed mass against the theoretical mass for the peptide’s molecular formula, and higher-end reports include MS/MS fragmentation for extra confidence. A COA package should also carry, when relevant to the compound:
+| COA field | Why it matters | Common omission |
+|---|---|---|
+| Lot number | Ties the document to the vial | Present but not matched to label |
+| Sequence and salt form | Defines what the mass should be | Salt form left as "peptide" |
+| HPLC method detail | Makes purity reproducible | Wavelength and gradient absent |
+| Chromatogram | Shows what the percentage hides | Summary only, no peak table |
+| Mass spectrum | Supports identity | Deconvoluted value only |
+| Water content | Part of mass balance | Missing on most research COAs |
+| Counterion content | Part of mass balance | Missing unless requested |
+| Endotoxin result | Study-dependent safety attribute | "Not tested" with no explanation |
 
-- Endotoxin (LAL) results reported in EU/mg or EU/mL, not a pass/fail claim alone
-- Sterility assay outcomes for anything positioned for injectable use
-- Residual solvent and trifluoroacetic acid (TFA) content, which affects both purity math and downstream research use
-- A batch statement from the manufacturer confirming synthesis route and lot size
+A peptide is rarely supplied as the free base or free acid. Trifluoroacetate, acetate, and chloride are the common counterions, and each contributes mass that is not peptide. Water content adds more. A mass balance that accounts for peptide, counterion, and water is the difference between a label that means something and a label that describes a container.
 
-## How Do You Verify a COA Matches Your Shipment?
+Karl Fischer titration is the standard method for water content. For a lyophilized peptide, results in the 2–6% range are common, and a specification of 5.0% or less is typical for material intended for sensitive work. A COA reporting 0.1% water on a lyophilized powder is worth questioning, because the technique is sensitive enough that near-zero values usually indicate a drying issue or a reporting error rather than an exceptionally dry product.
 
-Verification is a sequence, not a glance. Skipping steps is how mismatched paperwork slips through procurement review.
+Counterion identity and content are reported less often. Ion chromatography with conductivity detection can quantify trifluoroacetate and acetate, and the result should be expressed as a percentage by mass. For a peptide supplied as the acetate salt, the acetate content belongs on the COA. For a peptide supplied as the trifluoroacetate salt, the same applies. The [TFA removal guide](/blog/tfa-removal-peptides/) covers why this matters for assay work and how the exchange is verified.
 
-1. **Match the lot number everywhere.** Cross-check the batch or lot number on the vial label, the packing slip, the invoice, and the COA itself. Any inconsistency, even a single digit, is a stop condition until resolved.
-2. **Confirm the lab is real and contactable.** Search the laboratory’s name and address independently of the supplier’s paperwork. A credible peptide COA identifies a traceable lab with a report ID and a test date you can reference if you call them.
-3. **Read the chromatogram, not just the summary line.** Look for a single dominant peak, a labeled retention time, and disclosed method parameters. A cropped image with no axis labels or method note is not usable evidence.
-4. **Check the mass spec numbers against theory.** Compare observed mass to theoretical mass for the specific peptide sequence. HPLC purity alone can’t rule out co-eluting impurities that share a retention time with your target compound; [mass spectrometry is required](https://peptidedefinition.com/guides/peptide-coa-testing-guide) to confirm the peak is actually the intended molecule.
-5. **Validate sterility data for sterile-use lots.** Endotoxin and sterility results should appear as raw numeric outputs, not a seller’s summary sentence.
-6. **Escalate to independent testing when anything doesn’t reconcile.** If the batch number is off, the lab won’t confirm the report, or the chromatogram looks reused, submit a retention sample to a third-party lab before the material enters active research use.
+The practical consequence: a 10 mg vial at 96% HPLC purity, 90% peptide content, and 85% mass balance contains roughly 7.6 mg of peptide. That is not a defect if the label states fill mass rather than peptide mass. It is a defect if the buyer assumed the two were the same.
 
-**Pro Tip:** *Keep a running spreadsheet of lot numbers, COA report IDs, and test dates across every supplier you use. It takes five minutes per order and turns a documentation dispute six months later into a two-minute lookup instead of a scramble.*
+## Endotoxin and Sterility Records
 
-## Endotoxin and Sterility Records for Injectable-Use Peptides
+Endotoxin and sterility are separate attributes, tested by separate methods, and neither is implied by chemical purity.
 
-Any peptide destined for parenteral or injectable research use needs safety documentation beyond a purity number. This is where documentation gaps carry the most practical risk, and where vague language does the most damage.
+The bacterial endotoxins test, described in USP &lt;85&gt;, uses Limulus amebocyte lysate or recombinant factor C to detect lipopolysaccharide. Results are expressed in endotoxin units per milligram or per millilitre, against a limit set by the route and exposure level in the intended application. For research use, the limit is a study decision, not a universal number; the [endotoxin testing guide](/blog/endotoxin-testing-peptide-manufacturing/) covers how limits are set and verified. What the COA must provide is the method, the limit of detection, the numeric result, and the spike recovery for the sample dilution. A recovery outside 50–200% invalidates the quantitation, and many research COAs omit the recovery entirely.
 
-The expected test is a Limulus Amoebocyte Lysate (LAL) assay reported in endotoxin units per milligram or milliliter, not a checkbox marked “endotoxin free.” Sterility should come as an assay result tied to a specific test date and method, not a claim in seller marketing copy. For [sterile-use materials](https://vialverdict.com/guides/how-to-read-peptide-coa-hplc), procurement teams should request the raw numeric output rather than accept a summary line.
+Sterility testing under USP &lt;71&gt; involves a 14-day incubation and is expensive for a research supplier to run on every lot. Many provide bioburden or membrane filtration data instead. That is a different claim. Bioburden estimates the microbial load before a sterilisation step; sterility confirms the absence of viable organisms after it. A COA that says "sterile" with no method name is asserting an outcome without evidence; the [sterility testing protocol guide](/blog/sterility-testing-for-research-peptides-a-protocol-guide/) describes what a valid test record includes.
 
-Watch for these gaps specifically:
+For lyophilized powders handled in a laminar flow hood with sterile diluent, the practical risk is lower than for a liquid formulation, but the documentation question does not change. If the study protocol requires sterile material, the record must show how sterility was achieved and verified.
 
-- “Endotoxin tested” with no unit, no numeric value, and no method named
-- Sterility claims with no assay type or test date attached
-- No mention of cold-chain handling between lyophilization, vialing, and shipment, which affects sterility integrity on arrival regardless of what the original test showed
-- COAs dated well before the shipment date with no confirmation the tested lot is the one that shipped
+## Manufacturing Traceability and Raw Material Lots
 
-A sterility result from six months before a shipment date tells you almost nothing about the vial that arrived at your facility unless the chain of custody between test and delivery is documented.
+Traceability is the part of the package that traders cannot fabricate convincingly. A manufacturer can state which facility ran the synthesis, at what scale, with which resin and coupling reagents, and which raw material lots went in. A reseller can only pass along what it received.
 
-## Building a Traceable Recordkeeping Workflow
+Useful traceability fields include: synthesis site, synthesis scale in millimoles, resin type and loading, coupling reagent, deprotection conditions, cleavage cocktail, purification column and gradient, number of purification passes, lyophilisation cycle parameters, and fill date. Not every supplier will release all of these, and some are legitimately proprietary. The pattern to watch is whether the supplier can answer any of them with specifics.
 
-Every lot you accept should generate a small, consistent paper trail, stored the same way every time. Ad hoc filing is how teams lose the ability to reconstruct what happened when a research result doesn’t reproduce.
+Raw material lot traceability matters most when a batch fails. If a deletion sequence appears across two production runs, the common factor may be a reagent lot rather than the synthesis method. A manufacturer that records incoming material lots can investigate that. A trader cannot.
 
-At minimum, retain per lot: the purchase order, the packing slip, a photo of the vial label, the COA, any independent test results you commissioned, and the supplier correspondence around that order. A shared drive folder named by lot number works fine; the format matters less than the consistency.
+## What a Package Should Not Contain
 
-- Keep an archive of every COA received, organized by supplier and lot, not just the most recent one
-- Retain a small physical sample from each batch when storage conditions allow, so a later dispute has material to retest
-- Set explicit acceptance criteria before the order arrives (minimum purity threshold, required MS confirmation, endotoxin ceiling for sterile lots)
-- Define a quarantine step for any lot that fails a check, so it’s physically and procedurally separated from active research stock
+Some documents reduce confidence rather than increase it.
 
-**Pro Tip:** *Grant reviewers and internal audit teams ask for batch documentation more often than researchers expect. An archive you can pull in minutes, rather than reconstruct from email threads, saves real time during renewal cycles.*
+**Identical COAs for different lots.** If two batches produce chromatograms with the same peak heights to two decimal places, one document has been reused. Real chromatography has run-to-run variation.
 
-Retention timeframes should track your institution’s data retention policy, but a practical floor is the life of the associated research project plus one full audit cycle. Reproducibility claims are only as strong as the paperwork behind the batch that produced them.
+**A purity value with no chromatogram.** The number is a conclusion. The chromatogram is the data.
 
-## Documentation Red Flags Procurement Teams Should Never Ignore
+**An accreditation logo with no scope.** A laboratory can hold ISO/IEC 17025 accreditation for unrelated methods. The scope document names the methods covered.
 
-Certain patterns show up again and again in fabricated or recycled documentation, and they’re worth memorizing rather than relearning the hard way.
+**Unsupported superlatives.** "Pharmaceutical grade", "USP grade", and "GMP certified" are claims that map to specific standards. If the package does not name the standard and the certificate, the claim is marketing.
 
-- Purity values that are suspiciously round, like an even 99% across multiple unrelated batches; real measurements vary batch to batch
-- Identical COAs reused across different lot numbers, sometimes with only the date field changed
-- A missing chromatogram image or a chromatogram with no axis labels, retention time, or method note
-- Mass spec data absent entirely, leaving purity as the only claim with nothing confirming identity
-- A lab name that returns no verifiable address, phone number, or website when checked independently
+**A COA dated after the shipment.** Document control should prevent this. When it happens, ask which date is wrong, the test date or the shipping date.
 
-When any of these appear, the immediate move is to request raw data files rather than the summary PDF, contact the named laboratory directly, and compare the new COA against prior batches from the same supplier for suspicious similarities. If the discrepancy doesn’t resolve, quarantine the lot, document the incident with dates and screenshots, and route a retention sample to independent testing before the material touches active research work.
+## Verification Workflow, Retention, and Versioning
 
-## Why Complete Documentation Changes How Research Actually Runs
+A repeatable workflow prevents the package from being reviewed differently every time.
 
-Most documentation failures I’ve seen in peptide sourcing aren’t dramatic fraud. They’re a supplier reusing last quarter’s chromatogram because getting a fresh one costs time and money, or a reseller who never actually saw the API manufacturer’s raw data and is just relaying a summary line someone handed them.
+1. **Match identifiers.** Vial label, packing list, invoice, and COA must carry the same lot number.
+2. **Check dates.** Manufacture date, test date, and retest date should be internally consistent and consistent with the shipping date.
+3. **Read the method before the result.** Column, gradient, wavelength, and integration threshold determine what the percentage means.
+4. **Reconcile the numbers.** Purity plus impurity total should approach 100% of integrated area. Content plus water plus counterion should approach the fill mass.
+5. **Verify the mass.** Compare the deconvoluted mass with the theoretical mass for the stated sequence and salt form.
+6. **Record the disposition.** Write down pass, pass with deviation, or reject, with the reason. A package that is reviewed but not dispositioned has no evidentiary value later.
 
-That gap between a reseller’s claim and a manufacturer’s actual test data is the entire reason batch-matched documentation matters more than a purity number on its own. Buyers requiring independent verification may arrange third-party analytical testing.
+The workflow takes about twenty minutes per lot once the supplier's format is familiar. It is the cheapest quality control available, because it costs attention rather than instrument time. The [characterization checklist](/blog/peptide-characterization-reporting-checklist/) extends the same six steps into a full data set for higher-risk lots.
 
-Adopt the verification checklist above as a standard intake step, not a one-off audit. A batch that takes five extra minutes to verify at intake is far cheaper than a research result that has to be thrown out three months later.
+Keep the package for as long as you keep the material, and longer if the material supports a published study. For most research groups, that means a minimum of two years and preferably five. The [quality testing pillar](/peptide-quality-testing/) collects the related record types in one place.
 
-> *— Sam Levin*
+Version control matters when a supplier reissues a COA. A reissued document should carry a revision number and a reason. If a supplier replaces a COA after a complaint without marking the change, the original is the document that matters, and you should already have it stored outside the supplier's portal.
 
-## Requesting Batch-Matched COAs From Peptides of China
+Retained samples complete the record. One unopened vial per lot, stored at −20 °C with the lot number on the label, allows a later dispute to be settled by testing rather than argument. Record the storage location in the same file as the paperwork.
 
-Buyers requiring independent verification may arrange third-party analytical testing.
+Data integrity expectations are described in the MHRA GxP data integrity guidance and in 21 CFR Part 11 for electronic records. The principles are attributable, legible, contemporaneous, original, and accurate. A supplier that provides only a summary PDF, with no chromatogram file or audit trail, is providing a conclusion. For routine research purchasing that may be sufficient. For a file that supports a regulatory submission, it is not.
 
-Documentation requirements should be confirmed during order processing. Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory. Buyers requiring independent verification may arrange third-party analytical testing. See the [Epithalon catalog](/catalog/epithalon) for current product information.
+## Package Depth by Buyer Type
+
+Different buyers need different depths, and asking for more than you need slows the transaction without improving the decision.
+
+| Buyer type | Minimum package | Additional records worth requesting |
+|---|---|---|
+| Academic lab, pilot study | COA with chromatogram and MS | Retest date, storage condition, batch record summary |
+| Core facility, repeated orders | Full analytical core plus water content | Counterion content, lot-to-lot trend data |
+| CRO or contract research | Full core plus endotoxin | Sterility or bioburden, raw material lot traceability |
+| Reseller or private label | Full core plus manufacturing site disclosure | Batch record extract, label reconciliation, CoC template |
+| Regulatory submission | Full core, validation summaries, audit trail | Method validation reports, deviation log, site qualification |
+
+The pattern is consistent: as the consequence of a wrong result rises, the package moves from conclusions toward raw data and traceability. Buyers should decide which row they are in before requesting documents, because a supplier that receives an unfocused request will send whatever is easiest.
+
+## The Author's Take
+
+**Position.** A supplier that cannot produce a batch-matched COA with a chromatogram, a mass spectrum, and a lot number that matches the vial has not documented its product, and the buyer should treat that as a disqualifying gap rather than a negotiating point.
+
+**Reasoning.** The cost of producing a proper package is small for a manufacturer and large for a trader, which makes the package a useful signal. A manufacturer already holds the chromatogram, the mass spectrum, and the batch record as by-products of production. A trader has to request them from someone else, and often cannot. When a supplier offers a polished COA with no raw data, the polish is the product. Buyers who accept that trade discover the gap only when a study fails or a batch is disputed, at which point the missing document cannot be reconstructed. The same logic applies to content and counterion data: they are cheap to measure at release and impossible to infer later.
+
+**Disclosure.** Peptides of China sells research peptides. This article describes documentation practice and procurement judgment; it is not an effects claim, a dosing guide, or medical advice. Products referenced on this site are supplied for laboratory research use only. Documentation varies by product and batch, and buyers who need independent verification should arrange third-party testing after receipt.
 
 ## Sources
 
-For deeper technical grounding, review Peptides of China’s guides on reading a peptide COA, [molecular weight verification](/blog/peptide-molecular-weight-verification-steps), and the [characterization reporting checklist](/blog/peptide-characterization-reporting-checklist).
-
-- [How to read a peptide COA & HPLC report · VialVerdict](https://vialverdict.com/guides/how-to-read-peptide-coa-hplc)
-- [How to Read a Peptide Certificate of Analysis (COA): Complete Guide](https://peptidedefinition.com/guides/peptide-coa-testing-guide)
-
-## China Peptides Sourcing Perspective
-
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
-
-## Related Products
-
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+- 21 CFR Part 11 Electronic Records; Electronic Signatures. Electronic Code of Federal Regulations. [ecfr.gov](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-11)
+- USP &lt;71&gt; Sterility Tests. United States Pharmacopeia. [usp.org/usp-nf](https://www.usp.org/usp-nf)
+- USP &lt;85&gt; Bacterial Endotoxins Test. United States Pharmacopeia. [usp.org/usp-nf](https://www.usp.org/usp-nf)
+- ICH Q7 Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients. International Council for Harmonisation. [database.ich.org](https://database.ich.org/sites/default/files/Q7%20Guideline.pdf)
+- ICH Q6B Specifications: Test Procedures and Acceptance Criteria for Biotechnological/Biological Products. [database.ich.org](https://database.ich.org/sites/default/files/Q6B%20Guideline.pdf)
+- MHRA Guidance on GxP Data Integrity (2018). Medicines and Healthcare products Regulatory Agency. [gov.uk](https://www.gov.uk/government/publications/guidance-on-gxp-data-integrity)
+- ISO 9001:2015 Quality management systems — Requirements. International Organization for Standardization. [iso.org/standard/62085.html](https://www.iso.org/standard/62085.html)
+- Good Distribution Practice guidelines. European Commission, EudraLex Volume 4. [health.ec.europa.eu](https://health.ec.europa.eu/medicinal-products/eudralex/eudralex-volume-4_en)
+- PIC/S Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients. Pharmaceutical Inspection Co-operation Scheme. [picscheme.org](https://picscheme.org/en/publications)

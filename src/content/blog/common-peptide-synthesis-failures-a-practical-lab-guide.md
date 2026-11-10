@@ -1,419 +1,132 @@
 ---
-title: "Common Peptide Synthesis Failures A Practical Lab Guide"
+title: "Common Peptide Synthesis Failures: A Buyer's Lab Guide"
 slug: "common-peptide-synthesis-failures-a-practical-lab-guide"
-description: "Learn where peptide synthesis fails, what HPLC and mass spectrometry reveal, and how research buyers can evaluate batch quality before laboratory use."
-
-
-
-
-
+description: "Where peptide synthesis fails: incomplete coupling, aspartimide, racemisation, oxidation, and how each impurity shows up in HPLC and mass spectra."
 ---
-This guide examines common peptide synthesis failures a practical lab guide from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
-
-Peptide synthesis rarely fails in one dramatic moment. More often,
-small losses accumulate across dozens of deprotection, coupling,
-washing, cleavage and purification steps. The final material may still
-look normal, yet contain deletion sequences, epimers, oxidized species
-or residual counterions that matter to a sensitive assay.
-
-That is why a useful quality review begins with the sequence and ends
-with orthogonal analytical data. A single purity percentage is
-informative, but it cannot answer every question about identity, content
-or suitability for a particular research design.
-
-This guide explains the most common peptide synthesis failure points,
-how they appear in analytical results and what a research buyer should
-request before committing a batch to an experiment.
-
-## The short version
-
-- Every SPPS cycle creates another opportunity for incomplete coupling
-or incomplete deprotection.
-
-- Long, hydrophobic and aggregation-prone sequences are usually harder
-than short, soluble peptides.
-
-- Aspartimide formation, racemization and oxidation are
-sequence-dependent risks, not universal defects.
-
-- HPLC estimates chromatographic purity; mass spectrometry supports
-molecular identity. Neither measurement alone establishes peptide
-content, sterility or biological activity.
-
-- A good specification is sequence-specific. “99% pure” without a
-method, chromatogram and identity result is not a complete quality
-package.
-
-- The best procurement question is not “Is this supplier good?” but
-“Does the evidence for this exact batch fit the intended laboratory
-use?”
-
-## Why
-solid-phase peptide synthesis accumulates errors
-
-Most synthetic research peptides are produced by solid-phase peptide
-synthesis, or SPPS. The first protected amino acid is attached to a
-resin. The process then repeats a cycle: remove the temporary protecting
-group, activate and couple the next amino acid, wash, and continue until
-the chain is complete.
-
-The method is powerful because excess reagents can drive each step
-toward completion and soluble by-products can be washed away. Its
-weakness is equally clear: the chemistry is repeated many times.
-
-Even excellent stepwise efficiency compounds across a long sequence.
-If each of 29 couplings in a 30-residue peptide reached 99% conversion,
-the simple theoretical fraction of full-length chains would be about 75%
-before purification. Real syntheses are more complex, but the
-calculation illustrates why a small per-cycle loss can produce a
-complicated crude mixture.
-
-The dominant impurity is not always the same. A missed coupling can
-create a deletion sequence. Incomplete deprotection can prevent the next
-residue from attaching. Side-chain chemistry can create a product with
-the correct nominal length but a different structure. Purification must
-separate these closely related species without sacrificing too much
-recoverable target material.
-
-## Failure
-point 1: incomplete coupling and deletion sequences
-
-During coupling, an activated amino acid reacts with the free
-N-terminus of the resin-bound chain. If the reaction does not go to
-completion, some chains advance and others do not. Later cycles can
-continue on both populations, leaving a final impurity that is missing
-one residue.
-
-Deletion peptides can be difficult to remove because they may have
-retention behavior similar to the target. Risk increases when:
-
-- the growing chain aggregates on the resin;
-- the reactive terminus becomes sterically crowded;
-- resin loading is poorly matched to the sequence;
-- the resin does not swell adequately in the chosen solvent;
-- reagent delivery, mixing or activation is inconsistent.
-
-Manufacturing responses can include repeat coupling, lower resin
-loading, alternative coupling chemistry, different solvents, elevated
-temperature, backbone protection or a redesigned fragment strategy.
-There is no single rescue method that is best for every sequence.
-
-## Failure point 2:
-aggregation on the resin
-
-Some growing chains interact with one another through hydrophobic
-contacts and backbone hydrogen bonding. When the resin-bound peptide
-forms persistent secondary structure, coupling reagents may no longer
-reach every reactive site efficiently.
-
-This is the classic “difficult sequence” problem. Warning signs
-during development can include slower deprotection kinetics, incomplete
-coupling tests and a crude chromatogram dominated by closely related
-truncated species.
-
-Hydrophobicity matters, but length alone does not predict difficulty.
-Two peptides of similar length can behave very differently because the
-order of residues changes aggregation, steric accessibility and
-side-reaction risk. A realistic feasibility review should therefore
-examine the exact sequence rather than relying on a generic rule such as
-“under 40 residues is easy.”
-
-## Failure
-point 3: aspartimide and other sequence-specific side reactions
+**Peptide synthesis rarely fails in one step. It fails by accumulation.** Thirty coupling cycles at 98% efficiency each still leave a crude product where roughly half the material is not the full-length target. The vial can look normal, dissolve cleanly, and pass a casual purity check while carrying deletion sequences, diastereomers, and oxidized species that matter to a sensitive assay.
 
-Aspartic acid can undergo base-promoted cyclization during Fmoc
-chemistry, producing an aspartimide intermediate. Subsequent reactions
-may generate a mixture of alpha- and beta-linked products and
-stereoisomers. The risk depends strongly on the neighboring residue,
-protecting groups, base exposure and synthesis conditions.
-
-Other recurring side reactions include:
-
-- racemization during activation or coupling, which changes
-stereochemistry at an amino-acid center;
-
-- oxidation of methionine, cysteine or tryptophan-containing
-sequences;
-
-- disulfide scrambling in peptides whose activity depends on a defined
-disulfide pattern;
-
-- incomplete side-chain deprotection;
-- alkylation or other adduct formation during cleavage;
-- pyroglutamate or diketopiperazine formation in susceptible
-sequences.
-
-These are not reasons to distrust peptide synthesis. They are reasons
-to use sequence-aware methods and to interpret analytical data against
-plausible impurities for that specific molecule.
-
-## Failure point
-4: cleavage and global deprotection
-
-After chain assembly, the peptide is released from the resin and most
-side-chain protecting groups are removed. A cleavage cocktail must be
-strong enough to complete both tasks while limiting damage to sensitive
-residues.
-
-Incomplete cleavage can reduce recovery or leave protected species.
-Overly aggressive or poorly scavenged conditions can generate adducts
-and oxidation products. The correct cocktail, time and temperature
-depend on the resin, linker, protecting groups and sequence.
-
-This stage is also where process history matters. A clean-looking
-final chromatogram does not describe how much material was lost during
-cleavage or purification. Yield and purity are different attributes: a
-difficult process can deliver a highly purified final product at modest
-overall yield.
-
-## Failure
-point 5: purification that hides rather than solves the problem
-
-Preparative reversed-phase HPLC is commonly used to separate the
-target peptide from truncated and modified species. The challenge is
-resolution. Closely related impurities may co-elute with the main peak,
-especially if the analytical method is not sufficiently selective.
-
-A reported purity value is therefore meaningful only in the context
-of the method. Useful supporting information includes:
+The useful question for a buyer is not "did the synthesis fail" but "which failure mode is present, and can I see it in the data I was given". Each failure mode leaves an analytical signature: a mass shift, a retention behaviour, a peak pattern. This guide maps the common failures to those signatures, so a certificate can be read as a process record rather than a score. The [molecular weight verification guide](/blog/peptide-molecular-weight-verification-steps/) covers the mass arithmetic in more detail.
 
-- the full chromatogram rather than a cropped peak;
-- column chemistry and dimensions;
-- mobile phases and gradient;
-- detection wavelength;
-- integration approach;
-- sample concentration and injection conditions;
-- whether the analytical method differs from the preparative
-method.
-
-A second chromatographic method, or a different stationary phase, can
-reveal impurities that the first method does not resolve. For
-high-consequence experiments, orthogonal analysis is more valuable than
-repeatedly measuring the same property with the same technique.
+## Failure Is Cumulative, Not Binary
 
-## What HPLC can — and cannot
-— tell you
-
-Analytical HPLC estimates the fraction of detected chromatographic
-signal associated with the main peak under a defined method. It is well
-suited to comparing related organic species when the separation and
-detector response are appropriate.
+Solid-phase peptide synthesis builds a chain one residue at a time. Each cycle has three chemical steps that must go essentially to completion: deprotection of the N-terminal Fmoc group, coupling of the incoming protected amino acid, and washing to remove excess reagent.
 
-It does not, by itself, prove molecular identity. It also does not
-directly measure the amount of peptide in the vial. Water, counterions
-and non-UV-active components can affect net peptide content without
-appearing as peptide-related peaks at the selected wavelength.
+The arithmetic is unforgiving. A 30-residue peptide at 99% coupling efficiency per step yields 0.99^30, or about 74% full-length material before purification. At 98% per step, the figure is about 55%. At 95%, it is about 21%. Those numbers explain why crude purity for long peptides sits in the 60–85% range even at well-run facilities, and why purification is not optional.
 
-This distinction is easy to miss:
+The corollary is that a crude purity figure tells you something about the process, not just the product, which is why [crude and purified grades](/blog/what-is-crude-vs-purified-peptide/) are not interchangeable. A 40-mer with 85% crude purity indicates unusually good coupling control. A 10-mer with 70% crude purity indicates a problem, because ten cycles cannot lose 30% without a systematic failure.
 
-- **Chromatographic purity** asks how much of the
-detected peptide-like signal belongs to the principal component.
+## Incomplete Coupling, Deprotection, and Truncated Impurities
 
-- **Identity** asks whether that component has the
-expected molecular mass and, where needed, sequence.
+Incomplete coupling leaves a fraction of chains missing the residue just added. When the next residue couples, the chain continues without it, producing a deletion sequence that is one residue shorter than the target.
 
-- **Content** asks how much target peptide is present by
-mass or mole in the material.
-
-Those are three different questions.
+The mass shift equals the mass of the missing residue minus water. For glycine, that is 57.02 Da; for alanine, 71.04 Da; for aspartic acid, 115.03 Da. Because the deletion peptide is often similar in hydrophobicity to the target, it can elute close to the main peak and be integrated as part of it.
 
-## What mass spectrometry adds
-
-Mass spectrometry can show whether the principal component has a mass
-consistent with the intended peptide. High-resolution data may also help
-identify deletion sequences, oxidation products or adducts.
-
-Mass agreement is powerful evidence, but it is not automatically
-complete structural proof. Isomers and epimers can share the same
-nominal mass. A disulfide-rich peptide can have the expected mass while
-containing the wrong connectivity. When structure is critical, the test
-package may need additional methods such as peptide mapping, tandem MS,
-amino-acid analysis or disulfide mapping.
-
-For routine research procurement, a sensible minimum is often an
-analytical chromatogram paired with an identity spectrum for the same
-batch. More complex sequences may justify more.
-
-## Lyophilization, water and
-counterions
-
-After purification, peptide solutions are commonly lyophilized. The
-resulting cake or powder is a formulation state, not a visual purity
-test. Appearance can vary with concentration, salts, excipients and
-freeze-drying conditions.
-
-Residual water and counterions matter because they contribute mass. A
-vial labeled with a gross powder weight does not necessarily contain
-that same weight of peptide base. Where accurate molar concentration is
-important, ask how peptide content was assigned and whether water and
-counterion contributions were evaluated.
-
-Salt form also affects interpretation. Trifluoroacetate may remain
-after TFA-based purification; acetate exchange is possible but should be
-verified rather than assumed. The appropriate form depends on the
-experimental system, analytical requirements and sequence behavior.
-
-## A practical batch-review
-checklist
-
-Before using a peptide in a sensitive experiment, review the exact
-batch rather than a generic product page.
-
-### 1. Confirm the molecular
-definition
-
-Record the sequence, terminal modifications, salt or counterion form,
-expected molecular formula and theoretical mass. For conjugated or
-lipidated peptides, specify the modification site and structure.
-
-### 2. Match the certificate
-to the batch
+Three process factors drive this failure. Steric hindrance from the growing chain makes coupling slower at the middle and C-terminal region of long peptides. Aggregation of the resin-bound chain hides reactive sites. And insufficient reagent excess — below three to five equivalents of activated amino acid — leaves unreacted amine.
 
-The lot number on the vial and analytical report should agree.
-Confirm that the report identifies the same sequence and modification
-state you ordered.
+Competent facilities monitor coupling with a ninhydrin or chloranil test after each step, or with on-resin mass spectrometry at intervals. A facility that cannot describe its monitoring method is relying on the final HPLC to catch a problem that was invisible for twenty cycles.
 
-### 3. Read
-the chromatogram, not only the headline number
-
-Check that the trace is legible, the integration table is present and
-the method is described well enough to interpret the result. A purity
-percentage without its chromatographic context is incomplete.
+Fmoc removal uses 20% piperidine in dimethylformamide, usually for two short treatments rather than one long one. Incomplete deprotection leaves a capped chain that cannot accept the next residue, producing a truncated peptide ending at that position.
 
-### 4. Confirm identity
-separately
-
-Look for mass-spectrometric evidence consistent with the expected
-molecular mass. If the sequence has structural features that mass alone
-cannot distinguish, define the additional test before ordering.
-
-### 5. Decide whether
-content testing is needed
-
-For concentration-sensitive work, consider a content assay such as
-amino-acid analysis or another validated quantitative approach. Do not
-equate HPLC area percentage with milligrams of peptide in a vial.
+The analytical signature is a series of peaks with mass differences that correspond to the residues missing from the C-terminus. A cluster of truncated species is more diagnostic than a single impurity, because it points to a deprotection step that failed repeatedly rather than a one-off coupling problem.
 
-### 6. Plan
-independent verification where it matters
+Piperidine also causes a side reaction: it can form a piperidine amide at aspartic acid residues through aspartimide formation, which is covered below. Longer deprotection times reduce truncation and increase aspartimide. The process window is narrow, which is why deprotection conditions are sequence-specific.
 
-Independent testing can be built into the study budget for new
-suppliers, new sequences, large lots or experiments where a batch
-failure would be especially costly. Retain an unopened sample from the
-same lot if repeat or dispute testing may be needed.
+## Aspartimide Formation and Iso-Aspartate
 
-## How Peptides of China fits into
-a careful sourcing workflow
+Aspartic acid followed by glycine, serine, or threonine is the classic aspartimide motif. Under basic deprotection conditions, the aspartyl side chain attacks the backbone amide, forming a five-membered succinimide ring. Hydrolysis of that ring can reopen at either carbonyl, producing the normal peptide or an iso-aspartate where the backbone runs through the side-chain carboxyl.
 
-Peptides of China coordinates research-compound sourcing,
-availability confirmation and international logistics. For standard
-catalog materials, buyers can review the [research catalog](/catalog/) and
-the site’s [quality information](/peptide-quality/). Sequence-specific or modified projects can be discussed
-through [custom peptide services](/custom-peptide-services/).
+The mass signature is a loss of 18.011 Da for the aspartimide intermediate, and no mass change at all for iso-aspartate, because the formula is identical. This is the failure mode that mass spectrometry cannot see on its own. Separation requires chromatography that resolves the isoform, and confirmation usually requires enzymatic digestion or MS/MS fragmentation that locates the backbone branch.
 
-The useful starting point is a clear specification: exact sequence,
-modification state, target quantity, desired analytical package and the
-intended laboratory context. That gives the manufacturing side a real
-technical brief instead of a vague request for “high purity.”
+The rate depends on sequence, temperature, and the basicity of the deprotection reagent. Piperidine at 20% is standard but aggressive; HOBt or Oxyma additives in the deprotection cocktail reduce aspartimide formation. A facility that runs every sequence on the same deprotection protocol will produce higher iso-aspartate levels on Asp-Gly motifs.
 
-Peptides of China is a sourcing platform rather than an independent analytical
-laboratory. Batch documents should be evaluated on their actual content,
-and buyers remain free to commission independent analysis when their
-research design calls for it. If you need help defining a sourcing
-request, [contact the Peptides of China team](/contact/) with the sequence and required tests.
+## Racemisation and Oxidation
 
-## The bottom line
+Racemisation converts an L-residue to its D-enantiomer. The peptide gains no mass and changes little in hydrophobicity, so it can co-elute with the target and pass a mass check. The consequence is a diastereomer that behaves differently in a binding assay while looking identical on a certificate. The [characterization checklist](/blog/peptide-characterization-reporting-checklist/) lists the methods that can resolve it.
 
-The most common peptide synthesis failures are understandable
-chemical events: incomplete reactions, aggregation, sequence-specific
-side reactions, cleavage artifacts and insufficient separation. None can
-be ruled out by appearance or by a supplier’s reputation alone.
+Cysteine is the highest-risk residue because the thiol side chain is acidic and the alpha proton is labile under the basic conditions used for Fmoc removal. Histidine is the second, through imidazole-catalysed proton exchange. Coupling reagents that activate without strong base, such as HATU with a hindered tertiary amine, reduce the risk compared with older carbodiimide methods.
 
-The reliable approach is simple: define the molecule precisely,
-request batch-specific evidence, use complementary analytical methods
-and match the depth of testing to the cost of a wrong result. That turns
-peptide procurement from a trust exercise into a documented laboratory
-decision.
+Detection requires chiral chromatography, Marfey's reagent derivatisation followed by LC-MS, or careful MS/MS analysis. Most research certificates do not include a racemisation check, and most buyers do not ask for one. For a peptide where a single stereocentre determines activity, that gap is worth closing.
 
-## Frequently asked questions
+Methionine oxidises to methionine sulfoxide, adding 15.995 Da. Tryptophan oxidation adds the same mass for the first oxidation product and can proceed further. The reaction is driven by oxygen, light, and trace metals, and it can happen during synthesis, purification, lyophilisation, or storage.
 
-### What is the
-most common peptide synthesis failure?
+On HPLC, oxidized species usually elute earlier than the reduced form because the sulfoxide is more polar. A pair of peaks separated by a small retention difference, with masses 16 Da apart, is the classic pattern. A certificate that reports 98% purity may be counting the oxidized variant as part of the main peak if the gradient is too steep to resolve it.
 
-Incomplete coupling is one of the most common problems in SPPS and
-can create deletion sequences. In practice, aggregation, incomplete
-deprotection and sequence-specific side reactions may be equally
-important depending on the peptide.
+Control measures are mundane and effective: sparge buffers with nitrogen, avoid metal contact, protect from light, and add a sacrificial reductant where the chemistry allows. A supplier that ships a methionine-containing peptide in a clear vial with no desiccant has not controlled the most likely degradation pathway.
 
-### Does a 99%
-HPLC result prove the peptide is correct?
+## Aggregation and On-Resin Difficulties
 
-No. It indicates that the principal peak accounts for approximately
-99% of detected chromatographic signal under that method. Identity
-should be supported separately, commonly by mass spectrometry, and HPLC
-purity does not equal peptide content.
+Hydrophobic sequences and those with a high propensity for beta-sheet structure can aggregate on the resin. Aggregated chains bury reactive sites, slowing coupling and deprotection, which produces a crude product rich in deletion and truncation impurities.
 
-### Why are long
-peptides harder to synthesize?
+Sequence features that predict trouble include runs of hydrophobic residues, alternating hydrophobic-hydrophilic patterns, multiple cysteines, and long stretches without a turn-forming residue. A facility that recognises these features will switch to a lower-loading resin, use a solvent mixture with a chaotrope, or apply a pseudoproline dipeptide to disrupt secondary structure.
 
-They require more repeated reaction cycles, so small per-step losses
-accumulate. Longer chains may also aggregate on the resin and generate
-truncated impurities that are difficult to separate from the target.
+For the buyer, the signal is a crude purity that is much lower than the peptide length would predict, combined with a broad or split main peak. A split peak often indicates two conformers or a partially epimerised product rather than two distinct impurities.
 
-### Can mass
-spectrometry detect every synthesis error?
+## Cleavage Side Reactions and Counterion Residues
 
-No. It is excellent for confirming mass and detecting many modified
-or truncated species, but some isomers, epimers and
-disulfide-connectivity errors can share the expected mass. Additional
-methods may be needed.
+Cleavage from the resin uses 95% trifluoroacetic acid with scavengers. The reaction is aggressive, and side products form when scavengers are inadequate or the cleavage time is too long.
 
-### What
-should a peptide certificate of analysis include?
+Common artefacts include tert-butyl cation adducts from protecting groups, formylation from residual formaldehyde, and acetylation from acetic acid in the cocktail. Mass shifts are +56.06 for tert-butyl, +28.01 for formyl, and +42.01 for acetyl. These are usually minor peaks, but they matter when the specification is tight.
 
-At minimum, it should identify the product and batch, report the
-analytical method and provide evidence for purity and identity. Complex
-or concentration-sensitive studies may also require content, water,
-counterion, residual-solvent or structural tests.
+The cleavage step also sets the counterion. The peptide leaves as the trifluoroacetate salt, and that is what the certificate describes unless an exchange step follows. Confusing the counterion with an impurity is a common buyer error: a 113.99 Da offset is a trifluoroacetate adduct, not a synthesis defect.
 
-### Is independent testing
-always necessary?
+## Reading the Analytical Signature
 
-Not for every exploratory experiment. It is most valuable for
-unfamiliar suppliers, custom sequences, large lots and studies where a
-wrong batch would invalidate substantial work. The testing plan should
-reflect experimental risk.
+The table below maps each failure mode to its mass shift, its chromatographic behaviour, and the method that confirms it.
 
-### Does
-a sticky or collapsed lyophilized cake prove degradation?
+| Failure mode | Mass shift | HPLC behaviour | Confirmatory method |
+|---|---|---|---|
+| Deletion of Gly | −57.02 Da | Often co-elutes with target | MS/MS sequence coverage |
+| Deletion of Ala | −71.04 Da | Close to target | MS/MS |
+| Deletion of Asp | −115.03 Da | Earlier elution | MS/MS |
+| Incomplete deprotection | Series of −residue masses | Cluster of truncated peaks | MS with deconvolution |
+| Aspartimide | −18.01 Da | Distinct earlier peak | MS plus digestion |
+| Iso-aspartate | 0 Da | Closely eluting isomer | MS/MS or enzymatic digest |
+| Racemisation | 0 Da | Co-elutes | Chiral HPLC or Marfey's reagent |
+| Methionine oxidation | +15.99 Da | Earlier elution | MS/MS at the Met residue |
+| TFA adduct | +113.99 Da | Broadened peak | Ion chromatography or MS adduct pattern |
+| Sodium adduct | +21.98 Da | Variable | ICP-MS or ion chromatography |
 
-No. Appearance can be influenced by residual water, salts, excipients
-and the freeze-drying cycle. It is a reason to investigate with
-appropriate analytical data, not a diagnosis by itself.
+Two rows deserve emphasis. Iso-aspartate and racemisation have no mass signature, so a certificate built on HPLC plus MS1 cannot detect them, a limitation the [COA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) returns to. If the peptide's activity depends on backbone geometry or a single stereocentre, the release panel needs a method that can see the difference.
 
-## Technical references
+Not every peptide carries the same risk. The matrix below groups sequences by the failure modes most likely to appear, which helps a buyer decide what to test rather than testing everything.
 
-1. Coin I, Beyermann M, Bienert M. Solid-phase peptide synthesis: from
-standard procedures to the synthesis of difficult sequences. *Nature Protocols*. 2007;2:3247–3256. https://pubmed.ncbi.nlm.nih.gov/18079725/
+| Sequence feature | Higher risk | Extra check worth requesting |
+|---|---|---|
+| Asp-Gly or Asp-Ser motif | Aspartimide, iso-aspartate | MS/MS with backbone coverage |
+| Multiple cysteines | Wrong disulfide pairing, dimer | Non-reducing HPLC, mass of dimer |
+| C-terminal cysteine or histidine | Racemisation | Chiral analysis |
+| Methionine or tryptophan | Oxidation | Mass spec for +16 Da species |
+| Long hydrophobic stretch | Aggregation, deletion | Crude purity history, peak shape |
+| Over 30 residues | Cumulative deletion | MS/MS coverage percentage |
+| N-terminal glutamine | Pyroglutamate formation | Mass shift −17.03 Da |
 
-2. Behrendt R, White P, Offer J. Advances in Fmoc solid-phase peptide
-synthesis. *Journal of Peptide Science*. 2016;22:4–27. https://pmc.ncbi.nlm.nih.gov/articles/PMC4745034/
+## What a Buyer Should Ask When a Batch Fails
 
-3. Paradís-Bas M, Tulla-Puche J, Albericio F. The road to the synthesis
-of “difficult peptides.” *Chemical Society Reviews*.
-2016;45:631–654. https://pmc.ncbi.nlm.nih.gov/articles/PMC7064641/
+A failed batch is a data problem before it is a commercial one. The first step is to establish whether the failure is in the material or in the measurement.
 
-4. Palasek SA, Cox ZJ, Collins JM. Limiting racemization and
-aspartimide formation in microwave-enhanced Fmoc solid phase peptide
-synthesis. *Journal of Peptide Science*. 2007;13:143–148. https://pubmed.ncbi.nlm.nih.gov/17121420/
+Ask for the raw chromatogram with the peak table, not the summary. Compare the retention times and peak areas with the certificate. If the impurity peaks are present in the raw data but absent from the summary table, the reporting threshold is the issue.
 
-## China Peptides Sourcing Perspective
+Ask for the mass spectrum with charge states. A deconvoluted mass alone hides adducts and mixed populations. If the main peak deconvolutes to the target mass but the raw spectrum shows a second envelope, the sample contains two species.
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+Ask which method was used and whether it was validated for this sequence. A generic 15-minute gradient is not a validated method for a 40-mer, and comparing its result with a supplier's 30-minute gradient produces a difference that neither party can explain.
 
-## Related Products
+Then decide the disposition. A minor impurity at 0.3% area is usually acceptable for research work. A deletion sequence at 2% that co-elutes with the target is not, because it changes the effective concentration of the material in every assay. The [HPLC versus LC-MS guide](/blog/hplc-vs-lc-ms-peptides/) explains how to read the two data sets together, the [purity versus concentration guide](/blog/why-purity-and-concentration-tests-are-not-enough/) covers the mass-balance question that follows, and the [quality testing pillar](/peptide-quality-testing/) sets out the full release panel.
 
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+## The Author's Take
+
+**Position.** A peptide certificate that reports HPLC purity and a single deconvoluted mass has not demonstrated that the batch is free of the two failure modes most likely to ruin an assay: iso-aspartate and racemisation. Buyers working with Asp-Gly motifs or chiral-sensitive targets should commission the extra method rather than assume the release panel covered it.
+
+**Reasoning.** Both defects are isobaric with the target. They add no mass, change the formula by nothing, and often elute close enough to be integrated as part of the main peak. A supplier running a standard panel is not hiding them; the panel simply cannot see them. The cost of chiral chromatography or a digestion plus MS/MS experiment is small compared with repeating a study whose results were confounded by a diastereomer. The same logic applies to oxidation: a 16 Da species is easy to detect if the method resolves it and easy to miss if the gradient is steep. Buyers who specify the method, not just the purity threshold, get data that can answer the question they actually have.
+
+**Disclosure.** Peptides of China sells research peptides. This article describes synthesis chemistry and procurement judgment; it is not an effects claim, a dosing guide, or medical advice. Products referenced on this site are supplied for laboratory research use only. Impurity profiles vary by sequence and batch, and buyers should request the analytical data for the specific lot they intend to use.
+
+## Sources
+
+- Merrifield, R. B. Solid Phase Peptide Synthesis. I. The Synthesis of a Tetrapeptide. *Journal of the American Chemical Society* 85, 2149–2154 (1963). [doi:10.1021/ja00897a025](https://doi.org/10.1021/ja00897a025)
+- Fields, G. B., Noble, R. L. Solid phase peptide synthesis utilizing 9-fluorenylmethoxycarbonyl amino acids. *International Journal of Peptide and Protein Research* 35, 161–214 (1990). [doi:10.1111/j.1399-3011.1990.tb00939.x](https://doi.org/10.1111/j.1399-3011.1990.tb00939.x)
+- Kaiser, E., Colescott, R. L., Bossinger, C. D., Cook, P. I. Color test for detection of free terminal amino groups in the solid-phase synthesis of peptides. *Analytical Biochemistry* 34, 595–598 (1970). [doi:10.1016/0003-2697(70)90146-6](https://doi.org/10.1016/0003-2697%2870%2990146-6)
+- Sarin, V. K., Kent, S. B. H., Tam, J. P., Merrifield, R. B. Quantitative monitoring of solid-phase peptide synthesis by the ninhydrin reaction. *Analytical Biochemistry* 117, 147–157 (1981). [doi:10.1016/0003-2697(81)90704-1](https://doi.org/10.1016/0003-2697%2881%2990704-1)
+- ICH Q6B Specifications: Test Procedures and Acceptance Criteria for Biotechnological/Biological Products. International Council for Harmonisation. [database.ich.org](https://database.ich.org/sites/default/files/Q6B%20Guideline.pdf)
+- USP &lt;621&gt; Chromatography. United States Pharmacopeia. [usp.org/usp-nf](https://www.usp.org/usp-nf)
+- ICH Q2(R2) Validation of Analytical Procedures (2023). International Council for Harmonisation. [database.ich.org](https://database.ich.org/sites/default/files/ICH_Q2%28R2%29_Guideline_2023_1130.pdf)
+- FDA Guidance for Industry: Bioanalytical Method Validation (2018). U.S. Food and Drug Administration. [fda.gov](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/bioanalytical-method-validation-guidance-industry)
