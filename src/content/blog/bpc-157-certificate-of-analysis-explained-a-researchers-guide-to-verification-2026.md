@@ -1,121 +1,125 @@
 ---
-title: "Bpc 157 Certificate Of Analysis Explained A Researchers Guide To Verification 2026"
+title: "BPC-157 Certificate of Analysis: How to Verify a Lot in 2026"
 slug: "bpc-157-certificate-of-analysis-explained-a-researchers-guide-to-verification-2026"
-description: "Get your BPC-157 certificate of analysis explained by a B2B insider. Learn to verify HPLC/MS data, spot reused COAs, and reduce supply chain uncertainty."
-
-
-
-
+description: "Read a BPC-157 COA line by line: lot linkage, HPLC integration, ESI-MS charge states, water and counterion results, net peptide content, and endotoxin limits."
 ---
-This guide examines bpc 157 certificate of analysis explained a researchers guide to verification 2026 from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
+A BPC-157 certificate of analysis is a lot-specific record, not a product brochure. It should connect the vial in your hand to a tested sample, name the method and instrument behind each number, and report identity, purity, water, counterion, content, and endotoxin as separate results. If any of those links is missing, the document cannot tell you what is in the vial.
 
-A certificate of analysis is useful when you can connect its results to the material you received and understand what was actually measured. A document headed “BPC-157, 99% purity” is only a starting point. The important questions are which sample was tested, what the analytical method could detect, and whether the result answers your research question.
+BPC-157 is a fifteen-residue synthetic peptide, sequence GEPPPGKPADDAGLV, with a monoisotopic mass near 1419.5 Da. That size is easy to synthesise and easy to mischaracterise: a single deletion, an extra glycine, or a missed deprotection changes the mass by enough to matter but not always by enough to be obvious on a low-resolution instrument. This guide walks through the fields that decide a review, with worked examples. The numbers below are illustrative, not results for a Peptides of China lot.
 
-This guide walks through those checks, including an illustrative chromatogram calculation and a practical way to handle incomplete documentation. The examples below are fictional. They are not results for a Peptides of China product or a substitute for testing a received sample.
+## Identity, Purity, and Content Are Three Different Questions
 
-## Start with three different questions
+The most common reading error is collapsing three measurements into one percentage. Identity asks whether the analytical evidence supports the claimed sequence. Purity describes the relative UV signal of components separated by a particular method. Content asks how much of the intended peptide is present on a defined mass basis.
 
-Identity asks whether the analytical evidence supports the claimed compound. Chromatographic purity describes the relative signals of components detected and separated by a particular method. Content asks how much of the intended peptide is present on a defined basis.
+A lot can be 99% pure by HPLC area and still contain 80% peptide by mass. It can also be 99% pure and be the wrong sequence, because a co-eluting analogue with a similar retention time will integrate as one peak. Mass spectrometry addresses identity; amino acid analysis addresses content; neither is a purity test. The [field-by-field COA guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) covers the general document; this page applies it to BPC-157.
 
-These measurements should not be collapsed into one percentage. A sample can produce a dominant HPLC peak without establishing the amount of BPC-157 in a vial. An LC-MS result consistent with an expected mass can support identity without quantifying every impurity. A quantitative assay can estimate content, but its meaning still depends on the reference material, sample preparation and calculation basis.
+| Question | Method that answers it | Result format | What it cannot tell you |
+| --- | --- | --- | --- |
+| Is this BPC-157? | ESI-LC-MS or MALDI-TOF, with charge states or sequence coverage | Mass spectrum with tolerance | Purity or quantity |
+| How clean is the lot? | RP-HPLC at 214–220 nm with full integration | Area % table and chromatogram | Identity or net content |
+| How much peptide is in the vial? | Amino acid analysis or nitrogen determination | % w/w net content | Impurity profile |
+| Is it safe for cell work? | LAL endotoxin assay, sterility by USP &lt;71&gt; where claimed | EU/mg and pass/fail | Chemical purity |
 
-NIST's work on peptide quantification compares HPLC assay, quantitative NMR and amino-acid analysis. It illustrates why peptide content is a measurement problem of its own, rather than a number obtained by reading a chromatographic purity result. [NIST peptide quantification study](https://www.nist.gov/publications/survey-peptide-quantification-methods-and-their-reproducibility-comparison-case-study)
+## Lot Linkage Comes Before Chemistry
 
-## Match the document to the received material
+Start with the identifier string. The lot number on the vial label, the certificate, and the packing list should match character for character. Format drift can be a typing convention, but it can also be a relabelled product. Ask which record is authoritative and whether the batch record shows the same string.
 
-Before interpreting a graph, create a short record containing:
+Then read the dates as a sequence: synthesis, purification, test, report issue. A test date before synthesis is impossible. A report issued three months after testing is ordinary. A certificate created a week before shipping, for a lot tested two years earlier, raises a storage question that the supplier should answer.
 
-- The compound name and stated chemical form, including any salt or counterion information.
-- The supplier lot, received-vial identifier and your own laboratory sample identifier.
-- The report number, issuing laboratory, issue date and revision, if any.
-- The sample description, submission date and test date where available.
-- The result, units, acceptance limit and method reference for each reported test.
+Fill mass belongs in the linkage check. One certificate covering 5 mg and 10 mg vials describes the bulk material, not each fill. That is acceptable when the certificate says so and states the fill mass. It is not acceptable when it implies every vial was individually tested. For BPC-157, where 5 mg and 10 mg presentations are common, this distinction appears often.
 
-Keep photographs of the received labels with the order record and original report. If your laboratory divides the material into new containers, preserve the relationship between those containers and the received sample.
+Ask for the batch record rather than another certificate. It shows the synthesis run, the purification fractions pooled, the fill step, and the yield. A manufacturer with in-house production usually has one and will share a redacted copy. A reseller frequently does not, which is itself a useful answer. The [documentation package comparison](/blog/peptide-documentation-package/) explains what each supplier type can supply.
 
-A matching lot number is necessary for interpreting a lot-specific claim, but it does not independently establish how the tested sample was selected. Ask who submitted it, what it represented and whether the report concerns raw material, finished vials or a separately prepared reference sample. A genuine report for the wrong material cannot answer the question you are asking.
+## Reading the HPLC Section
 
-For example, suppose a report identifies “BPC-157 raw material, lot A,” while the received vials carry finished-product lot B. The next step is to request the documented relationship between those lots. Do not silently assume that a raw-material result also verifies vial filling, subsequent handling or the amount in each finished vial.
+A usable BPC-157 HPLC report includes the column, dimensions, particle size, mobile phase, gradient, flow rate, injection volume, detection wavelength, run time, and integration table. A typical method uses a C18 column at 4.6 × 250 mm and 5 µm, 0.1% TFA in water and acetonitrile, a 5–65% organic gradient over 30 minutes, 1.0 mL/min, a 20 µL injection, and 220 nm detection.
 
-## Read an HPLC result beyond the headline percentage
+The integration table should list every peak with retention time, area, area %, and height. A worked example: the main peak at 12.84 minutes has an area of 8,327 mAU·s against a total integrated area of 8,412 mAU·s, giving 99.0% by area. Three impurities at 0.4%, 0.3%, and 0.3% account for the remainder. If the table lists only the main peak and reports 100.0%, the chromatogram was not integrated against anything and the figure carries no information.
 
-A useful chromatographic record includes the chromatogram, peak table and sufficient method information to interpret them. Look for the detection wavelength, column information, run conditions or an identifiable method reference, integration settings where relevant, and the basis used to calculate the reported purity.
+System suitability separates a controlled run from a single injection. Six replicate injections should hold peak-area RSD at ≤2.0% and retention-time RSD at ≤1.0%, with resolution of at least 1.5 to the nearest impurity and peak symmetry between 0.8 and 1.5. A report that omits suitability data may still be valid, but you cannot tell whether the run was in control.
 
-Here is a simplified example. A peak table contains a main peak with area 985,000 and two other included peaks with areas 10,000 and 5,000. The total included area is 1,000,000. Simple area normalization therefore gives the main peak 98.5% of that total.
+Wavelength deserves a second look. At 220 nm, the peptide bond absorbs and most related impurities appear. At 280 nm, only aromatic residues respond; BPC-157 contains no tryptophan and no tyrosine, so a 280 nm run is close to blind to the molecule. A certificate quoting a 280 nm purity for BPC-157 has a method problem, not a purity result.
 
-That calculation says nothing by itself about milligrams in a vial. It describes the included detector signals under the stated conditions. Before accepting the number, ask:
+## Reading the Mass Spectrum
 
-- Were all relevant peaks included, and were any excluded as blanks, solvent signals or below a reporting threshold?
-- Is a small nearby peak separated from the main peak, or could it overlap?
-- Was the main peak assigned using adequate supporting evidence rather than simply choosing the largest peak?
-- Does the method use uncorrected peak area, a reference standard or response-factor corrections?
+Mass spectrometry answers a narrower question than most buyers assume: is the measured mass consistent with the proposed structure? For BPC-157, the monoisotopic mass is approximately 1419.5 Da. Unit-resolution LC-MS commonly accepts ±0.5 Da; a high-resolution instrument at 60,000 resolution can hold ±5 ppm, which at this mass is roughly ±0.007 Da.
 
-Different compounds can produce different detector responses. Waters documents how relative response factors are used to correct impurity areas in its chromatography software. A report should make clear whether such corrections apply rather than leave the reader to treat every area percentage as a mass percentage. [Waters: impurity response factors](https://support.waters.com/KB_Inf/Empower_Breeze/WKB14718_How_is_the_Impurity_RRF_field_in_the_components_tab_in_the_processing_method_within_Empower_used)
+Charge states belong on the report. For BPC-157 at 1419.5 Da, the [M+2H]2+ ion sits near m/z 710.8 and the [M+3H]3+ ion near m/z 474.2. A certificate that labels 710.8 as the molecular weight has misread its own spectrum. Sodium adducts add 21.98 Da and potassium adducts add 37.96 Da, so a signal at 1441.5 is the sodium adduct, not a second peptide.
 
-A clean-looking graph is not enough to resolve co-elution or components the method does not detect adequately. Conversely, a small additional peak is not, by itself, proof of a dangerous contaminant: identifying and quantifying it requires suitable evidence. The useful response to an unexplained feature is a technical question, not an accusation or a reassuring guess.
+Sequence coverage is stronger evidence than an intact mass. Tandem MS fragments the peptide and assigns b- and y-ions across the chain. A report that shows coverage of the N-terminal, middle, and C-terminal regions is harder to forge than a single intact mass, and it catches deletion analogues that share a similar mass. For a 15-mer, full coverage is achievable on a routine instrument. The [molecular weight verification guide](/blog/peptide-molecular-weight-verification-steps/) explains the arithmetic in more detail.
 
-## Read mass spectrometry as identity evidence
+## Water, Counterion, and Net Peptide Content
 
-Mass spectrometry measures mass-to-charge ratio. Peptides may produce several charge states, so the number beside a spectral peak is not necessarily the neutral molecular mass. Deconvolution is one way to interpret a multiply charged spectrum and calculate the corresponding molecular mass. [Agilent: spectral deconvolution](https://openlab.help.agilent.com/2.8/en/mergedProjects/DataAnalysis/DA_MSDeconvolution.htm)
+A lyophilised BPC-157 vial is not pure peptide. It contains water, residual trifluoroacetic acid or acetate, and possibly residual solvents from purification. Each is measured separately, and together they determine how much peptide a milligram of powder actually contains.
 
-For a BPC-157 report, ask the laboratory to state the expected analyte, the observed result, the charge-state or deconvolution interpretation and the acceptance criterion. Check whether a quoted mass is monoisotopic or average mass before treating two differently expressed values as a contradiction. If the report mentions an adduct, request the assignment rather than adding or subtracting numbers yourself to force a match.
+Karl Fischer titration, coulometric for 50–100 mg samples, commonly specifies ≤5.0% w/w water, with well-controlled cycles landing at 1–3%. Ion chromatography quantifies the counterion: residual TFA is usually held to ≤1.0% w/w, while an acetate salt carries 5–15% acetate by mass depending on the number of basic residues. BPC-157 has several basic residues, so the counterion load is not trivial.
 
-An intact-mass match supports a particular claim; it is not a complete sequence determination. Where sequence confirmation matters, suitable tandem mass spectrometry can provide fragment evidence. Agilent distinguishes peptide mass measurement by LC-MS from sequence confirmation using MS/MS fragmentation. The actual coverage and limitations still need to be stated for the sample. [Agilent: peptide characterization](https://www.agilent.com/en/p/software-informatics/mass-spectrometry/bioconfirm)
+Amino acid analysis gives net peptide content. Hydrolyse the sample, separate the amino acids, and compare molar recovery against the theoretical composition. For many lyophilised BPC-157 salts, 75–90% w/w is a realistic range. A 5 mg fill at 82% content holds 4.1 mg of peptide, not 5.0 mg. That gap propagates through every dilution downstream, which is why content belongs on the certificate rather than in a footnote.
 
-In a document review, a sensible conclusion may therefore be “the reported mass is consistent with the stated analyte under this method,” rather than “the entire identity and purity are proven.”
+The choice of salt also affects handling. TFA salts are common in research peptides and can be hygroscopic; acetate salts behave differently in aqueous solution. The [TFA removal guide](/blog/tfa-removal-peptides/) covers the trade-offs.
 
-## Clarify what a vial quantity means
+## Endotoxin and Sterility Fields
 
-A vial label and an analytical content result are different records. Ask whether a stated quantity refers to peptide content, material as received, or another defined basis. Water, counterions and formulation components can affect the relationship between total material mass and peptide mass.
+Endotoxin is a separate attribute with its own method. The LAL assay reports in EU/mg or EU/vial against a stated limit. For cell-based work, a common internal limit is below 1 EU/mg, but the right limit depends on the assay and the positive control. A certificate that says "endotoxin free" without a method, a limit, and a numeric result has not reported anything usable.
 
-NIST's peptide-purity research examines mass balance and other approaches to assigning peptide mass fraction. The broader lesson for procurement is simple: the quantity basis must be explicit. This does not mean every project needs every analytical technique. It means a project that depends on content needs a suitable content measurement, not a chromatogram relabeled as an assay. [NIST: peptide mass-fraction measurement](https://www.nist.gov/publications/state-art-and-trends-si-traceable-value-assignment-purity-peptides-using-model-compound)
+Sterility is separate again. USP &lt;71&gt; requires a validated method, appropriate media, and incubation controls. A "sterile" claim on a research peptide certificate should be backed by a report, not a filtration statement. If the supplier did not run the test, the claim should be removed rather than softened.
 
-## Use specifications and test reports for different purposes
+Both attributes are lot-specific. A sterility report for a bulk lot does not automatically cover a later fill, and an endotoxin result for one vial does not establish homogeneity across the run. Ask how many vials were sampled and whether the sample was taken before or after fill.
 
-A specification states the properties and acceptance limits that material is expected to meet. A test report records measurements on an identified sample. Keep both where available, and do not present one as the other.
+## A BPC-157 COA Checklist
 
-Peptides of China's current documentation approach is explained in the [quality and ordering FAQ](/faq/). Product-specific specifications and available quality information should be checked for the item being considered. Do not assume that a seller-issued independent laboratory COA is included with every product or that a report about another sample verifies the material you receive.
+| Field | Acceptable entry | Red flag |
+| --- | --- | --- |
+| Product identity | BPC-157, sequence GEPPPGKPADDAGLV, formula and salt form | Name only, no sequence or counterion |
+| Lot linkage | Same lot string on vial, COA, and packing list | Certificate lot appears nowhere else |
+| Date sequence | Synthesis ≤ purification ≤ test ≤ report | Test date before synthesis |
+| HPLC method | Column, gradient, flow, injection, wavelength, run time | "HPLC" with no conditions |
+| Purity integration | Full peak table with areas and area % | Single peak reported as 100.0% |
+| Mass identity | Charge states annotated, or deconvoluted mass with tolerance | m/z labelled as molecular weight |
+| Water | Karl Fischer result in % w/w with limit | Absent on a lyophilised powder |
+| Counterion | Identity and % w/w by ion chromatography | "TFA salt" with no measured value |
+| Net content | AAA result in % w/w with method | Purity percentage repeated as content |
+| Endotoxin | LAL format, limit, numeric EU/mg | "Endotoxin free" |
+| Sterility | USP &lt;71&gt; report or no claim | "Sterile" with no report |
+| Release | Analyst, reviewer, signature, date | Blank signature block |
 
-Where the research requires independent confirmation, arrange testing of the received material with a suitably qualified laboratory. Agree the questions before commissioning the work: identity, impurity profile and content can require different measurements. Include the sample identifiers and expected chemical form in the laboratory brief, and retain the resulting report with your receipt records.
+Twelve rows is a low bar. Most certificates pass six or seven.
 
-## A practical review decision
+## How Reused and Template COAs Fail
 
-Consider a fictional packet with a matching vial and report lot number, a 98.5% area-normalized HPLC result, and a mass result described as consistent with BPC-157. No quantitative content result is included.
+A template certificate usually fails on linkage rather than chemistry. The same report number appears for two products, the lot string is generic, or the dates are internally impossible. A reused certificate is harder to spot: the document is genuine, but it belongs to another batch.
 
-A defensible review would record:
+Three checks catch most cases. First, compare the certificate's lot string with the vial label and the packing list. Second, ask for the raw chromatogram file and check that its acquisition date matches the test date. Third, ask for the batch record and see whether the fill date precedes the shipping date. A supplier that can produce all three has a chain; one that cannot has a document.
 
-- Document linkage: matching identifiers, with the sample-submission history still to be confirmed.
-- Chromatography: reported main-peak area percentage, subject to the stated method and integration.
-- Identity: mass-consistency evidence, not a blanket claim of complete sequence verification.
-- Content: not established by the supplied results.
-- Further work: request missing method or sample information; commission a suitable content assay if the study depends on it.
+Chemical inconsistencies also show up. A BPC-157 certificate reporting a 280 nm purity, a molecular weight of 710.8, or a single peak at 100.0% is describing something other than a clean run. None of these proves fraud, but each removes a check you would otherwise rely on. The [COA authentication protocol](/blog/coa-verified-peptides-supplier-how-to-authenticate-research-purity-in-2026/) sets out the supplier-side questions.
 
-This is more useful than a single “pass” based on the largest number on the page. Acceptance should follow the project's predefined requirements. ICH Q2(R2) describes validation in terms of fitness for an intended purpose and distinguishes identity, assay and impurity measurements. Its pharmaceutical framework offers useful analytical principles here; citing it does not establish regulatory compliance or approval of a research product. [ICH Q2(R2), final FDA guidance](https://www.fda.gov/media/161201/download)
+## When to Commission Independent Testing
 
-## Common questions
+Desk review catches documentation gaps. It does not catch a well-forged certificate or a genuine certificate for a substituted lot. Independent testing answers that when the stakes justify the cost.
 
-### Does “99% HPLC purity” mean a 10 mg vial contains 9.9 mg of BPC-157?
+Commission it for a new supplier's first order, for a lot expensive enough that a failed experiment matters, for any discrepancy found during desk review, and for material intended for published or audited work. Routine reorders from a supplier with a consistent record rarely need a full panel.
 
-No. That conclusion would confuse a detector-area result with a quantitative content measurement and assume a quantity basis that may not have been established.
+A workable BPC-157 panel covers purity by RP-HPLC at 220 nm, identity by ESI-MS with charge states, water by Karl Fischer, counterion by ion chromatography, and net content by amino acid analysis. Add LAL endotoxin for cell-based work, and MS/MS sequencing if the sequence is in question. Send three vials from the lot, not one, and retain a fourth at −20 °C for retest. Code samples by lot, not by supplier name; blinding costs nothing and removes a category of bias.
 
-### Can I compare purity percentages from two laboratories?
+The [HPLC and LC-MS comparison](/blog/hplc-vs-lc-ms-peptides/) explains why the two methods are not interchangeable. For a compound as widely traded as [BPC-157](/catalog/bpc-157/), independent data is often the only way to distinguish a controlled lot from a relabelled one.
 
-Only after understanding the methods and reporting bases. Different separation, detection, integration and reporting practices can make headline numbers non-equivalent. Ask the laboratories to explain material differences before ranking the samples.
+## The Author's Take
 
-### Does a genuine COA prove the received vial was tested?
+**Position.** A BPC-157 certificate is worth reading backwards: start with the lot string, then the dates, then the raw data, and only then the purity number. If the first three agree, the chemistry is usually worth checking. If they do not, the chemistry is irrelevant. Buyers who reverse that order tend to pay for a document rather than a lot.
 
-No. Report authenticity and sample traceability are separate questions. A laboratory can confirm a report's authenticity while the connection to your vial still needs supporting records.
+**Reasoning.** BPC-157 is small enough to synthesise almost anywhere and common enough that certificates get copied. The analytical methods are standard; the failure mode is attribution, not technique. A 99% peak attached to the wrong vial is worse than an 97% peak attached to the right one, because it creates false confidence. The checks that resolve attribution are cheap: label photographs, date arithmetic, a raw file request, and one contract laboratory run on three vials. None of them requires a site visit.
 
-### What should I do if information is missing?
+**Disclosure.** Peptides of China sells research peptides. This article is sourcing judgment, not an effects claim, and BPC-157 is discussed for research use only. It is not medical advice and does not describe human use. Commercial terms are stated on the [how sourcing works](/how-it-works/) page.
 
-List the specific gap and ask the document provider or testing laboratory to clarify it. Missing information is a reason to withhold an unsupported conclusion, not evidence by itself that the supplier committed fraud.
+## Sources
 
-A COA does not by itself establish sterility, endotoxin status, biological potency or clinical suitability. This article is for research-documentation review only and provides no dosing, administration or human or animal use instructions.
-
-## Related Products
-
-- [Buy BPC-157](/catalog/bpc-157/)
-
-## China Peptides Sourcing Perspective
-
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+1. NIST, Survey of peptide quantification methods and their reproducibility: a case study. https://www.nist.gov/publications/survey-peptide-quantification-methods-and-their-reproducibility-comparison-case-study
+2. ICH Q2(R2), Validation of Analytical Procedures (2023). https://database.ich.org/sites/default/files/ICH_Q2%28R2%29_Guideline_2023_1130.pdf
+3. ICH Q6A, Specifications: Test Procedures and Acceptance Criteria for New Drug Substances and New Drug Products (1999). https://database.ich.org/sites/default/files/Q6A%20Guideline.pdf
+4. FDA, Analytical Procedures and Methods Validation for Drugs and Biologics (2015). https://www.fda.gov/regulatory-information/search-fda-guidance-documents/analytical-procedures-and-methods-validation-drugs-and-biologics
+5. FDA, Pyrogen and Endotoxins Testing: Questions and Answers (2012). https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pyrogen-and-endotoxins-testing-questions-and-answers
+6. 21 CFR 211.194, Laboratory records. https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211/subpart-J/section-211.194
+7. D'Hondt M, et al. Related impurities in peptide medicines. Journal of Pharmaceutical and Biomedical Analysis. 2014;101:2–30. https://doi.org/10.1016/j.jpba.2014.06.012
+8. Sikiric P, et al. Stable Gastric Pentadecapeptide BPC 157 and Striated, Smooth, and Heart Muscle. Biomedicines. 2022;10(12):3221. https://doi.org/10.3390/biomedicines10123221
+9. Sikiric P, et al. Stable Gastric Pentadecapeptide BPC 157 as Therapy After Surgical Detachment of the Quadriceps Muscle from Its Attachments for Muscle-to-Bone Reattachment in Rats. Pharmaceutics. 2025;17(1):119. https://doi.org/10.3390/pharmaceutics17010119
+10. ISO/IEC 17025:2017, General requirements for the competence of testing and calibration laboratories. https://www.iso.org/standard/66912.html

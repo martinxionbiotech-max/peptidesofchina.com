@@ -1,216 +1,119 @@
 ---
-title: "Amino Acid Composition Analysis Benefits"
+title: "Amino Acid Composition Analysis: What It Adds to Peptide QC"
 slug: "amino-acid-composition-analysis-benefits"
-description: "Discover the amino acid composition analysis benefits for QC teams. Ensure net peptide content and lot consistency for your peptide testing."
-
-
-
-
-
+description: "AAA measures net peptide content and composition when HPLC and MS cannot. Learn hydrolysis, separation, calculations, and acceptance limits."
 ---
-This guide examines amino acid composition analysis benefits from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
+Amino acid composition analysis (AAA) is the test that tells you how much peptide is actually in the vial. HPLC reports a purity percentage, mass spectrometry confirms identity, and neither measures the mass fraction of the intended molecule after water, counterions, and residual solvents. AAA hydrolyses the peptide into its constituent amino acids, quantifies them, and reconstructs the peptide mass from the composition. That reconstructed value is net peptide content, usually expressed as % w/w.
 
-Require amino acid composition analysis (AAA) when you need a verified net peptide content (NPC), compositional confirmation, or lot-to-lot consistency that HPLC and mass spectrometry cannot supply alone. Three scenarios make AAA non-negotiable:
+The test earns its place in three situations: concentration-critical work where a systematic error would bias every replicate, comparability studies where two lots or two suppliers must be shown to match, and supplier qualification when a new source has little documentation history. This guide covers the hydrolysis chemistry, the separation options, the calculation, the acceptance criteria, and the limits of the method. All material discussed is for research use only.
 
-- Dosing-critical experiments where systematic concentration errors compound across replicates
-- Biomolecular comparability or biosimilarity checks for complex therapeutic peptides, including GLP-1 analogs
-- Supplier acceptance testing for new vendors or any source with limited documentation history
+## What AAA Measures, and What It Does Not
 
-**Pro Tip:** *Always request NPC alongside HPLC purity on the COA, and ask for the raw AAA chromatograms. Treat these as two independent quality metrics — a lot can pass HPLC purity and still carry significant non-peptidic mass.*
+AAA measures the molar composition of a peptide after complete hydrolysis. The result is a set of amino acid recoveries, normally in nanomoles or micrograms, which are compared with the theoretical composition. From that comparison, the laboratory calculates net peptide content and can flag a composition that does not match the expected sequence.
 
-## Table of Contents
+AAA does not determine sequence order. It cannot tell whether a glycine sits at position 3 or position 12. It does not measure impurity profile, counterion identity, water content, or endotoxin. It is a composition and content method, not a purity method. A peptide can pass AAA and still contain a closely related deletion analogue that hydrolyses to the same amino acid ratios.
 
-- What does AAA actually measure, and how does it differ from HPLC and MS?
-- How is AAA performed for research-grade peptides?
-- What are the concrete benefits of AAA for peptide sourcing and QC?
-- What are the known limitations of AAA?
-- How do you interpret AAA results and set acceptance criteria?
-- How do you operationalize AAA in supplier contracts and QC workflows?
-- Which orthogonal methods complement AAA for a complete QC panel?
-- What do AAA turnaround times and costs look like for U.S. labs?
-- COA and AAA request checklist for procurement and QC teams
-- Key Takeaways
-- What sourcing specialists actually do with AAA results
-- Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory.
-- Selected technical references for QC and procurement teams
+The method also struggles with certain residues. Tryptophan is destroyed by acid hydrolysis. Cysteine and cystine require oxidation before hydrolysis. Glutamine and asparagine deamidate to glutamate and aspartate under the standard conditions, so the measured Glu/Asp value combines the original residues and their deamidated forms. These are known limitations, and a competent laboratory will state how it handled them.
 
-## What does AAA actually measure, and how does it differ from HPLC and MS?
+## The Hydrolysis Step
 
-AAA quantifies the molar composition of individual amino acids after complete hydrolysis of the peptide, then compares measured quantities against the theoretical composition to calculate NPC. That single output — the actual mass fraction of active peptide in a lyophilized vial — is something neither HPLC nor MS delivers directly.
+The standard approach uses 6 N hydrochloric acid at 110 °C for 24 hours in a sealed, evacuated tube. The vacuum removes oxygen, which limits oxidative loss of sensitive residues. Vapour-phase hydrolysis, where the sample sits above the acid rather than in it, reduces contamination and is common in pharmacopoeial work.
 
-HPLC purity reflects the dominant species by chromatographic peak area. It tells you the peptide is the primary component, not what fraction of the gross powder weight is active peptide. Mass spectrometry confirms molecular weight and, with peptide mapping, sequence identity, but it does not return an absolute mass fraction either.
+The conditions are a compromise. A 24-hour hydrolysis is long enough to release most residues from sterically hindered bonds but long enough to destroy tryptophan completely and to cause partial losses of serine, threonine, and cysteine. A 48-hour hydrolysis improves recovery of some hydrophobic residues but increases losses of others. Many laboratories run a single 24-hour hydrolysis and apply correction factors, while others run two time points and extrapolate to zero.
 
-The practical gap is substantial. A lyophilized peptide sample can be 99% HPLC-pure yet carry NPC commonly in the 60–85% range, because residual water, TFA counter-ions, and inorganic salts contribute mass without contributing peptide activity. The three methods address distinct questions:
+Sample preparation matters. Use a known amount of peptide, typically 1–5 mg, and add an internal standard such as norleucine before hydrolysis. The internal standard corrects for injection volume and derivatisation efficiency. If the peptide contains norleucine, choose a different standard. For a formulated product, remove excipients that would interfere with the separation, or validate that they do not.
 
-- HPLC: Is the peptide the dominant species, and are related impurities within limits?
-- MS: Does the molecular weight match the theoretical sequence?
-- AAA: What fraction of the weighed material is actually active peptide?
+Cysteine needs a separate preparation. Performic acid oxidation converts cysteine and cystine to cysteic acid before hydrolysis, which is stable under the acid conditions. Tryptophan requires an alkaline hydrolysis or a separate spectrophotometric method. A report that lists tryptophan without stating the method used has probably assumed a value rather than measured one.
 
-All three are required for a complete identity and purity panel, not interchangeable alternatives.
+## Separation and Detection Options
 
-## How is AAA performed for research-grade peptides?
+Three platform families dominate. Ion-exchange chromatography with post-column ninhydrin detection is the classical pharmacopoeial approach and remains a reference method. Reverse-phase HPLC with pre-column derivatisation, using OPA, FMOC, PITC, or AccQ-Tag chemistry, is common in contract laboratories because it uses standard HPLC equipment. HILIC coupled to mass spectrometry is increasingly used for isotope dilution work because it provides structural information and low detection limits.
 
-The workflow follows a defined sequence, and each step introduces variables that affect result quality.
+| Platform | Detection | Strength | Limitation |
+| --- | --- | --- | --- |
+| Ion-exchange | Post-column ninhydrin | Mature, pharmacopoeial, good for complex mixtures | Long run times; dedicated instrument |
+| RP-HPLC, pre-column derivatisation | UV or fluorescence | Widely available; good sensitivity | Derivatisation variability; reagent stability |
+| HILIC-MS | Mass spectrometry | Specific; isotope dilution possible | Requires MS expertise; matrix effects |
 
-| Step | Purpose | What to request on the COA |
+The choice affects the acceptance criteria. A ninhydrin method may report 2–5% relative standard deviation for well-behaved residues, while a derivatisation method can drift if the reagent ages. An isotope dilution MS method can achieve better precision but costs more per sample. For supplier qualification, the method matters less than consistency: the same platform should be used across lots if the results are to be compared.
+
+The [HPLC and LC-MS comparison](/blog/hplc-vs-lc-ms-peptides/) explains why a separation method and a mass method answer different questions. AAA sits alongside them as a third, composition-based measurement.
+
+## Calculating Net Peptide Content
+
+The calculation starts with the measured molar amount of each amino acid. Multiply each by its residue mass, sum the residue masses, add one water molecule for the free peptide termini, and divide by the sample mass. The result is the mass of peptide in the sample. Express it as a percentage of the weighed sample to get net peptide content.
+
+A worked example: a 10.0 mg sample is hydrolysed, and the recoveries reconstruct to 8.15 mg of peptide. Net content is 81.5% w/w. A 5 mg fill of that lot contains 4.08 mg of peptide, not 5.00 mg. If the protocol calls for a 2.0 mg/mL solution prepared from a 5 mg vial, the actual concentration will be 1.63 mg/mL unless the content is corrected.
+
+The arithmetic is simple; the analytical inputs are not. The laboratory needs a calibrated amino acid standard, a validated hydrolysis procedure, and a clear decision on how to treat partially degraded residues. A report that gives a single content percentage without the underlying recoveries is difficult to audit. Ask for the amino acid table, the standard curve, and the hydrolysis conditions.
+
+The [molecular weight verification guide](/blog/peptide-molecular-weight-verification-steps/) covers the identity side of the same calculation. Mass spectrometry confirms the expected mass; AAA confirms that the amino acid building blocks are present in the expected ratio and gives the mass fraction.
+
+## Method Performance and Acceptance Criteria
+
+AAA is less precise than HPLC purity. A well-run laboratory can hold 2–5% RSD for stable residues and 5–10% for labile ones. That precision is adequate for content, where a 5% error is usually acceptable, but not for trace impurity profiling.
+
+| Parameter | Typical expectation | Notes |
 | --- | --- | --- |
-| Sample weighing | Establishes reference mass for NPC calculation | Recorded sample mass, balance calibration date |
-| Acid hydrolysis | Liberates individual amino acids from the peptide chain | Hydrolysis conditions: acid type, temperature, duration |
-| Derivatization | Converts amino acids to UV/fluorescence-detectable forms | Derivatization reagent (e.g., OPA, PITC, AccQ-Tag) |
-| Chromatographic separation | Resolves individual amino acid derivatives | Platform: IEC with post-column ninhydrin, or RP-UPLC/LC-MS |
-| Quantification | Compares peak areas against calibrated external standards | Calibration curve details, internal standard used |
-| NPC calculation | Converts molar quantities to mass fraction of active peptide | Calculation method, correction factors applied |
+| Accuracy | Within ±5% of the theoretical content for a qualified standard | Depends on hydrolysis recovery |
+| Precision | 2–5% RSD for stable residues | Higher for Ser, Thr, Cys, Trp |
+| Linearity | Calibration across the working range | Amino acid standard mixture |
+| Limit of quantitation | Low nanomole range for fluorescence or MS | Matrix-dependent |
+| Content acceptance | 75–90% w/w for many lyophilised salts | Method and salt form matter |
+| Lot-to-lot consistency | Within ±5% of the approved value | Set before comparing lots |
 
-Hydrolysis conditions are the single largest source of error in the entire workflow. Standard 6N HCl at 110°C for 24 hours works adequately for most residues, but Trp, Cys, Met, Ser, and Thr are partially degraded or incompletely liberated under those conditions. Competent labs compensate with residue-specific hydrolysis protocols and internal standards such as norleucine or isotopically labeled amino acids.
+The acceptance range for content should be set from the product specification, not copied from another peptide. A TFA salt with a high counterion load may legitimately sit at 75–80% content. An acetate salt of a different peptide may sit at 85–90%. The number is meaningful only when the method and the salt form are stated.
 
-Platform choice matters for modified peptides. Ion-exchange chromatography with post-column ninhydrin detection is the classical approach and aligns with [USP harmonized chapter on amino acid analysis](https://www.usp.org/sites/default/files/usp/document/harmonization/biotechnology/harmonization_april_2017_m858.pdf). LC-MS-based AAA offers better sensitivity and specificity for nonstandard residues. Modern LC-MS AAA validations report linearity with r² = 0.9995 and intra/inter-day CV ≤10%, making it more reliable than colorimetric protein assays for peptide quantification. Sample consumption is modest compared with elemental CHN analysis, which keeps AAA practical for routine lot release.
+## Where AAA Fits in Supplier Qualification
 
-**Pro Tip:** *Request method details on the COA: hydrolysis temperature and duration, derivatization reagent, and internal standard identity. If values are borderline, require duplicate analysis before accepting the lot.*
+AAA is most useful when a new supplier's certificate is thin. Purity by HPLC can be replicated by any contract laboratory, but content requires a hydrolysis and a calibrated standard, which is a higher bar. A supplier that can provide AAA data, and explain the hydrolysis conditions, is more likely to control its process than one that reports only a chromatogram.
 
-## What are the concrete benefits of AAA for peptide sourcing and QC?
+Use AAA at three points. First, on the first lot from a new supplier, alongside identity and purity. Second, on a comparator lot from the incumbent supplier, so the two can be compared on the same basis. Third, at intervals during routine supply, especially when the fill size or the salt form changes. A content shift of more than 5% between lots is a signal to investigate, even if both certificates are within specification.
 
-The amino acid composition analysis benefits that matter operationally fall into four categories:
+Write the requirement into the quality agreement. State the method, the sample size, the acceptance range, and the action to take if a result falls outside it. A clause that says "COA required" without naming the content test leaves the supplier free to report purity only. The [documentation package guide](/blog/peptide-documentation-package/) lists the fields that belong in that agreement.
 
-- Absolute peptide quantitation: NPC lets researchers dose by active peptide mass rather than gross powder weight, eliminating systematic concentration errors that accumulate across experiments.
-- Detection of non-peptidic contributors: TFA counter-ions, residual moisture, and inorganic salts are invisible to HPLC but reduce NPC. AAA surfaces their combined effect on the mass fraction.
-- Batch-to-batch comparability: Molar residue ratios from consecutive lots reveal synthesis or formulation variability that HPLC peak area alone can miss, particularly when a supplier changes counter-ion or lyophilization parameters.
-- Regulatory and translational documentation: [AAA is increasingly required for biosimilarity assessments and regulatory filings](https://www.hitachi-hightech.com/in/en/news/in_20250917.html) for complex peptides, including GLP-1 analogs, where compositional equivalence must be demonstrated across manufacturing sites or process changes.
+## Complementary Methods
 
-> Lyophilized peptide samples often contain a substantial proportion of non-peptide material, so NPC values are typically in the 60–85% range, meaning dosing by gross weight can introduce 20–40% systematic errors in active peptide concentration.
+AAA is one measurement in a panel. The table below shows where it sits relative to the other tests a buyer is likely to request.
 
-## What are the known limitations of AAA?
-
-AAA is indispensable for NPC, but it has real technical boundaries that procurement and QC teams should understand before treating it as a standalone identity test.
-
-- No sequence-order information: AAA returns molar residue ratios, not sequence. Two peptides with identical composition but different sequences are indistinguishable by AAA alone.
-- Labile residue under-recovery: Trp, Cys, Met, Ser, and Thr are partially destroyed or incompletely liberated under standard hydrolysis, skewing ratios unless the lab applies residue-specific protocols.
-- Post-translational modifications (PTMs) and nonproteinogenic residues: Standard AAA methods may not detect or correctly quantify phosphorylation, glycosylation, or synthetic non-natural residues unless the method is specifically tailored.
-- Counter-ion and matrix effects: High TFA content complicates NPC interpretation. A COA that reports NPC without separately quantifying counter-ions leaves ambiguity about the source of non-peptidic mass.
-
-**Pro Tip:** *Combine AAA with intact-mass MS and RP-HPLC as a minimum orthogonal panel. AAA is the reference method for NPC; MS and HPLC together cover identity and chemical purity.*
-
-## How do you interpret AAA results and set acceptance criteria?
-
-Comparing observed versus theoretical molar ratios is the core interpretive task. A practical starting point for method-validated assays is ±10% per residue for most positions, tightened to ±5% for residues critical to biological activity or for high-precision dose-response work. Labile residues warrant wider windows or exclusion from the ratio calculation when residue-specific hydrolysis is not performed.
-
-NPC is calculated from the total molar quantity of recovered amino acids, the peptide molecular weight, and the sample mass weighed. The short form: NPC (%) = (moles of peptide recovered × MW of peptide) / sample mass × 100. A lot with NPC below the expected range for its formulation, or with major residues outside acceptance windows, should be flagged for additional testing or rejected.
-
-Three conditions warrant a hold or rejection decision:
-
-- Any major residue deviating beyond the validated acceptance window
-- NPC substantially below the expected range without a documented explanation (e.g., known high-moisture batch)
-- Method details absent from the COA — no hydrolysis conditions, no internal standard, no calibration curve reference
-
-Requesting raw chromatograms, calibration curves, and internal-standard recoveries on the COA is the only way to verify that the reported NPC is not a recalculated summary number masking a poor-quality run.
-
-**Pro Tip:** *Build tiered acceptance criteria: tight NPC and ratio windows for dose-response or in vivo work, wider windows for qualitative binding assays. Record lot numbers in every experiment method section — this is the minimum traceability requirement for reproducible sourcing.*
-
-## How do you operationalize AAA in supplier contracts and QC workflows?
-
-Procurement teams should embed AAA requirements in purchase order language before the first lot ships, not after a failed batch triggers a retrospective review. Practical contract elements include:
-
-- Required COA items: NPC by AAA with calculation method, HPLC purity with method parameters, intact MS data, raw AAA chromatogram, internal standard recovery, hydrolysis conditions, lot number, analysis date, and analyst signature
-- Third-party testing trigger: require independent verification for new suppliers, high-risk peptides (labile sequences, complex modifications), or any lot where the supplier COA is incomplete
-- Sample logistics: AAA requires only 50–500 µg, so allocate a small aliquot from each incoming lot; store at -20°C in a sealed, desiccated container; label with lot number and receipt date
-- Document workflow: intake → HPLC/MS verification → AAA for NPC → accept/conditional release/reject → archive raw data and lot numbers
-
-A QA framework with documented traceability and in-process controls reduces batch failures and supports reproducible peptide quality across procurement cycles. For [high-quality peptide sourcing](/blog/how-to-source-high-quality-peptides-a-2026-laboratory-verification-guide), the documentation standard matters as much as the analytical result.
-
-**Pro Tip:** *Run AAA spot checks on every new lot for the first 3–5 lots from a new supplier. If NPC and ratios are consistent and method details are fully documented, move to randomized periodic checks. If any lot fails or documentation is incomplete, reset the counter.*
-
-## Which orthogonal methods complement AAA for a complete QC panel?
-
-The minimal sufficient panel for most research-grade peptide release testing combines three methods, each covering a distinct analytical dimension:
-
-- RP-HPLC: Demonstrates chemical purity and detects peptidic by-products, truncations, and oxidation products. Necessary but insufficient for NPC.
-- Intact-mass MS and MS/MS peptide mapping: Provides molecular-weight identity and sequence confirmation; complements AAA by closing the sequence-identity gap AAA cannot address. Peptide mapping is a [regulatory expectation for primary structure verification](https://link.springer.com/article/10.1007/s00216-020-02809-z) in therapeutic contexts.
-- AAA: Reference method for NPC and batch compositional comparability.
-
-Beyond this core panel, two alternatives address specific situations. qNMR is SI-traceable and non-destructive, making it useful when AAA is not appropriate or when an independent absolute content check is needed, though throughput is lower. CHN elemental analysis requires 2–5 mg of sample and measures total organic content rather than peptide-specific composition, limiting its utility for routine lot release. Endotoxin and residual solvent testing are required for cell-based and in vivo work but address contamination rather than compositional identity, so they sit outside the AAA-centered panel. For a deeper look at how [HPLC and LC-MS complement each other](/blog/peptide-testing-and-analysis-a-professional-guide-to-laboratory-verification/) in peptide characterization, the method selection logic applies directly to panel design.
-
-## What do AAA turnaround times and costs look like for U.S. labs?
-
-Commercial AAA turnaround in the U.S. typically runs 3–10 business days, with expedited options available at higher per-sample fees. Ballpark costs range from $150 to $600 per sample depending on method platform, sample preparation complexity, and reporting detail. Combined panels — HPLC, intact MS, and AAA together — scale cost accordingly, but the per-analyte cost decreases with bundled submissions.
-
-Key cost drivers include the number of replicates requested, whether residue-specific hydrolysis is needed for labile sequences, the use of certified reference standards, and whether raw data delivery (chromatograms, calibration curves) is included in the report package.
-
-> Modern LC-MS-based AAA reports intra/inter-day CV ≤10%, compared with 15–25% CV for colorimetric protein assays. For dose-critical or comparability work, that precision difference justifies the higher per-sample cost.
-
-## COA and AAA request checklist for procurement and QC teams
-
-Use this checklist in purchase orders and COA-request emails to standardize what you receive from suppliers and third-party labs.
-
-Minimum COA items to request:
-
-- NPC value with the calculation method stated
-- HPLC purity with method parameters (column, gradient, detection wavelength)
-- Intact MS data: observed versus theoretical molecular weight
-- Raw AAA chromatogram (not just the summary table)
-- Internal standard identity and recovery percentage
-- Hydrolysis conditions: acid type, temperature, and duration
-- Lot number, date of analysis, and analyst signature
-
-Sample submission checklist:
-
-- Minimum sample mass: confirm ≥500 µg available for AAA plus replicates
-- Storage and shipping: -20°C, desiccated, sealed vial; dry ice for transit if stability is uncertain
-- Labeling: lot number, sample ID, peptide name, and molecular weight on each vial
-
-Decision rules:
-
-- Accept: NPC within expected range, all major residues within acceptance windows, full method documentation present
-- Conditional release: NPC borderline or one minor residue outside window — request duplicate analysis or additional MS confirmation before use
-- Reject: NPC substantially below range, major residues outside acceptance criteria, or method details absent from COA
-
-For a [complete COA verification framework](/blog/coa-verified-peptides-supplier-how-to-authenticate-research-purity-in-2026), the decision logic above maps directly to supplier qualification workflows.
-
-## Key Takeaways
-
-AAA is the reference method for net peptide content and an essential orthogonal assay for batch consistency — HPLC purity and NPC are independent metrics, and both must appear on every COA.
-
-| Point | Details |
-| --- | --- |
-| NPC and HPLC purity are separate metrics | A peptide can be 99% HPLC-pure even though NPC is typically only in the 60–85% range; always require both on the COA. |
-| Hydrolysis conditions drive AAA accuracy | Request hydrolysis temp, duration, and internal standard on the COA; labile residues need residue-specific protocols. |
-| Minimum orthogonal panel | Combine RP-HPLC, intact-mass MS, and AAA for complete identity, purity, and content coverage. |
-| Operationalize through contract language | Embed NPC, raw chromatogram, and method detail requirements in PO language before the first lot ships. |
-| Peptides of China supports AAA-driven QC | COAs including HPLC, MS, and NPC on request, with lot traceability and third-party testing coordination available. |
-
-## What sourcing specialists actually do with AAA results
-
-The conventional view of AAA in procurement is that it is a confirmatory step — something you run once on a new supplier and then file away. That framing misses how AAA actually changes decisions in practice.
-
-When a supplier submits a COA showing 98% HPLC purity with no NPC value, the instinct for many procurement teams is to accept it. The HPLC number looks clean. The MS matches the theoretical mass. What more is needed? The answer is the one number that tells you how much active peptide is actually in the vial. Without NPC, every dosing calculation in every downstream experiment is anchored to gross powder weight, and that anchor drifts by 15–40% depending on counter-ion load and lyophilization conditions.
-
-The more useful operational habit is to build a rolling NPC log by lot number and map it against supplier process notes. When a supplier switches from acetate to TFA counter-ion, or changes lyophilization cycle parameters, NPC shifts. That shift shows up in the AAA data before it shows up in experimental variability. Catching it at intake, rather than in a failed dose-response curve three weeks later, is the actual value of routine AAA.
-
-AAA also changes supplier conversations. A vendor who cannot provide hydrolysis conditions or internal standard details on the COA is not running a validated method. That gap is worth flagging in writing, not accepting as a minor documentation issue. The [peptide quality assurance process](/blog/peptide-quality-assurance-process-a-researchers-guide-to-sourcing-integrity) at any credible supplier should include documented AAA methodology, not just a summary NPC number.
-
-## Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory.
-
-Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory.
-
-Raw chromatograms and method details are available on request for any lot, not just on exception. Procurement teams sourcing GLP-1 analogs, signaling peptides, or longevity compounds can review available lots and COA documentation directly through the [peptide catalog](/catalog). For teams building supplier qualification workflows, the catalog pages for individual products such as [Epithalon](/catalog/epithalon) show the COA structure and what analytical data is included at the lot level. Submit a sourcing inquiry through the catalog to confirm stock, request COA details, or discuss testing panel requirements before placing a wholesale order.
-
-## Selected technical references for QC and procurement teams
-
-| Reference | What it covers | Why it matters for QC |
+| Question | Method | What AAA adds |
 | --- | --- | --- |
-| USP Harmonized Chapter: Amino Acid Analysis | Pharmacopeial methodology for AAA of biotechnology-derived articles | Defines the reference standard for hydrolysis, derivatization, and quantification methods |
-| Maple Research Labs AAA Primer | NPC methodology, LC-MS validation data, sample requirements | Practical method detail for evaluating supplier COAs and lab platforms |
-| Bachem QC Guide | Orthogonal QC methods for peptides including AAA, HPLC, and MS | Explains why AAA alone is insufficient for identity and how methods complement each other |
-| Alpha Peptides QA Guide | QA framework, traceability, raw data requests | Operational guidance for procurement teams building supplier qualification workflows |
-| Hitachi Technical Note on Peptide Therapeutics | AAA in biosimilarity assessments and regulatory filings for complex peptides | Relevant for translational programs requiring compositional comparability documentation |
-| Polypeptide Hydrolysis Whitepaper | Hydrolysis condition variables and residue-specific considerations | Critical reference for evaluating whether a supplier’s AAA method handles labile residues correctly |
-| USP Chapter: Peptide Mapping | Peptide mapping methodology and its relationship to AAA for sequence confirmation | Clarifies when peptide mapping is required alongside AAA for regulatory-grade identity testing |
+| Is the sequence correct? | LC-MS/MS or intact mass | Composition confirmation, not order |
+| How clean is the lot? | RP-HPLC at 214–220 nm | Nothing; AAA is not an impurity method |
+| How much peptide is present? | AAA or nitrogen determination | Direct measurement of content |
+| How much water is present? | Karl Fischer | AAA does not measure water |
+| What counterion is present? | Ion chromatography | AAA does not measure counterions |
+| Is endotoxin present? | LAL assay | Nothing; separate safety method |
 
-## China Peptides Sourcing Perspective
+A certificate with HPLC, LC-MS, Karl Fischer, ion chromatography, and AAA covers identity, purity, water, counterion, and content. That is a coherent release panel for a research peptide. Endotoxin and sterility are added when the use requires them. The [testing and analysis guide](/blog/peptide-testing-and-analysis-a-professional-guide-to-laboratory-verification/) describes the full workflow.
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+Salt form affects the calculation. A TFA salt carries residual TFA that is counted in the sample mass but not in the peptide mass. The [TFA removal guide](/blog/tfa-removal-peptides/) explains why a salt conversion changes the content value even when the peptide is unchanged. If the supplier switches from TFA to acetate without telling the buyer, the AAA result will move and the purity result may not.
 
-## Related Products
+## Operational Checklist for Ordering AAA
 
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+A useful request pack has five items: the sample mass, the expected sequence and composition, the salt form, the hydrolysis conditions the laboratory will use, and the acceptance range. Ask for the amino acid recovery table, not just the final percentage. Ask whether the laboratory ran a duplicate hydrolysis, and how it handled tryptophan and cysteine.
+
+Turnaround is typically one to three weeks depending on the laboratory and the need for special hydrolysis. Cost is modest compared with a failed study, but the test is not a substitute for a full panel. For a first lot, run AAA alongside HPLC, LC-MS, Karl Fischer, and ion chromatography. For a routine reorder, AAA can be run less often if the supplier's process and salt form are stable.
+
+For a representative peptide with a well-characterised composition, the [semaglutide catalogue entry](/catalog/semaglutide/) shows the presentation and specification fields a buyer would compare. Current order terms are on the [how sourcing works](/how-it-works/) page.
+
+## The Author's Take
+
+**Position.** AAA is the most under-used test in peptide procurement. Buyers argue about 98% versus 99% purity, then prepare solutions from a vial that contains 78% peptide. The content number changes the experiment; the purity difference often does not. If a laboratory can afford only one additional test beyond HPLC and MS, AAA is usually the better buy.
+
+**Reasoning.** Purity is a relative signal. Content is an absolute mass. Every dilution, every concentration, and every comparison across lots depends on the absolute value, and the error is systematic rather than random. AAA also provides a composition check that catches some mixing and substitution problems that a single HPLC peak will not. It is not a sequence method and it is not precise enough for trace work, but it closes the mass-balance gap that HPLC leaves open.
+
+**Disclosure.** Peptides of China sells research peptides. This article is analytical and sourcing judgment, not an effects claim, and every compound discussed is for research use only. It is not medical advice and does not describe human use.
+
+## Sources
+
+1. NIST, Survey of peptide quantification methods and their reproducibility: a case study. https://www.nist.gov/publications/survey-peptide-quantification-methods-and-their-reproducibility-comparison-case-study
+2. Koller M, et al. Amino acid analysis for pharmacopoeial purposes. Talanta. 2016;154:150–163. https://doi.org/10.1016/j.talanta.2016.03.071
+3. Analysis of Polypeptides by Amino Acid Analysis. Methods in Molecular Biology. 2024;2821:71–82. https://doi.org/10.1007/978-1-0716-3914-6_6
+4. Amino Acid Analysis by Hydrophilic Interaction Chromatography Coupled with Isotope Dilution Mass Spectrometry. Methods in Molecular Biology. 2019;2030:111–118. https://doi.org/10.1007/978-1-4939-9639-1_9
+5. ICH Q2(R2), Validation of Analytical Procedures (2023). https://database.ich.org/sites/default/files/ICH_Q2%28R2%29_Guideline_2023_1130.pdf
+6. ICH Q6A, Specifications: Test Procedures and Acceptance Criteria for New Drug Substances and New Drug Products (1999). https://database.ich.org/sites/default/files/Q6A%20Guideline.pdf
+7. FDA, Analytical Procedures and Methods Validation for Drugs and Biologics (2015). https://www.fda.gov/regulatory-information/search-fda-guidance-documents/analytical-procedures-and-methods-validation-drugs-and-biologics
+8. 21 CFR 211.160, General requirements for laboratory controls. https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211/subpart-I/section-211.160
+9. ISO/IEC 17025:2017, General requirements for the competence of testing and calibration laboratories. https://www.iso.org/standard/66912.html
+10. D'Hondt M, et al. Related impurities in peptide medicines. Journal of Pharmaceutical and Biomedical Analysis. 2014;101:2–30. https://doi.org/10.1016/j.jpba.2014.06.012
