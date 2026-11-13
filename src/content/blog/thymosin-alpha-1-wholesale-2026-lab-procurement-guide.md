@@ -1,179 +1,138 @@
 ---
-title: "Thymosin Alpha 1 Wholesale 2026 Lab Procurement Guide"
+title: "Thymosin Alpha-1 Wholesale: 2026 Procurement Guide"
 slug: "thymosin-alpha-1-wholesale-2026-lab-procurement-guide"
-description: "A practical 2026 guide to Thymosin Alpha-1 wholesale sourcing for research: supplier roles, documentation, ordering workflow, logistics, and buyer checks."
-
-
-
-
+description: "A 2026 guide to Thymosin Alpha-1 wholesale buying: sequence and acetylation, FDA status, specification fields, supplier roles, and order logistics."
 ---
-This guide examines thymosin alpha 1 wholesale 2026 lab procurement guide from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
+Thymosin Alpha-1 wholesale buying starts with the sequence, not the price list. The material is a 28-residue, N-terminally acetylated peptide of about 3,108 Da, and the difference between the acetylated and des-acetyl forms is a property of the molecule, not a manufacturing preference. A wholesale quote that does not state the form, the counterion, and the net peptide content is not comparable to one that does.
 
-Quick answer: Thymosin Alpha-1 (TA-1) is a synthetic 28-amino-acid peptide studied in laboratory research on immune signaling. For buyers looking for a Thymosin Alpha-1 wholesale supplier, the practical questions are who is supplying the material, what documentation exists, how orders are processed, and how a buyer can test what arrives. This guide covers those questions in procurement order. All products discussed are for laboratory research use only, not for human or veterinary use.
+This guide covers the procurement sequence in order: what the compound is, what the regulatory record says, which specification fields matter, how to read a supplier's role disclosure, and how an order moves from request to receipt. It is written for laboratory and reseller buyers. All products discussed are for research use only, not for human or veterinary use.
 
-## Thymosin Alpha-1 Wholesale: What Procurement Teams Need to Know in 2026
+## The Short Answer
 
-Thymosin Alpha-1 is a 28-amino-acid peptide originally characterized by [Goldstein and colleagues (1977)](https://pubmed.ncbi.nlm.nih.gov/265536/) and subsequently made by chemical synthesis. Research literature examines its effects on immune signaling. When comparing research material, confirm identity, chemical form, content and impurity profile as well as supplier roles, documentation and commercial terms. A shared product name does not establish equivalent material.
+Buy Thymosin Alpha-1 on four documents: a sequence-level specification, a lot-specific certificate with methods and results, a mass spectrum that confirms the acetylated form, and a packing list that matches the vial label. Ask whether the seller synthesizes the peptide, distributes it, or coordinates sourcing. Confirm the current minimum, deposit, and shipping terms in writing before paying. Then test a sample on receipt, because a certificate describes a lot, not the vial in your hand.
 
-Laboratories and research buyers generally move to wholesale ordering for two reasons. The first is cost per milligram across larger programs. The second is the ability to plan around a consistent supply over the length of a study. Neither benefit is automatic. Both depend on understanding how a supplier is structured and what is confirmed before an invoice is issued.
+## What Thymosin Alpha-1 Is
 
-### The Evolution of Peptide Sourcing
+Thymosin Alpha-1 is a synthetic peptide corresponding to the N-terminal 28 residues of prothymosin alpha. It was isolated from thymosin fraction 5 by Allan Goldstein and colleagues in the 1970s, and the 1977 paper in *Proceedings of the National Academy of Sciences* reported the isolation and sequence analysis. The sequence is Ac-SDAAVDTSSEITTKDLKEKKEVVEEAEN, with a molecular weight of about 3,108.4 Da and CAS number 62304-98-7.
 
-Peptide supply has traditionally run through several layers: a synthesis facility, one or more distributors, and a retail-facing seller. Many research buyers now look for sourcing channels with a shorter commercial path and a clearer description of who does what. A sourcing platform works differently from a retail catalog. It coordinates between the buyer and the manufacturing side rather than holding a shelf of goods for single-vial sales.
+The N-terminal acetyl group is part of the natural structure. It adds 42.0106 Da and changes the peptide's charge and behaviour in cell assays. A batch with the correct amino acid sequence but no acetyl group is a different molecule, and a certificate that does not state the modification has not established identity.
 
-Clear supply-chain descriptions matter more in 2026 because buyers increasingly ask for specifics: which party confirms availability, which party issues specifications, and how international delivery is arranged. A good supplier answers these questions plainly.
+The research literature examines immune signalling in laboratory models. This article does not draw therapeutic conclusions from that literature and does not describe human use.
 
-### Defining High-Volume Research Standards
+## What "Wholesale" Changes in Practice
 
-“Research grade” describes intended laboratory use; it is not proof of a particular manufacturing standard. An RUO label does not establish GMP compliance, clinical-trial authorization or approval of a finished drug product. Those are separate questions that require their own evidence. Match the material specification to the planned research with your quality team.
+Wholesale is a commercial category, not a quality grade. The differences that matter to a buyer are unit size, minimum order, lead time, and documentation.
 
-For procurement teams, the useful questions are concrete: which chemical form is proposed, what specifications apply, and which measurements support identity, purity and peptide content? Manufacturer information and independent analysis answer different parts of that assessment.
+A typical wholesale unit is a box of vials rather than a single vial. The box may contain 10 vials of 5 mg or 10 mg, or a different configuration set by the manufacturer. The price per milligram depends on the fill mass, the number of vials, and the documentation package, not just the peptide weight.
 
-## Regulatory Background: Where Thymosin Alpha-1 Stands
+Peptides of China currently works with a USD 600 product minimum, excluding shipping, and a USD 10 processing deposit credited toward the final invoice. Standard ordering begins at one same-product kit or box of 10 vials. The [bulk order minimums guide](/blog/bulk-peptide-order-minimums-2026-research-lab-guide/) explains how mixed-product orders reach the minimum and why the deposit is separate from the product price.
 
-The FDA’s December 2024 evaluation stated that neither thymosin alpha-1 free base nor its acetate form was a component of an FDA-approved drug. On December 4, 2024, the Pharmacy Compounding Advisory Committee reviewed their nomination for the 503A bulk-substances list. That compounding review was not a drug approval. The [FDA briefing document](https://www.fda.gov/media/183820/download) and [meeting minutes](https://www.fda.gov/media/185642/download) provide the primary record; consult the agency’s current materials for subsequent regulatory changes.
+Lead time has two parts: availability confirmation and transit. Availability depends on the batch cycle at the manufacturing side; transit depends on the destination, carrier, and customs process. A supplier that quotes a single transit time for every destination is simplifying a variable process. Ask for the current estimate in writing and plan the study around the upper end.
 
-The FDA’s [orphan designation guidance](https://www.fda.gov/industry/medical-products-rare-diseases-and-conditions/designating-orphan-product-drugs-and-biological-products) makes a separate distinction: designation can provide development incentives for a potential treatment for a rare disease, but it is not marketing approval. It does not establish that a finished product is safe and effective.
+## The Regulatory Record Buyers Should Read
 
-Clinical research on thymosin alpha-1 exists, but results vary by study design and population, and this article does not draw therapeutic conclusions from it.
+Thymosin Alpha-1 has a specific regulatory history in the United States, and buyers should read the primary documents rather than a summary.
 
-## Supplier Disclosure Expectations: What to Ask Before You Order
+In December 2024, the FDA evaluated whether thymosin alpha-1 free base or its acetate form was a component of an FDA-approved drug. The agency's evaluation stated that neither form was. On 4 December 2024, the Pharmacy Compounding Advisory Committee reviewed the nomination of these forms for the 503A bulk substances list. That review was a compounding-policy proceeding, not a drug approval.
 
-Before comparing prices, a procurement officer should compare how clearly each supplier describes its own role. A useful disclosure covers the following points.
+The distinction matters for procurement because three different statuses are often conflated:
 
-- Role: Is the company the manufacturer, a distributor, or a sourcing platform?
-- Specifications: Which chemical form, identity, purity and peptide-content criteria apply to the product?
-- Documentation: What analytical documents exist, who produces them, and are they issued to customers?
-- Availability: How is current stock or production availability confirmed?
-- Commercial terms: What are the minimum order, deposit, and payment terms?
-- Remediation: What happens if independent testing indicates a problem?
-- Logistics: Who arranges shipping, and what is confirmed before the invoice?
+- **FDA approval** applies to a specific drug product for a specific indication, supported by an application and reviewed data.
+- **503A bulk substance listing** relates to eligibility for compounding under section 503A, not to approval of a finished product.
+- **Orphan designation** provides development incentives for a potential treatment of a rare disease. It is not marketing approval and does not establish safety or efficacy.
 
-Suppliers that answer these questions in specific terms make evaluation simpler. Claims such as a blanket 99% purity across a whole catalog deserve scrutiny, because acceptable values depend on the individual product and its specification.
+The FDA briefing document and meeting minutes are the primary record for the December 2024 review. Check the agency's current materials for any subsequent change; regulatory status can move after a meeting. The [research-use disclaimer](/research-use-disclaimer/) explains the boundary the site applies to all catalog products.
 
-## Synthesis and Quality Control: General Background
+A research buyer does not need to resolve the regulatory question to buy material for laboratory work. The buyer does need to avoid repeating a supplier's claim that a 503A review, an orphan designation, or a research-use label is equivalent to approval. It is not.
 
-This section is general scientific background and is not a description of Peptides of China’s own procedures.
+## Specification and Analytical Fields
 
-Thymosin Alpha-1 can be made by solid-phase peptide synthesis, followed by purification and analysis. Lyophilization means freeze-drying; it does not by itself establish shipping stability or shelf life. Storage and handling conditions depend on the material, formulation and supporting stability information. This scientific background describes peptide production in general, not Peptides of China manufacturing or testing.
+The table below is a workable specification for Thymosin Alpha-1. The figures are reference points, not a substitute for the supplier's own specification, which should name the method behind every value.
 
-### Purity, Peptide Content and Concentration
+| Field | Target or reported value | Method |
+| --- | --- | --- |
+| Sequence | Ac-SDAAVDTSSEITTKDLKEKKEVVEEAEN | Sequence document or certificate |
+| Residue count | 28 | Certificate |
+| Molecular mass | ~3,108.4 Da | ESI-MS with deconvolution |
+| N-terminal modification | Acetylated | Mass shift of +42.0106 Da |
+| Counterion | Acetate or TFA, stated numerically | Ion chromatography |
+| Purity | ≥95% area research grade; ≥98% stricter work | RP-HPLC at 214 nm |
+| Net peptide content | 70–90% w/w | Amino acid analysis or nitrogen determination |
+| Water content | ≤5.0% w/w | Karl Fischer titration |
+| Endotoxin | Numeric EU/mg result | LAL assay |
+| Sterility | Pass/fail with method, if claimed | USP &lt;71&gt; |
+| Fill mass | Stated per vial, with tolerance | Gravimetric check |
+| Storage | −20 °C, protected from light | Supplier stability statement |
 
-These two terms are often confused, and the difference matters when reading any analytical document.
+Two fields are commonly missing. **Net peptide content** converts fill mass into peptide mass; a 10 mg fill at 80% content contains 8 mg of peptide. **Counterion** changes the mass balance and the behaviour of the powder in solution. Ask for both before the quote is finalised.
 
-- Chromatographic purity describes the target peptide peak relative to measured related substances and synthesis by-products, commonly assessed by HPLC. It does not, by itself, establish absolute peptide content.
-- Peptide content is the amount of peptide in a sample or vial; concentration is amount per volume in a solution. Neither is interchangeable with chromatographic purity. Counter-ions, water and other components can contribute to a powder’s total mass.
+The analytical method for a 28-mer is more demanding than for a small tetrapeptide. A wide-pore C18 column (300 Å), 2.1 × 150 mm, 1.7 µm particles, 0.1% TFA in water against 0.1% TFA in acetonitrile, a shallow gradient, 0.3 mL/min, 5 µL injection, and 214 nm detection is a reasonable starting point. The certificate should print the column, gradient, wavelength, and injection volume; without them, the purity value is not reproducible.
 
-Acceptable purity values vary by product and are defined by the manufacturer in the applicable specification. For that reason, no single percentage should be applied across every peptide.
+Mass confirmation requires deconvolution because electrospray produces multiple charge states. A report that lists a single m/z value as the molecular weight has not done the calculation. The [molecular weight verification workflow](/blog/peptide-molecular-weight-verification-steps/) explains how to check the deconvoluted mass against the sequence.
 
-### Manufacturer-Side Quality Control
+## Supplier Role Disclosure
 
-Documentation and specifications vary by product, manufacturer, and batch. Buyers should not assume that a customer-facing analytical document, such as a COA, HPLC report, or LC-MS report, accompanies every order, and should ask what is available for the specific product and batch.
+A wholesale supplier can be a synthesis site, a distributor, a repackager, or a sourcing platform. The role determines which documents the seller can produce first-hand and which it must obtain from another party.
 
-Seller-provided records and independent testing serve different purposes. For help interpreting the figures and checking what a report actually measures, see the [guide to reading a peptide COA](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) .
+| Question | Why it matters | Weak answer |
+| --- | --- | --- |
+| Who synthesizes the peptide? | Determines access to the batch record | "Our factory" with no site name |
+| Who fills the vials? | Determines fill-lot traceability | "We do" without a fill record |
+| Who performs the analysis? | Determines whether the lab is accredited | "Our lab" with no method or instrument |
+| Which lot will ship? | Links the certificate to the vial | "Current batch" with no lot string |
+| What is the net peptide content? | Converts fill mass to peptide mass | Purity percentage repeated as content |
+| What happens if testing finds a problem? | Defines the remediation path | "No problems happen" |
+| What are the current minimum and deposit? | Sets the commercial commitment | A price list with no terms |
 
-## Peptides of China: A Sourcing and Logistics Platform
+A supplier that answers these questions in specific terms is easier to evaluate than one that answers with adjectives. The [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) sets out the evidence for each claim, and the [documentation package comparison](/blog/peptide-documentation-package/) explains which records a distributor can realistically provide.
 
-Peptides of China (Peptides of China) is a B2B sourcing platform that coordinates manufacturer-side sourcing, availability, specifications, order processing, international logistics, and support. Peptides of China does not synthesize peptides and does not operate an analytical laboratory.
+Peptides of China is a B2B sourcing platform. It coordinates manufacturer-side sourcing, availability, specifications, order processing, and international logistics; it does not synthesize peptides or operate an analytical laboratory. That disclosure belongs in the buyer's file because it defines what the seller can verify directly.
 
-What Peptides of China coordinates:
+## Documentation, Testing, and Remediation
 
-- manufacturer-side sourcing;
-- current product availability;
-- product specifications;
-- order processing;
-- international logistics;
-- customer support.
+A lot-specific document set for Thymosin Alpha-1 should include the certificate, the chromatogram, the mass spectrum with deconvolution, the water and counterion results, the endotoxin report if claimed, and the packing list. The certificate should carry the lot string, fill date, tests, methods, limits, and results.
 
-### Who Buys Through the Platform
+Independent testing is the buyer's check on the supplier's record. A reasonable panel for a 28-mer is RP-HPLC at 214 nm, ESI-MS for identity and acetylation, Karl Fischer for water, and amino acid analysis for content. Endotoxin testing is a separate decision based on the planned assay. The [COA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) explains how to compare the certificate with the raw data.
 
-The standard catalog serves buyers purchasing for research use, including private research buyers, research groups, laboratories, and resellers. All catalog products are for laboratory research use only.
+If an independent result differs from the certificate, the first step is a technical conversation, not a public accusation. Send the chromatogram, the method, the sample handling record, and the lot string. Ask whether the sample was taken from the same vial, whether the method was equivalent, and whether the difference is within the method's uncertainty. A supplier that engages with those questions is more useful than one that offers a replacement without an explanation.
 
-## Procurement Checklist for Evaluating a Wholesale Supplier
+Remediation terms should be in the order documents before payment. Ask what happens if the lot fails identity, if the fill mass is outside tolerance, or if the shipment arrives warm. The answer should reference the order terms, not a verbal promise. The published order terms are the starting point for that discussion.
 
-The following sequence works for any supplier, including Peptides of China.
+## Ordering and Logistics Sequence
 
-1. Confirm the supplier’s role. Ask whether it manufactures, distributes, or coordinates sourcing, and how it relates to the manufacturing side.
-2. Review order structure. Confirm the current minimum and unit of sale. Peptides of China announced a temporary no-minimum-order trial on September 18, 2026, while retaining complete-box ordering. Check the current terms when submitting a request rather than relying on an older article.
-3. Ask what documentation exists. Clarify whether analytical documents are available for the product and batch, who produced them, and whether they are customer-facing.
-4. Plan your own verification. Decide whether you will arrange independent testing on receipt and which laboratory you will use.
-5. Understand remediation. Know in advance what the supplier does if an independent result indicates a possible nonconformity.
-6. Confirm logistics. Shipping methods, pricing, and estimated transit times vary by destination and are confirmed during order processing.
+The ordering sequence below is the one a laboratory buyer can plan around. Timings are illustrative; confirm them at the time of order.
 
-Ordering terms can change independently of product specifications. Peptides of China’s [September 18 no-minimum-order announcement](/news/pfc-minimun-order/) describes the temporary trial and complete-box requirement; check the latest update before assembling your request.
-
-## Ordering Workflow Through Peptides of China
-
-The process is manual and sequential, which is why it can confirm current details before an invoice is finalized.
-
-1. Build a request. Select Thymosin Alpha-1 and any other research products from the [Peptides of China catalog](/catalog/) in the offered complete-box units. Confirm the current ordering terms with your request.
-2. Pay the USD 10 deposit. The deposit initiates manual request processing and places the request into the processing workflow. It is credited toward the final invoice.
-3. Availability and terms are confirmed. Availability and commercial terms are confirmed before final invoicing.
-4. Invoice and payment. Payment options are described on the [how to pay](/how-to-pay/) page, and the overall process is outlined on the [how it works](/how-it-works/) page.
-5. Shipping. Shipping methods, pricing, and estimated transit times vary by destination and are confirmed during order processing.
-
-### What the Deposit Covers
-
-The USD 10 deposit starts manual request processing and is credited to the final invoice. During processing, Peptides of China confirms availability and commercial terms. Analytical testing is a separate service, and any available documentation depends on the product, manufacturer and batch.
-
-## Documentation and Testing Options
-
-Because documentation varies by product, manufacturer, and batch, buyers who need analytical evidence for a specific lot can arrange independent testing through a qualified laboratory. Independent testing is initiated by the buyer and is not included in the deposit or the order.
-
-If an independent result raises a concern, send Peptides of China the relevant order details and test records for review. The response should follow the confirmed issue and applicable order terms.
-
-When commissioning a test, agree with the laboratory which measurements will address your research needs, preserve the sample’s chain of custody, and retain lot identifiers. Peptides of China’s [peptide quality page](/peptide-quality/) explains the platform’s documentation and quality position.
-
-## Logistics Considerations for International Orders
-
-International peptide logistics involves more variables than domestic purchasing. Shipping methods, available carriers, parcel structure, and transit times differ by destination and product. For that reason, Peptides of China confirms these details during order processing rather than publishing a single universal figure.
-
-Practical steps for procurement teams include confirming the delivery address and contact details before invoicing and asking about tracking.
-
-## Frequently Asked Questions
-
-### What is Thymosin Alpha-1?
-
-Thymosin Alpha-1 is a synthetic 28-amino-acid peptide used in laboratory research on immune modulation. Products sold through Peptides of China are for research use only.
-
-### Is Thymosin Alpha-1 FDA-approved in the United States?
-
-The FDA’s December 2024 evaluation stated that thymosin alpha-1 free base and acetate were not components of an FDA-approved drug. The December 4, 2024 compounding committee review was not a marketing approval. Check the current FDA record for subsequent changes; orphan designation is also separate from approval.
-
-### How does sourcing through Peptides of China work?
-
-Buyers build a request from the catalog and pay a USD 10 deposit to start manual processing. Availability and commercial terms are confirmed before final invoicing, and the deposit is credited toward the final invoice. Shipping methods, pricing, and estimated transit times vary by destination and are confirmed during order processing.
-
-### What is the minimum order?
-
-Peptides of China announced a one-month no-minimum-order trial on September 18, 2026, retaining complete-box ordering. The announcement says the policy will be reviewed after the trial. Consult the current ordering terms and latest announcement before submitting your request.
-
-### Is Peptides of China the manufacturer?
-
-No. Peptides of China is a B2B sourcing platform that coordinates manufacturer-side sourcing, availability, commercial terms, request processing, and international logistics.
-
-### Does every order include a COA?
-
-Not as a standing policy. Documentation and specifications vary by product, manufacturer, and batch, so ask what is available for your product and batch.
-
-### Can I test the product myself?
-
-Yes. Buyers may arrange independent testing through a qualified laboratory. Share relevant test records with Peptides of China if the results raise a concern, so the issue can be reviewed against the applicable order terms.
-
-### What does the USD 10 deposit cover?
-
-It initiates manual request processing and is credited toward the final invoice. It does not purchase analytical documents or testing.
-
-## Next Steps
-
-Buyers ready to review options can open the [Thymosin Alpha-1 catalog page](/catalog/thymosin-alpha-1/) or browse the full [catalog](/catalog/) to assemble a request. Questions about process or terms can be sent through the [contact page](/contact/) , and general answers are collected on the [FAQ page](/faq/) .
-
-All products referenced are supplied for laboratory research use only and are not intended for human or veterinary use.
-
-## Related Products
-
-- [Buy Thymosin Alpha-1](/catalog/thymosin-alpha-1/)
-
-## China Peptides Sourcing Perspective
-
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+| Step | Action | Output |
+| --- | --- | --- |
+| 1 | Define the specification and quantity | Sequence, form, fill mass, number of vials |
+| 2 | Request availability and a lot-specific COA template | Written confirmation and document sample |
+| 3 | Confirm minimum, deposit, and shipping term | Commercial terms in writing |
+| 4 | Pay the processing deposit | Request enters the processing queue |
+| 5 | Receive the final invoice and pay | Order confirmed |
+| 6 | Shipment and tracking | Tracking reference and export documents |
+| 7 | Receipt and inspection | Lot match, photos, retained samples |
+| 8 | Independent testing | Result compared with the certificate |
+
+Shipping terms should be explicit. DAP means the seller delivers to the named place and the buyer handles import formalities; DDP means the seller carries them. Neither term guarantees customs clearance, and a supplier that promises clearance is overstating its control. The [customs guide](/blog/research-peptide-customs-clearance-a-professional-b2b-sourcing-guide-2026/) covers the documents a buyer should prepare, and the [how it works](/how-it-works/) page describes the platform's processing sequence.
+
+On receipt, photograph the box, the label, and the cake; match the lot string to the certificate and packing list; store the vials at −20 °C; and retain at least two vials from the lot. A retained sample is the only way to answer a question about the lot after the experiment is over.
+
+## The Author's Take
+
+**Position.** For Thymosin Alpha-1, the regulatory record and the analytical record should be read separately. The regulatory record tells you what the material is not — it is not an approved drug product, and a 503A review is not an approval. The analytical record tells you what the lot is — sequence, acetylation, content, water, counterion, and endotoxin. A buyer who confuses the two will either overpay for a regulatory story or under-check the vial.
+
+**Reasoning.** The molecule is well characterised, and the analytical methods are standard. What varies is the seller's access to the manufacturing record and the buyer's willingness to ask for it. A wholesale quote that states the sequence, the acetylated form, the net content, and the lot string is doing the work that matters. A quote that leads with a regulatory association is avoiding it. The December 2024 FDA review is a useful fact for a buyer to know, but it is not a quality specification.
+
+**Disclosure.** Peptides of China sells research peptides. This article is procurement judgment, not an effects claim, and every compound discussed is for research use only. It is not medical advice and does not describe human or veterinary use. Commercial terms referenced here are current at the time of writing and should be confirmed before ordering.
+
+## Sources
+
+1. Goldstein AL, et al. Thymosin alpha1: isolation and sequence analysis of an immunologically active thymic polypeptide. *Proceedings of the National Academy of Sciences*. 1977;74(2):725–729. https://doi.org/10.1073/pnas.74.2.725
+2. FDA, Pharmacy Compounding Advisory Committee briefing document, December 2024. https://www.fda.gov/media/183820/download
+3. FDA, Pharmacy Compounding Advisory Committee meeting minutes, December 2024. https://www.fda.gov/media/185642/download
+4. FDA, Designating an Orphan Product: Drugs and Biological Products. https://www.fda.gov/industry/medical-products-rare-diseases-and-conditions/designating-orphan-product-drugs-and-biological-products
+5. ICH Q6A, Specifications: Test Procedures and Acceptance Criteria for New Drug Substances and New Drug Products (1999). https://database.ich.org/sites/default/files/Q6A%20Guideline.pdf
+6. ICH Q2(R2), Validation of Analytical Procedures (2023). https://database.ich.org/sites/default/files/ICH_Q2%28R2%29_Guideline_2023_1130.pdf
+7. FDA, Analytical Procedures and Methods Validation for Drugs and Biologics (2015). https://www.fda.gov/regulatory-information/search-fda-guidance-documents/analytical-procedures-and-methods-validation-drugs-and-biologics
+8. 21 CFR 211.84, Testing and approval or rejection of components, drug product containers, and closures. https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211/subpart-E/section-211.84
+9. ISO/IEC 17025:2017, General requirements for the competence of testing and calibration laboratories. https://www.iso.org/standard/66912.html
