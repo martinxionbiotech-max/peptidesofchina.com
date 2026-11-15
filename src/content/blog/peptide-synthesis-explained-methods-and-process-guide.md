@@ -1,138 +1,146 @@
 ---
-title: "Peptide Synthesis Explained Methods And Process Guide"
+title: "Peptide Synthesis: Methods, Steps, and Buyer Checks"
 slug: "peptide-synthesis-explained-methods-and-process-guide"
-description: "Discover what is peptide synthesis, its methods, and the process behind making peptides effectively. Learn how to create defined sequences."
-
-
-
-
-
+description: "How SPPS, solution-phase, and recombinant routes differ, which process steps create the impurities on a COA, and the questions that separate facilities."
 ---
-This guide examines peptide synthesis explained methods and process guide from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
+**Nearly every research peptide on the market is made by solid-phase synthesis, and the process itself explains most of what appears on the certificate of analysis.** A 20-residue chain built one amino acid at a time accumulates truncated sequences, deleted residues, and chemically modified side products. The purification step removes most of them. What remains, and how much remains, depends on choices made at the resin, the coupling step, and the cleavage cocktail.
 
-Peptide synthesis is defined as the chemical process of assembling amino acids into peptides through the controlled formation of peptide bonds. The dominant laboratory method is solid-phase peptide synthesis (SPPS), a technique invented by Robert Bruce Merrifield in 1963 and recognized with the Nobel Prize in Chemistry. SPPS [anchors peptides on insoluble resin](https://peptigrity.com/blog/how-are-peptides-made), allowing each amino acid to be added sequentially while byproducts are washed away between steps. This approach made routine synthesis of peptides up to 50–100 amino acids practical for the first time. Protecting groups, which temporarily block reactive sites on amino acids, are central to the entire process. Without them, uncontrolled side reactions would produce unusable mixtures rather than defined sequences.
+Buyers do not need to run a synthesis to read its fingerprints. A COA that shows a deletion sequence at 0.8%, a mass adduct, or a broad main peak is describing a process, not just a batch. This guide covers the three production routes, the steps inside solid-phase synthesis, the chemistry choices that leave traces, and the questions worth asking a facility before an order.
 
-## What are the primary peptide synthesis methods?
+## Three Routes, Three Different Products
 
-Three methods cover the full range of peptide synthesis needs: solid-phase peptide synthesis (SPPS), liquid-phase peptide synthesis (LPPS), and chemo-enzymatic peptide synthesis (CEPS). Each targets a different range of peptide length and complexity.
+Peptide production is not one method. The route determines the length that is practical, the scale that is economic, and the impurity signature a buyer should expect.
 
-[SPPS is the dominant method](https://www.bachem.com/knowledge-center/introduction-to-peptide-synthesis-methods/) for peptides up to 80 amino acids. It uses a standardized six-step cycle and is the standard in most research laboratories. LPPS, also called solution-phase synthesis, works best for short peptides under 10 residues and for large-scale production where resin costs become prohibitive. CEPS uses peptiligase enzymes to ligate shorter peptide fragments into sequences exceeding 100 residues, making it the preferred route for long or cyclic peptides that exceed SPPS practical limits.
+**Solid-phase peptide synthesis (SPPS).** The chain is built on an insoluble resin, one residue at a time, with washing between steps. It dominates research supply because it handles 5–50 residues well, scales from milligrams to kilograms, and can incorporate non-natural residues. Its weakness is length: each coupling has a yield below 100%, and the losses compound.
 
-| Method | Best for | Scalability | Key limitation |
-| --- | --- | --- | --- |
-| SPPS | Up to 80 residues | Moderate | Resin cost, aggregation risk |
-| LPPS | Under 10 residues | High | Complex purification |
-| CEPS | Over 100 residues | Moderate to high | Enzyme availability |
-- SPPS suits the majority of research peptide applications.
-- LPPS remains relevant for bulk production of dipeptides and tripeptides.
-- CEPS provides scalable synthesis of complex sequences where SPPS yield and purity fall short.
+**Solution-phase synthesis.** Fragments are made separately and coupled in solution. It suits short peptides and industrial quantities where purification at each step is affordable, and it avoids the large resin and cleavage reagent volumes. It is rarely the cheapest route below kilogram scale.
 
-**Pro Tip:** *When selecting a synthesis method, match the method to the peptide length first. Attempting SPPS on sequences above 80 residues without fragment condensation strategies will produce poor yields and difficult purification.*
+**Recombinant expression.** A host organism produces the peptide, which is then harvested and purified. It suits longer chains and avoids organic synthesis entirely, but it brings host-cell proteins, endotoxin risk, and post-translational heterogeneity that a synthetic route does not have. For a 15-residue research peptide, recombinant production is usually the wrong tool.
 
-## How is the solid-phase peptide synthesis process performed?
+| Route | Practical length | Typical scale | Main cost driver | Impurity signature |
+|---|---|---|---|---|
+| SPPS | 5–50 residues | mg to kg | Resin, amino acids, purification | Deletions, truncations, aspartimide |
+| Solution-phase | 2–15 residues per fragment | g to tonnes | Steps, solvents, isolation | Incomplete coupling, epimerization |
+| Recombinant | 20–100+ residues | kg and up | Fermentation, chromatography | Host protein, endotoxin, variants |
 
-SPPS follows a defined six-step cycle that repeats until the full sequence is assembled. Each cycle adds one amino acid to the growing chain anchored to an insoluble resin support.
+The [custom sourcing guide](/blog/custom-peptide-sourcing-for-product-development-in-2026/) covers how route choice flows into a quotation, and the [manufacturing partners page](/manufacturing-partners/) describes the facility model we work with.
 
-1. **Attachment:** The first amino acid is covalently linked to the resin via its C-terminus. This anchor holds the peptide in place throughout the entire synthesis.
-2. **Deprotection:** The temporary protecting group on the N-terminus is removed. In Fmoc chemistry, a base such as piperidine cleaves the Fmoc group. In Boc chemistry, trifluoroacetic acid (TFA) performs this step.
-3. **Coupling:** The next amino acid, with its N-terminus protected and its carboxyl group activated, reacts with the free amine on the resin-bound chain. Coupling reagents such as HATU or DIC facilitate this reaction.
-4. **Repetition:** Steps 2 and 3 repeat for each residue in the target sequence, building the peptide from C-terminus to N-terminus.
-5. **Cleavage:** Once the full sequence is assembled, the peptide is released from the resin. Cleavage requires a TFA cocktail with scavengers such as triisopropylsilane, applied for 2–4 hours, to prevent damage to sensitive residues.
-6. **Purification:** Crude peptide collected after cleavage typically reaches 60–85% purity. Multi-stage reversed-phase high-performance liquid chromatography (RP-HPLC) removes truncated sequences and modified byproducts to achieve research-grade purity.
+## Solid-Phase Synthesis, Step by Step
 
-### Protecting group strategies: Fmoc vs. Boc
+The cycle repeats for each residue. The sequence below reflects standard Fmoc chemistry, the dominant approach for research peptides.
 
-The choice between Fmoc and Boc chemistry affects both safety and equipment requirements. [Fmoc/tBu protection chemistry](https://en.wikipedia.org/wiki/Peptide_synthesis) is now preferred in most laboratories because it avoids the anhydrous hydrogen fluoride cleavage required by Boc chemistry. HF cleavage demands specialized equipment and carries significant safety risks. Fmoc uses a base-labile N-terminal protecting group, simplifying the process and reducing laboratory hazards. Orthogonal protecting group strategies control which protections are removed at each stage without disturbing others, and this selectivity is what makes stepwise synthesis reliable.
+**1. Resin preparation.** The first amino acid is loaded onto a resin, typically a polystyrene or PEG-based support. Loading is expressed in millimoles per gram; 0.3–0.8 mmol/g is a common range for research-scale resins. Loading determines the maximum yield per batch and affects steric crowding during chain growth.
 
-**Pro Tip:** *Crude purity after cleavage varies significantly by sequence. A 10-residue peptide may cleave at 85% crude purity, while a 40-residue peptide with difficult sequences may come in below 60%. Plan purification budgets accordingly before synthesis begins.*
+**2. Deprotection.** The Fmoc group on the growing chain's N-terminus is removed with 20% piperidine in dimethylformamide, usually a short pre-soak followed by a 15-minute treatment. Incomplete deprotection leaves chains that cannot accept the next residue, which become deletion sequences one residue shorter than the target.
 
-## What synthesis challenges affect peptide production?
+**3. Coupling.** The activated amino acid is added, commonly at four-fold molar excess with a uronium or phosphonium reagent and a base. Coupling times of 30–60 minutes are typical; difficult sequences need longer or a double coupling. Incomplete coupling produces a truncation at that position.
 
-The primary challenge in peptide synthesis is not bond formation itself. Orthogonal protection strategies and sequence-specific behavior create the most significant technical difficulties.
+**4. Washing.** Excess reagent and by-products are removed. Thorough washing is unglamorous and decisive; residual piperidine or reagent carries into the next coupling and lowers its efficiency.
 
-- **Aggregation:** Certain sequences form secondary structures during synthesis, causing the growing chain to fold and block reagent access. This leads to incomplete coupling and truncated products.
-- **Low coupling efficiency:** Coupling efficiency must exceed 99% per residue to maintain acceptable final yield. A 98% efficiency across a 50-residue peptide produces a full-length yield below 37%. The loss compounds with every additional residue.
-- **Sequence-induced failures:** Aggregation and secondary structure formation during SPPS cause synthesis failures that require method optimization, such as using chaotropic additives or pseudoproline dipeptides to disrupt problematic folding.
-- **Protecting group side reactions:** Incomplete deprotection or premature removal of permanent protecting groups generates sequence errors that are difficult to detect without rigorous analytical verification.
-- **Purification complexity:** Crude peptide purity post-cleavage depends heavily on sequence length and complexity. Longer and more hydrophobic sequences require more purification stages, increasing cost and time.
+**5. Monitoring.** The Kaiser test (ninhydrin) detects free amines and turns blue when coupling is incomplete. It is qualitative and does not work for proline or protected cysteine, so facilities supplement it with conductimetric or UV monitoring.
 
-**Pro Tip:** *For sequences known to aggregate, pseudoproline dipeptide building blocks inserted at strategic positions can break up secondary structure and restore coupling efficiency without altering the final deprotected sequence.*
+**6. Repetition.** Steps 2–5 run for each residue. A 20-mer goes through the cycle twenty times, and the accumulated yield is the product of the individual step yields.
 
-Researchers sourcing synthesized peptides externally should request batch-specific analytical data, including HPLC chromatograms and mass spectrometry confirmation, for every lot. Purity certificates without underlying raw data provide limited assurance of actual sequence integrity. Guidance on [evaluating peptide supplier quality](/blog/how-to-choose-a-high-purity-peptide-supplier) covers the specific criteria that distinguish reliable manufacturers from resellers who repackage without independent verification.
+The arithmetic is the part buyers underestimate. At 99.0% average coupling efficiency, a 20-mer reaches full length at 0.99^20, about 81.8%. At 99.5% the figure is 90.5%; at 99.8% it is 96.1%. The remaining material is a distribution of sequences missing one or more residues, many of which differ from the target by a single amino acid and therefore elute close to it on a reversed-phase column.
 
-## Why is peptide synthesis important in research and applied science?
+## The Chemistry Choices That Leave Traces
 
-Peptide synthesis gives researchers direct control over sequence, length, and chemical modification. That control is the foundation of modern biochemistry, drug development, and molecular biology.
+Four chemistry decisions show up in the analytical file.
 
-- **Therapeutic development:** Synthetic peptides serve as drug candidates, hormone analogs, and receptor ligands. GLP-1 agonists and signaling peptides used in metabolic research are produced entirely through controlled synthesis.
-- **Functional studies:** Researchers use defined synthetic sequences to probe enzyme active sites, map protein-protein interactions, and study post-translational modifications without the variability of biological extraction.
-- **Diagnostic tools:** Synthetic peptides serve as antigens in immunoassays and as calibration standards in mass spectrometry-based proteomics.
-- **Cyclic and modified peptides:** Advances in CEPS and on-resin cyclization now make it practical to produce cyclic peptides and peptides with non-natural amino acids, expanding the chemical space available for drug discovery.
-- **Batch verification in research:** The [importance of peptide synthesis](/blog/peptide-ingredient-quality-testing-products-2026-guide) quality extends directly to reproducibility. A peptide with 90% purity and an uncharacterized impurity profile will produce inconsistent biological results across experiments.
+**Fmoc versus Boc.** Fmoc deprotection uses piperidine, a milder base; Boc deprotection uses trifluoroacetic acid, which requires acid-stable linkages and harsher final cleavage. Fmoc chemistry is standard for research peptides because it avoids repeated acid treatment, but it introduces dibenzofulvene and piperidine adducts that must be washed out.
 
-A 2025 review highlights that [sustainable synthesis innovations](https://beta.iopscience.iop.org/article/10.1088/1758-5090/ae1bdc) are accelerating alongside growing therapeutic peptide demand, with photocatalysis, electrochemistry, and enzymatic methods reducing solvent waste. This shift reflects both environmental pressure and the practical need to reduce reagent costs at scale. For researchers working with [peptide ingredient applications](/blog/peptide-ingredient-applications-examples-for-researchers), understanding the synthesis origin of a peptide directly informs how to interpret its biological activity data.
+**Coupling reagents.** HBTU and HATU activate the carboxyl group through a uronium intermediate. They are fast and efficient, and they can racemize sensitive residues, particularly cysteine and histidine. DIC with Oxyma or HOBt is a gentler alternative. A facility that uses one reagent for every sequence is optimizing for speed, not for the hard positions.
 
-## Key Takeaways
+**Side-chain protection.** Arginine is protected with Pbf or Pmc groups, which require higher acid strength to remove. Serine and threonine use tert-butyl ethers. Cysteine needs a protecting group matched to the disulfide strategy, such as acetamidomethyl (Acm) or tert-butylthio. A mismatch here produces a chain that cleaves but will not fold correctly.
 
-Peptide synthesis requires method selection matched to sequence length, coupling efficiency above 99% per residue, and rigorous purification to reach research-grade purity.
+**Difficult sequences.** Beta-branched residues (Val, Ile, Thr), consecutive hydrophobic stretches, and sequences with a propensity to aggregate couple poorly. Facilities address these with pseudoproline dipeptides, microwave irradiation, or higher reaction temperature. Each intervention is a process detail worth asking about, because it changes the impurity profile.
 
-| Point | Details |
-| --- | --- |
-| SPPS is the standard method | SPPS handles sequences up to 80 residues using a six-step cycle from attachment to purification. |
-| Coupling efficiency is critical | Efficiency below 99% per residue causes exponential yield loss across longer sequences. |
-| Crude purity requires purification | Post-cleavage purity of 60–85% requires RP-HPLC to reach research-grade standards. |
-| Fmoc chemistry is preferred | Fmoc/tBu avoids hazardous HF cleavage, reducing equipment burden and safety risk. |
-| CEPS extends synthesis range | Chemo-enzymatic synthesis handles sequences above 100 residues where SPPS yield fails. |
+| Impurity | Mass shift | Usual cause | Evidence on the COA |
+|---|---|---|---|
+| Deletion sequence | − residue mass | Incomplete coupling or deprotection | Extra peak close to main peak |
+| Truncation | Variable | Failed coupling at one position | Cluster of earlier-eluting peaks |
+| Aspartimide | −18 Da | Asp-Gly motif during cleavage | Mass adduct plus isoAsp shoulder |
+| Deamidation | +0.984 Da | Asn/Gln exposure to base or heat | +1 Da satellite in MS |
+| Methionine oxidation | +15.995 Da | Air or peroxide exposure | +16 Da species |
+| N-terminal acetylation | +42.011 Da | Acetic acid or capping side reaction | +42 Da species |
+| Diastereomer | 0 Da (isobaric) | Racemization during coupling | Split or broadened main peak |
 
-## The gap between synthesis theory and sourcing reality
+The [synthesis failures guide](/blog/common-peptide-synthesis-failures-a-practical-lab-guide/) explains how each of these is diagnosed, and the [HPLC versus LC-MS comparison](/blog/hplc-vs-lc-ms-peptides/) covers the methods that separate them.
 
-Peptide synthesis looks clean on paper. A six-step cycle, defined chemistry, and a purification step at the end. The reality in production is considerably messier, and researchers who treat peptide procurement as a commodity purchase tend to discover this the hard way.
+## Cleavage, Purification, and Counterion Exchange
 
-Sequence-specific behavior is the variable that textbooks underemphasize. Two peptides of identical length can behave completely differently during SPPS. One assembles cleanly at 99.5% coupling efficiency per step. The other aggregates at residue 18, drops coupling efficiency to 94%, and produces a crude product that is more truncated sequences than target peptide. The final HPLC trace looks fine if the supplier only runs a short gradient. It looks very different under a 60-minute analytical method.
+Once the chain is complete, it is cut from the resin. The standard cocktail is 95% trifluoroacetic acid with 2.5% triisopropylsilane and 2.5% water, run for two to three hours at room temperature. Triisopropylsilane scavenges carbocations released from side-chain protecting groups; water helps cleave the peptide from the linker. Skipping the scavenger produces alkylated tryptophan and methionine.
 
-The industry shift toward green synthesis methods is real and worth watching. Enzymatic ligation and electrochemical activation reduce solvent volumes substantially, and that matters both for cost and for the environmental footprint of large-scale therapeutic peptide production. But these methods are not yet routine at the research scale. Most research peptides in 2026 still come from Fmoc SPPS, and the quality variation between synthesis facilities is significant.
+Crude peptide is then precipitated, typically with cold ether, and purified by reversed-phase HPLC. A C18 column with a water/acetonitrile gradient in 0.1% trifluoroacetic acid separates the target from deletions and modified variants. The operator pools fractions according to a defined rule — often a minimum purity threshold per fraction rather than a fixed percentage of the peak.
 
-Researchers should ask for raw HPLC data, not just a purity percentage. They should ask which coupling reagent was used and whether double coupling was applied on difficult residues. These questions separate facilities that understand synthesis from those that run automated synthesizers without monitoring individual coupling steps.
+Purification recovery for a difficult sequence commonly falls between 40% and 70% of the crude mass. The pool is then concentrated and may undergo counterion exchange if the specification calls for acetate rather than trifluoroacetate. Ion exchange or repeated lyophilization from acetic acid reduces residual TFA, which matters for assays where the counterion interferes. The [TFA removal note](/blog/tfa-removal-peptides/) covers the options.
 
-The growing emphasis on [research peptide sourcing verification](/blog/research-peptides-an-operational-guide-to-sourcing-and-verification-in-2026) reflects a real gap in the market. Batch traceability and independent analytical confirmation are not optional for reproducible research. They are the minimum standard.
+Trifluoroacetate content also explains a mass-balance surprise: a vial labeled 10 mg may contain 7–8 mg of peptide, with the remainder being counterion and water. Net peptide content is a separate specification field, not a rounding detail.
 
-> *— Sam Levin*
+## Lyophilization and the Final Form
 
-## Peptides of China: research-grade peptides with traceable sourcing
+Most research peptides ship as a lyophilized cake. Freeze-drying removes water while preserving the solid form, and the cycle is a process parameter that affects both appearance and stability.
 
-Researchers who understand the synthesis process know that purity certificates alone do not confirm sequence integrity or batch consistency.
+The product is frozen below its collapse temperature, then primary drying removes ice by sublimation under vacuum, then secondary drying removes bound water. A cycle typically runs 24–72 hours depending on fill volume and formulation. Incomplete primary drying leaves a cake that collapses or shrinks; incomplete secondary drying leaves water above specification, which accelerates hydrolysis and deamidation on storage.
 
-Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory. The catalog includes research compounds sourced through established manufacturing channels. Learn more: [research-grade Epithalon](/catalog/epithalon). Learn more: [KPV peptide](/catalog/kpv). Learn more: [peptide catalog](/catalog).
+Formulation matters too. Mannitol or sucrose can be added as a bulking agent or cryoprotectant, and the ratio affects cake structure and reconstitution. A cake that looks collapsed is not automatically degraded, but it is a signal to check water content and appearance against the release specification.
 
-## FAQ
+The [lyophilization and reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers handling after receipt. Storage at −20 °C, protected from light and moisture, is the common recommendation for lyophilized research peptides; the retest date assumes that condition.
 
-### What is peptide synthesis in simple terms?
+## Where Batches Actually Fail
 
-Peptide synthesis is the laboratory process of chemically linking amino acids in a defined sequence to produce a peptide. The most common method is solid-phase peptide synthesis (SPPS), developed by Robert Bruce Merrifield in 1963.
+Failures cluster in predictable places.
 
-### What is solid-phase peptide synthesis?
+**The last five residues.** Coupling efficiency drops as the chain lengthens and aggregation increases. A batch that passes at residue 15 can fail at residue 20.
 
-Solid-phase peptide synthesis is a method where the growing peptide chain is anchored to an insoluble resin support, allowing reagents and byproducts to be washed away between each coupling step. SPPS handles sequences up to approximately 80 amino acids.
+**Aspartimide hot spots.** Asp-Gly and Asn-Gly motifs form a cyclic imide under basic deprotection or acidic cleavage. The ring opens to aspartate or isoaspartate, which are isobaric and often co-elute. A COA that reports a single sharp peak for a peptide with an Asp-Gly motif is not necessarily wrong, but the method should be able to resolve the isoform.
 
-### How long does peptide synthesis take?
+**Cysteine oxidation.** Free cysteine oxidizes to cystine, forming dimers and mixed disulfides. A peptide with an unpaired cysteine needs a reducing agent or a protecting strategy, and the COA should show the monomer as the main peak.
 
-Synthesis time depends on sequence length and method. A 20-residue peptide via automated SPPS typically takes 1–2 days for assembly, followed by cleavage and purification that can add another 1–3 days depending on the purification protocol.
+**Cleavage damage.** Over-long cleavage or a hot exotherm alkylates tryptophan and methionine. The mass shifts are diagnostic: +15.995 Da for oxidation, +42.011 Da for acetylation.
 
-### Why does coupling efficiency matter so much?
+**Purification overloading.** Loading a preparative column beyond capacity produces overlapping fractions; the operator then chooses between yield and purity. The analytical chromatogram may look clean while the preparative trace shows a widened cut.
 
-Coupling efficiency below 99% per residue causes exponential yield loss across longer sequences. A 98% efficiency rate across a 50-residue peptide produces a full-length product yield below 37%, with the remainder consisting of truncated sequences that must be removed by purification.
+## Reading a Synthesis-Related COA
 
-### What purity level is needed for research peptides?
+A COA is a summary; the synthesis history sits in the batch record. Still, four fields tell a buyer whether the batch was made with control.
 
-Most biochemical research applications require peptide purity above 95%, verified by RP-HPLC and confirmed by mass spectrometry. Crude post-cleavage purity of 60–85% is not sufficient for reliable biological assays without further purification.
+**Purity with method details.** Look for column dimensions, gradient, wavelength, and reporting threshold. A purity number without these cannot be compared across suppliers.
 
-## China Peptides Sourcing Perspective
+**Impurity table.** Individual peaks above the reporting threshold, with retention times. A batch with one 1.5% impurity is a different risk from one with fifteen 0.1% peaks, even at the same total purity.
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Mass spectrum.** Charge states, deconvoluted mass, and the mass error. A spectrum with a single charge state and no annotation is a picture, not data.
 
-## Related Products
+**Counterion and water.** Ion chromatography or titration for trifluoroacetate, Karl Fischer for water, and a net peptide content figure. These three explain the difference between fill mass and peptide mass.
 
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+The [COA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) expands each field, and the [crude versus purified note](/blog/what-is-crude-vs-purified-peptide/) explains what changes between grades.
+
+## What to Ask a Facility Before Ordering
+
+Five questions separate a facility that controls its process from one that runs a recipe.
+
+1. **What is your average coupling efficiency, and how is it measured?** A facility that monitors with Kaiser tests and conductivity can answer with a number and a method.
+2. **How do you handle difficult sequences?** Look for pseudoprolines, double coupling, or microwave assistance, not assurances.
+3. **What is your purification loading ratio?** Milligrams of crude per gram of stationary phase; an evasive answer suggests the cut is adjusted to hit a purity target.
+4. **Which changes trigger a new batch record?** Resin lot, reagent lot, and column lot should be traceable.
+5. **Can you provide the preparative chromatogram?** The analytical trace shows the result; the preparative trace shows the decision.
+
+The [validated facility guide](/blog/why-validated-synthesis-facilities-matter-brands/) covers site qualification, and ICH Q7 provides the reference framework for batch records and change control even where formal GMP status does not apply.
+
+## The Author's Take
+
+**Position.** A buyer can judge a synthesis facility by two artifacts: the impurity table and the preparative chromatogram. Marketing pages describe capability; those two documents describe what the facility actually did with a difficult sequence.
+
+**Reasoning.** Every synthesis route produces a predictable family of impurities, and the way a supplier reports them reveals its analytical discipline. A COA that lists only total purity has either not integrated the impurity peaks or chosen not to show them. A preparative trace that shows a narrow heart cut and a large discarded fraction indicates a facility protecting the specification; a trace with a wide cut and no discarded fraction indicates a facility protecting yield. Both are commercial choices, but only one is compatible with a 98% release criterion on a difficult sequence. The coupling arithmetic — 81.8% full-length at 99.0% efficiency for a 20-mer — is why the choice matters more as chains get longer.
+
+**Disclosure.** Peptides of China sells research peptides manufactured by partner facilities. This article describes synthesis chemistry and sourcing judgment; it is not an effects claim, a dosing guide, or medical advice. Products referenced on this site are supplied for laboratory research use only. Process details vary by product and facility, and analytical documentation should be requested for the specific batch.
+
+## Sources
+
+- Merrifield, R. B. Solid Phase Peptide Synthesis. I. The Synthesis of a Tetrapeptide. *Journal of the American Chemical Society* (1963). [doi:10.1021/ja00897a025](https://doi.org/10.1021/ja00897a025)
+- Fields, G. B. & Noble, R. L. Solid phase peptide synthesis utilizing 9-fluorenylmethoxycarbonyl amino acids. *International Journal of Peptide and Protein Research* (1990). [doi:10.1111/j.1399-3011.1990.tb00939.x](https://doi.org/10.1111/j.1399-3011.1990.tb00939.x)
+- Coin, I., Beyermann, M. & Bienert, M. Solid-phase peptide synthesis: from standard procedures to the synthesis of difficult sequences. *Nature Protocols* (2007). [doi:10.1038/nprot.2007.454](https://doi.org/10.1038/nprot.2007.454)
+- Kaiser, E. et al. Color test for detection of free terminal amino groups in the solid-phase synthesis of peptides. *Analytical Biochemistry* (1970). [doi:10.1016/0003-2697(70)90146-6](https://doi.org/10.1016/0003-2697%2870%2990146-6)
+- Rivier, J. et al. Reversed-phase high-performance liquid chromatography: preparative purification of synthetic peptides. *Journal of Chromatography A* (1984). [doi:10.1016/S0021-9673(01)93709-4](https://doi.org/10.1016/S0021-9673%2801%2993709-4)
+- ICH Q6B: Specifications — Test Procedures and Acceptance Criteria for Biotechnological/Biological Products. [database.ich.org](https://database.ich.org/sites/default/files/Q6B%20Guideline.pdf)
+- ICH Q7: Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients. [database.ich.org](https://database.ich.org/sites/default/files/Q7%20Guideline.pdf)

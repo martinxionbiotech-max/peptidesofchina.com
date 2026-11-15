@@ -1,150 +1,151 @@
 ---
-title: "Custom Peptide Sourcing For Product Development In 2026"
+title: "Custom Peptide Sourcing for Product Development in 2026"
 slug: "custom-peptide-sourcing-for-product-development-in-2026"
-description: "Unlock the future of custom peptide sourcing for product development. Discover strategies for quality, speed, and innovation in 2026."
-
-
-
-
-
+description: "How to specify a custom peptide: sequence review, purity tiers, release panel, scale-up milestones, and the terms worth fixing before a deposit."
 ---
-This guide examines custom peptide sourcing for product development in 2026 from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
+**Custom peptide sourcing succeeds or fails on the specification, not the price list.** A sequence pasted into an email is not an order. It becomes an order when length, modifications, counterion, fill format, purity method, and release tests are written down in a form both sides can inspect. Suppliers quote the ambiguity, and the buyer pays for it later as a re-run, a re-purification, or a batch that cannot be released.
 
-Custom peptide sourcing in product development is the process of obtaining tailored peptides with defined sequence, purity, and production specifications to meet research or therapeutic innovation needs. For research scientists and product developers, the quality of that sourcing decision determines whether downstream assays, formulations, and regulatory submissions hold up under scrutiny. Suppliers like GenScript and Biosynth have built platforms around this demand, while technologies such as microwave-assisted synthesis have raised the bar for batch consistency and turnaround speed. Getting custom peptide sourcing and product development right from the start is not a procurement detail. It is a manufacturing readiness decision that shapes the entire development timeline.
+The commercial stakes are higher than for catalog compounds because there is no second source to compare against. A catalog peptide can be benchmarked across three suppliers; a custom sequence has one supplier at a time, and switching means repeating technology transfer. That makes the first specification the most valuable document in the project.
 
-## What technical specifications must you define before ordering a custom peptide?
+This guide covers the specification fields, the yield arithmetic behind purity tiers, the modifications that change the synthesis route, and the milestone structure that keeps a deposit recoverable.
 
-Defining technical parameters before placing an order is the single most effective way to prevent batch failures and reformulation cycles. Ambiguous specifications are the primary cause of peptide rejections at the analytical stage, not synthesis errors.
+## What Custom Sourcing Actually Covers
 
-The core parameters to specify include:
+"Custom" is used for three different jobs, and they carry different risks.
 
-- **Amino acid sequence and length.** Longer sequences above 30 residues introduce coupling failure risk and require suppliers with validated long-chain synthesis protocols.
-- **Post-translational and chemical modifications.** Phosphorylation, biotinylation, PEGylation, disulfide bridging, and N-terminal acetylation each require distinct chemistry and add sourcing complexity.
-- **Purity thresholds and analytical methods.** Research-grade peptides typically require greater than 95% purity confirmed by reverse-phase HPLC and mass spectrometry. Clinical-stage material demands tighter specifications with full impurity profiling.
-- **Batch size and scalability.** Specify whether you need milligram quantities for assay development or gram-scale material for formulation studies. Batch size affects synthesis strategy and pricing.
-- **Packaging and storage format.** Lyophilized powder in sealed vials under inert gas is the standard for stability. Specify moisture barrier requirements and cold chain needs upfront.
+**De novo synthesis.** The facility builds a sequence it has not made before, from resin and protected amino acids. Risk sits in coupling efficiency, difficult sequences, and purification. This is the case that needs the full specification.
 
-**Pro Tip:** *Request a certificate of analysis (COA) template from your supplier before ordering. If the COA does not include HPLC chromatograms, mass spec confirmation, and net peptide content by amino acid analysis, the documentation will not support regulatory submissions or reproducible research.*
+**Modification of a known sequence.** A catalog compound with a lipid chain, a phosphorylation site, a dye label, or a non-natural residue. Risk sits in the added chemistry and in whether the modification survives cleavage.
 
-Sequence complexity drives cost and lead time more than any other variable. A 10-residue linear peptide with no modifications is a commodity synthesis. A 40-residue cyclic peptide with two disulfide bridges and a C-terminal amide is a project requiring process development. Treating these as equivalent sourcing decisions is a common and expensive mistake.
+**Format customization.** A catalog peptide supplied at a different fill mass, in a different vial, or with a different counterion. Risk is mostly analytical and fill-related, not synthetic.
 
-## How to evaluate and select custom peptide synthesis suppliers
+The distinction matters because suppliers price and schedule them differently, and because a buyer who asks for "custom" without naming the category often receives a quote for the simplest interpretation. If the project needs a new sequence, say so in the first line. The [custom synthesis overview](/blog/custom-peptide-synthesis-brands-a-researchers-guide/) covers how the supplier landscape differs.
 
-Supplier selection for custom peptide manufacturing is a qualification process, not a price comparison. The lowest quote frequently reflects compromises in raw material quality, analytical rigor, or batch traceability that only become visible after delivery.
+## Turning a Sequence into a Manufacturable Specification
 
-The table below outlines the key evaluation criteria and what each reveals about supplier capability:
+A specification that a facility can manufacture against has ten fields. Missing any one of them moves a decision into the supplier's discretion.
 
-| Evaluation criterion | What it reveals |
-| --- | --- |
-| GMP certification status | Whether the facility operates under documented quality systems with audit trails |
-| Analytical control methods | Depth of in-process and release testing, including HPLC, MS, and Karl Fischer moisture |
-| Batch traceability documentation | Ability to trace raw amino acid lots through synthesis to final release |
-| Complex peptide track record | Experience with long chains, cyclic structures, and non-standard modifications |
-| Small-batch to scale-up flexibility | Whether the supplier can support early R&D through late-stage manufacturing |
-| Supply continuity planning | Existence of secondary sourcing, safety stock, and contingency protocols |
+| Field | What to write | Why it matters |
+|---|---|---|
+| Sequence | One-letter code with modifications at named positions | Ambiguity at a single residue can change the product |
+| Length and termini | Residue count; free or acetylated N-terminus; free or amidated C-terminus | Terminal charge changes retention and stability |
+| Disulfides | Pairing pattern, if more than one bridge | Random pairing produces isomers that co-purify |
+| Scale | Milligrams or grams, as net peptide | Gross-mass quoting hides counterion weight |
+| Purity | Area percent by RP-HPLC at a stated wavelength | A number without a method is not a specification |
+| Counterion | Trifluoroacetate, acetate, or chloride | Affects solubility, mass balance, and assay |
+| Water content | Limit by Karl Fischer | Wet material loses shelf life and weighs heavy |
+| Fill | Vial size, fill mass, overfill allowance | Underfill is a common and quiet shortfall |
+| Appearance | Cake or powder, color range | A release criterion the buyer can check on arrival |
+| Documentation | COA fields, raw chromatogram, MS spectrum | Determines whether the batch is auditable |
 
-[Supplier qualification](/peptide-quality) should include review of GMP certification, technical capabilities, analytical control methods, and supply continuity plans as part of a risk-based quality-by-design approach. This is not a formality. Suppliers who cannot provide batch-specific analytical data on request are operating without the traceability infrastructure that reproducible research and regulatory submissions require.
+Two conventions cause most disputes. The first is **net versus gross mass**: a 10 mg fill of a trifluoroacetate salt may contain roughly 7.5 mg of peptide, and a specification that does not say which figure it means is open to interpretation. The second is **purity method**: 98% by area on a 30-minute shallow gradient is a stricter claim than 98% on a 10-minute fast gradient, because the fast method compresses impurities into the main peak. State the column, the gradient, the wavelength, and the reporting threshold.
 
-[Microwave-assisted synthesis](https://www.genscript.com/custom-peptide-synthesis.html) platforms, used by providers like GenScript, deliver higher coupling efficiency and reduced racemization compared to conventional solid-phase synthesis. This matters when ordering peptides with sterically hindered residues or sequences prone to aggregation during chain assembly.
+A useful discipline is to write the specification as though the supplier will change next year. If a second facility can read the document and quote the same product without a call, the document is complete.
 
-**Pro Tip:** *Ask suppliers for a representative COA from a recent batch of a peptide with similar complexity to your target sequence. How they respond to that request tells you more about their quality culture than any marketing document.*
+## Purity Tiers and the Yield Trade-Off
 
-The distinction between an API manufacturer and a reseller is critical in the Chinese peptide supply chain. Resellers purchase finished peptides from synthesis facilities and relabel them, often without independent analytical verification. Direct relationships with synthesis facilities provide batch-specific data, process visibility, and the ability to request reanalysis or reformulation when specifications are not met.
+Purity is not a dial that moves independently of yield. Every added percentage point of purity removes material, and the removal cost rises as the target approaches the limit of the method.
 
-## How do global regulatory requirements shape peptide sourcing decisions?
+The synthesis arithmetic explains why. If each amino acid coupling proceeds at 99.0% efficiency, a 20-residue peptide reaches full length at 0.99^20, or about 81.8%. At 99.5% per step the figure is 90.5%; at 99.8% it is 96.1%. The crude mixture therefore contains roughly 4–18% of truncated sequences before purification begins, and those sequences differ from the target by one or more residues, which often means they elute close to it.
 
-Regulatory requirements define the documentation, analytical standards, and manufacturing controls that custom peptide sourcing must satisfy before material can enter clinical or commercial development. Ignoring this dimension during early sourcing creates expensive remediation work later.
+| Tier | Typical HPLC area | Relative purification yield | Sensible use |
+|---|---|---|---|
+| Crude | 70–80% | Highest | Screening where identity is confirmed separately |
+| Research grade | 85–90% | High | Exploratory work with tolerance for variants |
+| Premium | 95–97% | Moderate | Assay development, reference standards in training |
+| High purity | ≥98% | Lowest | Quantitative work, batch comparison, release testing |
 
-The FDA reviews peptide NDAs and BLAs expecting [robust CMC data](https://peptidestaff.com/workforce-solutions/peptide-global-regulatory-strategy-outsourcing-services/) covering identity, purity, potency, and impurity profiling. CDER classifies synthetic peptides as drugs, which means the chemistry, manufacturing, and controls section of any submission must account for truncated sequences, epimerized residues, oxidized variants, and counter-ion content.
+Purification recovery for a difficult sequence commonly lands between 40% and 70% of the crude peptide, and the last two percentage points of purity can consume more than half of that recovery. A quote that offers 99% at the price of 95% is either using a different method, a different scale, or a different definition of purity. Ask which.
 
-The EMA’s 2026 synthetic peptide guideline, finalized in 2024 and effective June 2026, [mandates comprehensive impurity characterization](https://rethinkpeptides.com/articles/how-the-ema-regulates-peptide-drugs-in-europe) and counter-ion control across EU member states. This guideline fills a regulatory gap that previously left synthetic peptide active substances without a dedicated quality framework in Europe. The practical implication is that suppliers providing material for EU-bound development programs must now demonstrate impurity profiling capabilities that many smaller facilities lack.
+Two practical consequences follow. First, buy the purity the assay needs, not the highest number on the page; a 99.5% specification adds cost without adding information if the detection method cannot resolve the difference. Second, ask for the impurity profile, not just the total. A batch at 97.5% with one 1.8% deletion sequence is a different risk from a batch at 97.5% with twelve peaks below 0.2%.
 
-The table below summarizes key regulatory data requirements by agency:
+## Modifications That Change the Synthesis Route
 
-| Regulatory body | Key CMC requirement | Impurity focus |
-| --- | --- | --- |
-| FDA (CDER) | Identity, purity, potency, full impurity profile | Truncated sequences, oxidized variants, epimerization |
-| EMA | Comprehensive impurity characterization, counter-ion control | Synthetic process-related impurities, counter-ions |
-| Both | Batch release documentation, stability data | Degradation products under storage conditions |
+A modification is not a label added at the end. It changes the protected building blocks, the coupling order, and sometimes the cleavage cocktail.
 
-Outsourcing global regulatory strategy for peptides accelerates multi-market approvals and reduces compliance complexity by centralizing data package development and agency coordination. For organizations developing peptides across both U.S. and EU markets, a unified regulatory strategy compresses approval timelines and avoids the cost of sequential filings with inconsistent data packages.
+**Disulfide bridges.** Two cysteines can form the correct bridge or the wrong one. Facilities control this with orthogonal protecting groups, such as acetamidomethyl (Acm) for one pair and tert-butylthio for another, then oxidize in a defined order. A specification that names the pairing pattern gives the facility a target; one that says "two disulfides" invites a statistical mixture.
 
-Synthetic peptides and recombinant peptides follow different regulatory pathways. Synthetic material produced by solid-phase or liquid-phase synthesis falls under small-molecule drug frameworks at FDA, while recombinant peptides expressed in biological systems may require biologics licensing. Sourcing decisions made at the research stage determine which pathway applies, making early regulatory planning a sourcing constraint, not an afterthought.
+**Lipidation.** Attaching a fatty acid, such as a C16 palmitoyl chain, adds a hydrophobic step that changes solubility and purification behavior. The lipid can also promote aggregation during cleavage, so the cleavage time and temperature become release-relevant parameters.
 
-## What operational approaches support scaling from R&D to commercial manufacturing?
+**Phosphorylation.** Phosphoserine and phosphothreonine require protected building blocks; a phosphate added post-synthetically is less specific. The mass shift is +79.966 Da per phosphate, which is easy to confirm by MS but easy to lose during cleavage if the protection strategy is wrong.
 
-Scaling custom peptides from research quantities to commercial manufacturing requires a sourcing strategy built around supply continuity, process consistency, and supplier partnership depth. The transition from milligram to kilogram scale is where most development programs encounter their first serious supply chain failures.
+**Non-natural residues and D-amino acids.** These are available as protected monomers but cost more and couple more slowly. A single D-residue can be the difference between a 3-week and a 6-week schedule.
 
-The following sequence reflects industry best practice for managing that transition:
+**Cyclization.** Head-to-tail or side-chain cyclization adds a step after cleavage, and the linear precursor must be purified before cyclization or the ring closes on impurities. Ask whether the cyclization yield is measured on purified precursor.
 
-1. **Qualify the supplier at the R&D stage.** Supplier qualification performed during early research creates the documentation baseline needed for regulatory submissions. Waiting until Phase II to qualify a manufacturer adds months to the timeline.
-2. **Establish batch-to-batch consistency criteria early.** Define acceptable ranges for purity, net peptide content, and residual solvent before scaling. These specifications become the release criteria that manufacturing must meet at every scale.
-3. **Plan for small-batch flexibility.** [Small-batch manufacturing](https://www.pharmaceutical-technology.com/products/drug-product-development-manufacturing-services/) enables dose flexibility, API conservation, and efficient early clinical phase transitions. CDMOs with small-batch capability allow dose-ranging studies without committing to large synthesis runs.
-4. **Engage a CDMO with integrated services.** Contract Development and Manufacturing Organizations that offer formulation, fill-finish, and lyophilization under one roof reduce the handoff risk between synthesis and finished product manufacturing. Integrated drug product services covering preclinical through commercial manufacturing are the standard for late-stage peptide programs.
-5. **Build supply continuity into the contract.** Specify safety stock requirements, lead time commitments, and secondary sourcing options in the supply agreement. A single-source supplier with no contingency plan is a development risk, not a partnership.
-6. **Align manufacturing strategy with the five S framework.** [TIDES manufacturing priorities](https://fb-resources.fiercebiotech.com/free/w_asym03/?ch=LS-WP-Asymchem-listing-052126) for late-stage readiness center on scale, speed, supply security, sustainability, and strategic readiness. These five dimensions provide a practical checklist for evaluating whether a supplier can support a program from Phase I through commercial launch.
+Every one of these modifications should appear in the specification with a position number and a mass delta. The [synthesis process guide](/blog/peptide-synthesis-explained-methods-and-process-guide/) explains where each step sits in the route, and the [common synthesis failures](/blog/common-peptide-synthesis-failures-a-practical-lab-guide/) note describes the impurities that follow from each.
 
-Process development at the synthesis level, including resin selection, coupling reagent optimization, and cleavage conditions, must be documented and transferred with the batch record when changing scale or site. Suppliers who treat process parameters as proprietary and refuse to share synthesis documentation create transfer risk that can delay regulatory submissions by a year or more.
+## The Release Panel to Require Before Scale-Up
 
-## Key takeaways
+A development batch needs a release panel that can be repeated at the larger scale without changing methods. Five tests do the core work.
 
-Reliable custom peptide sourcing requires defining technical specifications, qualifying suppliers on analytical rigor, aligning with regulatory requirements from the start, and building supply continuity into every stage of scale-up.
+**Purity by RP-HPLC.** C18 column, 214 nm detection, stated gradient and reporting threshold, target ≥98.0% area for a high-purity grade. Request the full chromatogram, not a table row.
 
-| Point | Details |
-| --- | --- |
-| Define specifications upfront | Sequence, modifications, purity thresholds, and packaging must be specified before ordering to prevent batch failures. |
-| Qualify suppliers on documentation | Request batch-specific COAs with HPLC and MS data; distinguish API manufacturers from resellers. |
-| Regulatory requirements are sourcing constraints | FDA CMC expectations and the EMA 2026 guideline define minimum analytical standards for supplier selection. |
-| Scale-up requires early supplier qualification | Qualifying a manufacturer at the R&D stage creates the documentation baseline needed for regulatory submissions. |
-| Supply continuity must be contractual | Safety stock, lead time commitments, and secondary sourcing options belong in the supply agreement, not in verbal assurances. |
+**Identity by MS.** Intact mass within ±0.5 Da on a unit-mass instrument, or within 5 ppm on a high-resolution instrument. The spectrum should show charge states and a deconvoluted mass.
 
-## Why sourcing strategy is the decision most teams get wrong
+**Sequence by MS/MS.** At least 90% backbone coverage with annotated b/y ions. This is the only test that distinguishes a deletion at the N-terminus from a substitution at the C-terminus when the mass happens to match.
 
-The most consistent failure pattern in peptide product development is not a synthesis problem. It is a sourcing strategy problem that manifests as a synthesis problem six months into the program.
+**Composition by amino acid analysis.** Hydrolysis in 6 M hydrochloric acid at 110 °C for 24 hours, then chromatographic quantitation. Results should fall within roughly ±10% of theory for each residue; cysteine and tryptophan need separate handling because they degrade or are destroyed under standard hydrolysis.
 
-Teams routinely select suppliers based on price and turnaround time during the research phase, then discover at the IND-enabling stage that the supplier cannot produce the analytical documentation FDA expects. The remediation path requires requalifying a new supplier, generating fresh analytical data, and in some cases resynthesizing reference standards. That sequence adds cost and time that early supplier qualification would have avoided entirely.
+**Water and counterion.** Karl Fischer for water, ion chromatography or titration for trifluoroacetate. Together with net peptide content, these fields explain why a 10 mg vial is not 10 mg of peptide.
 
-The emerging complexity of peptide modifications is making this worse. Stapled peptides, cyclic peptides with non-natural amino acids, and peptide-drug conjugates each require synthesis capabilities and analytical methods that most catalog suppliers do not have. Sourcing these from a facility that has not validated the relevant chemistry is a reproducibility risk before it is a regulatory risk.
+A release panel that cannot be repeated at scale is a development-only panel. Confirm with the facility that the same column chemistry, gradient, and detector settings will be used for the engineering batch; method transfer is a common place for a specification to quietly change.
 
-The cost-versus-quality calculation in peptide sourcing is also frequently misframed. The relevant comparison is not the cost of a high-quality batch versus a low-quality batch. It is the cost of a high-quality batch versus the cost of a failed batch plus the downstream consequences: lost time, repeated experiments, delayed submissions, and in clinical programs, potential patient safety implications.
+## Scale-Up: Where Milligram Runs Break
 
-Peptides of China operates on the premise that supply chain transparency and independent batch verification are not premium features. They are the baseline for research-grade sourcing. That position is increasingly validated by the regulatory direction both FDA and EMA are moving in 2026.
+Scaling from 0.1 mmol to tens of litres changes mixing, heat transfer, and reagent access. Three failures are common.
 
-> *— Sam Levin*
+**Resin swelling and mixing.** Resin volume changes with solvent; a reactor sized on dry resin mass can be overloaded. Poor mixing creates channeling, which shows up as variable coupling efficiency across the bed and a broader impurity profile.
 
-## How Peptides of China supports your peptide sourcing workflow
+**Cleavage exotherm.** Trifluoroacetic acid cleavage is exothermic, and a large batch can overshoot the target temperature. Cleavage above the target temperature increases aspartimide formation and can alkylate tryptophan side chains.
 
-Manufacturer-side analytical documentation may be available depending on the product and batch. It is not guaranteed with every order and is not independent verification by Peptides of China. Buyers may arrange third-party analytical testing when required.
+**Purification loading.** A preparative column loaded beyond its capacity produces overlapping fractions; the operator then either narrows the heart cut and loses yield, or widens it and loses purity. Ask what the loading ratio was, in milligrams of crude per gram of stationary phase.
 
-## FAQ
+A first engineering run at the target scale should be treated as a qualification batch, not as saleable stock, until the analytical comparison against the small-scale reference passes. A 10–20% yield loss on first scale-up is normal; a purity drop of two points is not, and it usually points to purification rather than synthesis.
 
-### What is custom peptide sourcing in product development?
+## Timeline, Deposit, and Milestone Structure
 
-Custom peptide sourcing in product development is the process of procuring peptides with defined sequences, purity levels, and modifications from qualified synthesis suppliers to support research, formulation, or clinical programs. It differs from catalog sourcing in that specifications are set by the buyer rather than the supplier.
+Custom work is priced against time and risk, so the schedule should be written into the agreement rather than inferred from a quote.
 
-### What purity level is required for research-grade custom peptides?
+| Milestone | Deliverable | Commercial treatment |
+|---|---|---|
+| Sequence review | Feasibility note naming difficult motifs and expected yield | No charge, 3–5 business days |
+| Quotation | Price, scale, purity, lead time, payment terms | Valid 30 days |
+| Deposit | Order entry and resin/amino acid reservation | 30–50% of order value |
+| Synthesis and purification | Batch record, in-process checks | Progress note at week 3 |
+| Release testing | COA, chromatogram, MS spectrum, AAA | Balance payable against documents |
+| Shipment | Packing list, lot linkage, storage statement | Retain 10% against receipt test, if negotiated |
 
-Research-grade custom peptides typically require greater than 95% purity confirmed by HPLC and mass spectrometry. Clinical-stage material requires tighter specifications with full impurity profiling to meet FDA and EMA CMC expectations.
+Lead times vary with scale and modification load. A 10–50 mg unmodified 20-mer commonly runs 3–5 weeks; gram quantities with a disulfide and a lipid can run 8–12 weeks. A supplier who quotes two weeks for a modified gram-scale sequence is either misunderstanding the request or planning to subcontract it.
 
-### How does the EMA 2026 peptide guideline affect sourcing decisions?
+The deposit deserves a clause, not a handshake. It should be refundable if the batch fails the agreed specification and the supplier cannot re-make it within a stated window, and it should be tied to the specification document by version number. The [sourcing contract guide](/blog/how-peptide-sourcing-contracts-work-a-procurement-guide/) covers the clause structure in more detail; the [bulk order minimums](/blog/bulk-peptide-order-minimums-2026-research-lab-guide/) note explains how scale thresholds change pricing.
 
-The EMA guideline, effective June 2026, mandates impurity characterization and counter-ion control for synthetic peptide active substances across EU markets. Suppliers providing material for EU development programs must demonstrate these analytical capabilities or the material cannot support regulatory submissions.
+## Documentation, IP, and Exit Terms
 
-### When should supplier qualification begin in a peptide development program?
+Three document sets should exist before the first shipment.
 
-Supplier qualification should begin at the R&D stage, not at the IND-enabling or clinical manufacturing stage. Early qualification creates the documentation baseline that regulatory submissions require and avoids costly requalification later in the program.
+**Batch documentation.** COA with method details, the preparative and analytical chromatograms, the intact mass spectrum, the MS/MS annotation, the amino acid analysis, and the Karl Fischer result. A COA that lists results without methods cannot be reproduced by a second laboratory. The [documentation package guide](/blog/peptide-documentation-package/) lists the full file, and the [custom services page](/custom-peptide-services/) describes the request flow.
 
-### What is the difference between a peptide API manufacturer and a reseller?
+**Quality agreement.** Who releases the batch, what happens on a deviation, how long records are retained, and what notice applies to a process change. ICH Q7 expects change control for API manufacture; a research peptide supplier that follows the same discipline can describe its change notification interval.
 
-An API manufacturer synthesizes peptides directly and can provide batch-specific process documentation, in-process analytical data, and synthesis records. A reseller purchases finished peptides from synthesis facilities and relabels them, typically without independent analytical verification or process visibility.
+**Technology transfer package.** For a project that may move suppliers, the receiving facility needs the sequence file, the specification, the analytical methods, and a retention sample. Negotiate this at order placement, when the supplier still wants the business; asking after a quality dispute is a weaker position.
 
-## China Peptides Sourcing Perspective
+Confidentiality should cover the sequence itself, not just the project name. A sequence disclosed without restriction can be re-used for another customer. A two-year non-reuse clause tied to a named compound is a reasonable ask at development scale.
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+## The Author's Take
 
-## Related Products
+**Position.** The cheapest place to reduce custom peptide cost is the specification, and the most expensive place is the re-run. A buyer who spends a week tightening the specification usually removes more cost than a buyer who spends that week negotiating the unit price.
 
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+**Reasoning.** Custom synthesis is quoted against uncertainty. When a request omits the counterion, the fill convention, or the purity method, the supplier prices the worst case and adds a margin for the ambiguity. When those fields are fixed, the quote reflects a defined job, and the batch that arrives can be accepted or rejected against a clause rather than an impression. The arithmetic is unforgiving on the other side too: at 99.0% coupling efficiency a 20-mer yields under 82% full-length material before purification, so a purity promise that ignores synthesis reality is a promise about the purification cut, not about the chemistry.
+
+**Disclosure.** Peptides of China sells research peptides and accepts custom synthesis requests. This article describes sourcing and specification practice; it is not an effects claim, a dosing guide, or medical advice. Products referenced on this site are supplied for laboratory research use only. Custom projects are quoted individually, and analytical documentation varies by sequence and batch.
+
+## Sources
+
+- ICH Q6B: Specifications — Test Procedures and Acceptance Criteria for Biotechnological/Biological Products. [database.ich.org](https://database.ich.org/sites/default/files/Q6B%20Guideline.pdf)
+- ICH Q7: Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients. [database.ich.org](https://database.ich.org/sites/default/files/Q7%20Guideline.pdf)
+- ICH Q2(R2): Validation of Analytical Procedures (2023). [database.ich.org](https://database.ich.org/sites/default/files/ICH_Q2%28R2%29_Guideline_2023_1130.pdf)
+- Merrifield, R. B. Solid Phase Peptide Synthesis. I. The Synthesis of a Tetrapeptide. *Journal of the American Chemical Society* (1963). [doi:10.1021/ja00897a025](https://doi.org/10.1021/ja00897a025)
+- Fields, G. B. & Noble, R. L. Solid phase peptide synthesis utilizing 9-fluorenylmethoxycarbonyl amino acids. *International Journal of Peptide and Protein Research* (1990). [doi:10.1111/j.1399-3011.1990.tb00939.x](https://doi.org/10.1111/j.1399-3011.1990.tb00939.x)
+- Coin, I., Beyermann, M. & Bienert, M. Solid-phase peptide synthesis: from standard procedures to the synthesis of difficult sequences. *Nature Protocols* (2007). [doi:10.1038/nprot.2007.454](https://doi.org/10.1038/nprot.2007.454)
+- Rivier, J. et al. Reversed-phase high-performance liquid chromatography: preparative purification of synthetic peptides. *Journal of Chromatography A* (1984). [doi:10.1016/S0021-9673(01)93709-4](https://doi.org/10.1016/S0021-9673%2801%2993709-4)

@@ -1,151 +1,144 @@
 ---
-title: "Peptide Supplier Contract Negotiation Tips For Procurement"
+title: "Peptide Supplier Contracts: Terms Procurement Should Fix"
 slug: "peptide-supplier-contract-negotiation-tips-for-procurement"
-description: "Master peptide supplier contract negotiation tips to secure better agreements. Enhance your procurement strategy with expert insights!"
-
-
-
-
-
+description: "The clauses that decide whether a peptide order is recoverable: specification, sampling, acceptance window, change control, and nonconformance remedies."
 ---
-This guide examines peptide supplier contract negotiation tips for procurement from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
+**A peptide supply contract is only as strong as its specification clause.** Price, lead time, and payment terms get negotiated because they are visible. The clauses that decide whether a failed batch is recoverable — conformity definition, sampling plan, acceptance window, change notification, and remedy — usually get copied from a template written for a different product.
 
-Peptide supplier contract negotiation is defined as the structured process by which biotech and pharmaceutical procurement teams secure binding supply agreements that address the technical, regulatory, and operational realities of peptide manufacturing. Unlike standard API sourcing, negotiating peptide supply contracts requires fluency in synthesis-specific risks: batch variability, lyophilization failures, purity drift across production runs, and the concentration of manufacturing capacity in a small number of facilities globally. Contract managers who treat peptide agreements like commodity chemical contracts routinely encounter costly scope disputes, ambiguous IP ownership, and supply disruptions with no contractual remedy. The strategies in this guide address those gaps directly.
+The consequences are asymmetric. A buyer who overpays by three percent loses three percent. A buyer who cannot reject a batch that fails identity loses the order, the study schedule, and the cost of the independent testing that proved the failure.
 
-## What are the best peptide supplier contract negotiation tips for procurement?
+This article sets out the terms worth fixing before a purchase order is issued, with the convention or statute behind each one. It is commercial drafting guidance for procurement teams, not legal advice; governing law and enforceability vary by jurisdiction, and a contract review should involve counsel in the buyer's jurisdiction.
 
-Effective peptide supplier contract negotiation tips begin with a single principle: technical understanding precedes commercial leverage. A procurement team that cannot distinguish between linear, cyclic, and stapled peptide synthesis capabilities cannot accurately assess whether a supplier’s quoted price reflects genuine capacity or aspirational capability. That distinction determines whether a contract delivers on its terms or generates change orders from the first batch.
+## Start with the Specification, Not the Price
 
-Vendor evaluation in this context is not a checkbox exercise. [Formal on-site audits](https://peptidestaff.com/industry-trends/biotech-outsourcing-vendor-evaluation-framework/) remain the industry standard for GMP-regulated activities, specifically because they reveal actual production capacity versus the paper capacity that questionnaires and capability decks routinely overstate. A supplier may claim multi-kilogram annual output for a given peptide class while running a single synthesis train at 70% utilization for existing clients.
+The specification is the contract's technical center of gravity. Every other clause refers back to it, so an ambiguous specification makes rejection, replacement, and damages arguments unwinnable.
 
-The evaluation framework should cover five dimensions before any commercial discussion begins:
+Write the specification as a numbered document with a version, and attach it to the agreement by reference. At minimum it should name the product, the sequence or catalog identifier, the lot size, the purity method with column and gradient, the identity method with mass tolerance, the counterion, the water limit, the fill convention, and the documentation set. The [supplier contract guide](/blog/how-peptide-sourcing-contracts-work-a-procurement-guide/) covers the commercial structure around it.
 
-- **Technical depth:** Confirmed experience with the specific peptide class required, including synthesis route, protecting group strategy, and purification method.
-- **Regulatory history:** FDA inspection records, warning letters, and any manufacturing site changes in the past five years.
-- **Financial stability:** Ownership structure, revenue concentration, and any recent acquisition activity that could affect operational continuity.
-- **Performance history:** Batch acceptance rates, on-time delivery records, and quality deviation frequency from prior clients where obtainable.
-- **Working dynamics:** Communication responsiveness, escalation behavior, and technical transparency during the evaluation process itself.
+Two specification habits prevent most disputes.
 
-Pilot projects and in-depth audits reveal working dynamics and communication approaches that no questionnaire captures. Running a small-scale feasibility batch before contract execution gives procurement teams real data on cycle time, deviation handling, and documentation quality.
+**Name the method, not just the result.** "Purity ≥98.0% by RP-HPLC, C18 4.6 × 250 mm, 5 µm, 214 nm, gradient 5–65% acetonitrile over 30 minutes, reporting threshold 0.05% area" is testable. "Purity ≥98%" is a negotiation.
 
-**Pro Tip:** *Request a redacted batch record from a comparable synthesis project during the audit. A supplier unwilling to share anonymized process documentation under NDA is signaling something about their quality culture.*
+**Separate release tests from informational tests.** A COA can report appearance, water content, and net peptide content as information while only purity and identity are release criteria. Marking which is which stops a marginal water result from being used to reject a batch that meets every release specification.
 
-## How should procurement teams structure peptide contract negotiations?
+| Clause | What to write | Failure mode if absent |
+|---|---|---|
+| Specification | Versioned annex with methods and acceptance values | Dispute over whether a result passes |
+| Sampling | Plan, sample size, who draws samples | Supplier tests a different vial than the one shipped |
+| Acceptance window | Days from receipt to inspect and notify | Late notice waives the claim |
+| Change control | Notice period and re-qualification triggers | Silent reformulation between orders |
+| Remedy | Replacement, credit, or refund, and timing | Refund conversation with no deadline |
+| Records | Retention period and audit access | No evidence to support a claim |
 
-The most common structural error in peptide supplier agreement negotiations is involving legal counsel before commercial terms are aligned. Once lawyers are drafting, the negotiation shifts from problem-solving to position defense, and costs escalate on both sides.
+## Conformity, Inspection, and Notice Windows
 
-[Executing a non-binding business term sheet](https://www.drugpatentwatch.com/blog/what-to-look-for-in-a-cdmo-contract/) before formal contract drafting aligns all internal stakeholders and preserves negotiating leverage. The term sheet covers volumes, pricing structures, payment milestones, and forecasting obligations without creating binding commitments. It functions as a shared framework that both parties can adjust before legal language locks positions in place.
+Under the UN Convention on Contracts for the International Sale of Goods, which governs many China-to-overseas sales unless excluded, conformity is defined in Article 35: goods must match the quantity, quality, and description in the contract, and be fit for the purpose the seller knew or ought to have known. Article 38 requires the buyer to examine the goods within as short a period as is practicable. Article 39 requires notice of a lack of conformity within a reasonable time, and in any event within two years of delivery unless that period conflicts with a contractual guarantee period.
 
-A phased negotiation structure reduces friction and keeps discussions productive:
+Those articles set the floor, not the ceiling. A contract can shorten the inspection window, and many suppliers do — thirty days is common, ten working days is not unusual. Procurement teams should decide deliberately whether that window is realistic for the test they intend to run. An HPLC plus MS panel at a third-party laboratory often takes longer than ten working days from sample submission, and a notice clause that expires before the result arrives is a clause that has already failed.
 
-1. **Align internally first.** Cross-functional alignment between procurement, R&D, regulatory affairs, and finance must precede any supplier-facing discussion. Misalignment discovered mid-negotiation signals weakness and invites commercial pressure.
-2. **Negotiate commercial terms on the term sheet.** Pricing tiers, volume commitments, minimum order quantities, and payment schedules belong in this phase. Financial modeling of termination scenarios and scope change costs should happen here, not during legal drafting.
-3. **Move to quality and technical annexes.** Specifications, testing protocols, batch release criteria, and deviation handling procedures require technical input and should be negotiated as a separate workstream from commercial terms.
-4. **Finalize legal and IP provisions last.** Change-of-control clauses, IP ownership, force majeure, and termination rights are addressed once commercial and technical terms are settled.
+Three drafting moves help.
 
-**Pro Tip:** *Model the financial consequences of a mid-program termination before the first negotiation session. Knowing your walk-away cost gives procurement teams a concrete anchor for termination fee discussions.*
+**Start the clock at receipt, not shipment.** The buyer cannot inspect material in transit.
 
-[Procurement professionals remain essential](https://www.analyticsinsight.net/books/best-procurement-books-to-read-in-2026) in complex peptide supply negotiations because automated systems cannot manage the pricing nuances, supplier relationship dynamics, and strategic trade-offs that define these agreements. The phased approach described above is a framework, not a script. Experienced negotiators adapt it to the supplier’s size, regulatory status, and the program’s risk profile.
+**Define "discovery" for latent defects.** Purity and identity can be tested on arrival; a stability failure or a slow aggregation may appear months later. A clause that preserves claims for latent defects discovered within the retest period is worth more than a longer initial window.
 
-## What contract terms require special attention in peptide supplier agreements?
+**Preserve the mitigation duty.** Article 77 of the convention requires the buyer to take reasonable steps to mitigate loss. Documenting that rejected material was quarantined and not used supports the claim rather than weakening it.
 
-Peptide supplier agreements contain several clause categories that generic pharmaceutical supply contracts handle inadequately. Procurement teams that rely on boilerplate language in these areas create contractual gaps that suppliers will exploit, intentionally or otherwise.
+## Putting Sampling and Acceptance Criteria in the Contract
 
-### IP ownership and springing licenses
+A specification without a sampling plan is silent on the most common source of disagreement: which vial was tested.
 
-IP ownership in peptide supply contracts requires active management across three distinct categories: background IP (what the supplier owned before the engagement), foreground IP (what is created during the engagement), and derivative IP (modifications or improvements to either). Each category requires separate licensing terms. The most operationally critical provision is the springing license, which grants the buyer rights to the supplier’s manufacturing know-how upon a defined triggering event, such as supplier insolvency, regulatory action, or change of control. This protects manufacturer-switch rights without requiring full IP transfer upfront.
+Write the sampling plan into the annex. For lot acceptance, a common structure is a general inspection level with an acceptance quality limit; ISO 2859-1 is the reference standard most quality teams use, and an AQL of 1.0 for major defects is a frequent starting point for packaged goods. For high-value peptide lots, sampling is usually 100% of vials at the documentation level and a smaller analytical subset, because destructive testing consumes inventory.
 
-### Quality KPIs with financial consequences
+Define four things explicitly:
 
-A KPI without attached consequences is a reporting requirement only, not a performance incentive. Contracts must specify thresholds, measurement periods, and financial consequences for each metric. The table below compares weak and strong KPI formulations:
+1. **Sample location.** Samples drawn from the delivered lot, not from a pre-production or retained batch held by the supplier.
+2. **Sample size.** For a 25-vial lot, a √n + 1 convention yields six vials; state whether those are tested or retained.
+3. **Retention.** At least two unopened vials per lot, held for the retest period, available for joint re-test.
+4. **Tie-breaker.** If the supplier's result and the buyer's result disagree, name the laboratory or the method that decides, and who pays.
 
-| KPI Type | Weak formulation | Strong formulation |
-| --- | --- | --- |
-| On-time delivery | “Supplier will endeavor to deliver on schedule” | “95% OTD within agreed lead time; credit of X% per late batch after 5 business days” |
-| Batch acceptance rate | “Supplier will maintain quality standards” | “Minimum 92% batch acceptance rate per rolling 12-month period; corrective action plan triggered at 88%” |
-| CAPA cycle time | “Deviations will be addressed promptly” | “Root cause analysis delivered within 15 business days; CAPA closure within 60 days or financial penalty applies” |
+The tie-breaker clause is the one buyers most often omit and most often need. A neutral third laboratory, agreed in advance, converts a standoff into a procedure.
 
-### Termination and geopolitical risk provisions
+## Change Control and Silent Reformulation
 
-Geopolitical risks including tariffs, regulatory changes, and ownership shifts have become material contract risks for peptide CDMOs with manufacturing in China or India. Force majeure clauses must now specify transition funding obligations, technology transfer cost allocation, and triggering events tied to geopolitical changes. Termination for convenience provisions should include defined notice periods, wind-down cost caps, and data package delivery requirements that allow a new supplier to resume manufacturing without starting from zero.
+A peptide that passed last quarter can fail this quarter without anyone changing the label. Resin supplier, coupling reagent, cleavage cocktail, purification gradient, and fill line can all change. Some changes are minor; some alter the impurity profile enough to invalidate a study.
 
-## What best practices ensure supply reliability across the contract lifecycle?
+Ask for a change notification clause with three elements: a notice period before implementation, a list of changes that trigger notification, and a re-qualification requirement for changes that affect the release specification.
 
-Signing a well-structured contract is the starting point, not the endpoint. Supply reliability in peptide programs depends on active contract management throughout the supplier relationship.
+A practical threshold set looks like this: any change to the synthesis route, the purification method, the counterion, the fill mass, or the manufacturing site requires notice; changes that alter the analytical profile require a side-by-side batch comparison before shipment. ICH Q7 treats change control as a core GMP expectation for API manufacture, which gives the clause a recognized reference point even when the product is a research reagent rather than a drug.
 
-Supplier scorecards for peptide contracts should limit metrics to five to seven key indicators. Tracking On-Time Delivery, Batch Acceptance Rate, Quality Deviation frequency, CAPA Cycle Time, and Audit Compliance covers the performance dimensions that matter most without creating administrative overhead that neither party sustains. Including too many metrics dilutes focus and reduces the scorecard’s utility as a management tool.
+The notice period is negotiable. Sixty to ninety days is long enough for a buyer to qualify the new material or find an alternative, and short enough that a supplier can accept it.
 
-Practical best practices for the contract lifecycle include:
+## Delivery Terms and Where Risk Transfers
 
-- **Quarterly business reviews.** Formal reviews with supplier leadership, not just operational contacts, maintain strategic alignment and surface capacity or regulatory issues before they become supply disruptions.
-- **Annual on-site audits.** Paper-based compliance reviews are insufficient for peptide suppliers. Annual audits of synthesis facilities, quality systems, and documentation practices provide ground-truth data that scorecards alone cannot capture.
-- **Corrective action request protocols.** Contracts should define a tiered escalation pathway: informal notification, formal corrective action request, and supplier qualification review. Each tier should have defined response timelines and consequences for non-compliance.
-- **Total cost of ownership modeling.** Procurement teams that focus exclusively on per-gram pricing routinely underestimate the cost of batch failures, re-synthesis, regulatory delays, and program timeline extensions. A supplier charging 15% above market rate with a 97% batch acceptance rate is frequently cheaper than the lowest bidder at 85%.
-- **Dual-sourcing for critical programs.** Where program risk justifies the investment, qualifying a second supplier during the primary supplier relationship provides negotiating leverage and genuine supply continuity protection.
+Delivery terms decide who owns the goods when something goes wrong in transit, and they interact with the customs clause that buyers often negotiate separately. Incoterms 2020 is the standard reference.
 
-Strong vendor evaluation frameworks incorporate both quantitative scorecards and qualitative assessments of cultural fit and strategic alignment. The best long-term supplier relationships are collaborative, not adversarial. Suppliers who understand a program’s scientific objectives and regulatory pathway are better positioned to flag risks early and propose solutions proactively.
+| Term | Risk transfers | Freight and insurance | Import clearance |
+|---|---|---|---|
+| FOB | When goods are on board the vessel | Buyer arranges | Buyer |
+| CIF | When goods are on board the vessel | Seller pays freight and minimum cover | Buyer |
+| DAP | At the named place, ready for unloading | Seller arranges | Buyer |
+| DDP | At the named place, import cleared | Seller arranges | Seller |
 
-## Key takeaways
+Two points are widely misunderstood. CIF transfers risk at the port of shipment, not at destination, so a buyer who wants protection until delivery should negotiate additional insurance rather than assume the term covers it. DDP places the import burden on the seller, but no supplier can promise that a customs authority will release a shipment; the honest clause describes who bears the cost and delay if clearance fails, not a promise that it will succeed. The [customs sourcing guide](/blog/research-peptide-customs-clearance-a-professional-b2b-sourcing-guide-2026/) covers documentation and the [HS classification note](/blog/hs-code-for-peptides/) explains why tariff codes for peptides need to be checked against the actual product rather than assumed.
 
-Effective peptide supplier contract negotiation requires technical fluency, phased commercial structuring, and enforceable quality provisions with financial consequences attached to every performance metric.
+Add a title and retention clause as well. Until payment clears, the seller may retain title; the buyer may need a release document to take delivery. Stating both avoids a warehouse standoff.
 
-| Point | Details |
-| --- | --- |
-| Evaluate technical depth first | Assess specific peptide class experience and on-site capacity before any commercial discussion begins. |
-| Use a term sheet before legal drafting | Align commercial terms across internal stakeholders on a non-binding document to reduce legal friction and preserve leverage. |
-| Define KPIs with consequences | Every quality and delivery metric must specify thresholds, measurement periods, and financial penalties to function as a real incentive. |
-| Protect IP with springing licenses | Secure manufacturer-switch rights through springing license provisions tied to defined triggering events. |
-| Manage total cost of ownership | Factor batch failure rates, CAPA cycles, and regulatory risk into supplier cost comparisons, not per-gram price alone. |
+## Payment Structure and Security
 
-## What the standard negotiation playbook gets wrong
+Payment terms are risk allocation in cash form. Three structures are common in peptide sourcing.
 
-Most procurement training treats supplier negotiation as a pricing exercise. In peptide supply, that framing produces contracts that look favorable on paper and fail in practice. The real leverage in these negotiations is technical knowledge, not commercial pressure.
+**Deposit and balance.** Thirty percent on order, seventy percent against shipping documents. The seller funds part of the production; the buyer retains security until documents are presented.
 
-Suppliers know when a procurement team cannot evaluate their synthesis claims. A team that asks about HPLC purity specifications, residual solvent testing, and lyophilization cycle validation signals a different level of scrutiny than one focused on unit price and lead time. That signal changes how suppliers respond to every subsequent request in the negotiation.
+**Letter of credit at sight.** The bank pays against a document set. It costs a fee and requires precise documents, but it protects both sides when the relationship is new.
 
-The other consistent mistake is treating IP provisions as standard boilerplate. Background, foreground, and derivative IP distinctions matter enormously when a program advances to clinical stages and a manufacturer change becomes necessary. Springing licenses are not exotic legal constructs. They are practical tools that procurement teams in this space should request as a baseline, not as a concession.
+**Milestone payments for custom work.** Deposit, mid-project progress payment, balance against release data. This suits custom synthesis where the batch may take eight to twelve weeks.
 
-Pricing fixation on the lowest per-gram cost often leads to cost recovery through change orders and scope disputes. Suppliers who underbid to win programs make up the margin elsewhere. Understanding that dynamic before the first session changes the negotiation entirely.
+Whatever the structure, tie each payment to a document rather than a date. A balance due "on completion" is ambiguous; a balance due "against COA, chromatogram, and MS spectrum meeting the specification in Annex A" is testable.
 
-The contracts that hold up through program scale-up, regulatory submissions, and supplier audits are built on realistic expectations, measurable commitments, and relationships where both parties understand what the other needs to succeed. That outcome requires procurement professionals who understand peptide manufacturing well enough to negotiate beyond the price line.
+For repeat orders, negotiate a credit line after three clean batches rather than on the first order. The supplier's willingness to extend terms is a useful signal about its confidence in batch consistency.
 
-> *— Sam Levin*
+## Nonconformance Remedies That Actually Work
 
-## Manufacturer-Side QC and Buyer-Arranged Verification
+A remedy clause should answer four questions in order: what counts as a nonconformity, who decides, what the seller must do, and by when.
 
-Contract managers evaluating peptide suppliers need more than a catalog. They need documentation, batch traceability, and direct access to synthesis facility data before committing to a supply agreement.
+A workable structure:
 
-Peptides of China operates through direct relationships with established synthesis facilities. Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory. Procurement teams should evaluate sourcing, testing, and documentation separately when assessing supplier reliability.
+- **Notice.** Buyer notifies within the acceptance window with the test report and lot number.
+- **Assessment.** Seller responds within ten business days, either accepting the nonconformity or requesting a joint re-test on retained vials.
+- **Remedy.** Replacement batch, credit note, or refund, at the buyer's election for a release-test failure.
+- **Timing.** Replacement shipped within 30–45 days; refund processed within 30 days of acceptance.
+- **Costs.** Seller covers the buyer's reasonable third-party testing cost when the nonconformity is confirmed.
 
-## FAQ
+Liquidated damages for late delivery are a separate clause. A rate of 0.5% of order value per week, capped at 5%, is a common negotiating position; it gives the buyer a remedy without requiring proof of loss. Keep the cap low enough that the supplier will accept it, and make sure the clause does not replace the right to cancel after a long delay.
 
-### What is a peptide supplier term sheet?
+One caution: a remedy that requires the buyer to return material before a replacement ships can leave a laboratory without inventory for weeks. Negotiate a cross-ship for established customers, or at least a partial shipment of the replacement.
 
-A peptide supplier term sheet is a non-binding commercial document that aligns both parties on pricing, volumes, payment milestones, and forecasting obligations before legal contract drafting begins. It reduces negotiation friction and prevents costly legal redlines on unresolved commercial issues.
+## Audit Rights and Record Retention
 
-### How many KPIs should a peptide supply contract include?
+Audit rights are the clause buyers use least and value most when a batch fails. Two forms are practical.
 
-Peptide supplier scorecards should track five to seven key indicators, including On-Time Delivery, Batch Acceptance Rate, Quality Deviation frequency, CAPA Cycle Time, and Audit Compliance. Tracking more metrics dilutes focus and increases administrative burden without improving supplier performance.
+**Document audit.** The buyer may request batch records, deviation reports, and change history for the specific lot, with confidential information redacted. This is inexpensive and usually sufficient for a research peptide purchase.
 
-### What is a springing license in a peptide CDMO contract?
+**On-site audit.** Once per twelve months, with 30 days' notice, during a scheduled production window, under a confidentiality agreement. On-site access is worth requesting for a supplier that holds a critical single-source item.
 
-A springing license grants the buyer rights to a supplier’s manufacturing know-how upon a defined triggering event such as insolvency, regulatory action, or change of control. It protects manufacturer-switch rights without requiring full IP transfer at contract signing.
+Retention should match the product's useful life. A five-year retention period, or shelf life plus one year, whichever is longer, covers the retest window and any study that used the material. Confirm that records survive a supplier ownership change; a clause that binds successors and assigns is standard in well-drafted agreements and absent from most templates.
 
-### Why does on-site auditing matter more than supplier questionnaires?
+The [supplier transparency checklist](/blog/peptide-supply-chain-transparency-buyer-checklist/) lists the documents worth requesting before an audit, and the [lead-time evaluation guide](/blog/how-to-evaluate-peptide-supplier-lead-times-in-2026/) covers the operational metrics that belong in a quarterly review. For internal reporting, the [procurement KPI guide](/blog/procurement-kpis-for-peptide-sourcing-2026-guide/) sets out measures such as on-time-in-full rate and batch acceptance rate.
 
-On-site audits reveal actual synthesis capacity, quality system maturity, and operational culture in ways that paper-based questionnaires cannot. For GMP-regulated peptide activities, formal audits are the industry standard for risk mitigation before contract execution.
+## The Author's Take
 
-### How should procurement account for geopolitical risk in peptide contracts?
+**Position.** Procurement should spend its negotiating capital on the specification, the notice window, and the remedy clause, and treat the unit price as the last variable. A three percent discount on a batch that cannot be rejected is not a saving.
 
-Force majeure clauses in peptide supply agreements must now specify transition funding obligations, technology transfer cost allocation, and triggering events tied to tariffs, regulatory changes, or ownership shifts affecting manufacturing sites in China or India.
+**Reasoning.** Peptide supply failures are rarely dramatic. They look like a purity result at 97.4% against a 98.0% specification, a counterion that changed from trifluoroacetate to acetate, or a replacement batch that arrives six weeks after the study was scheduled to start. Each of those is a contract problem before it is a chemistry problem, because the contract either gives the buyer a procedure or leaves them with an argument. The convention and Incoterms references in this article exist to give that procedure a shared vocabulary; they do not replace local counsel.
 
-## China Peptides Sourcing Perspective
+**Disclosure.** Peptides of China sells research peptides. This article describes commercial terms and sourcing judgment; it is not legal advice, an effects claim, a dosing guide, or medical advice. Products referenced on this site are supplied for laboratory research use only. Contract terms are agreed case by case, and buyers should have agreements reviewed under their own governing law.
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+## Sources
 
-## Related Products
-
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+- United Nations Convention on Contracts for the International Sale of Goods (CISG), Articles 25, 35, 38, 39, 74, 77. [uncitral.un.org](https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/cisg)
+- ICC Incoterms 2020 rules. International Chamber of Commerce. [iccwbo.org](https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/)
+- ICH Q7: Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients. [database.ich.org](https://database.ich.org/sites/default/files/Q7%20Guideline.pdf)
+- ICH Q6B: Specifications — Test Procedures and Acceptance Criteria for Biotechnological/Biological Products. [database.ich.org](https://database.ich.org/sites/default/files/Q6B%20Guideline.pdf)
+- 21 CFR Part 211 — Current Good Manufacturing Practice for Finished Pharmaceuticals. [ecfr.gov](https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211)
+- WCO Harmonized System Nomenclature, 2022 edition. World Customs Organization. [wcoomd.org](https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx)
