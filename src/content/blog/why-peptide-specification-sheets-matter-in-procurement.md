@@ -1,149 +1,146 @@
 ---
-title: "Why Peptide Specification Sheets Matter In Procurement"
+title: "Peptide Specification Sheets: What a Spec Must Contain"
 slug: "why-peptide-specification-sheets-matter-in-procurement"
-description: "Discover why peptide specification sheets matter in procurement. Ensure quality, compliance, and defensible sourcing decisions for better outcomes."
-
-
-
-
-
+description: "A peptide specification sheet fixes sequence, salt form, assay basis, purity method, water content and acceptance limits before a purchase order is issued."
 ---
-This guide examines why peptide specification sheets matter in procurement from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
+A peptide specification sheet is the document that turns a marketing claim into a testable requirement. It names the sequence, the salt form, the assay basis, the analytical method, the units and the acceptance limit for each attribute. Without it, a buyer is comparing adjectives; with it, a buyer is comparing numbers that a laboratory can reproduce.
 
-A peptide specification sheet is the foundational procurement document that defines the exact quality standards, analytical requirements, and product benchmarks a supplier must meet before a purchase order is issued. Without this document, procurement teams operate on assumptions rather than agreed facts. The result is mismatched expectations, unverifiable quality claims, and compliance exposure that compounds with every batch ordered. Understanding why peptide specification sheets matter in procurement is not a bureaucratic exercise. It is the difference between a defensible sourcing decision and one that unravels at goods receipt.
+The sheet matters most before money moves. Once a purchase order is signed, the specification becomes the only shared definition of what "acceptable" means. A certificate of analysis issued against a vague specification is not evidence of much, because almost any result can be declared conforming when no limit was written down.
 
-## What key information does a peptide specification sheet contain?
+## What a Specification Sheet Is, and What It Is Not
 
-A [peptide specification sheet](https://peptide.wumolab.com/insights/research-grade-peptide-shipment-documents-checklist/) typically includes the peptide name, CAS number, amino acid sequence, molecular formula, molecular weight, purity thresholds, storage conditions, packaging details, and shelf life. Each element carries procurement weight. The sequence confirms identity. The purity threshold sets the minimum acceptable standard. Storage conditions determine cold-chain requirements and shipping costs.
+Three documents get confused in procurement conversations: the listing, the specification, and the certificate of analysis. They serve different purposes and carry different authority.
 
-The document also specifies fill amount per vial, vial material, closure type, and the scope of documentation the supplier must provide. These details lock in at least 12 critical variables before a purchase order is placed. That specificity prevents the most common sourcing disputes: wrong vial format, missing documentation, or a purity figure that does not match what was quoted.
+| Document | What it states | What it proves | Who controls it |
+| --- | --- | --- | --- |
+| Catalog listing | A commercial claim, often a purity range | That a supplier is willing to advertise a number | Supplier marketing |
+| Specification sheet | Required identity, methods, limits and basis | What the buyer and seller agreed to test | Both parties, by contract |
+| Certificate of analysis | Measured results for one lot | What that laboratory found in that sample | Issuing laboratory |
+| Independent test report | Results from a laboratory the buyer selected | Whether a sample met the stated limits | Buyer's contract lab |
 
-Procurement teams should understand the difference between a specification sheet and a Certificate of Analysis (COA). A specification sheet defines what the product must be. A COA reports what a specific batch actually tested as. The [COA is only meaningful](https://peptidedefinition.com/guides/peptide-coa-testing-guide) when compared against a pre-agreed specification sheet. Without the specification sheet, COA data is contextless and cannot be used to accept or reject a batch.
+A specification is a requirement. A certificate is a result. When a supplier sends a certificate but no specification, the buyer has been given an answer to a question nobody wrote down.
 
-The analytical section of a specification sheet deserves particular attention. Purity is typically expressed as HPLC area percent, but this figure does not equal absolute peptide content. A peptide [reported at 98% purity by HPLC](https://compoundreview.org/methods/peptide-purity-standards/) may contain only 70–80% actual peptide mass once residual moisture, salts, and counterions are accounted for. The specification sheet should require net peptide content disclosure alongside chromatographic purity.
+The distinction has a practical consequence at receiving. If the specification says "purity ≥98.0% by RP-HPLC, area percent at 220 nm" and the certificate reports 98.4%, the buyer can accept the lot on the documented basis and retain a sample for confirmation. If the specification says only "high purity", the same certificate supports no decision, because there is no agreed threshold to compare against and no agreed method that produced the number.
 
-Key components that a complete specification sheet must address:
+## The Fields That Decide Whether a Spec Is Usable
 
-- Peptide identity: name, CAS number, sequence, molecular formula, and molecular weight
-- Purity specification: HPLC area percent threshold and net peptide content requirement
-- Impurity limits: maximum allowable levels for related substances and residual solvents
-- Physical form: lyophilized powder, fill weight per vial, and vial material
-- Packaging: closure type, secondary packaging, and labeling requirements
-- Documentation scope: required analytical reports, batch number format, and testing methodology
-- Storage and shelf life: temperature range, humidity limits, and expiry dating
+Most peptide specification sheets are one or two pages. The useful ones share a structure: identity block, material description, analytical table, packaging and storage, revision history. The table below lists the fields that change a purchasing decision, with example limits a research buyer might write. The values are examples of how limits are expressed, not universal requirements.
 
-**Pro Tip:** *Require net peptide content as a separate line item in the specification sheet, not just HPLC purity. This single addition eliminates the most common dosing miscalculation in research peptide procurement.*
-
-## How do specification sheets improve compliance and governance?
-
-Regulatory frameworks and institutional governance policies increasingly require documentation to be defined at the request-for-quotation (RFQ) stage, not after goods arrive. [Failing to require comprehensive documentation](https://fairmoore.co.uk/best-practices-for-sourcing-research-peptides/) at the RFQ stage creates compliance liabilities and extends procurement timelines. Procurement teams that wait until delivery to request COAs, HPLC reports, mass spectrometry data, and Safety Data Sheets (SDS) face delays and, in some cases, rejection by internal quality assurance functions.
-
-The EMA Synthetic Peptide Guideline serves as the [essential benchmark for peptide characterization](https://www.chemverify.com/learn/ema-synthetic-peptide-guideline-2026), even for research-grade materials not subject to regulatory submission. Procurement teams sourcing peptides for institutional research programs benefit from aligning their specification requirements with this framework. It signals to suppliers that documentation standards are non-negotiable and provides a defensible basis for supplier qualification decisions.
-
-> A supplier who cannot produce a complete specification sheet before quoting is signaling something important: their internal quality systems may not be mature enough to guarantee batch-to-batch consistency. Documentation gaps are practical signals of supplier quality discipline and traceability readiness. Procurement teams that treat documentation requests as administrative formalities miss this diagnostic value entirely.
-
-Specification sheets also reduce internal friction. When procurement, quality assurance, and end users agree on a specification before sourcing begins, there is no ambiguity at goods receipt. The specification sheet becomes the single reference point for acceptance decisions. This alignment shortens approval cycles and reduces the back-and-forth that typically follows when documentation is incomplete or inconsistent.
-
-Benefits of requiring specification sheets at the RFQ stage:
-
-- Satisfies internal governance and institutional compliance requirements before procurement begins
-- Provides a documented basis for supplier qualification and disqualification
-- Reduces post-delivery disputes by establishing acceptance criteria in advance
-- Enables meaningful comparison of supplier quotes against identical product definitions
-- Signals to suppliers that documentation standards are enforced, not optional
-
-## What procurement pitfalls arise without specification sheets?
-
-The most damaging pitfall is accepting purity claims at face value. A supplier quoting “98% purity” without a specification sheet defining the measurement method, the reference standard, and the net peptide content requirement is providing a figure that cannot be verified or compared. Purity percentages alone can mislead dosing calculations due to salt forms and residuals. Procurement teams that do not require net peptide content clarification routinely overpay for product that delivers less active material than expected.
-
-The second major pitfall is comparing non-uniform supplier quotes. Without a specification sheet, each supplier quotes to their own internal standard. One supplier’s “98% pure, 1mg/vial” may use a different HPLC method, a different salt form, and a different vial material than another supplier’s identical-sounding offer. The specification-backed quotation approach eliminates this problem by forcing all suppliers to quote against the same defined product.
-
-| Procurement scenario | Without specification sheet | With specification sheet |
+| Field | Why it changes the decision | Example expression |
 | --- | --- | --- |
-| Purity comparison | Suppliers use different methods; figures are not comparable | All suppliers quote to the same HPLC and net content standard |
-| Vial format | Format varies by supplier default | Fill weight, vial material, and closure type are fixed |
-| COA evaluation | COA data has no reference point for acceptance | COA is evaluated against pre-agreed specification criteria |
-| Batch traceability | Batch records may be incomplete or absent | Documentation scope is defined and required before order |
-| Supplier accountability | Disputes resolved by negotiation | Disputes resolved by reference to agreed specification |
+| Sequence | Distinguishes the target from analogues and scrambles | One-letter sequence with N- and C-terminus stated |
+| Molecular formula and mass | Gives the theoretical mass for identity checks | C62H98N16O22; 1419.5 Da |
+| Salt or counterion form | Changes mass, solubility and net peptide content | Acetate salt; acetate 5.0–12.0% w/w |
+| Appearance | First-line check for gross defects | White to off-white lyophilised powder |
+| Purity method and wavelength | Defines what the percentage means | RP-HPLC, 220 nm, area percent |
+| Purity limit | Release threshold | ≥98.0% area |
+| Assay and basis | Separates peptide content from area purity | 95.0–102.0% on anhydrous, counterion-free basis |
+| Water content | Explains part of the mass that is not peptide | ≤8.0% by Karl Fischer |
+| Residual TFA | Relevant when TFA was used in purification | ≤1.0% w/w |
+| Endotoxin | Sets a ceiling for a stated use | ≤10 EU/mg by LAL |
+| Bioburden | Indicates microbial load before sterile filtration | ≤100 CFU/g |
+| Storage and retest | Defines the usable window | −20 °C, protect from light, retest 24 months |
 
-Documentation gaps also compromise batch traceability. When a supplier ships product without a batch-specific COA tied to a pre-agreed specification, there is no audit trail connecting the product in the vial to the synthesis batch, the raw materials used, or the analytical results generated. This gap is not just a compliance risk. It is a research reproducibility risk. Results generated with an unverified batch cannot be reliably replicated.
+Two fields deserve more attention than they usually get: the assay basis and the counterion specification. Both determine how much peptide is actually in the vial, and both are frequently omitted from supplier documents because omitting them makes the purity number look better.
 
-**Pro Tip:** *When issuing an RFQ, attach the specification sheet as a mandatory response document. Suppliers who return quotes without completing the specification requirements should be deprioritized in the evaluation, regardless of price.*
+## Identity: Sequence, Salt Form and Counterion
 
-## Best practices for applying specification sheets in peptide procurement
+A peptide name is not a chemical identity. BPC-157 as a free base, as an acetate salt and as a TFA salt are three different materials with different masses, different handling properties and different net peptide content per milligram of powder. The sequence can be identical in all three.
 
-Procurement teams that apply specification sheets effectively follow a consistent sequence. The specification is agreed before the RFQ is issued, not after the supplier is selected.
+The specification should state the sequence in one-letter code, the expected molecular mass, and the salt form. If the material is an acetate salt, the sheet should give an acetate content range measured by ion chromatography, typically expressed as percent weight by weight. If trifluoroacetic acid was used during purification, the sheet should state a residual TFA limit, because TFA binds to cationic peptides and is not removed by simple lyophilisation. [TFA removal is a separate process step](/blog/tfa-removal-peptides/), and its absence from a specification is a signal that nobody measured it.
 
-1. Draft the specification sheet before issuing the RFQ. Define purity thresholds, net peptide content requirements, vial format, documentation scope, and storage conditions. Involve quality assurance and end users in this step to prevent downstream misalignment.
-2. Include the specification sheet as a mandatory attachment in the RFQ. Require suppliers to confirm acceptance of each specification line item in their response. Any deviation must be flagged and justified by the supplier in writing.
-3. Evaluate supplier documentation packages as part of the qualification process. A supplier who provides a complete, well-structured documentation package at the quotation stage demonstrates internal quality discipline. [Third-party laboratory verification](https://peptide.wumolab.com/insights/bulk-peptide-purchasing-guide-moq-lead-time-and-cost-considerations/) carries more credibility than in-house analytical reports alone. Require independent testing results where batch values are critical.
-4. Integrate specification sheet compliance into supplier ranking criteria. Score suppliers on documentation completeness, response accuracy, and willingness to provide specification-backed quotations. Use this score alongside price and lead time in the final selection decision.
-5. Align procurement, quality assurance, and research teams on the specification before the purchase order is issued. This coordination prevents the common scenario where a batch is accepted by procurement but rejected by the lab because the specification was never shared with end users.
-6. Review and update specification sheets when product requirements change. A specification sheet is a living document. If the research protocol changes, the specification must change with it. Outdated specifications create the same risks as no specification at all.
+Mass verification then has a reference point. For a peptide with a theoretical mass of 1419.5 Da, a low-resolution electrospray result within ±0.5 Da is consistent with the expected composition. A high-resolution instrument at 60,000 resolution can hold a tolerance near ±5 ppm, which is about ±0.007 Da at that mass. The arithmetic behind charge states is covered in the [molecular weight verification guide](/blog/peptide-molecular-weight-verification-steps/); the specification only needs to fix the tolerance and the method.
 
-A [professional procurement checklist](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) for peptide sourcing should treat specification sheet agreement as a gate, not a formality. No purchase order should be issued without a signed or confirmed specification on file.
+Counterion stoichiometry is the part buyers underestimate. A peptide with two basic residues may carry two acetate molecules per peptide molecule, and the resulting powder can contain a substantial fraction of acetate by mass. That is not a defect. It is a material property that has to be declared, because it changes the amount of peptide in a 10 mg vial.
 
-## Key Takeaways
+## Purity and Assay Are Two Different Numbers
 
-Specification sheets are the single most effective tool for controlling quality, compliance, and supplier accountability in peptide procurement.
+Purity, as usually reported, is an area percentage from a chromatogram. It answers a narrow question: of the material that absorbed at the detection wavelength and eluted within the run, what fraction belonged to the main peak? It says nothing about water, counterions, residual solvents or inorganic salts, because those do not produce a peak in a typical reversed-phase run.
 
-| Point | Details |
-| --- | --- |
-| Specification sheet vs. COA | The specification sheet defines what a product must be; the COA reports what a batch tested as. |
-| Net peptide content | Always require net peptide content alongside HPLC purity to avoid dosing miscalculations. |
-| RFQ stage documentation | Require specification sheets at the RFQ stage to satisfy governance requirements and enable accurate supplier comparison. |
-| Supplier qualification signal | A supplier who cannot produce a complete specification sheet before quoting signals weak internal quality systems. |
-| Third-party verification | Independent lab results carry more weight than in-house analytical reports in supplier evaluation. |
+Assay answers a different question: how much of the labelled mass is the target peptide? A certificate can legitimately report 99.0% purity by area and 82% peptide content by mass. Both numbers can be true at the same time.
 
-## Specification sheets reveal more than quality data
+The arithmetic matters at the bench. Take a 10 mg vial labelled as 10 mg peptide, a purity of 98.5% by area, and a net peptide content of 88%. The mass of target peptide is approximately 10 × 0.985 × 0.88 = 8.67 mg. A researcher who assumes 10 mg and calculates concentrations from that assumption introduces an 11–13% error before the first pipette tip touches the vial. For a review of how these figures appear on a certificate, see the [COA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/).
 
-The procurement teams I have observed struggle most with peptide sourcing share a common pattern: they treat the specification sheet as a delivery document rather than a procurement tool. They request it after the supplier is selected, sometimes after the order is placed. By that point, the specification has no leverage. The supplier has already quoted to their own standard, and the buyer has no contractual basis to reject product that does not meet unstated requirements.
+Wavelength choice adds another layer. A 214 nm method detects the peptide backbone and tends to show more impurity peaks than a 280 nm method, which detects aromatic residues. Two certificates quoting 98% purity are not comparable unless the wavelength, column, gradient and integration threshold are the same. [HPLC and LC-MS answer different questions](/blog/hplc-vs-lc-ms-peptides/), and neither replaces a stated method.
 
-What I find consistently true is that a supplier’s response to a specification sheet request tells you more about their operation than any marketing material. A supplier who pushes back on net peptide content disclosure, who cannot confirm vial material specifications, or who provides a COA without a corresponding specification reference is showing you the ceiling of their quality system. That ceiling matters more than their quoted price.
+## Water, Counterion and Net Peptide Content
 
-The COA misconception is also worth addressing directly. Many procurement professionals treat a COA as a quality guarantee. It is not. A COA is a performance record for a specific batch. It tells you what happened, not what was required. The specification sheet is the evaluation framework that gives the COA meaning. Without it, a COA with excellent numbers is just a document with no context.
+Net peptide content is a mass-balance calculation, not a direct measurement. The usual form is:
 
-The direction procurement is heading in 2026 is toward greater documentation scrutiny and supply chain transparency. Institutions are tightening their vendor qualification requirements. Specification-backed sourcing is becoming the baseline expectation, not a differentiator. Teams that build this discipline now will have a significant advantage when those requirements become mandatory.
+Peptide content (%) = 100 − water − counterion − residual solvents − inorganic residue − other impurities.
 
-For guidance on [supplier contract negotiation](/blog/peptide-supplier-contract-negotiation-tips-for-procurement) that incorporates specification standards, the process starts with the same document: a clear, complete specification sheet agreed before any commercial terms are discussed.
+Each term needs a method. Water is measured by Karl Fischer titration, with a sample size typically between 50 and 100 mg for a lyophilised powder; loss on drying is a cheaper alternative but it also drives off volatile solvents and can overstate water. Counterion content comes from ion chromatography. Residual solvents come from gas chromatography, and the specification should name the solvents that were actually used, not a generic list. Inorganic residue comes from residue on ignition or sulphated ash.
 
-> *— Sam Levin*
+For an acetate salt of a cationic peptide, a net peptide content between 70% and 90% is common. A specification that promises 98% peptide content by mass, while also reporting 99% area purity and no water limit, is internally inconsistent. Either the water and counterion were not measured, or the "98%" refers to something other than mass.
 
-## Peptides of China and specification-backed peptide sourcing
+The specification should state the basis explicitly: "on anhydrous, counterion-free basis" or "as-is". The difference between those two phrases can exceed ten percentage points. [The documentation package](/blog/peptide-documentation-package/) should carry the same basis across the specification, certificate and label, because a basis switch between documents is one of the commonest ways a failing lot appears to pass.
 
-Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory. The platform’s sourcing model is built on direct relationships with established synthesis facilities, not gray-market reseller channels.
+## Setting Acceptance Limits You Can Enforce
 
-Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory. Buyers may confirm available specifications and documentation for a product and batch before committing to an order. Learn more: [research-grade peptide catalog](/catalog). Learn more: [VIP research peptide range](/catalog/vip).
+A limit copied from another supplier's certificate is a guess. A limit derived from method capability and product risk is a decision. Three questions produce defensible limits.
 
-## FAQ
+First, what does the method actually resolve? If the HPLC method has a resolution of 1.2 between the main peak and the nearest impurity, a 99.0% limit cannot be enforced meaningfully, because the method cannot separate the peak being measured from the one next to it. System suitability should require at least six replicate injections, a peak-area relative standard deviation of ≤2.0%, a retention-time RSD of ≤1.0%, resolution ≥1.5 and a tailing factor between 0.8 and 1.5.
 
-### What is a peptide specification sheet?
+Second, what variation is normal between lots? Three consecutive lots give a rough estimate. If the last three lots ran 98.2%, 98.5% and 98.3% by area, a limit of ≥98.0% is achievable but leaves little room. A limit of ≥97.0% with a trend review is often more honest than a nominal 99% that gets waived whenever it is missed.
 
-A peptide specification sheet is a procurement document that defines the agreed quality standards, analytical requirements, and product details a supplier must meet before a purchase order is issued. It typically includes purity thresholds, net peptide content, vial format, storage conditions, and required documentation.
+Third, what does the research application require? A receptor-binding study and a cell-culture study do not carry the same sensitivity to endotoxin or residual TFA. The specification should state limits for the attributes that matter to the stated use, and mark the rest as informational. Writing "endotoxin ≤10 EU/mg" when nobody intends to measure it is worse than leaving it out, because it creates a paper compliance trail with no analytical basis.
 
-### How does a specification sheet differ from a COA?
+| Attribute | Buyer-set limit example | Method | Sampling note |
+| --- | --- | --- | --- |
+| Purity | ≥98.0% area | RP-HPLC, 220 nm, C18 | Single injection plus system suitability |
+| Assay | 95.0–102.0% | External standard HPLC or AAA | Duplicate preparation |
+| Water | ≤8.0% | Karl Fischer | 50–100 mg sample |
+| Acetate | 5.0–12.0% w/w | Ion chromatography | Report stoichiometry |
+| Residual TFA | ≤1.0% w/w | Ion chromatography | Name the extraction method |
+| Endotoxin | ≤10 EU/mg | LAL, kinetic chromogenic | Report method sensitivity |
+| Bioburden | ≤100 CFU/g | Membrane filtration | State incubation conditions |
+| Appearance | White powder, no clumps | Visual | Photograph the lot |
 
-A specification sheet defines what the product must be; a COA reports what a specific batch actually tested as. The COA is only interpretable when evaluated against a pre-agreed specification sheet.
+## Specification Drift Between Listing, Quote and Vial
 
-### Why does HPLC purity differ from net peptide content?
+A specification can exist in four places at once: the website listing, the quotation, the purchase order attachment, and the certificate that arrives with the vial. Drift between them is normal in informal procurement and expensive in formal procurement.
 
-HPLC area percent measures chromatographic purity, which does not account for residual moisture, salts, or counterions. A peptide at 98% HPLC purity may contain only 70–80% actual peptide mass, making net peptide content a critical separate specification.
+The common patterns are predictable. The listing says "≥99% purity" without a method. The quotation says "98% min, HPLC". The purchase order says "per supplier specification". The certificate reports 97.6% by area at 214 nm and passes because no limit was attached to the purchase order. Each document is internally reasonable, and the chain has no enforceable requirement.
 
-### When should a specification sheet be requested in the procurement process?
+A controlled specification fixes this with three habits. It carries a revision number and a date. It is attached to the purchase order by reference, not summarised in the email body. And any change to a limit requires a written deviation with a reason, not a silent edit to the PDF.
 
-Specification sheets should be agreed before the RFQ is issued, not after a supplier is selected. Requiring them at the RFQ stage enables accurate supplier comparison and satisfies institutional governance requirements.
+Revision control also protects the supplier. If a buyer changes the water limit from ≤8.0% to ≤5.0% between orders without telling anyone, a conforming lot will fail on arrival. The supplier is then blamed for a requirement that was never communicated. A one-page revision history prevents that argument.
 
-### What does a supplier’s response to a specification sheet request reveal?
+## How to Audit a Spec Sheet in Fifteen Minutes
 
-A supplier’s ability to confirm or complete a detailed specification sheet signals the maturity of their internal quality systems. Suppliers who cannot provide specification-backed quotations are [less reliable partners](https://peptide.wumolab.com/insights/peptide-coa-hplc-ms-sds-documentation-review-b2b-buyers/) for long-term procurement relationships.
+Read in a fixed order. The order matters more than the depth of any single check.
 
-## China Peptides Sourcing Perspective
+1. **Revision and date.** No revision number means no controlled document. Check that the date precedes the purchase order.
+2. **Product identity.** Sequence, molecular formula and theoretical mass should agree with each other. A formula that does not produce the stated mass is a transcription error somewhere.
+3. **Salt form and counterion.** Look for a declared form and a numeric counterion range. "Aceate salt" with no percentage is a label, not a specification.
+4. **Purity method.** Column, dimensions, particle size, mobile phase, gradient, flow rate, injection volume, wavelength and run time. If the method is summarised as "HPLC", the purity number is not reproducible.
+5. **Assay basis.** Anhydrous, counterion-free or as-is. Then check whether the certificate uses the same basis.
+6. **Limits and units.** Every attribute needs a comparator and a unit. "Purity: 98" fails the test.
+7. **Endotoxin and bioburden claims.** Only count them if a method and a limit are stated. A claim with no method is marketing.
+8. **Storage and retest.** Temperature, light protection and retest interval should be consistent with the stability data the supplier is willing to share.
+9. **Signature and laboratory identity.** An unsigned sheet from an unnamed QC department has no attribution.
+10. **Arithmetic.** Do one net-peptide calculation. If the numbers do not reconcile, stop and ask.
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+Fifteen minutes is enough for a first pass. The second pass happens at receiving, when the certificate is compared against the specification field by field. A buyer who runs both passes has a defensible file; a buyer who runs neither has a folder of PDFs.
 
-## Related Products
+If the supplier cannot produce a specification with methods and limits, the next question is whether they manufacture the material at all. [Manufacturer verification](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) covers the site-level checks that sit behind the document, and the [quality testing overview](/blog/peptide-testing-and-analysis-a-professional-guide-to-laboratory-verification/) explains what an independent laboratory can add. For a worked example of how a specification maps onto a catalog item, the [semaglutide product page](/catalog/semaglutide/) shows the fields a buyer would expect to see before requesting a batch-specific certificate.
 
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+## The Author's Take
+
+**Position.** The specification sheet is the most valuable document in a peptide purchase, and it is usually the one nobody asks for. I would rather buy a 97% lot against a specification I can test than a 99% lot against an adjective.
+
+**Reasoning.** Purity numbers are cheap to print and expensive to verify. A specification forces the supplier to commit to a method, a basis and a limit before the sale, which is exactly when they have an incentive to be accurate. It also gives the buyer a document to test against, which changes the conversation after delivery from opinion to comparison. In my experience reviewing procurement files, the disputes that go badly are almost never about sophisticated chemistry; they are about two parties who never agreed on what the number meant.
+
+**Disclosure.** Peptides of China sells research peptides. This article is sourcing judgment, not an effects claim. Every compound discussed is supplied for research use only, and nothing here is a statement about human use, dosing or therapeutic benefit.
+
+## Sources
+
+1. ICH Q6B, Specifications: Test Procedures and Acceptance Criteria for Biotechnological/Biological Products (1999). https://database.ich.org/sites/default/files/Q6B%20Guideline.pdf
+2. ICH Q2(R2), Validation of Analytical Procedures (2023). https://database.ich.org/sites/default/files/ICH_Q2%28R2%29_Guideline_2023_1130.pdf
+3. ICH Q1A(R2), Stability Testing of New Drug Substances and Products (2003). https://database.ich.org/sites/default/files/Q1A%28R2%29%20Guideline.pdf
+4. ICH Q7, Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients (2000). https://database.ich.org/sites/default/files/Q7%20Guideline.pdf
+5. U.S. FDA, 21 CFR 211.194, Laboratory Records. https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211/subpart-J/section-211.194
+6. U.S. FDA, 21 CFR 211.84, Testing and Approval or Rejection of Components, Drug Product Containers, and Closures. https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211/subpart-E/section-211.84
+7. D'Hondt M, Bracke N, Taevernier L, et al. Related impurities in peptide medicines. Journal of Pharmaceutical and Biomedical Analysis. 2014;101:2–30. https://doi.org/10.1016/j.jpba.2014.06.012
+8. Fosgerau K, Hoffmann T. Peptide therapeutics: current status and future directions. Drug Discovery Today. 2015;20(1):122–128. https://doi.org/10.1016/j.drudis.2014.10.003
+9. ISO/IEC 17025:2017, General requirements for the competence of testing and calibration laboratories. https://www.iso.org/standard/66912.html
