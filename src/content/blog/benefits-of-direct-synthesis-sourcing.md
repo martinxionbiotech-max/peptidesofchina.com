@@ -8,6 +8,7 @@ description: "Discover how direct synthesis sourcing can cut costs, enhance qual
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines benefits of direct synthesis sourcing from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -239,6 +240,14 @@ Peptides of China coordinates sourcing from established Chinese manufacturing fa
 Procurement teams can review available compounds and request qualification samples through the [peptide catalog](/catalog), or contact the team directly to discuss supplier qualification documentation and wholesale ordering procedures.
 
 ---
+
+## The Author's Take
+
+**Position.** Direct synthesis sourcing is a supplier-development programme, not a shortcut around quality.
+
+**Reasoning.** Removing a reseller can reduce markup, but it also moves qualification, specification review, change control and batch-release checks onto the buyer. The saving is real only when the buyer has the technical capacity to audit the manufacturer and the commercial leverage to enforce the specification after the first order.
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is a procurement judgement, not medical advice.
 
 ## Sources
 

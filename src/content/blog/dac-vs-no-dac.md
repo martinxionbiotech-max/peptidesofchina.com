@@ -8,6 +8,7 @@ description: "Discover the key differences between CJC-1295 with DAC and no DAC 
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines dac vs no dac from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -284,6 +285,14 @@ Peptides of China coordinates sourcing from established Chinese manufacturing fa
 These products are supplied for research use only and are not intended for human therapeutic use without appropriate regulatory approval and medical oversight. Procurement teams and research labs can review available inventory and COA documentation, or submit a sourcing inquiry, at Peptides of China.
 
 ---
+
+## The Author's Take
+
+**Position.** The DAC choice should follow the exposure profile the study needs, not a generic assumption that a longer half-life is better.
+
+**Reasoning.** DAC changes the pharmacokinetic profile and can produce sustained exposure; the no-DAC variant is used where a shorter, pulsatile pattern is the experimental variable. The sourcing decision should record which variant, sequence, counterion and batch method the supplier is actually providing. Those are separate questions from whether the compound is interesting.
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial judgement, not medical advice.
 
 ## Sources
 
