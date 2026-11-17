@@ -7,6 +7,7 @@ status: "In Stock"
 description: "GHRP-2 (pralmorelin) hexapeptide GHS-R1a agonist for pituitary and receptor pharmacology research, lyophilized at ≥98% HPLC."
 image: "/images/products/ghrp-2-bottle.webp"
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 GHRP-2 is a six-residue synthetic peptide — D-Ala-D-2-Nal-Ala-Trp-D-Phe-Lys-NH₂ — with a molecular weight of 817.9 Da and a CAS number of 158861-67-7. It is a growth hormone secretagogue receptor agonist, and it belongs to the second generation of the growth hormone-releasing peptide series that began with GHRP-6.
 

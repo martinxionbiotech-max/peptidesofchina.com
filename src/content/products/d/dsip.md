@@ -8,6 +8,7 @@ description: "DSIP, the nine-residue delta sleep-inducing peptide, for sleep neu
 image: "/images/products/dsip-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 DSIP, or delta sleep-inducing peptide, is a nine-amino-acid neuropeptide supplied as a lyophilized powder for laboratory research. It was isolated in 1977 from rabbit cerebral venous blood during slow-wave sleep, and the name has followed it ever since. The name is also the problem: it promises a function that later work has not settled, and supplier pages tend to repeat the promise while omitting the replication history. This page separates what the literature supports from what the catalogue copy implies, and sets out the batch data and handling conditions that matter for a nonapeptide with one tryptophan, one aspartic acid, and no positive charge.
 

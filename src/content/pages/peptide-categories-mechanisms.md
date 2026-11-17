@@ -3,6 +3,7 @@ title: "Peptide Categories & Mechanisms: A Research Buyer's Map"
 slug: "peptide-categories-mechanisms"
 description: "A research-use map of peptide classes: GHRH/GHRP, GLP-1 receptor agonists, cosmetic and repair peptides, bioregulators, mitochondrial peptides and blends."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 
 Peptide class names are the most common shorthand in this market and the least reliable one. A vial labeled "GHRP" tells you which receptor family the sequence is supposed to engage. It does not tell you whether the sequence is correct, whether the C-terminus is amidated, whether the batch contains truncated fragments, or whether the assay the supplier ran can detect any of those problems. This page maps the major research peptide classes and the sourcing questions each makes urgent.

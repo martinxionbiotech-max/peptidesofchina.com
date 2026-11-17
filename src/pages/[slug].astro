@@ -27,7 +27,7 @@ const heroSrc = heroImages[page.data.slug];
       <div>
         <h1>{page.data.title}</h1>
         {page.data.description && <p class="lede">{page.data.description}</p>}
-        <p class="muted">By <a href="/author/poc-tech-team/">POC Tech Team</a></p>
+        <p class="muted">By <a href="/author/poc-tech-team/">POC Tech Team</a>{page.data.updated && <> · Updated {page.data.updated}</>}</p>
       </div>
       <div class="page-hero-art">
         <img src={heroSrc} alt={page.data.description || page.data.title} width="320" height="320" loading="eager" />
@@ -37,7 +37,7 @@ const heroSrc = heroImages[page.data.slug];
     <div class="article-header">
       <h1>{page.data.title}</h1>
       {page.data.description && <p class="lede">{page.data.description}</p>}
-      <p class="muted">By <a href="/author/poc-tech-team/">POC Tech Team</a></p>
+      <p class="muted">By <a href="/author/poc-tech-team/">POC Tech Team</a>{page.data.updated && <> · Updated {page.data.updated}</>}</p>
     </div>
   )}
   <div class="article-shell">

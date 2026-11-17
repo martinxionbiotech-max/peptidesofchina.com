@@ -8,6 +8,7 @@ description: "Epitalon (AEDG) tetrapeptide for telomerase and cellular ageing re
 image: "/images/products/epithalon-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Epitalon is a synthetic four-amino-acid peptide — Ala-Glu-Asp-Gly — supplied as a lyophilized powder for cell-culture and preclinical research. Its small size makes it cheap to synthesize, which is exactly why catalogue listings are hard to compare: the sequence is trivial, the documentation is not. A 390 Da tetrapeptide has no aromatic residue, so the analytical methods used for larger peptides need adjusting, and the counterion can account for a large share of the fill weight. This page covers the research background, the batch records worth requesting, and the handling details that affect assay reproducibility.
 

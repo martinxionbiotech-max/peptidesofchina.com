@@ -8,6 +8,7 @@ description: "Ipamorelin pentapeptide GHSR-1a agonist for GH-axis research. 5 mg
 image: "/images/products/ipamorelin-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Ipamorelin is a five-amino-acid GHSR-1a agonist used as a tool compound in pituitary and GH-axis research. It is supplied here as lyophilized powder in 5 mg and 10 mg vials, with a catalog purity specification of ≥98% by HPLC and identity confirmed by mass spectrometry. The case for ipamorelin over older GHRPs rests on receptor selectivity: the original characterization work reported GH release with little accompanying ACTH or prolactin response. That makes it the cleaner choice when a study needs a GHSR-1a input without confounding neuroendocrine output. This page covers what belongs in the batch record, how the peptide behaves in storage, and where it sits against adjacent compounds.
 

@@ -3,6 +3,7 @@ title: "Peptide Quality & Testing: HPLC, MS, COA and Batch Consistency"
 slug: "peptide-quality-testing"
 description: "What a peptide COA actually proves: HPLC purity, LC-MS/MALDI identity, counterions, endotoxins, sterility, sampling and batch consistency for research buyers."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 
 A certificate of analysis is often treated as a verdict. It is closer to a receipt with laboratory attachments. The document records what a manufacturer tested, on which lot, using which method, and what the numbers were. That is useful evidence. It becomes misleading when a buyer reads the purity line and stops there.

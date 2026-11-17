@@ -8,6 +8,7 @@ description: "Adamantane-capped P21 neurotrophic peptide analogue for laboratory
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 P21 Adamantane is the modified member of a two-product family. The parent peptide, P21, is a short synthetic sequence modelled on the active region of ciliary neurotrophic factor (CNTF); the adamantane version carries a lipophilic hydrocarbon cage intended to change how the peptide behaves in solution and in tissue. Almost everything published about this family concerns the parent. Almost nothing published concerns the capped analogue. That asymmetry is the first fact a buyer needs, because it determines what can be verified and what has to be taken on the supplier's word.
 

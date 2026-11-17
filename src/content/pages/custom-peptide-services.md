@@ -7,6 +7,7 @@ description: "Develop custom research peptides, blends, cap colors and private-l
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Custom peptide services extend our **china peptide** catalog to sequences not listed in stock.
 

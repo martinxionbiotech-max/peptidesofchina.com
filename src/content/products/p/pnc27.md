@@ -8,6 +8,7 @@ description: "PNC27 p53(12–26) peptide for oncology research. Identity, purity
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 PNC27 is a peptide copy of the p53 N-terminal region that binds HDM2, the human homologue of MDM2. It is sold here as a research reagent in 5 mg and 10 mg vials, with two pack sizes and a variant table that does not state a purity value. That blank is worth noticing. For a peptide intended for cell-based oncology work, purity and endotoxin status are not optional extras; they are part of the experimental design.
 

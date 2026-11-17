@@ -3,6 +3,7 @@ title: "Privacy And Cookie Policy"
 slug: "privacy-and-cookie-policy"
 description: "How Peptides of China collects, uses, shares, and protects information submitted through the website, plus our cookie and tracking disclosure."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 
 How Peptides of China handles information for **china peptide** buyers and site visitors.

@@ -9,6 +9,7 @@ description: "Super Human Blend: nine-component amino acid solution for laborato
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Super Human Blend is a sterile liquid amino acid formulation supplied in 10 mL vials. It combines L-arginine, L-ornithine, L-citrulline, L-lysine, L-glutamine, L-proline, L-taurine, L-carnitine, and N-acetylcysteine in a single solution. The declared amounts are listed per millilitre on the product specification, and the research context is the interaction of the nitric oxide pathway, the urea cycle, collagen synthesis, glutathione biosynthesis, and mitochondrial fatty acid transport.
 

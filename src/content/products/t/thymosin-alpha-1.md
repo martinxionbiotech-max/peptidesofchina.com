@@ -8,6 +8,7 @@ description: "Thymosin Alpha-1 28-mer for laboratory research. N-terminal acetyl
 image: "/images/products/thymosin-alpha-1-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Thymosin Alpha-1 is a 28-residue acetylated peptide supplied as a lyophilized powder for laboratory research. Its sequence begins with Ac-Ser, and that N-terminal acetyl group is the first thing a batch record should prove: the des-acetyl form is a different molecule with different behaviour in T-cell and dendritic-cell assays. At 3,108 Da the peptide is large enough that mass confirmation requires deconvolution, and small enough that fill weight can hide a meaningful amount of water and counterion. This page covers the research context, the analytical package, and the handling details that matter for immune-response studies.
 

@@ -8,6 +8,8 @@ description: "Crystagen (Glu-Asp-Pro) is a tripeptide bioregulator studied in th
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "bioregulators"
 ---
 Crystagen is a tripeptide with the sequence Glu-Asp-Pro, supplied as a 20 mg lyophilized powder in packs of ten. It is a member of the short peptide bioregulator family, with a tissue association to the thymus. The catalogue files it under immunity, which is a filing category rather than a claim: the published work is preclinical, uses immune-cell readouts, and has not been independently replicated at a scale that would support anything stronger.
 

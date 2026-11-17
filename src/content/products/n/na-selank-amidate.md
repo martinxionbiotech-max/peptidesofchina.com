@@ -8,6 +8,7 @@ description: "N-acetylated, C-amidated Selank analogue for laboratory research, 
 image: "/images/products/selank-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 NA Selank Amidate is Selank with an acetyl group on the N-terminus and an amide on the C-terminus. The second modification is the one to think about first, because Selank is already amidated. The parent sequence, Thr-Lys-Pro-Arg-Pro-Gly-Pro-NH₂, ends in a C-terminal amide, so the "amidate" in the product name describes a feature the parent already has. The meaningful change is the N-acetyl cap, which removes the N-terminal positive charge and slows aminopeptidase attack. That single change alters the molecule's net charge, its retention on an ion exchanger, and its adsorption behaviour, while leaving the rest of the heptapeptide untouched.
 

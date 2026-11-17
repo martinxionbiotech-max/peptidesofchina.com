@@ -8,6 +8,7 @@ description: "Oxytocin acetate nonapeptide for OXTR receptor-binding and analyti
 image: "/images/products/oxytocin-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Oxytocin acetate is a cyclic nonapeptide supplied as a lyophilized powder in 5 mg and 10 mg vials, ten vials per pack, at a catalog purity of ≥98%. The sequence is Cys-Tyr-Ile-Gln-Asn-Cys-Pro-Leu-Gly-NH₂ with a disulfide bond between the two cysteine residues, the molecular weight is 1007.2 Da, and the CAS number is 50-56-6. It is supplied for laboratory research only and is not for human or veterinary use.
 

@@ -7,6 +7,7 @@ status: "In Stock"
 description: "GHRP-6 hexapeptide ghrelin receptor agonist for preclinical GH-axis and appetite-signalling research, lyophilized at ≥98% HPLC."
 image: "/images/products/ghrp-6-bottle.webp"
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 GHRP-6 is a six-residue peptide — His-D-Trp-Ala-Trp-D-Phe-Lys-NH₂ — with a mass of 873.0 Da and a CAS number of 87616-84-0. It is the founding member of the growth hormone-releasing peptide series, and it remains one of the most widely used GHS-R1a agonists in preclinical work.
 

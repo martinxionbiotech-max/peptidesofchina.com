@@ -8,6 +8,8 @@ description: "VIP 28-residue neuropeptide research standard: oxidation control, 
 image: "/images/products/vip-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "Immunity"
 ---
 Vasoactive intestinal peptide is a 28-residue neuropeptide with a sequence that leaves little room for ambiguity and a chemistry that leaves several ways to ruin it. It contains a methionine, an amidated C-terminus, and a tryptophan-free but tyrosine-containing chain. Those three features define the analytical agenda: oxidation of methionine adds 16 Da, deamidation of asparagine changes charge, and the amide is lost under alkaline conditions. A purity percentage measured on a fresh lot can look excellent while a reconstituted stock is already a mixture.
 

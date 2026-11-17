@@ -8,6 +8,7 @@ description: "Dual GCG/GLP-1 receptor agonist peptide for receptor-pharmacology 
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Mazdutide is a dual glucagon-receptor and GLP-1-receptor agonist peptide. This listing carries two strengths, 5 mg and 10 mg, both in ten-vial packs, and both described as a limited-stock custom batch. The catalog purity specification is ≥98%, with the 10 mg variant currently listed without a stated purity value — a detail worth noticing rather than skimming.
 

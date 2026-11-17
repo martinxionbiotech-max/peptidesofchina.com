@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Lipotropic complex with L-carnitine, methionine, inositol, choline, B12, B6 and NADH in a 10 mL vial for in vitro metabolic research."
 image: "/images/products/generic-vial.png"
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This is a formulated mixture, not a peptide. The vial contains L-carnitine, methionine, inositol, choline, vitamin B12, pyridoxine, and NADH in an aqueous base, and the catalogue sells it in 10 mL vials, ten to a pack. The label "fat blaster" is commercial shorthand inherited from the supplement trade; it is not a mechanism, and nothing on this page should be read as one.
 

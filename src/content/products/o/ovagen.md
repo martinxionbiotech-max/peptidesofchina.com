@@ -8,6 +8,7 @@ description: "Khavinson-series tetrapeptide (Glu-Asp-Leu-Ala) for liver-cell and
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Ovagen is a tetrapeptide with the sequence Glu-Asp-Leu-Ala, supplied as a 20 mg lyophilized powder in packs of ten vials. It belongs to the same Khavinson family as Livagen, Epithalon, Cardiogen and Vesugen: short synthetic peptides that are named after tissues and studied under the broad heading of peptide bioregulators. The catalogue purity is ≥98%. It is supplied for laboratory research only and is not for human or veterinary use.
 

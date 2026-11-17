@@ -8,6 +8,7 @@ description: "AHK-Cu is an Ala-His-Lys copper tripeptide complex for skin and ex
 image: "/images/products/ahk-cu-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 AHK-Cu is a small compound with a large specification problem. The peptide is three amino acids long — alanine, histidine, lysine — and the active species is not the peptide alone but the copper complex it forms. That means a vial can contain the right peptide sequence, at the right purity, and still be the wrong reagent, because the copper loading, the coordination geometry, and the counterion all affect what the molecule does in a cell culture dish.
 

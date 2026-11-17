@@ -8,6 +8,7 @@ description: "Human chorionic gonadotropin, an LH-receptor glycoprotein hormone.
 image: "/images/products/hcg-5000iu-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 HCG is the one item in a peptide catalogue that is not really a peptide. It is a glycoprotein hormone of about 38 kDa, assembled from two non-covalently linked subunits and decorated with carbohydrate chains that carry a substantial share of its behaviour. That single fact changes almost everything a buyer should ask about it: how activity is measured, why the vial is labelled in international units rather than milligrams, why two batches with the same sequence can differ in potency, and why a certificate copied from a synthetic peptide template tells you almost nothing.
 

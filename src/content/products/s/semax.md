@@ -8,6 +8,7 @@ description: "Semax ACTH(4-7) analogue for laboratory research. Methionine oxida
 image: "/images/products/semax-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Semax is a seven-residue analogue of the ACTH(4-7) core, extended at the C-terminus with Pro-Gly-Pro and supplied as a lyophilized powder. Its sequence is Met-Glu-His-Phe-Pro-Gly-Pro, and the N-terminal methionine is the analytical weak point: it oxidises readily, adding 16 Da and creating a satellite peak that a purity figure alone will not explain. Laboratories that use Semax in neurotrophin or ischemia research need a batch record that reports that oxidation, not one that hides it under a rounded molecular weight. This page sets out what to ask for and how the free-acid form differs from the acetylated, amidated catalogue variant.
 

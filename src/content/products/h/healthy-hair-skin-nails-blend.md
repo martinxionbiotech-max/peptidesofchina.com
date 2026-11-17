@@ -8,6 +8,7 @@ description: "Defined B-vitamin and micronutrient liquid for cell-culture resear
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This is the one product in the catalogue whose name describes a marketing category rather than a molecule. "Healthy Hair Skin Nails" is a retail shelf label, and the formulation behind it is a defined mixture of water-soluble vitamins and related cofactors: thiamine, riboflavin, niacin, pantothenic acid, biotin, folic acid, choline and inositol. There is no peptide in the vial and no single active ingredient to characterise. What a laboratory buys is a specified concentration of eight small molecules in a sterile liquid, and the quality question is whether the measured concentrations match the label.
 

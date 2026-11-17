@@ -9,6 +9,7 @@ description: "Teriparatide, PTH(1-34), for preclinical PTH1R and bone-remodellin
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Teriparatide is the 34-amino-acid N-terminal fragment of human parathyroid hormone, supplied as a lyophilized powder in 10 mg vials at a catalogue specification of ≥98%. It is a research tool for PTH1 receptor signalling and for bone-remodelling models in vitro and in animals. The published literature on this sequence is unusually large, but this page does not use it to make a medical claim. The focus is the molecule as a laboratory reagent: identity, aggregation, counterion, and the difference between recombinant and synthetic material.
 

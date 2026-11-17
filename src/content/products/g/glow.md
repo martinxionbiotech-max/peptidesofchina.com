@@ -8,6 +8,8 @@ description: "GLOW research blend of TB-500, BPC-157, and GHK-Cu. Three-componen
 image: "/images/products/glow70-stack-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "Healing & Repair, Skin, Hair & Nails, Blends"
 ---
 GLOW is a pre-mixed, lyophilised research blend of three peptides: TB-500, BPC-157, and GHK-Cu. It is sold in 50 mg and 70 mg formats, and those numbers describe total fill, not the amount of any single component. That distinction is the heart of this page. A three-component blend can be a practical laboratory convenience or an analytical black box, depending on whether the supplier can state the composition and prove it. Here is what to ask, what the answers should look like, and where the published evidence ends.
 

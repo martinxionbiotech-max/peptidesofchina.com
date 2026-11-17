@@ -8,6 +8,7 @@ description: "Lyophilized Selank and Semax blend for laboratory research, with n
 image: "/images/products/selank-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 A Selank and Semax blend is two heptapeptides in one vial, and that single fact drives every question worth asking about it. Selank ends in a C-terminal amide and carries a Lys-Arg pair; Semax ends in a free acid and carries an N-terminal methionine that oxidises on the bench. Their masses differ by 62.08 Da, their net charges differ, and their analytical handles differ. A certificate that reports one purity figure for the mixture tells you almost nothing about whether either peptide is present at the stated ratio, whether the methionine survived lyophilisation, or whether the two components were ever mixed at all. This page sets out what a blend record should contain and where a combination product helps a study.
 

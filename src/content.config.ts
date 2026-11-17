@@ -9,6 +9,7 @@ const products = defineCollection({
     slug: z.string(),
     description: z.string().optional(),
     author: z.string().optional(),
+    updated: z.string().optional(),
     price: z.number(),
     image: z.string().optional(),
     category: z.string().optional(),
@@ -40,6 +41,7 @@ const news = defineCollection({
     slug: z.string(),
     description: z.string().optional(),
     author: z.string().optional(),
+    updated: z.string().optional(),
   }),
 });
 
@@ -50,6 +52,7 @@ const pages = defineCollection({
     slug: z.string(),
     description: z.string().optional(),
     author: z.string().optional(),
+    updated: z.string().optional(),
   }),
 });
 

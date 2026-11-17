@@ -8,6 +8,8 @@ description: "Cortagen (Ala-Glu-Asp-Gly) is a tetrapeptide bioregulator studied 
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "bioregulators"
 ---
 Cortagen is a tetrapeptide with the sequence Ala-Glu-Asp-Gly, supplied as a 20 mg lyophilized powder in packs of ten. The tissue association is cortical, and the compound belongs to the short peptide bioregulator family. Of all the compounds in that family, cortagen has the most direct chromatin literature: studies from the Tbilisi group used nuclear magnetic resonance and microcalorimetry to measure how the peptide changes the thermal stability of chromatin in aged cells. That is a narrower and more technical evidence base than the usual "gene expression" summary, and it is worth reading on its own terms.
 

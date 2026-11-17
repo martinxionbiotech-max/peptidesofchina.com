@@ -8,6 +8,8 @@ description: "Retatrutide + MGF blend for metabolic and IGF-1 splice-variant sig
 image: "/images/products/retatrutide-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "Weight Management, Blends"
 ---
 Retatrutide + MGF is a two-component blend supplied as a lyophilized powder for metabolic and growth-factor signalling research. The two peptides are analytically unrelated: retatrutide is a large engineered receptor agonist, while MGF is a short peptide derived from an IGF-1 splice variant. A single HPLC purity number cannot describe both, and a certificate that reports only the dominant peak has not characterised the blend. This page covers what each component is, how a blend record should be read, and why the ratio printed on the label is a specification rather than a mixing instruction.
 

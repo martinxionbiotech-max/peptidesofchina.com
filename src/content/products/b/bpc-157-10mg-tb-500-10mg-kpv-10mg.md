@@ -8,6 +8,7 @@ description: "Three-component research blend: BPC-157 10 mg, TB-500 10 mg and KP
 image: "/images/products/bpc-157-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This product is a three-component lyophilized blend: 10 mg BPC-157, 10 mg TB-500, and 10 mg KPV in a single 30 mg vial, supplied in 10-vial packs. It is a convenience format for laboratories that want all three materials in one reconstitution step, not a new chemical entity. The sourcing question is therefore different from a single-peptide purchase: you are asking whether each peptide is real, and whether the three were blended uniformly and whether the certificate can quantify each component in the presence of the other two. This page explains what that requires.
 

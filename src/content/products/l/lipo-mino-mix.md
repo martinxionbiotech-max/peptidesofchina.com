@@ -8,6 +8,7 @@ description: "Carnitine, methionine, inositol, choline with B1, B2 and B6 in 10 
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Lipo Mino Mix is the B-vitamin variant of the Lipo family: L-carnitine, methionine, inositol, and choline, with thiamine (B1), riboflavin (B2), and pyridoxine (B6). It is supplied at 244.4 mg/mL in 10 mL ampoules. The concentration is precise enough to suggest a formulated product rather than a rounded label, and the vitamin set is different from every other blend in the catalogue.
 

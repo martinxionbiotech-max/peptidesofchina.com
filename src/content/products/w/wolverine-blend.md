@@ -8,6 +8,8 @@ description: "Wolverine Blend (BPC-157 + TB-500): per-component assay, content u
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "Healing & Repair, Blends"
 ---
 Wolverine Blend is two peptides in one vial: BPC-157 and TB-500, each at 5 mg or 10 mg depending on the format. The listing calls it a pre-mixed lyophilized research blend, and that phrase is accurate. It is not a new molecule, not a conjugate, and not a formulation with a claimed synergy. It is a convenience product, and its quality case rests on three questions that single-peptide vials do not raise: were both components tested separately, is the ratio what the label says, and is the powder uniform from vial to vial?
 

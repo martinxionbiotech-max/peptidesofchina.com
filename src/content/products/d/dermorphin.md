@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Dermorphin, a D-alanine heptapeptide from Phyllomedusa frog skin, supplied as lyophilized research powder with HPLC and LC-MS documentation."
 image: "/images/products/generic-vial.png"
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Dermorphin is a seven-residue peptide with a sequence that reads like a mistake: H-Tyr-D-Ala-Phe-Gly-Tyr-Pro-Ser-NH₂. Almost every peptide in a mammalian tissue is built from L-amino acids. Dermorphin carries a D-alanine at position two, and that single stereochemical inversion is the reason the compound exists in the literature at all — and the reason a certificate of analysis for it is harder to read than the sequence suggests.
 

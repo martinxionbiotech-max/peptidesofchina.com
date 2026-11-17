@@ -9,6 +9,7 @@ description: "Peptides of China has expanded its public catalog to more than 140
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Peptides of China — our platform for **china peptides** sourcing — publishes short updates like this one whenever something material changes: catalog additions, quality-process notes, and sourcing announcements. The substance of this update is below.
 
@@ -58,6 +59,12 @@ SLU-PP-915 remains an investigational compound. Published evidence is preclinica
 - [Development and pharmacological evaluation of a new chemical series of potent pan-ERR agonists, identification of SLU-PP-915](https://pmc.ncbi.nlm.nih.gov/articles/PMC10399613/)
 - [An orally active estrogen receptor-related receptor agonist, SLU-PP-915, enhances aerobic exercise capacity](https://pubmed.ncbi.nlm.nih.gov/41421047/)
 - [A Synthetic ERR Agonist Alleviates Metabolic Syndrome](https://pubmed.ncbi.nlm.nih.gov/37739806/)
+
+## Sources
+
+- [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10399613/)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/41421047/)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/37739806/)
 
 ## Related Products
 

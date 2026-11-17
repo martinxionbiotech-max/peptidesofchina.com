@@ -8,6 +8,8 @@ description: "Bronchogen (Ala-Glu-Asp-Leu) is a tetrapeptide bioregulator studie
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "bioregulators"
 ---
 Bronchogen is a tetrapeptide with the sequence Ala-Glu-Asp-Leu, supplied as a 20 mg lyophilized powder in packs of ten vials. It belongs to the group of short peptide bioregulators associated with the St Petersburg gerontology group, where each member is named for the tissue from which it was originally derived. Bronchogen's tissue is bronchial mucosa, and the research literature around it is mostly Russian-language, mostly small, and mostly preclinical.
 

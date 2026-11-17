@@ -8,6 +8,7 @@ description: "Mechano growth factor (IGF-1Ec C-terminal 24-mer) for muscle-biolo
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 MGF, or mechano growth factor, is the research name for the C-terminal Ec peptide of the IGF-1Ec splice variant. This listing supplies a 2 mg lyophilized vial, ten vials per pack, with a catalog purity specification of ≥98%. The sequence is listed as available on request; the molecular weight is approximately 2867 Da and the CAS number is 162663-54-9. It is supplied for laboratory research only and is not for human or veterinary use.
 

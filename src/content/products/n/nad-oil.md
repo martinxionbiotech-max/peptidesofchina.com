@@ -8,6 +8,7 @@ description: "NAD+ in an oil-based carrier for laboratory formulation work, with
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 NAD+ Oil is listed at 100 mg/ml in a 10 ml vial, which is an unusual format for a molecule that dissolves freely in water and hardly at all in triglyceride oil. That mismatch is the first thing to understand about the product. A clear oil that claims to carry 100 mg of a polar dinucleotide per millilitre is either an emulsion, a suspension of fine particles, or a formulation built around a polar co-solvent and a surfactant. Each of those is a legitimate laboratory preparation, and each has a different set of analytical questions. This page covers those questions, the identity of the NAD+ inside the carrier, and the handling steps that keep a non-aqueous preparation from separating before the experiment starts.
 

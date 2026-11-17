@@ -8,6 +8,7 @@ description: "Multi-component phosphatidylcholine research formulation. Composit
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Lemon Bottle is a multi-component liquid formulation rather than a single peptide. The label lists riboflavin, lecithin, bromelain, L-carnitine, artichoke extract, and a component spelled "thyidine" in the source specification. It is supplied in 10 mL vials, and it is studied as a formulation rather than as a pure compound, which changes almost everything about how a laboratory should characterise it.
 

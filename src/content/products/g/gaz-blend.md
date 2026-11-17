@@ -7,6 +7,7 @@ status: "In Stock"
 description: "GAZ Blend of glutathione, ascorbic acid and zinc sulfate in 10 mL ampoules, supplied for in vitro redox chemistry research."
 image: "/images/products/generic-vial.png"
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 GAZ Blend is a three-component aqueous formulation: glutathione, ascorbic acid, and zinc sulfate, supplied at a stated total of 402.5 mg/mL in 10 mL ampoules, ten to a pack. The name is an acronym of the three ingredients. The research interest is redox chemistry — thiol/disulfide balance, ascorbate recycling, and the behaviour of zinc in a solution full of reducing agents.
 

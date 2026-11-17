@@ -148,6 +148,8 @@ structuredData.push({
   <p class="crumbs"><a href="/catalog/">Catalog</a> › {name}</p>
   <h1>{name}</h1>
 
+  {product.data.updated && <p class="muted">Last reviewed {product.data.updated}</p>}
+
   <div class="product-layout">
     {image && (
       <figure class="product-media">

@@ -8,6 +8,7 @@ description: "Recombinant human growth hormone, 191 amino acids, 22 kDa. Batch i
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Somatropin is the most counterfeited item in the Chinese peptide trade, and the reason is simple economics: it is a recombinant protein with a real manufacturing cost, sold in vials that are easy to fill with something cheaper. A buyer who applies the habits learned from synthetic peptides, where a mass spectrum and an HPLC peak are usually enough, will be under-equipped here. Somatropin needs protein chemistry: aggregation state, isoform pattern, host-cell contaminants and a bioassay that shows the receptor still responds.
 

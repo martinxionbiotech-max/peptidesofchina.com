@@ -8,6 +8,8 @@ description: "Chonluten (Glu-Asp-Leu) is a tripeptide bioregulator studied in pu
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "bioregulators"
 ---
 Chonluten is a tripeptide with the sequence Glu-Asp-Leu, supplied as a 20 mg lyophilized powder in packs of ten. It is the shortest member of the pulmonary branch of the short peptide bioregulator family, and it corresponds exactly to the last three residues of bronchogen's tetrapeptide sequence. That relationship is the most useful thing a buyer can know about it: chonluten is not a different concept from bronchogen, it is a truncated version of the same sequence, sold under a separate name.
 

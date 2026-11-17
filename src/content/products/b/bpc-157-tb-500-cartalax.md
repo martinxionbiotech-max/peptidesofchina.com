@@ -8,6 +8,7 @@ description: "Deadpool Blend: BPC-157, TB-500 and Cartalax in one lyophilized vi
 image: "/images/products/bpc-157-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 The Deadpool Blend combines three peptides in one lyophilized vial: BPC-157, TB-500, and Cartalax. The catalogue strength is shown as 10 + 20 mg, which is not a complete composition statement; the batch record has to state how that mass is split between the three components. The blend is aimed at laboratories studying connective tissue and cartilage biology, where BPC-157 and TB-500 provide the repair and cell-migration arms and Cartalax provides a cartilage-derived bioregulator arm. This page covers what each component contributes, why the four-residue Cartalax is the hardest part of the blend to verify, and what to ask for before an order.
 

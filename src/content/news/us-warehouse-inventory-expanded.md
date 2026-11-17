@@ -9,6 +9,7 @@ description: "Peptides of China has added more than 30 products to its U.S. ware
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Peptides of China — our platform for **china peptides** sourcing — publishes short updates like this one whenever something material changes: catalog additions, quality-process notes, and sourcing announcements. The substance of this update is below.
 
@@ -31,3 +32,8 @@ Current availability is displayed directly in the Peptides of China catalog. To 
 ## China Peptides Sourcing Perspective
 
 For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+## Sources
+
+This news brief has no external bibliography attached. Verify time-sensitive details against the named authority, carrier or port notice before acting.
+

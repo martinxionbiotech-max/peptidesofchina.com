@@ -8,6 +8,7 @@ description: "Hyaluronic acid for extracellular matrix research. Molecular weigh
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Hyaluronic acid is not a peptide, and a catalogue that files it under "Skin, Hair & Nails" is already telling you that the marketing taxonomy and the chemistry do not match. It is a glycosaminoglycan: an unbranched polysaccharide of repeating glucuronic acid and N-acetylglucosamine units, with no protein backbone and no fixed molecular weight. That last point is the one buyers miss. "Hyaluronic acid" describes a polymer family, and the specification that matters is the molecular weight distribution, not the name on the label.
 

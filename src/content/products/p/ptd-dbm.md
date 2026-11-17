@@ -8,6 +8,7 @@ description: "PTD-DBM peptide for Wnt/CXXC5 research. Sequence, purity and batch
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 PTD-DBM is a two-part peptide: a protein transduction domain that carries it into cells, and a Dishevelled-binding motif that competes with CXXC5 for the same site. The design is unusually specific for a catalogue peptide. It does not activate a receptor or inhibit an enzyme; it interrupts a protein–protein interaction inside the cell, and the published work is largely about what happens to Wnt/β-catenin signalling when that interaction is blocked.
 

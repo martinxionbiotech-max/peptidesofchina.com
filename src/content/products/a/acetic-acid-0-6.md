@@ -7,6 +7,7 @@ status: "In Stock"
 description: "0.6% acetic acid in sterile water for laboratory peptide reconstitution. Concentration, pH, osmolality and batch documentation explained."
 image: "/images/products/generic-vial.png"
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Acetic acid 0.6% is the least glamorous item in a peptide catalog and one of the easiest to get wrong. It is not an active compound, it has no sequence, and nobody asks about its mechanism. It is a diluent: sterile water with enough acetic acid to bring the pH to roughly 3, which is the range where several aggregation-prone peptides dissolve cleanly instead of clumping into a cloudy suspension.
 

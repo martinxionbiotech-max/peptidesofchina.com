@@ -8,6 +8,8 @@ description: "Cartalax (Ala-Glu-Asp-Pro) is a tetrapeptide bioregulator studied 
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "bioregulators"
 ---
 Cartalax is a tetrapeptide with the sequence Ala-Glu-Asp-Pro, supplied as a 20 mg lyophilized powder in packs of ten. It belongs to the short peptide bioregulator family, and its tissue association is cartilage. The catalogue gives a molecular formula, C₁₇H₂₆N₄O₉, and a molecular weight of 430.4 Da, which is more than most entries in this category provide. It also states that the CAS number is available on request, which is an honest way of saying that the compound is defined by its sequence rather than by a registry number.
 

@@ -8,6 +8,8 @@ description: "GHK-Cu 50 mg + KPV 10 mg research blend, 60 mg total per vial. Two
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "Healing & Repair, Skin, Hair & Nails, Blends"
 ---
 This vial contains two research peptides in a fixed 5:1 mass ratio: 50 mg of GHK-Cu and 10 mg of KPV, for 60 mg of total powder. The combination is not a single molecule with a single certificate. It is a formulation, and the analytical question is whether both components are present at the stated amounts and mixed evenly. This page explains what the ratio means in molar terms, what a blend certificate must show, and why a single HPLC purity figure cannot describe this product.
 

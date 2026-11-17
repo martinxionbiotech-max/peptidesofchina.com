@@ -8,6 +8,7 @@ description: "Alprostadil (prostaglandin E1) is a research-grade eicosanoid for 
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Alprostadil is not a peptide, and the analytical habits that make a peptide purchase safe do not transfer to it cleanly. It is a prostaglandin — a twenty-carbon lipid-derived signalling molecule — and its weak points are chemical rather than biological. It dehydrates under acid, oxidizes in air, and isomerizes when a solution sits too long at room temperature. A certificate that reports 98% purity on the day of release says little about what is in the vial six months later.
 

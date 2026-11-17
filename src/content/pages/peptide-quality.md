@@ -8,6 +8,7 @@ description: "Most peptide vendors are resellers with limited visibility into wh
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This page sets out how we approach quality for **chinese peptides**: what is tested, what is documented, and what a buyer should ask for.
 

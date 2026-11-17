@@ -8,6 +8,8 @@ description: "GHK Basic, the non-copper glycyl-histidyl-lysine tripeptide, suppl
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "Healing & Repair, Skin, Hair & Nails"
 ---
 GHK Basic is the copper-free form of the tripeptide glycyl-L-histidyl-L-lysine, supplied as a lyophilized powder for laboratory research. Catalogue pages often present GHK and GHK-Cu as two versions of one product. In solution they behave as two different materials: the copper complex has its own colour, stability profile and literature, and the apo-peptide is the control condition rather than a weaker version of the same thing. This page is about the copper-free material — how to confirm that a vial is actually copper-free, what the batch record should contain, and where the research use of GHK ends and the copper-peptide literature begins.
 

@@ -9,6 +9,7 @@ description: "Sermorelin acetate, the 29-residue GHRH fragment, for GHRHR resear
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Sermorelin acetate is the 29-amino-acid N-terminal fragment of human growth hormone-releasing hormone, supplied as a lyophilized acetate salt. It is the reference agonist for the GHRH receptor in pituitary cell models, and its rapid cleavage by dipeptidyl peptidase IV makes it the short-acting comparator against which longer-lived GHRH analogues are measured. Our catalog lists 5 mg and 10 mg vials in packs of ten, with a ≥98% HPLC specification.
 

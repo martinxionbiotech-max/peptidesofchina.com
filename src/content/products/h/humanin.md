@@ -8,6 +8,7 @@ description: "Humanin, a 24-residue mitochondrial-derived peptide studied in apo
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Humanin is a 24-amino-acid peptide encoded in the mitochondrial 16S rRNA region, which makes it an oddity in a catalogue organised around synthetic analogues of human hormones. It was discovered in 2001 in a screen for factors that protect neurons from death triggered by familial Alzheimer's disease genes, and the early papers gave it a narrative that has been hard to shake: a mitochondrial survival peptide with a possible role in ageing. The narrative is interesting. The evidence is mostly cell culture and rodent work, and the commercial literature often runs ahead of both.
 

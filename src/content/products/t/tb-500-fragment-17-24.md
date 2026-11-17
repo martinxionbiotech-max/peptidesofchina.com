@@ -8,6 +8,8 @@ description: "TB-500 Fragment (17-24), the actin-binding region of thymosin β4,
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "Healing & Repair"
 ---
 TB-500 Fragment (17-24) is a short peptide corresponding to residues 17-24 of thymosin β4, the region that carries the protein's actin-binding motif. It is sold alongside full-length TB-500 and often described as a smaller version of the same product. The description is misleading in a way that matters for study design: the fragment is a defined eight-residue peptide with its own mass and its own biophysical literature, while most of the tissue-level work on thymosin β4 used the full 43-residue protein. This page covers the fragment's chemistry, the batch checks that separate it from the full sequence, and the handling conditions for a small, highly charged peptide.
 

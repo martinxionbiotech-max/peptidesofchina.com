@@ -8,6 +8,8 @@ description: "Synthetic GnRH decapeptide for pituitary gonadotroph and HPG-axis 
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "Hormonal Regulation"
 ---
 Gonadorelin acetate is the synthetic acetate salt of the native hypothalamic decapeptide, supplied as a lyophilized powder for pituitary and neuroendocrine research. Catalogue listings often treat the name as a category and imply that any GnRH peptide will behave the same way. It will not: the native sequence has a short lifetime in aqueous solution, and the experiment usually depends on how the pituitary responds to pulses rather than to a steady concentration. This page covers the sequence, the batch checks that matter for a ten-residue peptide, and the handling details that decide whether a pulse protocol can be reproduced.
 

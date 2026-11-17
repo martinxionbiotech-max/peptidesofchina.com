@@ -8,6 +8,7 @@ description: "NAD+, MOTS-c and 5-Amino-1MQ blend for laboratory research, with n
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This blend puts three chemically unrelated research materials in one vial: a dinucleotide cofactor, a 16-residue mitochondrial peptide, and a small quinolinium cation. The label reads 100 mg + 10 mg + 10 mg, which looks balanced until you convert it to moles. On a molar basis the NAD+ component outweighs MOTS-c by roughly thirty-three to one and 5-Amino-1MQ by about two and a half to one. That arithmetic does not make the product wrong, but it does shape what the blend can and cannot be used for. This page covers the three research contexts, the analytical problem of quantifying them together, and the batch questions that separate a documented blend from three powders mixed in a drum.
 

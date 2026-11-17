@@ -8,6 +8,7 @@ description: "Tesamorelin 11 mg with ipamorelin 6 mg, a fixed-ratio GHRH/GHSR-1a
 image: "/images/products/tesamorelin-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This is a fixed-ratio research blend of tesamorelin, a 44-amino-acid GHRH analogue, and ipamorelin, a five-amino-acid GHSR-1a agonist. The 11 mg + 6 mg format is a custom fill rather than a standard 1:1 combination, and the ratio is mass-based, not molar. Each 17 mg vial contains both lyophilized components at a ≥98% HPLC specification. Because the ratio is unusual and the batch is produced on a limited schedule, the analytical questions are sharper than usual: per-component assay, content uniformity, and a documented fill ratio. This page explains what those checks mean and why the two molecules behave differently in a vial.
 

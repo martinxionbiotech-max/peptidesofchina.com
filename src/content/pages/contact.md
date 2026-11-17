@@ -8,6 +8,7 @@ description: "Contact Peptides of China for wholesale peptide sourcing, private-
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Contact Peptides of China for wholesale inquiry, custom manufacturing, product specifications,
 private-brand sourcing, or questions about an existing order.

@@ -8,6 +8,7 @@ description: "Palmitoyl pentapeptide-4 research material for fibroblast and extr
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Matrixyl is the trade name most laboratories use for palmitoyl pentapeptide-4, a five-residue peptide with a C-16 fatty acid attached to the N-terminus. This listing supplies 10 mg vials at a catalog purity of ≥98%. It is catalogued under skin, hair and nails because that is where most of the commercial interest sits, but the material itself is a straightforward synthetic lipopeptide: a hydrophilic KTTKS sequence, a hydrophobic palmitoyl tail, and a set of analytical problems that follow directly from that combination. This is a research material, not a cosmetic ingredient for human application, and it is not for human or veterinary use.
 

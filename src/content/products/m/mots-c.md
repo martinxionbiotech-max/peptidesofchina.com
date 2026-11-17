@@ -8,6 +8,7 @@ description: "MOTS-c, a 16-residue mitochondrial-derived peptide for AMPK, metab
 image: "/images/products/mots-c-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 MOTS-c is a 16-amino-acid peptide encoded within the mitochondrial 12S rRNA gene, supplied as a lyophilized powder for metabolic and mitochondrial research. It is one of a small group of peptides translated inside mitochondria rather than in the cytosol, and that origin is the reason it appears in so many research catalogues. The sourcing problem is less exotic: a 16-mer with two methionines oxidises predictably, and many certificates report a purity figure without showing whether the oxidised forms were resolved. This page covers the biology, the batch data that matter, and the handling steps that keep an assay comparable across vials.
 

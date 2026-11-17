@@ -8,6 +8,8 @@ description: "GHK-Cu (Copper Tripeptide-1) research material for fibroblast, ext
 image: "/images/products/ghk-cu-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "Healing & Repair, Skin, Hair & Nails"
 ---
 GHK-Cu is a copper(II) complex of the tripeptide glycyl-L-histidyl-L-lysine, supplied as a lyophilized powder for laboratory work on fibroblast biology, extracellular matrix signalling, and copper-dependent enzyme systems. The sourcing question that matters is not peptide purity alone. A GHK-Cu batch has two identities to verify: the tripeptide sequence and the copper it carries. Vendors often report one and leave the other to assumption. This page sets out what a defensible batch record contains, which analytical methods answer each question, and where the published research stops.
 

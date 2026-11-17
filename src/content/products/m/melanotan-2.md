@@ -8,6 +8,8 @@ description: "Melanotan-2 (MT-II) cyclic alpha-MSH analogue for melanocortin rec
 image: "/images/products/melanotan-2-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
+category: "Sexual Health, Skin, Hair & Nails"
 ---
 Melanotan-2 is a synthetic cyclic heptapeptide modelled on alpha-melanocyte-stimulating hormone. It binds several melanocortin receptor subtypes rather than one, which is both its research value and its main limitation. The sourcing problem is equally specific: the lactam bridge that defines the molecule can hydrolyse, and a linearised peptide can pass a casual identity check while behaving differently in an assay. It is supplied as a lyophilised powder for laboratory work. This page covers the chemistry, the batch evidence that matters, and the point where the published literature stops.
 

@@ -9,6 +9,7 @@ description: "SLU-PP-915 oral tablets, 10 mg, for preclinical ERR research. Tabl
 image: "/images/products/generic-vial.png"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 SLU-PP-915 is an orally active small-molecule agonist of the estrogen-related receptors, supplied as 10 mg tablets in bottles of 100. It belongs to the SLU-PP chemical series, which has become a standard tool for probing ERR-dependent mitochondrial gene programmes in rodent and cell models. The catalogue lists the item in 100-tablet bottles, and availability is batch-dependent. This page explains what the compound is used for, what a tablet batch record should contain, and why an oral solid format is a different sourcing problem from a lyophilized peptide.
 

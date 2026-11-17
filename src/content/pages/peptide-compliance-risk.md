@@ -3,6 +3,7 @@ title: "Peptide Compliance & Sourcing Risk: The Research-Use Boundary"
 slug: "peptide-compliance-risk"
 description: "Research-use boundaries for peptide sourcing: claims a seller should not make, import documents, supplier representations, certificates and reshipment risk."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 
 Most compliance pages open with a disclaimer and end with a shrug. This one opens with a warning letter.

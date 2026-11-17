@@ -8,6 +8,7 @@ description: "KLOW research blend of TB-500, BPC-157, KPV and GHK-Cu. Per-compon
 image: "/images/products/klow80-stack-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 KLOW is a four-component blend: TB-500, BPC-157, KPV and GHK-Cu in a single lyophilised vial. Each component has its own literature, its own analytical behaviour and its own failure modes. Putting them together is a convenience for the bench and a problem for the certificate. A blend can hide a shortfall in one component behind a normal total mass, and the only way to know what is in the vial is to assay each component separately.
 

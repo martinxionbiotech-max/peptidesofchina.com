@@ -3,6 +3,7 @@ title: "China Peptide Sourcing: Supplier, Documentation & Logistics"
 slug: "china-peptide-sourcing"
 description: "A research buyer's guide to China peptide sourcing: factory vs trader, supplier verification, COA and batch documents, MOQ, payment risk, shipping and customs."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 
 Most buyers who ask about China peptide sourcing are asking three questions at once: is this company real, will the batch match the paperwork, and will the shipment arrive without a customs surprise. Price comes fourth. That order matters. A quote that is 30% below the next one is not a saving if the batch cannot be traced, the COA belongs to a different lot, or the parcel is stopped because the importer of record was never properly established.

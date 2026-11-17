@@ -8,6 +8,7 @@ description: "5-Amino-1MQ, a small-molecule NNMT inhibitor supplied as research-
 image: "/images/products/5-amino-1mq-bottle.webp"
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 5-Amino-1MQ sits in an awkward place in a peptide catalog, and that is worth saying plainly. It is a methylquinolinium small molecule, not an amino-acid polymer, so the quality questions that decide whether a peptide vial is good do not map onto it cleanly. There is no sequence to confirm, no disulfide pattern to check, and no trifluoroacetate content to argue about. What remains is a shorter but sharper list: identity of the quaternary cation, counterion, residual solvent, water content, and the honesty of the purity figure attached to the lot.
 

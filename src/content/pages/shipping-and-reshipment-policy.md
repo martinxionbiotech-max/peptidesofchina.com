@@ -3,6 +3,7 @@ title: "Shipping And Reshipment Policy"
 slug: "shipping-and-reshipment-policy"
 description: "Express shipping ($97–127 per parcel, 7–12 days), tracking, customs handling, and reshipment rules for Peptides of China orders."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 
 Shipping and reshipment terms for **china peptide** orders, including costs, transit estimates, and reshipment conditions.
