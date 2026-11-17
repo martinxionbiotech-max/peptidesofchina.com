@@ -8,6 +8,7 @@ description: "Explore the potential of P21 nasal spray for neuroprotection and c
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines p21 nasal spray from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -219,10 +220,24 @@ The following primary references underpin the claims in this article and provide
 
 *This article is general scientific information for research purposes only, not medical or therapeutic advice. Researchers should confirm current U.S. regulatory requirements with their institution’s IRB and regulatory affairs office before initiating any human experimental use of P21.*
 
+## Sources
+
+- [peptide-reference.com](https://peptide-reference.com/peptides/p21)
+- [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9502087/)
+- [peptideinitiative.com](https://peptideinitiative.com/peptides/protocols/p21-peptide-protocol)
+- [peptidesociety.org](https://peptidesociety.org/_template-monographs-5/)
+- [formblends.com](https://formblends.com/research/cognitive/cerebrolysin-p21-peptide)
+- [mayflowerbio.com](https://mayflowerbio.com/product/miniap-4-peptide)
+
 ## Related Products
 
 - [Buy P21](/catalog/p21/)
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+

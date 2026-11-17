@@ -3,6 +3,7 @@ title: "Direct Sourcing vs Peptide Resellers: A Channel Comparison"
 slug: "direct-sourcing-vs-peptide-resellers"
 description: "Compare direct peptide sourcing with reseller channels by batch records, landed cost, lead time, minimums, testing responsibility, and issue handling."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Direct sourcing and reseller distribution differ in who holds the batch record, not in what the vial contains. A direct channel puts the buyer in contact with the party that can name the synthesis site and release the lot; a reseller channel adds custody, repackaging, and fulfillment steps between that party and the parcel. Choose on evidence: which entity made the batch, which lot is in the carton, who tested the sample, and who still holds the record after the invoice is paid. Then price the answer.
 

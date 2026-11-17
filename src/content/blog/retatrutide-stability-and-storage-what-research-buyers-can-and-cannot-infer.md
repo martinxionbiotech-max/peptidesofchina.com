@@ -7,6 +7,7 @@ description: "Learn what is known about retatrutide stability, why lyophilized a
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines retatrutide stability and storage what research buyers can and cannot infer from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -187,10 +188,24 @@ A combination is usually stronger than one result: a stability-indicating chroma
 
 *For laboratory research use only. This article addresses material handling and analytical quality; it is not a clinical-use or dosing guide.*
 
+## Sources
+
+- [www.nejm.org](https://www.nejm.org/doi/full/10.1056/NEJMoa2301972)
+- [www.lilly.com](https://www.lilly.com/news/stories/what-to-know-about-retatrutide)
+- [www.fda.gov](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/q1ar2-stability-testing-new-drug-substances-and-products)
+- [database.ich.org](https://database.ich.org/sites/default/files/Q1A%28R2%29%20Guideline.pdf)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/18604941/)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/37311727/)
+
 ## Related Products
 
 - [Buy Retatrutide](/catalog/retatrutide/)
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+

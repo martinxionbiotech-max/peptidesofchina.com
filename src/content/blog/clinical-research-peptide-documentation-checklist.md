@@ -3,6 +3,7 @@ title: "Clinical Research Peptide Documentation Checklist"
 slug: "clinical-research-peptide-documentation-checklist"
 description: "A receiving-to-archive checklist for clinical research peptides: lot linkage, temperature logs, COA fields, deviations, retention periods and audit traps."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 A clinical research peptide documentation checklist exists to answer one audit question: can you show, from the files alone, which lot was used in which experiment, under what storage conditions, and with what analytical evidence? If the answer requires a phone call to the supplier, the file is incomplete. If the answer requires a memory of what happened during receiving, it is not a record.
 

@@ -3,6 +3,7 @@ title: "The Economics of Bulk Peptide Sourcing"
 slug: "the-economic-and-operational-logic-of-bulk-peptide-sourcing"
 description: "Bulk peptide sourcing is a total-cost problem: synthesis yield, purification recovery, QC per lot, freight and carrying cost set the real price per milligram."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Bulk peptide sourcing is an inventory decision disguised as a price negotiation. The quoted price per gram is the starting point; the number that matters is the landed cost per milligram of usable peptide, after synthesis yield, purification recovery, QC release, freight, duty, carrying cost and expiry.
 

@@ -3,6 +3,7 @@ title: "How to Read a Peptide COA: A Researcher's Guide to HPLC and MS Reports"
 slug: "how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports"
 description: "Read a peptide certificate of analysis in a fixed order: batch linkage, identity by mass, purity by HPLC, content basis, then any sterility or endotoxin claim. Includes worked examples and rejection rules."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 A peptide certificate of analysis is read in a fixed order: batch linkage first, then identity, then purity, then content, then any claim about sterility or endotoxin. Every row should carry a method, a numeric result, units, and a specification. If one of those four is missing, the row is decorative. Most disputes about peptide quality are not disputes about chemistry; they are disputes about which number refers to which vial.
 

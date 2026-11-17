@@ -8,6 +8,7 @@ description: "Discover what is therapeutic peptide classification and explore ho
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines therapeutic peptide classification a 2026 research guide from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -146,9 +147,21 @@ Evidence grading assigns clinical validity tiers (Strong, Moderate, Limited, Eme
 
 CNN classifiers trained on over 54,000 therapeutic peptide sequences achieve a 79.9% micro F1 score and reduce false positive rates to 2.1%. These models predict functional category from amino acid sequence alone, accelerating high-throughput screening pipelines.
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+
+## Sources
+
+- [www.nature.com](https://www.nature.com/articles/s41597-025-05528-1)
+- [peptideassociation.org](https://peptideassociation.org/nomenclature)
+- [www.peptideeffect.com](https://www.peptideeffect.com/articles/types-of-peptides)
+- [peptides.wiki](https://peptides.wiki/foundations/peptide-basics/peptide-classification-length-function-type/)
+- [www.biorxiv.org](https://www.biorxiv.org/content/10.64898/2026.06.07.730473v1)
 
 ## Related Products
 

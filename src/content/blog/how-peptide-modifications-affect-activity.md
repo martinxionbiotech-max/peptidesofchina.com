@@ -8,6 +8,7 @@ description: "Learn how peptide modifications affect activity and ensure success
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines how peptide modifications affect activity from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -193,9 +194,21 @@ For pilot orders, small cyclic peptides, PEGylated controls, and lipidated test 
 - Modified Synthetic Peptides: From Therapeutics to Chemosensors — Covers backbone modification strategies and the proteolytic resistance ranking; useful for D-AA and N-methylation decisions.
 - [Biochemistry, Peptide — StatPearls, NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK562260/) — Foundational reference for post-translational modifications and AMP biology; useful background for researchers new to peptide modification effects.
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+
+## Sources
+
+- [sciencedirect.com](https://sciencedirect.com/science/article/pii/S1756464625003068)
+- [link.springer.com](https://link.springer.com/article/10.1007/s00726-025-03454-5)
+- [pubs.rsc.org](https://pubs.rsc.org/en/content/articlehtml/2024/sd/d4sd00022f)
+- [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC4847942/)
+- [www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK562260/)
 
 ## Related Products
 

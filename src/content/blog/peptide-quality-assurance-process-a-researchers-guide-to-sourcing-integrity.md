@@ -3,6 +3,7 @@ title: "Peptide Quality Assurance Process: A Researcher's Guide to Sourcing Inte
 slug: "peptide-quality-assurance-process-a-researchers-guide-to-sourcing-integrity"
 description: "A working QA process for research peptides: who owns each decision, how supplier qualification and incoming inspection work, what a batch release review covers, and how deviations, CAPA, change control, and annual product review close the loop."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 A peptide quality assurance process is a set of assigned decisions, each with a named owner, a defined evidence requirement, and a documented failure path. It answers five questions for every lot: whether the supplier was qualified, whether the shipped material matches the written specification, whether the batch record supports release, whether any deviation was investigated before release, and whether a change since the previous lot affects the result. A folder of certificates answers none of them, because a certificate records a result while QA records a decision.
 

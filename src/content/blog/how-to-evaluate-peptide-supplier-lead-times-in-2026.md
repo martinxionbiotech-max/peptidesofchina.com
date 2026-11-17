@@ -3,6 +3,7 @@ title: "How to Evaluate Peptide Supplier Lead Times in 2026"
 slug: "how-to-evaluate-peptide-supplier-lead-times-in-2026"
 description: "Break a peptide quote into synthesis, QC release, documentation, export, and transit; then measure P50 and P90 lead time instead of trusting one date."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 
 A peptide lead time is not a single number. It is the sum of eight stages, and a quote usually covers only the ones the supplier controls directly. Two suppliers can both say "three to four weeks" and deliver on day 24 and day 47, because one quote starts at order confirmation and the other starts at raw-material release.

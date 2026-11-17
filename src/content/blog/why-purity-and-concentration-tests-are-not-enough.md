@@ -3,6 +3,7 @@ title: "Why Purity and Concentration Tests Are Not Enough"
 slug: "why-purity-and-concentration-tests-are-not-enough"
 description: "HPLC area percent and mg per vial leave gaps: water, counterions, residual solvents, elemental impurities, endotoxin, and identity each need separate evidence."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 
 Purity and concentration are the two numbers most often used to describe a peptide lot. Neither is a quality specification. Purity describes the share of chromatographic signal assigned to the main peak under one method. Concentration describes how much material is present in the vial, often inferred from fill weight or ultraviolet absorbance. A lot can pass both tests and still fail identity, content, safety, or stability.

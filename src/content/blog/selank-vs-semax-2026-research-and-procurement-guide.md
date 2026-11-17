@@ -7,6 +7,7 @@ description: "Compare Selank vs Semax for research with a focus on B2B procureme
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines selank vs semax 2026 research and procurement guide from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -138,11 +139,22 @@ Peptides of China coordinates sourcing from established Chinese manufacturing fa
 
 Shipping research materials internationally requires destination-specific planning. Shipping options, pricing, and estimated transit times vary by destination and are confirmed during order processing. The $600 minimum is an operational minimum for orders placed through the Peptides of China sourcing platform and may include multiple catalog products.
 
+## Sources
+
+- [en.wikipedia.org](https://en.wikipedia.org/wiki/Selank)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/32342318/)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/11443939/)
+
 ## Related Products
 
 - [Buy Selank](/catalog/selank/)
 - [Buy Semax](/catalog/semax/)
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+

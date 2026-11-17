@@ -3,6 +3,7 @@ title: "Crude vs Purified Peptides: Purity Grades, Yield, and What the COA Prove
 slug: "what-is-crude-vs-purified-peptide"
 description: "What crude and purified peptide mean in practice: synthesis by-products, preparative HPLC, purity grades, net peptide content, yield loss, and COA verification."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 
 Crude peptide is the material recovered after cleavage from the synthesis resin, before chromatographic fractionation. It contains the target sequence plus truncated sequences, deletion variants, diastereomers, residual protecting groups, cleavage reagents, and counterions. Purified peptide is the fractionated product that meets a stated purity threshold, usually 95% or 98% by reversed-phase HPLC area normalization. The distinction is not cosmetic: it changes the impurity profile, the net peptide content, the cost per milligram of active sequence, and the experiments the material can support.

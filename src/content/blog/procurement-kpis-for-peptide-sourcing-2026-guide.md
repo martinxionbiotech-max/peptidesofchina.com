@@ -3,6 +3,7 @@ title: "Procurement KPIs for Peptide Sourcing: A 2026 Guide"
 slug: "procurement-kpis-for-peptide-sourcing-2026-guide"
 description: "Twelve peptide sourcing KPIs with formulas, data sources, review cadence, and the failure modes that make a supplier scorecard look better than the supply base."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 
 A peptide sourcing scorecard that rewards low price and high purity will produce suppliers who quote low and report high. Those are the two numbers a supplier controls most easily. The KPI set has to measure evidence and reliability instead: whether the lot was accepted, whether the certificate was complete, whether the order arrived on time, and whether a deviation was closed.

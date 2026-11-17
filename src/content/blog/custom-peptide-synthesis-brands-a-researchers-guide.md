@@ -8,6 +8,7 @@ description: "Discover what is custom peptide synthesis brands. This guide helps
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines custom peptide synthesis brands a researchers guide from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -143,9 +144,23 @@ Operational details in the specification process determine synthesis complexity,
 
 Complex peptide designs including stapled, bicyclic, disulfide-rich, and conformationally constrained peptides require vendors with process controls beyond standard linear Fmoc-SPPS. Not all brands support these architectures reliably.
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+
+## Sources
+
+- [www.sinopep.com](https://www.sinopep.com/discovery/peptide-synthesis/)
+- [peptidexpo.com](https://peptidexpo.com/insights/peptide-oem-manufacturing-workflow-end-to-end)
+- [www.peptifactory.com](https://www.peptifactory.com/custom-peptide-synthesis/)
+- [www.bachem.com](https://www.bachem.com/knowledge-center/introduction-to-peptide-synthesis-methods/)
+- [www.sinopep.com](https://www.sinopep.com/cdmo-services/peptide-nces/)
+- [www.aragen.com](https://www.aragen.com/solutions/small-molecules/discovery/chemistry/peptide-platform/custom-peptide-synthesis-services/)
+- [www.sinopep.com](https://www.sinopep.com/quotation/)
 
 ## Related Products
 

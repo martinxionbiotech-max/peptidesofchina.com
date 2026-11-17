@@ -8,6 +8,7 @@ description: "Compare Kisspeptin-10, hCG, and hMG across the HPG axis, human evi
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines peptides for testosterone from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -120,9 +121,20 @@ Verify exact identity, batch traceability, measured content, relevant analytical
 
 Research-use notice: This page summarizes published research and product-specific regulatory documents for informational purposes. It does not provide medical advice, dosing guidance, or instructions for human or animal use.
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+
+## Sources
+
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/21632807/)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/23153270/)
+- [dailymed.nlm.nih.gov](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f93b2baa-03ac-4650-b35a-20b818d712d6)
+- [dailymed.nlm.nih.gov](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22c8db95-c3db-1770-8086-31356fbabe35)
 
 ## Related Products
 

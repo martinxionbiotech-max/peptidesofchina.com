@@ -3,6 +3,7 @@ title: "Sourcing High-Quality Peptides: A 2026 Laboratory Verification Guide"
 slug: "how-to-source-high-quality-peptides-a-2026-laboratory-verification-guide"
 description: "A laboratory verification plan for research peptides: sampling rules, HPLC and LC-MS acceptance criteria, water and endotoxin limits, deviation and retest rules, and the batch records to audit."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 High-quality peptides are verified lot by lot, not selected from a purity badge. The buyer's laboratory plan decides the outcome: named tests, stated acceptance limits, a sampling rule, and a release decision written before the first vial is opened. A certificate of analysis describes what a supplier found. Laboratory verification asks whether that description survives an independent look at the vials that arrived.
 

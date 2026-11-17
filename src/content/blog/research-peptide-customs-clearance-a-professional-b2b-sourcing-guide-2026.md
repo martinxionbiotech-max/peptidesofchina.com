@@ -3,6 +3,7 @@ title: "Research Peptide Customs Clearance: A 2026 B2B Guide"
 slug: "research-peptide-customs-clearance-a-professional-b2b-sourcing-guide-2026"
 description: "Invoice fields, HS classification, Incoterms, and a stop-shipment playbook for B2B buyers importing research peptides."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Customs clearance for research peptides rests on four controls: a description that matches the material, a tariff classification that matches the description, a document set that agrees line by line, and the destination's current import rules. None of these is settled by the supplier, and none is guaranteed by a shipping agent. The importer of record owns the declaration, the duty, and any permit or restriction attached to the goods.
 

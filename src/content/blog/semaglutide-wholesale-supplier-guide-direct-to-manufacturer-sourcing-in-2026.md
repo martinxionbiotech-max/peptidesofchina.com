@@ -3,6 +3,7 @@ title: "Semaglutide Wholesale Supplier: 2026 Sourcing Guide"
 slug: "semaglutide-wholesale-supplier-guide-direct-to-manufacturer-sourcing-in-2026"
 description: "How lab buyers compare semaglutide wholesale suppliers in 2026: specifications, identity data, batch documents, independent testing, and landed cost."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 A semaglutide wholesale supplier should be judged on four things before price: the exact material and salt form, the batch-linked analytical record, the supplier's actual role in the chain, and the terms that govern rejection. Most sourcing failures are not chemistry failures. They are mismatches between what was ordered, what was tested, and what arrived.
 

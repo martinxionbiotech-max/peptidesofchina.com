@@ -3,6 +3,7 @@ title: "HS Code for Peptides: How Customs Classifies Imports"
 slug: "hs-code-for-peptides"
 description: "Why peptides have no single HS code: the Chapter 29 and 3822 headings customs uses, the GRI sequence, entry documents, and binding rulings."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 There is no single HS code for peptides. Customs classifies a peptide shipment by its chemical structure, its preparation state, and the terms of the headings and chapter notes, not by the word "peptide" on the invoice. Two vials of the same sequence can land in different subheadings if one is a bare lyophilised powder and the other is a formulated laboratory reagent.
 

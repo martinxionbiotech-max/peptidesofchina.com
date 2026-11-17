@@ -3,6 +3,7 @@ title: "Research-Grade vs GMP Peptides: The Real Difference"
 slug: "research-grade-vs-gmp-peptides"
 description: "Research-grade and GMP peptides differ by control system, not purity. Compare documentation, facility rules, release testing, and transition planning."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Research-grade and GMP peptides are separated by a control system, not by a purity number. A research-grade lot can read 99% by HPLC and still lack the batch records, validated methods, deviation handling, and qualified release that GMP requires. A GMP lot can read 97% and be the only material acceptable for a regulated manufacturing step. Buyers who compare the two on percentage alone are comparing the wrong variable.
 

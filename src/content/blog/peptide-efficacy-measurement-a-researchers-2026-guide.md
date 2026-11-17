@@ -8,6 +8,7 @@ description: "Discover what is peptide efficacy measurement in our 2026 guide. L
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines peptide efficacy measurement a researchers 2026 guide from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -130,9 +131,24 @@ Peptide half-life constrains the valid measurement window. Assay time points sel
 
 Binding affinity (Ki or Kd) indicates interaction strength but does not predict maximal biological effect. A high-affinity peptide may act as a partial agonist with a low Emax. Functional cell-based assays remain necessary to confirm efficacy independent of binding data.
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+
+## Sources
+
+- [compoundreview.org](https://compoundreview.org/methods/assay-overview-research-peptides/)
+- [pepperpedia.net](https://pepperpedia.net/wiki/cell-culture-assays)
+- [www.pepperpedia.net](https://www.pepperpedia.net/wiki/cell-culture-assays)
+- [mapleresearchlabs.com](https://mapleresearchlabs.com/peptide-research/amino-acid-analysis-peptide-research-net-peptide-content-methodology-quality-control/)
+- [biostrataresearch.com](https://biostrataresearch.com/research-library/research-resources-learning-tools/understanding-peptide-research-terminology/)
+- [peptidehackerlab.com](https://peptidehackerlab.com/support/pk-pd-fundamentals/)
+- [www.mdpi.com](https://www.mdpi.com/1999-4923/18/5/537)
+- [completeguidetopeptides.co.uk](https://completeguidetopeptides.co.uk/)
 
 ## Related Products
 

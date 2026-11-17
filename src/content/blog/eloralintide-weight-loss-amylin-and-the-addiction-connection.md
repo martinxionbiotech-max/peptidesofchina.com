@@ -7,6 +7,7 @@ description: "Eloralintide produced up to 20.1% weight loss in Phase 2. Explore 
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines eloralintide weight loss amylin and the addiction connection from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -177,10 +178,24 @@ Both target amylin biology, but they are different molecules with different rece
 5. Kalafateli AL, et al. Effects of sub-chronic amylin receptor activation on alcohol-related behaviours in rats. Psychopharmacology, 2020. [Publisher record](https://link.springer.com/article/10.1007/s00213-020-05515-3)
 6. Aranäs C, et al. Synergistic-like decreases in alcohol intake following combined pharmacotherapy with GLP-1 and amylin receptor agonists in male rats. British Journal of Pharmacology, 2025. [PubMed search](https://pubmed.ncbi.nlm.nih.gov/?term=Synergistic-like+decreases+in+alcohol+intake+following+combined+pharmacotherapy+with+GLP-1+and+amylin)
 
+## Sources
+
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/41207310/)
+- [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT07321886)
+- [investor.lilly.com](https://investor.lilly.com/)
+- [onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/10.1111/bph.14566)
+- [link.springer.com](https://link.springer.com/article/10.1007/s00213-020-05515-3)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/?term=Synergistic-like+decreases+in+alcohol+intake+following+combined+pharmacotherapy+with+GLP-1+and+amylin)
+
 ## Related Products
 
 - [Buy Eloralintide](/catalog/eloralintide/)
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+

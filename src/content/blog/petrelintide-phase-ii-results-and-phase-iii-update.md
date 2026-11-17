@@ -8,6 +8,7 @@ description: "Petrelintide research update: ZUPREME-1 and ZUPREME-2 weight-loss 
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines petrelintide phase ii results and phase iii update from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -178,9 +179,20 @@ No. A treatment’s result against its own study comparator does not estimate ho
 
 No. A rationale for studying a combination is not evidence about how the combination performs. Monotherapy results cannot establish the combined effect or show whether tolerability changes when another treatment is added. Those questions require results from a study that evaluates the combination. Keep statements about potential research separate from findings generated in completed clinical trials.
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+
+## Sources
+
+- [www.globenewswire.com](https://www.globenewswire.com/news-release/2026/10/07/3376750/0/en/zealand-pharma-announces-positive-phase-2-zupreme-2-topline-results-for-amylin-analog-petrelintide-in-people-with-overweight-or-obesity-and-type-2-diabetes.html)
+- [www.globenewswire.com](https://www.globenewswire.com/news-release/2026/09/22/3366613/0/en/zealand-pharma-announces-initiation-of-the-registrational-phase-3-zupreme-program-of-petrelintide-in-people-with-overweight-or-obesity.html)
+- [www.roche.com](https://www.roche.com/media/releases/med-cor-2026-03-05)
+- [www.globenewswire.com](https://www.globenewswire.com/news-release/2026/09/29/3371443/0/en/zealand-pharma-to-present-additional-data-from-phase-2-zupreme-1-trial-for-petrelintide-at-easd-2026-and-announces-publication-of-trial-results-in-the-lancet-diabetes-endocrinology.html)
 
 ## Related Products
 

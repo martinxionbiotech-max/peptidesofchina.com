@@ -3,6 +3,7 @@ title: "COA-Verified Peptides Wholesale: Batch Verification Guide"
 slug: "coa-verified-peptides-wholesale-2026-sourcing-verification-guide"
 description: "Wholesale COA verification means matching lots, sampling vials, and retesting against a stated specification. A practical guide for multi-batch peptide orders."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 A wholesale peptide order is COA-verified when every lot in the shipment can be tied to one certificate, one analytical result, and one set of retained vials, and when the buyer has retested a sample of those vials against the same specification. A folder of PDFs is not verification. A matching chain of identifiers, methods, and numbers is.
 

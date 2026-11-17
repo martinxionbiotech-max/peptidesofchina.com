@@ -3,6 +3,7 @@ title: "Why Legitimate Documentation Matters in Peptide Shipping"
 slug: "why-legitimate-documentation-matters-in-peptide-shipping"
 description: "How the peptide shipping document pack is staged and reconciled — invoice fields, packing list totals, COA and origin records, and recurring defects."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Most peptide shipments that stall at a border are not stopped because of what is inside the vial. They are stopped because the paperwork does not let an officer answer four questions: what is this material, what is it classified as, what is it worth, and who is responsible for it. A supplier who cannot answer those questions in writing leaves the shipment unidentified, and an unidentified powder is a problem regardless of its analytical quality.
 

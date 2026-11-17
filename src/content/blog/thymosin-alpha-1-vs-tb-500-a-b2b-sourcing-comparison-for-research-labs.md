@@ -7,6 +7,7 @@ description: "A B2B sourcing analysis of thymosin alpha-1 vs tb-500. We detail s
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines thymosin alpha 1 vs tb 500 a b2b sourcing comparison for research labs from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -142,11 +143,21 @@ Lyophilized powder is generally stable at room temperature for several weeks dur
 
 Peptides of China acts as a B2B sourcing bridge that provides researchers with access to manufacturer-side documentation and technical data when available. This model helps reduce supply chain uncertainty by minimizing the number of intermediaries who might relabel or mishandle products. With a $600 minimum order requirement, the protocol focuses on wholesale-scale transparency. Manufacturer-side analytical documentation may be available depending on the product and batch; buyers requiring independent verification may arrange third-party analytical testing.
 
+## Sources
+
+- [en.wikipedia.org](https://en.wikipedia.org/wiki/TB-500)
+- [www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7769529/)
+
 ## Related Products
 
 - [Buy Thymosin Alpha-1](/catalog/thymosin-alpha-1/)
 - [Buy TB-500](/catalog/tb-500/)
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+

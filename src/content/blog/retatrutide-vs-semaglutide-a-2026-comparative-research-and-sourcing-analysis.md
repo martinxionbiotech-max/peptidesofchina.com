@@ -7,6 +7,7 @@ description: "Compare retatrutide vs semaglutide synthesis and sourcing risks. T
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines retatrutide vs semaglutide a 2026 comparative research and sourcing analysis from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -147,11 +148,20 @@ Peptides of China currently has a $600 total minimum order. Multiple catalog pro
 
 A manufacturer-issued COA does not guarantee 99% purity; it should be treated only as baseline technical reference material. The peptide industry is known for reused or recycled documentation that may not accurately reflect the current batch. No single document can fully guarantee product identity or purity. Independent laboratory testing by the buyer remains the only reliable method for establishing factual integrity and maintaining research standards.
 
+## Sources
+
+- [en.wikipedia.org](https://en.wikipedia.org/wiki/Retatrutide)
+
 ## Related Products
 
 - [Buy Retatrutide](/catalog/retatrutide/)
 - [Buy Semaglutide](/catalog/semaglutide/)
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+

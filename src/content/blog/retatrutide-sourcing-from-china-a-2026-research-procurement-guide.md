@@ -7,6 +7,7 @@ description: "A practical 2026 guide to sourcing retatrutide research material f
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines retatrutide sourcing from china a 2026 research procurement guide from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -166,10 +167,23 @@ Retatrutide is Lilly’s investigational GIP, GLP-1, and glucagon receptor agoni
 
 If the Peptides of China catalog structure fits your research procurement needs, review the [Retatrutide listing](/catalog/retatrutide/), read [How It Works](/how-it-works/), or [contact the Peptides of China team](/contact/) with the requested quantity, specification questions, and destination. The clearer the request, the faster the team can confirm a workable proposal.
 
+## Sources
+
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/35985340/)
+- [investor.lilly.com](https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-weight-loss-average)
+- [investor.lilly.com](https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-demonstrated-significant)
+- [investor.lilly.com](https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-powerful-weight-loss)
+- [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT05882045)
+
 ## Related Products
 
 - [Buy Retatrutide](/catalog/retatrutide/)
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+

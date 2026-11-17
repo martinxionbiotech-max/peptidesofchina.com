@@ -8,6 +8,7 @@ description: "Analyze Novo Nordisk 2026 clinical trial data on zenagamtide. Comp
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines zenagamtide amycretin oral vs injectable evidence from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -180,9 +181,22 @@ The published evidence does not establish a unique lean-mass preservation benefi
 5. Novo Nordisk. Innovation and therapeutic focus, Annual Report 2025. [Zenagamtide pipeline overview](https://annualreport.novonordisk.com/2025/strategic-aspirations/innovation-and-therapeutic-focus.html)
 6. ClinicalTrials.gov. First-in-human amycretin study. [NCT05369390](https://clinicaltrials.gov/study/NCT05369390)
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+
+## Sources
+
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/42532080/)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/42532079/)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/40550231/)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/40550229/)
+- [annualreport.novonordisk.com](https://annualreport.novonordisk.com/2025/strategic-aspirations/innovation-and-therapeutic-focus.html)
+- [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT05369390)
 
 ## Related Products
 

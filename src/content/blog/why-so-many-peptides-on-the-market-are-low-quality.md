@@ -3,6 +3,7 @@ title: "Why So Many Peptides on the Market Are Low Quality"
 slug: "why-so-many-peptides-on-the-market-are-low-quality"
 description: "A structural explanation of low-quality research peptides: synthesis limits, secondary vialing, certificate gaps, and the checks buyers can run."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Low-quality peptides are common for a structural reason, not because the market is full of counterfeiters. The material passes through several hand-offs — synthesis, purification, bulk storage, vialing, labelling, and export — and each hand-off can change the vial without changing the label. A buyer who tests only the final powder sees the end of that chain and has to infer the rest.
 

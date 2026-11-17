@@ -3,6 +3,7 @@ title: "BPC-157 Certificate of Analysis: How to Verify a Lot in 2026"
 slug: "bpc-157-certificate-of-analysis-explained-a-researchers-guide-to-verification-2026"
 description: "Read a BPC-157 COA line by line: lot linkage, HPLC integration, ESI-MS charge states, water and counterion results, net peptide content, and endotoxin limits."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 A BPC-157 certificate of analysis is a lot-specific record, not a product brochure. It should connect the vial in your hand to a tested sample, name the method and instrument behind each number, and report identity, purity, water, counterion, content, and endotoxin as separate results. If any of those links is missing, the document cannot tell you what is in the vial.
 

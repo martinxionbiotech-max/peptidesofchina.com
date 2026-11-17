@@ -3,6 +3,7 @@ title: "Endotoxin Testing for Peptides: LAL, rFC, Limits, and COA Review"
 slug: "endotoxin-testing-peptide-manufacturing"
 description: "How LAL and rFC endotoxin assays work, how to set EU/mL and EU/mg limits, and which method details a peptide COA must show."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 **Endotoxin testing for a peptide batch comes down to three decisions: which assay format, which limit, and which dilution.** The assay is almost always a Limulus amebocyte lysate (LAL) method or its recombinant Factor C (rFC) equivalent. The limit is expressed in EU/mL or EU/mg and is derived from the intended exposure route or an internal research specification. The dilution is set by the maximum valid dilution (MVD), which determines how far the sample can be diluted before the assay's sensitivity is exhausted.
 

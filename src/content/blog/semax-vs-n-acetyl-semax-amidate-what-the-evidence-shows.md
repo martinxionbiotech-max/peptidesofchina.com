@@ -7,6 +7,7 @@ description: "Semax vs N-Acetyl Semax Amidate: compare chemistry, published evid
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines semax vs n acetyl semax amidate what the evidence shows from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -156,10 +157,23 @@ Use lot-specific analytical documentation, including mass spectrometry that supp
 4. Potaman VN, et al. [Evenly tritium-labeled peptides and their in vivo and in vitro degradation](https://pubmed.ncbi.nlm.nih.gov/16637290/). *Bioorganic Chemistry*. 2006.
 5. Kaplan AY, et al. [Experimental substantiation for using Semax in optic nerve disease](https://pubmed.ncbi.nlm.nih.gov/15678666/). 2004.
 
+## Sources
+
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/23652441/)
+- [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3987924/)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/14556513/)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/16637290/)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/15678666/)
+
 ## Related Products
 
 - [Buy Semax](/catalog/semax/)
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+

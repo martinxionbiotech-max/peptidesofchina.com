@@ -3,6 +3,7 @@ title: "High-Purity Peptides in Bulk: A 2026 B2B Sourcing Guide"
 slug: "high-purity-peptides-bulk-order-a-b2b-guide-to-direct-sourcing-in-2026"
 description: "How to specify, verify, and accept bulk research peptide lots: HPLC limits, net peptide content, COA fields, and a lot acceptance checklist."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 A bulk order for "high-purity peptides" is not a specification until it names the method, the acceptance limit, the sample basis, and the material the percentage excludes. Two suppliers can both report 98% and ship materially different vials. One number may be an area percent from a reversed-phase chromatogram; the other may be a label claim with no chromatogram behind it. A buyer who compares only the headline number is comparing adjectives.
 

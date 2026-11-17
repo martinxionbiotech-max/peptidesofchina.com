@@ -3,6 +3,7 @@ title: "Epithalon Wholesale Sourcing: A 2026 Manufacturer Guide"
 slug: "epithalon-wholesale-sourcing-a-b2b-guide-to-direct-manufacturer-channels-2026"
 description: "A B2B guide to Epithalon wholesale sourcing: AEDG identity, tetrapeptide analytics, manufacturer versus trader channels, and lot-level documents."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Epithalon wholesale sourcing is a small-peptide problem disguised as a commodity purchase. The sequence is four residues — Ala-Glu-Asp-Gly, or AEDG — and the molecule is about 390 Da. That simplicity makes synthesis cheap and comparison difficult: the fill weight can be dominated by water and counterion, the peptide has no aromatic residue for a 280 nm assay, and almost any vial with a white cake looks the same.
 

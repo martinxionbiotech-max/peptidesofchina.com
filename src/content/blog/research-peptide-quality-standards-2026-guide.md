@@ -3,6 +3,7 @@ title: "Research Peptide Quality Standards: A 2026 Technical Guide"
 slug: "research-peptide-quality-standards-2026-guide"
 description: "A working specification for research peptides: identity by mass spectrometry, purity by a defined HPLC method, counterion and water content, endotoxin testing, and the batch records that tie each result to a vial."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Research peptide quality is a set of measured attributes tied to a specific lot, not a percentage printed on a product page. A workable standard covers identity by mass spectrometry, purity by a named HPLC method, counterion and water content, net peptide content, endotoxin where the protocol calls for it, and a lot record that connects each result to the vial in hand. A supplier advertising "99% pure" has described one number from one method, without stating how it was obtained or which batch it belongs to.
 

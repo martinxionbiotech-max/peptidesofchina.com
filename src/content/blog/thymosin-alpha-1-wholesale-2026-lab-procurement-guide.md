@@ -3,6 +3,7 @@ title: "Thymosin Alpha-1 Wholesale: 2026 Procurement Guide"
 slug: "thymosin-alpha-1-wholesale-2026-lab-procurement-guide"
 description: "A 2026 guide to Thymosin Alpha-1 wholesale buying: sequence and acetylation, FDA status, specification fields, supplier roles, and order logistics."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Thymosin Alpha-1 wholesale buying starts with the sequence, not the price list. The material is a 28-residue, N-terminally acetylated peptide of about 3,108 Da, and the difference between the acetylated and des-acetyl forms is a property of the molecule, not a manufacturing preference. A wholesale quote that does not state the form, the counterion, and the net peptide content is not comparable to one that does.
 

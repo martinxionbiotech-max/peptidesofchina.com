@@ -3,6 +3,7 @@ title: "How Peptide Sourcing Contracts Work: A Procurement Guide"
 slug: "how-peptide-sourcing-contracts-work-a-procurement-guide"
 description: "How peptide sourcing contracts work: commercial terms, quality agreement clauses, specifications, sampling, and a rejection workflow that holds up under dispute."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 A peptide sourcing contract works as four documents in one system: a commercial supply agreement, a quality agreement, a versioned specification with test methods, and a lot release package. The commercial agreement sets price, volume, delivery, and liability. The quality agreement assigns who releases, who investigates, who notifies, and who pays for a failure. The specification fixes the numbers. The release package proves a specific lot met them. Deals break when one document is asked to do another's job: a purchase order defining a purity method, or a certificate of analysis treated as a contract.
 

@@ -3,6 +3,7 @@ title: "Research-Grade Semaglutide Purity Standards: 2026 Reference"
 slug: "research-grade-semaglutide-purity-standards-a-2026-technical-reference"
 description: "How to specify and verify research-grade semaglutide: HPLC method details, mass confirmation, net peptide content, counterions, water, and COA fields."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 
 Research-grade semaglutide is not defined by a single purity percentage. A defensible specification fixes four things before a lot is released: the analytical method, the identity evidence, the content basis, and the impurity limits. A catalog page that says "≥98% HPLC" without those details describes a number, not a material.

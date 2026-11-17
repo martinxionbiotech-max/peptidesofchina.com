@@ -7,6 +7,7 @@ description: "SLU-PP-915 fixes a major limitation of SLU-PP-332: oral bioavailab
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines slu pp 915 vs slu pp 332 what actually changed from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -190,10 +191,21 @@ SLU-PP-332 currently has the broader published preclinical record. SLU-PP-915 is
 4. Xu W et al. *Novel Pan-ERR Agonists Ameliorate Heart Failure Through Enhancing Cardiac Fatty Acid Metabolism and Mitochondrial Function.* Circulation. 2024. https://pubmed.ncbi.nlm.nih.gov/37961903/
 5. Möller T, Krug O, Thevis M. *In Vitro Metabolism and Analytical Characterization of SLU-PP-332 and SLU-PP-915: Novel Pan-ERR Agonists With Doping Potential.* Rapid Communications in Mass Spectrometry. 2026;40(8):e70039. DOI: 10.1002/rcm.70039. https://pubmed.ncbi.nlm.nih.gov/41588687/
 
+## Sources
+
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/41421047/)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/37961903/)
+- [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/41588687/)
+
 ## Related Products
 
 - [Buy SLU-PP-915](/catalog/slu-pp-915/)
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+

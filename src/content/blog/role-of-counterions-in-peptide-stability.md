@@ -8,6 +8,7 @@ description: "Discover the critical role of counterions in peptide stability. En
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines role of counterions in peptide stability from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -212,9 +213,18 @@ Core peer-reviewed references for mechanisms, methods, and case studies:
 - Counter-ion effect on antistaphylococcal activity and cytotoxicity of selected antimicrobial peptides — Experimental study reporting TFA− levels of 150–320 µg per mg peptide and activity differences between salt forms. Best for case study data and quantitative context.
 - The Effects of Counter-Ions on Peptide Structure, Activity, and Applications (PubMed) — PubMed entry for the MDPI review; includes LL-37 anion-dependent conformation data. Best for cross-referencing experimental cases.
 
-## China Peptides Sourcing Perspective
+## The Author's Take
 
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+
+**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+
+## Sources
+
+- [www.mdpi.com](https://www.mdpi.com/2218-273X/15/11/1567)
+- [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7761850/)
 
 ## Related Products
 

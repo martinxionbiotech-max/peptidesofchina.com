@@ -3,6 +3,7 @@ title: "Peptide Solubility Troubleshooting: A Decision Framework for Research La
 slug: "peptide-solubility-troubleshooting"
 description: "A stepwise protocol for peptides that will not dissolve: charge-based solvent choice, sonication and warming limits, DMSO thresholds, and when the batch rather than the technique is the problem."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 
 When a peptide will not dissolve, the answer is almost never a stronger solvent. It is a sequence of controlled trials: water or buffer first, then a pH shift toward a charge state that keeps molecules apart, then a small volume of organic co-solvent used as a wetting step before aqueous dilution. Each step has a decision point, and moving to the next one before the current one has been given time is the most common way researchers turn a soluble peptide into an irreversibly aggregated one.

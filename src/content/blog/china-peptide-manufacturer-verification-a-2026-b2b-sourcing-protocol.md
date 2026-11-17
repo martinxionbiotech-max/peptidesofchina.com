@@ -3,6 +3,7 @@ title: "Verifying a China Peptide Manufacturer: A 2026 B2B Protocol"
 slug: "china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol"
 description: "A research peptide supplier verification protocol: legal manufacturer, batch evidence, analytical scope, audit records, sampling, and bounded qualification."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 Verify a China peptide manufacturer by separating four questions: which legal entity is responsible for the material, which site and batch produced it, what the analytical record actually measures, and whether the quality system can reproduce that result. A certificate answers none of those until its issuer, sample identity, and batch number are tied to the goods you will receive. The review ends with a written qualification that names the product, site, batch, specification version, and evidence reviewed.
 

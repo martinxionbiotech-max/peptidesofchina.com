@@ -3,6 +3,7 @@ title: "Peptide Supply Chain Transparency: A Buyer's Audit Checklist"
 slug: "peptide-supply-chain-transparency-buyer-checklist"
 description: "A document-by-document audit checklist for peptide supply chain transparency: legal roles, batch records, analytical scope, receiving checks, and supplier scoring."
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 
 Supply chain transparency in a peptide order means you can name the legal seller, the synthesis site, the fill site, the batch number, and the analytical laboratory that produced each document in the file. It does not mean the supplier publishes a factory video or promises "direct from manufacturer." It means the paper trail closes: the invoice entity, certificate issuer, packing list, and vial label all refer to the same lot, and the batch record explains how that lot was made and released.
