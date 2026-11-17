@@ -7,6 +7,7 @@ description: "Research-use restrictions and website-information disclaimer for p
 
 
 
+author: "POC Tech Team"
 ---
 The research-use terms that govern every **china peptide** in our catalog.
 

@@ -6,6 +6,7 @@ price: 220.0
 status: "In Stock"
 description: "Eloralintide (LY3841136), an investigational selective amylin receptor agonist supplied as a lyophilized peptide for preclinical metabolic research."
 image: "/images/products/generic-vial.png"
+author: "POC Tech Team"
 ---
 Eloralintide is the newest kind of entry a peptide catalogue has to handle: a molecule that is well described in press releases and poorly described in the primary literature. It is an investigational amylin receptor agonist developed under the code LY3841136, and the public record is dominated by the sponsor's own programme rather than by independent academic work.
 

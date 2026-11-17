@@ -2,6 +2,7 @@
 title: "Why Source Traceability Matters for Research Peptides"
 slug: "why-source-traceability-matters-research"
 description: "Why peptide source traceability matters: lot genealogy, chain of custody, COA-to-vial matching, data integrity, and a minimum record set for labs."
+author: "POC Tech Team"
 ---
 Source traceability matters because a research result is only as defensible as the material it was run on. If a lab cannot show which lot produced a result, it cannot distinguish a biological effect from a bad vial, and it cannot contain a recall without quarantining everything. Traceability is the record that makes that distinction possible.
 

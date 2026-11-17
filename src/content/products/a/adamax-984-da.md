@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Adamax (984 Da) is an adamantane-modified ACTH(4-7) analogue supplied for neuroscience research. Identity testing and batch records explained."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Adamax is a compound that rewards caution. It is catalogued as an adamantane-modified analogue of Semax with a mass near 984 Da, and it circulates in a small research market where the published structural record is thin. There is no pharmacopoeial monograph, no widely replicated synthesis route in the open literature, and no consensus on how the adamantane group is attached. A buyer who treats it like a well-characterised peptide is buying a name, not a molecule.
 

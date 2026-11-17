@@ -7,6 +7,7 @@ status: "In Stock"
 description: "HGH Fragment 176-191, the 16-residue C-terminal domain of growth hormone. Sequence, disulfide integrity and batch verification for labs."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 HGH Fragment 176-191 is a sixteen-residue piece of the growth hormone molecule, sold as a research peptide on the strength of a hypothesis that has been repeated far more often than it has been tested. The hypothesis is that the C-terminal end of growth hormone carries the lipolytic activity while the rest of the protein carries the growth and insulin-like effects. If that were cleanly true, the fragment would be an unusually precise tool. The literature is less tidy, and a buyer should know that before choosing a vial.
 

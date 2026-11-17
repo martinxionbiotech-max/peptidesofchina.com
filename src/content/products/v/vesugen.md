@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Vesugen tripeptide research standard: how to verify a three-residue peptide and why the tissue-specificity story outruns the data."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Vesugen is a tripeptide. Three amino acids, one small molecule, one vial of white powder. That brevity is the whole commercial problem: a three-residue peptide is inexpensive to synthesise, difficult to distinguish from its nearest neighbours on a routine chromatogram, and easy to describe in language that sounds more specific than the evidence supports.
 

@@ -2,6 +2,7 @@
 title: "BPC-157 Arginine Salt vs Acetate: Sourcing Comparison"
 slug: "bpc-157-arginine-salt-vs-acetate-for-research-a-sourcing-comparison"
 description: "Compare BPC-157 arginine and acetate salts by mass balance, HPLC visibility, counterion testing, solubility, and price per milligram of peptide."
+author: "POC Tech Team"
 ---
 The difference between BPC-157 arginine salt and BPC-157 acetate is not a difference in the peptide. It is a difference in what else is in the vial, how much the vial weighs, and what the certificate has to report. A 10 mg vial of the arginine salt can contain roughly 8 mg of BPC-157; a 10 mg vial of the acetate salt can contain roughly 9.6 mg. If the price is the same, the products are not.
 

@@ -2,6 +2,7 @@
 title: "How It Works"
 slug: "how-it-works"
 description: "Learn how to order research peptides from China through Peptides of China: submit a request with no deposit, confirm stock, receive and pay the final invoice, and track Express delivery in 7–12 days."
+author: "POC Tech Team"
 ---
 
 This page explains how **china peptide** orders move from catalog selection to delivery.

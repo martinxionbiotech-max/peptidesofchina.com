@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Kisspeptin-10, the C-terminal amidated decapeptide ligand of KISS1R, for GnRH and HPG-axis neuroendocrinology research. Lyophilized with batch HPLC/MS data."
 image: "/images/products/kisspeptin-10-bottle.webp"
 
+author: "POC Tech Team"
 ---
 Kisspeptin-10 is the C-terminal decapeptide of the KISS1 gene product, supplied as a lyophilized powder for neuroendocrine research. It is the smallest fragment that retains full activity at KISS1R, which is why it is the standard reagent for probing GnRH neuron responsiveness in vitro and in animal models. The sourcing detail that decides whether a vial is the right molecule is easy to miss: the C-terminal phenylalanine must be amidated. The free-acid form is one dalton lighter, appears in the same HPLC window, and is not the peptide the literature describes. This page covers that distinction, the rest of the batch record, and the handling conditions that keep the decapeptide intact.
 

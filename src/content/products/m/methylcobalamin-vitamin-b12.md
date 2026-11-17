@@ -6,6 +6,7 @@ price: 53.0
 status: "In Stock"
 description: "Methylcobalamin (vitamin B12) liquid reference material at 1 mg/mL and 10 mg/mL for analytical and cell-culture research."
 image: "/images/products/generic-vial.png"
+author: "POC Tech Team"
 ---
 Methylcobalamin is the cobalt-methyl form of vitamin B12, supplied here as a ready-made aqueous solution in 10 mL vials. The catalogue lists two concentrations, 1 mg/mL and 10 mg/mL, both currently out of stock. That stock status is part of the product story: liquid cobalamin is sensitive to light, heat and oxidation, and a supplier who keeps it on the shelf for months is not offering the same material as one who prepares it to order. It is supplied for laboratory and cell-culture research only and is not for human consumption.
 

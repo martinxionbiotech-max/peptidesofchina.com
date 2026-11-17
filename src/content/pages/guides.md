@@ -2,6 +2,7 @@
 title: "Peptide Research Guides"
 slug: "guides"
 description: "Five pillar guides to China peptide sourcing, quality testing, laboratory handling, compound categories and compliance boundaries — written for research buyers, not patients."
+author: "POC Tech Team"
 ---
 
 Peptides of China publishes research-use-only material for laboratory buyers, procurement teams and researchers. The five guides below are the entry points to the site's cluster content. They are not a product catalogue and they are not medical advice.

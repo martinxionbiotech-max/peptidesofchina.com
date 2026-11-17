@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Pancragen tetrapeptide bioregulator for laboratory research. Sequence, batch verification and handling notes for research buyers."
 image: "/images/products/generic-pancragen.webp"
 
+author: "POC Tech Team"
 ---
 Pancragen is a tetrapeptide from the Khavinson series of tissue-derived bioregulators, and it is a good example of why the bioregulator category needs more careful reading than the average peptide listing. The molecule is small, the synthesis is routine, and the price is modest. The hard part is identity: the catalogue has described Pancragen as Lys–Glu–Asp–Pro, while the peer-reviewed pancreatic literature specifies Lys–Glu–Asp–Trp-NH2. Those are not the same peptide. One residue and one C-terminal amide separate them, and that is enough to change the mass, the UV spectrum and the interpretation of any binding or cell assay.
 

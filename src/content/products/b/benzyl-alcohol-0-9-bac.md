@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Bacteriostatic 0.9% benzyl alcohol in water for laboratory reconstitution. GC assay, pH, osmolality and sterility explained."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Benzyl alcohol 0.9% is not a peptide. It is a formulated aqueous solution: 9 mg of benzyl alcohol per millilitre of water, with no buffer, no salt, and no peptide. The catalogue places it under reconstitution because that is how laboratories use it — as a preservative-containing diluent that lets a reconstituted stock be handled repeatedly without a fresh preparation at every bench session. Calling it "BAC water" compresses that description into a nickname, and the nickname hides the specification work that matters.
 

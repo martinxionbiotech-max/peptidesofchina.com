@@ -7,6 +7,7 @@ description: "Discover how peptides interact with formulation base in our 2026 g
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines how peptides interact with formulation base from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

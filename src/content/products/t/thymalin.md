@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Thymalin is a thymus-derived polypeptide fraction, not a single peptide. What lot documentation can and cannot prove about a complex mixture."
 image: "/images/products/thymalin-bottle.webp"
 
+author: "POC Tech Team"
 ---
 Thymalin is the most awkward kind of product in a peptide catalogue: a polypeptide fraction rather than a defined molecule. The listing describes short thymic peptides in the 1-6 kDa range, a thymus tissue origin, and a ≥98% purity specification. Those three statements do not sit comfortably together. A mixture of peptides has no single sequence to confirm, no single molecular weight to report, and no meaningful way to express purity as one HPLC area percentage unless the method and the reference standard are defined.
 

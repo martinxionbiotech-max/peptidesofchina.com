@@ -2,6 +2,7 @@
 title: "Peptide Supplier Contracts: Terms Procurement Should Fix"
 slug: "peptide-supplier-contract-negotiation-tips-for-procurement"
 description: "The clauses that decide whether a peptide order is recoverable: specification, sampling, acceptance window, change control, and nonconformance remedies."
+author: "POC Tech Team"
 ---
 **A peptide supply contract is only as strong as its specification clause.** Price, lead time, and payment terms get negotiated because they are visible. The clauses that decide whether a failed batch is recoverable — conformity definition, sampling plan, acceptance window, change notification, and remedy — usually get copied from a template written for a different product.
 

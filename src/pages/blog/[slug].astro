@@ -18,6 +18,11 @@ const structuredData = [
     '@type': 'Article',
     headline: post.data.title,
     description: post.data.description || post.data.title,
+    author: {
+      '@type': 'Organization',
+      name: 'POC Tech Team',
+      url: 'https://peptidesofchina.com/author/poc-tech-team/',
+    },
   },
 ];
 ---
@@ -28,6 +33,7 @@ const structuredData = [
     <header class="article-header">
       <h1>{post.data.title}</h1>
       {post.data.description && <p class="lede">{post.data.description}</p>}
+      <p class="muted">By <a href="/author/poc-tech-team/">POC Tech Team</a></p>
     </header>
     <article>
       <Content />

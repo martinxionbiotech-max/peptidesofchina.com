@@ -2,6 +2,7 @@
 title: "Peptide Characterization Reporting Checklist: Identity, Purity, and Impurity Data"
 slug: "peptide-characterization-reporting-checklist"
 description: "A reviewer's checklist for peptide characterization reports: sequence and mass confirmation, orthogonal purity methods, impurity profiling, assay validation, and report fields."
+author: "POC Tech Team"
 ---
 
 A peptide characterization report should let an independent reviewer answer four questions without opening the vial: is this the intended sequence, how much of the sample is that sequence, what else is in it, and which method would detect a change on stability? A certificate that reports a single HPLC percentage answers only part of the second question. It does not establish identity, does not describe the impurity profile, and does not show whether the method can detect a degradation product.

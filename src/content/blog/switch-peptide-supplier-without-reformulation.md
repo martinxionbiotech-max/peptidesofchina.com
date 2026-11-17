@@ -2,6 +2,7 @@
 title: "Switching Peptide Suppliers Without Reformulation"
 slug: "switch-peptide-supplier-without-reformulation"
 description: "A comparability plan for changing peptide suppliers: match salt form, assay basis and impurity profile, then bridge with three lots and stability data."
+author: "POC Tech Team"
 ---
 Switching peptide suppliers without reformulation means proving that the new material is equivalent to the old material on the attributes your work depends on, before the old stock runs out. The sequence does not change. The salt form should not change. What changes is the manufacturer, and with it the impurity profile, the counterion content, the water content and the batch-to-batch variation.
 

@@ -7,6 +7,7 @@ status: "In Stock"
 description: "KPV (Lys-Pro-Val) tripeptide research material. Preclinical gut biology, PepT1 transport and batch documentation for laboratory buyers."
 image: "/images/products/kpv-bottle.webp"
 
+author: "POC Tech Team"
 ---
 KPV is a three-residue peptide — lysine, proline, valine — that corresponds to the last three amino acids of α-melanocyte-stimulating hormone. It is supplied as a lyophilized powder, usually in 10 mg vials, and it sits in an unusual corner of the catalog: small enough to synthesise cheaply, well characterised in rodent gut models, and almost always sold without the analytical data that would let a laboratory confirm what is in the vial.
 

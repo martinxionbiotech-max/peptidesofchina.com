@@ -2,6 +2,7 @@
 title: "What Are Endotoxins and Why They Matter in Peptide Research"
 slug: "what-are-endotoxins-why-they-matter"
 description: "Endotoxins are lipopolysaccharides that activate TLR4 at nanogram levels. How they enter peptide production, how LAL and rFC measure them, and what to require."
+author: "POC Tech Team"
 ---
 An endotoxin is a lipopolysaccharide (LPS) from the outer membrane of Gram-negative bacteria. It is not a living contaminant, and it is not removed by sterile filtration. In research, the problem is not infection but a background inflammatory signal: LPS activates innate immune cells through TLR4/MD-2, and that activation can dominate a cytokine readout, a macrophage assay, or an animal model before the peptide itself has done anything measurable.
 

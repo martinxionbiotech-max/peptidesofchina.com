@@ -7,6 +7,7 @@ description: "Learn how Peptides of China combines manufacturer sourcing, coordi
 
 
 
+author: "POC Tech Team"
 ---
 Peptides of China is a B2B platform for **china peptides** — finished research compounds from established Chinese manufacturers.
 

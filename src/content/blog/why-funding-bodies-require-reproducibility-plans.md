@@ -7,6 +7,7 @@ description: "Discover why funding bodies mandate reproducibility plans for pept
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines why funding bodies require reproducibility plans from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

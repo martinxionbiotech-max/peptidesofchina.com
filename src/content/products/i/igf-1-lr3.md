@@ -7,6 +7,7 @@ status: "In Stock"
 description: "IGF-1 LR3, an 83-residue long-acting IGF-1 analogue with reduced IGFBP binding. Identity, bioactivity and handling for cell-culture research."
 image: "/images/products/igf-1-lr3-bottle.webp"
 
+author: "POC Tech Team"
 ---
 IGF-1 LR3 is an engineered version of insulin-like growth factor I, made by adding a thirteen-residue N-terminal extension and changing the third residue from glutamate to arginine. The modifications do not change the receptor it activates; they change how long it stays available to activate it. In a culture dish, that difference is useful. In a catalogue, it is the source of most of the confusion, because the same vial is sold under several names and the sequence is rarely printed in full.
 

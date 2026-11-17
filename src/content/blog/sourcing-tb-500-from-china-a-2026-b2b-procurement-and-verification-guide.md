@@ -2,6 +2,7 @@
 title: "Sourcing TB-500 from China: Identity and Batch Verification"
 slug: "sourcing-tb-500-from-china-a-2026-b2b-procurement-and-verification-guide"
 description: "A 2026 B2B guide to sourcing TB-500 from China: full-length versus fragment identity, COA fields, HPLC and LC-MS criteria, and receiving checks."
+author: "POC Tech Team"
 ---
 TB-500 can be sourced from China at research grade, but the name is not a specification. Before comparing price, a buyer needs four facts in writing: the exact sequence, the residue count, the N-terminal modification, and the counterion. Without those four, two suppliers can quote the same "TB-500" and ship different molecules.
 

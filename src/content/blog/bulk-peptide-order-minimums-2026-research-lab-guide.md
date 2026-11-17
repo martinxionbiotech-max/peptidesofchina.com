@@ -2,6 +2,7 @@
 title: "Bulk Peptide Order Minimums: A 2026 Research Lab Guide"
 slug: "bulk-peptide-order-minimums-2026-research-lab-guide"
 description: "How the $600 goods minimum works, how to normalize price per milligram, and how mixed-SKU orders, kit sizes, and freight affect the real threshold."
+author: "POC Tech Team"
 ---
 
 The $600 minimum is a goods-value threshold applied to each supplier order. It is not a per-product price, and it does not include shipping. The practical question is not whether the cart totals $600, but whether every supplier subtotal in the request does.

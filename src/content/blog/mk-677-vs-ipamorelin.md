@@ -7,6 +7,7 @@ description: "Explore the differences between MK-677 and Ipamorelin to find the 
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines mk 677 vs ipamorelin from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

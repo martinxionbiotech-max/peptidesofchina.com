@@ -6,6 +6,7 @@ price: 143.0
 status: "In Stock"
 description: "Prostamax (Lys-Glu-Asp-Pro) tetrapeptide bioregulator for laboratory research. Sequence, purity and batch notes for buyers."
 image: "/images/products/generic-vial.png"
+author: "POC Tech Team"
 ---
 Prostamax is the prostate-series tetrapeptide in the Khavinson bioregulator family, and its sequence — Lys–Glu–Asp–Pro — is the one that gets attached to the wrong product name. The catalogue's Pancragen listing has historically described the pancreatic peptide as Lys–Glu–Asp–Pro, while the pancreatic literature specifies Lys–Glu–Asp–Trp-NH2. Prostamax is the KEDP molecule. That makes this page the place to be precise about which name belongs to which sequence.
 

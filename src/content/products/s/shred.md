@@ -8,6 +8,7 @@ description: "SHRED research blend of L-carnitine, methionine, inositol, choline
 
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 SHRED is a multi-component liquid research formulation supplied in 10 mL ampoules at a declared concentration of 350.25 mg/mL. The label lists L-carnitine, methionine, inositol, choline, vitamin B6, and vitamin B12. It is catalogued under weight management, vitamins and nutrients, and blends, but the research context is narrower than the category suggests: lipid transport, methyl-group transfer, and water-soluble cofactor biochemistry.
 

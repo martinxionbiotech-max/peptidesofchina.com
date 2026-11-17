@@ -7,6 +7,7 @@ status: "In Stock"
 description: "NAD+ dinucleotide for laboratory research. Salt form, water content, purity method and batch documentation explained."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 NAD+ is the oxidised form of nicotinamide adenine dinucleotide, a 663.4 Da dinucleotide rather than a peptide. It is supplied as a lyophilized powder for laboratory work, and its analytical profile is different from a peptide's: there is no sequence to confirm, but there is a glycosidic bond that hydrolyses in water and a redox state that has to be specified. Laboratories use it as a substrate or cofactor in sirtuin, PARP, and mitochondrial assays, where a batch that is partly degraded or partly salt can shift the result. This page sets out what a batch record should show, how to handle the powder, and why the catalogue files a nucleotide among peptides.
 

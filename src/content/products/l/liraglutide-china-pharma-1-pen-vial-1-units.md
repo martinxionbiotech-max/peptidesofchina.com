@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Liraglutide research reference material in pen/vial presentation, three strengths, ≥98% purity, with batch-level identity and purity documentation."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 This listing covers liraglutide supplied in a pen/vial presentation, a format that behaves very differently from a plain lyophilized peptide vial. The catalog carries three strengths — 5 mg, 10 mg and 30 mg — each packed as ten units. The material is offered as a research reference, not as a medicine, and every page statement should be read inside that boundary. It is supplied for laboratory research only and is not for human or veterinary use.
 

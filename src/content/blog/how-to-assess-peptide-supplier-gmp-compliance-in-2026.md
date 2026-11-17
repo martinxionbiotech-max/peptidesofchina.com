@@ -2,6 +2,7 @@
 title: "How to Assess Peptide Supplier GMP Compliance in 2026"
 slug: "how-to-assess-peptide-supplier-gmp-compliance-in-2026"
 description: "Assess a peptide supplier's GMP compliance by certificate scope, batch records, deviation and CAPA history, change control, equipment qualification, and audit cadence."
+author: "POC Tech Team"
 ---
 Assess a peptide supplier's GMP compliance by separating three claims that are usually merged into one: the site holds a current certificate from a recognised authority, the certificate's scope covers the product and operation you are buying, and the batch record for your lot shows the system actually ran. None of the three can be inferred from the others. A supplier can hold a valid certificate for an injectable finished product while selling a lyophilised research powder made in a different building, with no batch release by a qualified person.
 

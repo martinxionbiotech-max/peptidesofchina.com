@@ -2,6 +2,7 @@
 title: "Why Peptide Suppliers Deliver Inconsistent Quality"
 slug: "why-peptide-suppliers-inconsistent-quality"
 description: "A supply-chain diagnosis of peptide batch variation: source switching, repackaging, lyophilisation, storage, transit, and weak documentation."
+author: "POC Tech Team"
 ---
 Inconsistent peptide quality is usually a structural outcome, not a random defect. The synthesis step is often the most controlled part of the chain. Variation enters later: when bulk powder changes hands, when a repackager fills vials under a different environment, when a shipment sits on a tarmac, or when a supplier switches upstream sources between orders without changing the product page.
 

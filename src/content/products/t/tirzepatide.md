@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Tirzepatide research peptide, 5–50 mg lyophilized vials, ≥98% HPLC specification, factory-coordinated from China with lot-linked analytical records."
 image: "/images/products/tirzepatide-bottle.webp"
 
+author: "POC Tech Team"
 ---
 Tirzepatide is a 39-residue synthetic peptide that activates both the GIP receptor and the GLP-1 receptor. It is supplied here as a lyophilized powder in vials from 5 mg to 50 mg, with a ≥98% HPLC specification. The compound is a research tool for labs studying incretin receptor co-activation, not a medicine and not a product for human use. This page covers what makes the molecule analytically awkward, what a batch file should contain, and the questions worth asking before a purchase order is raised.
 

@@ -6,6 +6,7 @@ description: "Looking for a Peptide Sciences alternative? Peptides of China sour
 
 
 
+author: "POC Tech Team"
 ---
 How Peptides of China compares as a **china peptide** sourcing alternative to retail-focused suppliers.
 

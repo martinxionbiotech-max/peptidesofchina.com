@@ -7,6 +7,7 @@ status: "In Stock"
 description: "KEDG tetrapeptide research standard: identity testing, batch documentation and the limits of the bioregulator literature."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Testagen is a four-residue peptide — Lys-Glu-Asp-Gly, shortened to KEDG — supplied as a lyophilized powder at 20 mg per vial. The catalogue places it in the bioregulator group, and the description traces it to testicular tissue. Both statements are true in a narrow sense, and both are easy to misread. The peptide is synthetic; "derived from testicular tissue" describes where the sequence motif was first identified, not what the vial contains. A buyer who reads the line as "tissue extract" will ask the wrong questions about the batch record.
 

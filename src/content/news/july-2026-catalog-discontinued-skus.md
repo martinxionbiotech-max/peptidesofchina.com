@@ -8,6 +8,7 @@ description: "As part of our July 2026 catalog review, three SKUs have been reti
 
 
 
+author: "POC Tech Team"
 ---
 Peptides of China — our platform for **china peptides** sourcing — publishes short updates like this one whenever something material changes: catalog additions, quality-process notes, and sourcing announcements. The substance of this update is below.
 

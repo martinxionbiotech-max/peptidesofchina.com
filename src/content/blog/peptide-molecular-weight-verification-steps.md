@@ -2,6 +2,7 @@
 title: "Peptide Molecular Weight Verification: A Practical MS Workflow"
 slug: "peptide-molecular-weight-verification-steps"
 description: "How to calculate theoretical peptide mass, choose between MALDI-TOF and LC-ESI-MS, and set acceptance criteria that a supplier COA can be audited against."
+author: "POC Tech Team"
 ---
 
 Verification is a comparison, not a measurement. You calculate the theoretical mass of the stated sequence, acquire an intact mass on a named instrument, and decide whether the difference falls inside a tolerance you declared before the run — typically ±1 Da on MALDI-TOF or under 5 ppm on a Q-TOF or Orbitrap. A mass spectrum on its own proves that something ionized. Only the comparison proves that the vial contains the peptide on the label.

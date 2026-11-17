@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Cerebrolysin is a standardized porcine brain-derived peptide mixture for neuroscience research. Peptide content, MW distribution and batch checks."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Cerebrolysin is not a peptide in the sense the rest of this catalogue uses the word. It is a standardized mixture produced by enzymatic hydrolysis of porcine brain protein, containing short peptides, free amino acids, and smaller organic constituents. The catalogue lists it as a 60 mg lyophilized powder in packs of six vials, with the active fraction described as roughly 25% low-molecular-weight peptides below 10 kDa and 75% free amino acids. There is no sequence, no molecular formula, and no CAS number, because there is no single molecule to describe.
 

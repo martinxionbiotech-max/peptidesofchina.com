@@ -6,6 +6,7 @@ price: 131.0
 status: "In Stock"
 description: "GGH Blend combining GHK-Cu, glutathione, NADH, histidine and glycine in 10 mL ampoules for in vitro redox and copper-peptide research."
 image: "/images/products/generic-vial.png"
+author: "POC Tech Team"
 ---
 GGH Blend is a five-component aqueous formulation supplied at 402 mg/mL in 10 mL ampoules. The label composition is GHK-Cu, glutathione, NADH, histidine, and glycine. It is filed under Skin, Hair & Nails and Vitamins & Nutrients, which is a merchandising decision; the research interest is the chemistry that happens when a copper-binding tripeptide, a thiol antioxidant, and a reduced pyridine nucleotide sit in the same solution.
 

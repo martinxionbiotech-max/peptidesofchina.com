@@ -2,6 +2,7 @@
 title: "Peptide Labeling Requirements: A Documentation Guide for Research Suppliers"
 slug: "peptide-ingredient-labeling-requirements-2026-guide"
 description: "A practical label review for research peptides: identity fields, research-use-only statements, GHS hazard communication, customs documents, and change control."
+author: "POC Tech Team"
 ---
 
 A research peptide label is a control document, not a sticker. It has to identify the material, the lot, the quantity, the storage condition, the hazard classification, and the research-use limitation in a way that matches the certificate, the packing list, and the commercial invoice. When those four documents disagree, the label becomes the weakest link in an otherwise defensible shipment.

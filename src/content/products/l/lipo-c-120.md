@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Four-component lipotropic blend: carnitine 50 mg, methionine 15 mg, choline chloride 50 mg, B5 5 mg per mL. Laboratory research material."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Lipo-C 120 is the smallest blend in this product family: four components, one vial, no filler. The declared composition is L-carnitine 50 mg, methionine 15 mg, choline chloride 50 mg, and dexpanthenol 5 mg per millilitre, supplied in 10 mL vials. Where the larger Lipo-C products add arginine, inositol, and a wider B-vitamin panel, this one stays with the carnitine–choline–methionine axis and one cofactor precursor.
 

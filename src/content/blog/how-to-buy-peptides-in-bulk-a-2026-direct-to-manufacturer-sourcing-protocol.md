@@ -2,6 +2,7 @@
 title: "How to Buy Peptides in Bulk: A 2026 Direct-to-Manufacturer Sourcing Protocol"
 slug: "how-to-buy-peptides-in-bulk-a-2026-direct-to-manufacturer-sourcing-protocol"
 description: "A stage-by-stage protocol for bulk research peptide orders: volume tiers, quote normalization, payment gates, batch allocation, consolidation, and lot acceptance."
+author: "POC Tech Team"
 ---
 
 Buy peptides in bulk by controlling the order as a material purchase, not as a shopping cart. Fix the quantity in milligrams of peptide rather than vials, compare every quote on the same landed-cost basis, write the acceptance limits into the purchase order, confirm which batch will be allocated before the balance is paid, and reconcile the lot documents at receipt. Minimums and discounts matter, but they are the part of the transaction a buyer can renegotiate. The batch record and the acceptance test are the part that decides whether the order was worth placing.

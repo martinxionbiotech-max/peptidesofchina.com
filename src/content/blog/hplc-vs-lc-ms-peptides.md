@@ -2,6 +2,7 @@
 title: "HPLC vs LC-MS for Peptides: Purity, Identity, and COA Evidence"
 slug: "hplc-vs-lc-ms-peptides"
 description: "How RP-HPLC purity and LC-MS identity differ, which method answers which question, and the specific data a peptide batch release should include."
+author: "POC Tech Team"
 ---
 **HPLC and LC-MS answer two different questions, and a peptide batch needs both answers.** Reversed-phase HPLC with UV detection at 214 or 220 nm reports how much of the integrated peak area belongs to the target peak. LC-MS reports the mass of what is in that peak, and LC-MS/MS fragmentation reports whether the amino acid sequence matches the label. A purity number without a mass confirmation is a quantity claim with no identity behind it. A mass match without a chromatogram is an identity claim with no purity behind it.
 

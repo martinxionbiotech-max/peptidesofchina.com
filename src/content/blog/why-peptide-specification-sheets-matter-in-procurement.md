@@ -2,6 +2,7 @@
 title: "Peptide Specification Sheets: What a Spec Must Contain"
 slug: "why-peptide-specification-sheets-matter-in-procurement"
 description: "A peptide specification sheet fixes sequence, salt form, assay basis, purity method, water content and acceptance limits before a purchase order is issued."
+author: "POC Tech Team"
 ---
 A peptide specification sheet is the document that turns a marketing claim into a testable requirement. It names the sequence, the salt form, the assay basis, the analytical method, the units and the acceptance limit for each attribute. Without it, a buyer is comparing adjectives; with it, a buyer is comparing numbers that a laboratory can reproduce.
 

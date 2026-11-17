@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Long-acting acylated amylin analogue for AMY receptor research. Lyophilized, ≥98% by HPLC, with batch documentation."
 image: "/images/products/cagrilintide-bottle.webp"
 
+author: "POC Tech Team"
 ---
 Cagrilintide is a long-acting acylated amylin analogue supplied as a lyophilized powder for receptor pharmacology and metabolic research. The molecule is a modified amylin sequence carrying a fatty-diacid side chain. That chain is the reason the peptide stays in circulation far longer than native amylin, and it is also the reason a generic purity figure says very little about the batch. A chromatogram that resolves the parent peak may not resolve unacylated peptide, a partly finished lipid chain, or a scrambled disulfide. This page covers the receptor biology, the acylation-related batch checks, and the handling conditions that keep a long, lipophilic analogue from aggregating before the assay begins.
 

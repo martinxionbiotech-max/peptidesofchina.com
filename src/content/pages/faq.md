@@ -6,6 +6,7 @@ description: "Common questions about ordering research peptides from China: paym
 
 
 
+author: "POC Tech Team"
 ---
 The answers below cover the questions we most often hear from **china peptide** buyers.
 

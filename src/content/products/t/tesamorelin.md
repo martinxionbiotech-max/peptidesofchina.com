@@ -8,6 +8,7 @@ description: "Tesamorelin, a 44-residue GHRH analogue with an N-terminal trans-3
 
 image: "/images/products/tesamorelin-bottle.webp"
 
+author: "POC Tech Team"
 ---
 Tesamorelin is a synthetic analogue of human growth hormone-releasing hormone consisting of the full 44-residue GHRH sequence with a trans-3-hexenoic acid group attached at the N-terminus. The modification slows cleavage by dipeptidyl peptidase IV without introducing albumin binding, which gives the molecule an intermediate exposure profile between sermorelin and CJC-1295 with DAC. It is supplied as a lyophilized powder in vials from 2 mg to 30 mg, with a catalogue specification of ≥98%.
 

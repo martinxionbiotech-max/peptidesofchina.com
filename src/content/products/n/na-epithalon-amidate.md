@@ -7,6 +7,7 @@ status: "In Stock"
 description: "N-acetylated, C-amidated Epitalon analogue for laboratory research, with notes on mass confirmation and stability."
 image: "/images/products/epithalon-bottle.webp"
 
+author: "POC Tech Team"
 ---
 NA Epithalon Amidate is the four-residue peptide Ala-Glu-Asp-Gly with an acetyl group on the N-terminus and an amide on the C-terminus. The parent molecule, Epitalon, is 390.35 Da; the dual modification adds about 41 Da, putting the analogue near 431 Da. Those two terminal caps are a standard medicinal-chemistry move against exopeptidases, and they are easy to describe. The harder question is what evidence supports the analogue specifically, because almost all of the published AEDG literature was generated with the unmodified tetrapeptide. This page separates the parent literature from the analogue's actual documentation, and sets out what a batch record should prove before the material goes into an assay.
 

@@ -6,6 +6,7 @@ description: "Read verified reviews from real clients of Peptides of China. Ever
 
 
 
+author: "POC Tech Team"
 ---
 Buyer feedback on **china peptide** orders, published with identifying details removed.
 

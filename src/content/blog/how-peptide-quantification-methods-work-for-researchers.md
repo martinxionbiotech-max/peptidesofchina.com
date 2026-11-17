@@ -2,6 +2,7 @@
 title: "Peptide Quantification Methods for Research Labs"
 slug: "how-peptide-quantification-methods-work-for-researchers"
 description: "Compare LC-MS/MS, RP-HPLC, amino acid analysis and immunoassay for peptide quantification, with validation limits and sample-prep decisions."
+author: "POC Tech Team"
 ---
 Peptide quantification measures how much peptide is present, not how pure it is. The distinction decides method choice: a purity assay compares peaks within one sample, while a quantification assay assigns a mass concentration by comparison with a standard of known content. Confusing the two produces numbers that look precise and mean something else.
 

@@ -6,6 +6,7 @@ description: "A technical review of BPC-157 mechanism of action studies. Learn w
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines bpc 157 mechanism of action studies a technical review for research procurement from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

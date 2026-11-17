@@ -2,6 +2,7 @@
 title: "Peptide Documentation Package: A Batch File Checklist"
 slug: "peptide-documentation-package"
 description: "The batch-specific records a peptide supplier should provide: COA fields, chromatograms, MS data, endotoxin results, traceability, and red flags."
+author: "POC Tech Team"
 ---
 **A peptide documentation package is the batch-specific set of records that lets a buyer prove what is in the vial, who made it, and what was measured before release.** It is not a certificate of analysis with a logo on it. It is a bundle in which every document carries the same lot identifier and every analytical claim is backed by raw data.
 

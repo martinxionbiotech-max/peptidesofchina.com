@@ -7,6 +7,7 @@ description: "Sourcing wholesale peptides for research? Our 2026 B2B guide shows
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines wholesale peptides a 2026 b2b sourcing guide for research institutions from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

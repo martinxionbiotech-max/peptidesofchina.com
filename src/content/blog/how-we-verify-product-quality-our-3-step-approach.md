@@ -2,6 +2,7 @@
 title: "How We Verify Peptide Quality: A Three-Stage Model"
 slug: "how-we-verify-product-quality-our-3-step-approach"
 description: "How a peptide order gets verified before release: source qualification, batch-record review, and buyer-arranged third-party testing on the vial you receive."
+author: "POC Tech Team"
 ---
 **A peptide order is verified in three stages: the source that made it, the batch record that documents it, and an independent laboratory that tests the vial you actually received.** Each stage answers a different question. Source qualification tells you whether a licensed facility produced the material. The batch record tells you what the manufacturer measured and how. Independent testing tells you what is in the vial after shipping, handling, and storage.
 

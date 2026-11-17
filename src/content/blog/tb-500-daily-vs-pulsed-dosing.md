@@ -6,6 +6,7 @@ description: "Research-based comparison of daily versus pulsed (2–3x/week) TB-
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines tb 500 daily vs pulsed dosing from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

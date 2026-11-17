@@ -2,6 +2,7 @@
 title: "Amino Acid Composition Analysis: What It Adds to Peptide QC"
 slug: "amino-acid-composition-analysis-benefits"
 description: "AAA measures net peptide content and composition when HPLC and MS cannot. Learn hydrolysis, separation, calculations, and acceptance limits."
+author: "POC Tech Team"
 ---
 Amino acid composition analysis (AAA) is the test that tells you how much peptide is actually in the vial. HPLC reports a purity percentage, mass spectrometry confirms identity, and neither measures the mass fraction of the intended molecule after water, counterions, and residual solvents. AAA hydrolyses the peptide into its constituent amino acids, quantifies them, and reconstructs the peptide mass from the composition. That reconstructed value is net peptide content, usually expressed as % w/w.
 

@@ -6,6 +6,7 @@ description: "Learn how Peptides of China evaluates manufacturing partners, main
 
 
 
+author: "POC Tech Team"
 ---
 Our **chinese peptides** catalog is supplied by established Chinese manufacturers vetted for finished-product capability.
 

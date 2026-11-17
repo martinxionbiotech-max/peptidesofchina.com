@@ -8,6 +8,7 @@ description: "Survodutide (BI 456906), a GLP-1/GCGR dual agonist for preclinical
 
 image: "/images/products/survodutide-bottle.webp"
 
+author: "POC Tech Team"
 ---
 Survodutide, also known as BI 456906, is a single-molecule dual agonist of the glucagon-like peptide-1 receptor and the glucagon receptor. It is supplied as a lyophilized powder in 10 mg vials, with a catalogue specification of ≥98% by HPLC. The compound is acylated, roughly 3.5 kDa, and structurally more demanding than a linear peptide of similar length. Those facts drive the sourcing and analytical advice on this page.
 

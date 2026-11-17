@@ -6,6 +6,7 @@ description: "Eloralintide produced up to 20.1% weight loss in Phase 2. Explore 
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines eloralintide weight loss amylin and the addiction connection from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

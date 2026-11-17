@@ -8,6 +8,7 @@ description: "Super Shred research solution with L-carnitine, MIC complex, ATP, 
 
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Super Shred is a sterile liquid research formulation supplied in 10 mL ampoules at a declared concentration of 553 mg/mL. The label lists L-carnitine, an MIC complex, ATP, vitamin B12, and albuterol. It sits in the same catalogue neighbourhood as SHRED and Super Human Blend, but it is a different product with a different risk profile: one of its components is a beta-2 adrenergic agonist that is a prescription medicine in most jurisdictions and a restricted substance in sport.
 

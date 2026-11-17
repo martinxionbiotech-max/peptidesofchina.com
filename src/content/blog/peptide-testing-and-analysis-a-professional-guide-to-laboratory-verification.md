@@ -2,6 +2,7 @@
 title: "Peptide Testing and Analysis: A Lab Verification Guide"
 slug: "peptide-testing-and-analysis-a-professional-guide-to-laboratory-verification"
 description: "How to commission peptide testing: lab accreditation scope, sampling, method validation, report fields, and retest triggers for batch verification."
+author: "POC Tech Team"
 ---
 **Laboratory verification answers one question: does this specific batch match the specification you agreed to, as measured by a method you can defend?** Everything else — the certificate layout, the accreditation logo, the reputation of the lab — is supporting detail. A test result is only useful if the sample came from the vial you received, the method was fit for that material, and the report states enough for another analyst to reconstruct the run.
 

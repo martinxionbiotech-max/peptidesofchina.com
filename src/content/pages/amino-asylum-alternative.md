@@ -6,6 +6,7 @@ description: "Looking for an Amino Asylum alternative? Peptides of China offers 
 
 
 
+author: "POC Tech Team"
 ---
 How Peptides of China compares as a **china peptide** sourcing alternative.
 

@@ -7,6 +7,7 @@ status: "In Stock"
 description: "GHK-Cu 50 mg + KPV 10 mg research blend, 60 mg total per vial. Two-component mix for extracellular matrix and inflammatory signalling studies."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 This vial contains two research peptides in a fixed 5:1 mass ratio: 50 mg of GHK-Cu and 10 mg of KPV, for 60 mg of total powder. The combination is not a single molecule with a single certificate. It is a formulation, and the analytical question is whether both components are present at the stated amounts and mixed evenly. This page explains what the ratio means in molar terms, what a blend certificate must show, and why a single HPLC purity figure cannot describe this product.
 

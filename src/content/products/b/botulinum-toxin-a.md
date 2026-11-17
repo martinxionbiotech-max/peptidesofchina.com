@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Purified botulinum neurotoxin type A complex for laboratory research. Potency units, complexing proteins and batch documentation explained."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Botulinum neurotoxin type A is a 150 kDa protein made of a heavy chain and a light chain linked by a single disulfide. The light chain is a zinc protease that cleaves SNAP-25, one of the three SNARE proteins that assemble the fusion machinery for synaptic vesicles. That single proteolytic event is the whole mechanism, and it explains both why the molecule is studied and why it is handled under containment. This catalogue entry supplies the purified type A complex as a research reagent, in 100-unit vials, and nothing on this page describes a clinical, cosmetic, or administration use.
 

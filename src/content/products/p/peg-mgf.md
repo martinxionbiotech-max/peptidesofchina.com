@@ -7,6 +7,7 @@ status: "In Stock"
 description: "PEGylated mechano growth factor E-domain peptide for laboratory research. PEG analytics and batch documentation for buyers."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 PEG-MGF is the polyethylene-glycol conjugate of mechano growth factor, the IGF-1 splice variant also called IGF-1Ec. The catalogue sells it as a 2 mg lyophilized vial in a 10-vial pack, which is a smaller fill than most peptides here for a simple reason: the conjugate is bulky, and a 2 mg fill of a PEGylated peptide can contain less peptide mass than a 2 mg fill of the parent. The label weight is not the peptide weight. That is the first thing to establish before calculating anything.
 

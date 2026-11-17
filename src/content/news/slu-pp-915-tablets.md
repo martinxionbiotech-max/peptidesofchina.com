@@ -8,6 +8,7 @@ description: "Peptides of China has expanded its public catalog to more than 140
 
 
 
+author: "POC Tech Team"
 ---
 Peptides of China — our platform for **china peptides** sourcing — publishes short updates like this one whenever something material changes: catalog additions, quality-process notes, and sourcing announcements. The substance of this update is below.
 

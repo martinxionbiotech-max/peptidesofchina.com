@@ -7,6 +7,7 @@ status: "In Stock"
 description: "N-acetylated, C-amidated Semax analog for peptide-stability and cell-signalling research; ≥98% purity, 30 mg vials."
 image: "/images/products/semax-bottle.webp"
 
+author: "POC Tech Team"
 ---
 NA Semax amidate is a modified heptapeptide: the Semax sequence Met-Glu-His-Phe-Pro-Gly-Pro with an acetyl group on the N-terminus and an amide on the C-terminus. This listing supplies 30 mg lyophilized vials, ten per pack, at a catalog purity of ≥98%. The two modifications are the whole point of the product, and they are also the two things a certificate most often fails to prove.
 

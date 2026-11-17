@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Khavinson-series tetrapeptide (Lys-Glu-Asp-Ala) for chromatin and cell-signalling research; ≥98% purity, 20 mg vials."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Livagen is a four-amino-acid peptide — lysine, glutamic acid, aspartic acid, alanine — sold here as a lyophilized research powder in 20 mg vials. It belongs to the Khavinson tetrapeptide family, a group of short sequences that Russian and Baltic research groups have studied for decades under the broad label of peptide bioregulators. The sequence is short enough to synthesise cheaply and analytically difficult enough to be sold badly, which is the central tension of this page. The material is supplied for laboratory research only and is not for human or veterinary use.
 

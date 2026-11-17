@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Human menopausal gonadotropin, a urinary FSH/LH preparation standardised in IU. Purity, ratio consistency and handling for research labs."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 HMG is not a peptide and not a single molecule. It is a urinary extract containing two glycoprotein hormones, follicle-stimulating hormone and luteinising hormone, standardised so that each vial carries a stated number of international units of each activity. That description alone explains most of the sourcing difficulty: the product is defined by a biological assay, not by a chemical formula, and two vials that both say "75 IU" can differ in ratio, isoform composition and residual urinary protein.
 

@@ -7,6 +7,7 @@ description: "Step-by-step guide on how to properly reconstitute BPC-157 using b
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines how to reconstitute bpc 157 from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

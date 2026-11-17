@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Selank heptapeptide for laboratory research. Sequence, C-terminal amide, counterion and batch documentation explained for buyers."
 image: "/images/products/selank-bottle.webp"
 
+author: "POC Tech Team"
 ---
 Selank is a seven-residue tuftsin analogue supplied as a lyophilized powder for laboratory work. Its sequence, Thr-Lys-Pro-Arg-Pro-Gly-Pro-NH₂, ends in a C-terminal amide, and that single modification is one of the first things a batch record should prove. The compound has a substantial Russian-language pharmacology literature and a much smaller English-language one, which makes source quality unusually visible: a supplier either knows the amidation state and the counterion or is repeating a catalogue entry. This page covers the research context, the analytical package, and the handling details that affect assay-to-assay consistency.
 

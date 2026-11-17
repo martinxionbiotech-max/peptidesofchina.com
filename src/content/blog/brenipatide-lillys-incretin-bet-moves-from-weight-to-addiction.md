@@ -7,6 +7,7 @@ description: "Brenipatide is Lilly’s dual GIP/GLP-1 agonist in major addiction
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines brenipatide lillys incretin bet moves from weight to addiction from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

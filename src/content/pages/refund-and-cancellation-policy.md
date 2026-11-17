@@ -2,6 +2,7 @@
 title: "Refund And Cancellation Policy"
 slug: "refund-and-cancellation-policy"
 description: "Cancellation rules, invoice adjustments, approved refunds, and supplier-side resolution for Peptides of China orders — no deposit required."
+author: "POC Tech Team"
 ---
 
 Refund and cancellation terms for **china peptide** orders.

@@ -2,6 +2,7 @@
 title: "Third-Party COAs: Why We Don't Provide Them"
 slug: "why-we-do-not-provide-third-party-coas-and-what-that-actually-means"
 description: "A seller-commissioned COA is not independent verification. What a certificate can prove, where custody breaks, and how buyers should test."
+author: "POC Tech Team"
 ---
 A third-party certificate of analysis is evidence about a sample, not a guarantee about the vial in your hand. The distinction matters because the peptide market has learned to treat a laboratory PDF as a quality credential, when the document only certifies what the laboratory received and tested. If the sample was chosen by the seller and the chain of custody is undocumented, the certificate cannot tell you whether the material you bought came from the same batch.
 

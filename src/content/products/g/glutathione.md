@@ -6,6 +6,7 @@ price: 98.0
 status: "In Stock"
 description: "Reduced glutathione (GSH), 1,500 mg vials for in vitro redox research, with HPLC purity and GSH/GSSG documentation from the manufacturer."
 image: "/images/products/generic-vial.png"
+author: "POC Tech Team"
 ---
 Glutathione is a tripeptide, but not in the way most peptides in this catalogue are. The bond between glutamate and cysteine is a γ-linkage, formed through the side-chain carboxyl of glutamate rather than the α-carboxyl. That single structural detail changes how the molecule is synthesised, how it is sequenced, and why standard peptide analytics often mis describe it.
 

@@ -2,6 +2,7 @@
 title: "Peptide Synthesis: Methods, Steps, and Buyer Checks"
 slug: "peptide-synthesis-explained-methods-and-process-guide"
 description: "How SPPS, solution-phase, and recombinant routes differ, which process steps create the impurities on a COA, and the questions that separate facilities."
+author: "POC Tech Team"
 ---
 **Nearly every research peptide on the market is made by solid-phase synthesis, and the process itself explains most of what appears on the certificate of analysis.** A 20-residue chain built one amino acid at a time accumulates truncated sequences, deleted residues, and chemically modified side products. The purification step removes most of them. What remains, and how much remains, depends on choices made at the resin, the coupling step, and the cleavage cocktail.
 

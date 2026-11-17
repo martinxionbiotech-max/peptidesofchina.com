@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Adipotide is a bifunctional prohibitin-targeting proapoptotic peptide for adipose vascular research. Sequence, purity and batch records explained."
 image: "/images/products/adipotide-bottle.webp"
 
+author: "POC Tech Team"
 ---
 Adipotide is a compound with an unusually direct design story: find a peptide that homes to the blood vessels feeding white fat, attach a sequence that kills the cells it lands on, and watch what happens to the tissue. The first half of that story is well documented. The second half is where the research gets difficult, because a peptide that destroys adipose vasculature is not a subtle tool, and the published animal work shows both the intended effect and a clear off-target signal.
 

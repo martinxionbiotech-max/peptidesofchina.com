@@ -2,6 +2,7 @@
 title: "Sequence Confirmation for Peptides: Methods and Evidence"
 slug: "what-is-sequence-confirmation-clinical-peptides"
 description: "What sequence confirmation proves, how MS/MS, Edman degradation, and amino acid analysis differ, and the acceptance criteria a report should state."
+author: "POC Tech Team"
 ---
 **Sequence confirmation answers one question that purity and intact mass cannot: is the amino acid order what the label says?** A peptide can be 99% pure by HPLC area and still be the wrong sequence. It can show the correct intact mass and still carry a substitution that happens to be isobaric, or a deletion balanced by an unexpected modification. Only a method that reads the chain residue by residue closes that gap.
 

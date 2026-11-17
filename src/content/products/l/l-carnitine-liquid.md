@@ -7,6 +7,7 @@ status: "In Stock"
 description: "L-Carnitine liquid research material at 500 mg/mL. Solution stability, assay method and batch documentation for laboratory buyers."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 L-Carnitine liquid is the same zwitterionic compound sold in the powder listing, supplied as a 500 mg/mL solution in 10 mL vials. The format exists for laboratories that pipette rather than weigh: a solution can be transferred volumetrically, it generates no dust, and it dissolves instantly into medium. The price of that convenience is a different set of analytical questions.
 

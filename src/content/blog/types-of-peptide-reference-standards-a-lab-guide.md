@@ -2,6 +2,7 @@
 title: "Peptide Reference Standards: Types, Traceability, and Assay Fit"
 slug: "types-of-peptide-reference-standards-a-lab-guide"
 description: "How peptide reference standards differ from high-purity lots: primary, secondary, and working standards, value assignment, isotope-labeled peptides, uncertainty, and storage."
+author: "POC Tech Team"
 ---
 
 A peptide reference standard is a material with an assigned property value and a documented uncertainty, used to calibrate an instrument, validate a method, or quantify an unknown. It is not simply a high-purity lot. A 99% peptide with no assigned value can be an excellent research reagent and still be useless as a standard, because the laboratory has no way to know what the 99% refers to or how far the true value sits from the label.

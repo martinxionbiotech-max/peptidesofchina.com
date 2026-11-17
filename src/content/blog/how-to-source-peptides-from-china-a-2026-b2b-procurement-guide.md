@@ -2,6 +2,7 @@
 title: "Sourcing Peptides From China: A 2026 B2B Procurement Guide"
 slug: "how-to-source-peptides-from-china-a-2026-b2b-procurement-guide"
 description: "Research peptide procurement from China: define the material, map the supplier, fix acceptance tests and Incoterms, and reconcile batch documents at receipt."
+author: "POC Tech Team"
 ---
 Source peptides from China by running the purchase as a documented material transfer, not a price comparison. Define the sequence, salt form, presentation, and test methods; establish which legal entity makes and releases the batch; agree acceptance criteria and the document pack before payment; and fix the Incoterm, HS classification, and import route before dispatch. A quotation becomes a sourcing decision only when the batch record, the analytical evidence, and the landed cost describe the same material.
 

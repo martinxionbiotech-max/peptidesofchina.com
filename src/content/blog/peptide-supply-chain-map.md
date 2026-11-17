@@ -2,6 +2,7 @@
 title: "Peptide Supply Chain Map: From Raw Material to Buyer"
 slug: "peptide-supply-chain-map"
 description: "A node-by-node map of the peptide supply chain: raw materials, synthesis, purification, testing, lyophilisation, resellers, and where quality risk concentrates."
+author: "POC Tech Team"
 ---
 **The peptide supply chain is ten nodes long, and the buyer usually sees two of them.** A vial arrives with a label, a certificate, and a price. Behind that vial sit protected amino acid manufacturers, resin suppliers, a synthesis facility, a purification suite, a testing laboratory, a lyophiliser, a filling line, and one to four commercial intermediaries.
 

@@ -2,6 +2,7 @@
 title: "Peptide Handling & Research Protocols: Reconstitution, Storage and Stability"
 slug: "peptide-handling-protocols"
 description: "Lab handling of lyophilized research peptides: reconstitution, concentration math, storage, freeze-thaw, adsorption, solubility and stability."
+author: "POC Tech Team"
 ---
 
 This page covers bench handling only. The materials are research-use-only compounds, and nothing here is a clinical protocol, medical guidance, or veterinary instruction. The aim is narrower: how a laboratory takes a lyophilized peptide from receipt to a measured, documented working solution without adding avoidable variability.

@@ -7,6 +7,7 @@ status: "In Stock"
 description: "BPC-157 10 mg plus TB-500 Fragment 10 mg per vial. Fragment identity, mass ratio and batch documentation for laboratory research."
 image: "/images/products/bpc-157-bottle.webp"
 
+author: "POC Tech Team"
 ---
 This product combines 10 mg BPC-157 with 10 mg TB-500 Fragment in a single lyophilized vial, supplied in 10-vial packs. The fragment is the short actin-binding region of Thymosin Beta-4, not the full 43-residue protein. That distinction changes both the research question and the analytical record: a fragment has a different mass, a different impurity profile, and a different molar ratio in a 1:1 mass blend. This page explains what the fragment is, how to verify it, and why the ratio on the label deserves a second look before a study is designed around it.
 

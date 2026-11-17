@@ -2,6 +2,7 @@
 title: "Verified Peptide Synthesis Facility: 2026 Audit Guide"
 slug: "verified-peptide-synthesis-facility-a-b2b-guide-to-sourcing-and-verification"
 description: "Verify a peptide synthesis facility with site evidence, GMP scope, equipment checks, batch-record traceability, analytical release data and a scored audit."
+author: "POC Tech Team"
 ---
 A verified peptide synthesis facility is one where you can connect four things without gaps: a legal entity, a physical production site, a batch record for the lot you bought, and an analytical release performed by a named laboratory. If any link is missing, the facility is not verified. It may still be real, and it may still produce good material, but you have not verified it.
 

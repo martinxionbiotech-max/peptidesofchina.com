@@ -7,6 +7,7 @@ status: "In Stock"
 description: "CJC-1295 with DAC, an albumin-binding GHRH analogue for sustained-exposure research. 2 mg and 5 mg vials, ≥98% HPLC purity, batch tested."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 CJC-1295 with DAC is a GHRH analogue carrying a maleimidopropionyl group that binds serum albumin covalently. That single modification changes the compound from a short pulse into a long-residence tool: instead of clearing in half an hour, it remains available for days in research models. This listing supplies 2 mg and 5 mg vials at a ≥98% HPLC specification, with identity confirmed by mass spectrometry. The chemistry that makes the molecule useful also makes it fragile in specific ways, and most of this page is about those ways: maleimide hydrolysis, thiol reactivity, and what a batch record has to show before the long-residence claim is credible.
 

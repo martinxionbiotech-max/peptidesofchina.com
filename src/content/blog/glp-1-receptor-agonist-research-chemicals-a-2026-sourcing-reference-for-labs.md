@@ -7,6 +7,7 @@ description: "Sourcing GLP-1 receptor agonist research chemicals? This 2026 guid
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines glp 1 receptor agonist research chemicals a 2026 sourcing reference for labs from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

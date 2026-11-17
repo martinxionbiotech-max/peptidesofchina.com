@@ -2,6 +2,7 @@
 title: "COA-Verified Peptides Suppliers: How to Authenticate Research Purity in 2026"
 slug: "coa-verified-peptides-supplier-how-to-authenticate-research-purity-in-2026"
 description: "A buyer-side authentication protocol for peptide COAs: batch linkage, method and instrument details, integration arithmetic, water and counterion results, analyst sign-off, raw data access, and the evidence to demand before ordering."
+author: "POC Tech Team"
 ---
 A COA-verified peptide supplier is one that can tie a specific certificate to a specific lot, name the method and instrument behind every reported number, produce the raw chromatogram and mass spectrum on request, and identify the analyst who signed the record. Everything else — the letterhead, the "99% pure" badge, the QR code — is packaging. Authentication is the buyer's job, and it takes about thirty minutes per lot once the checks are in a fixed order.
 

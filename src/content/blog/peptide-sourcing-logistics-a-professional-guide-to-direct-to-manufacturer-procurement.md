@@ -2,6 +2,7 @@
 title: "Peptide Sourcing Logistics: A Direct-to-Manufacturer Procurement Guide"
 slug: "peptide-sourcing-logistics-a-professional-guide-to-direct-to-manufacturer-procurement"
 description: "Shipping modes, temperature bands, Incoterms, consolidation, insurance, broker handoff, and delivery acceptance for B2B research peptide orders."
+author: "POC Tech Team"
 ---
 
 A direct-to-manufacturer peptide order is settled by six decisions taken before the carton is sealed: shipping mode, temperature band, Incoterm and named place, consolidation point, insurance cover, and the document set handed to the broker. The carrier executes those decisions. It does not repair them.

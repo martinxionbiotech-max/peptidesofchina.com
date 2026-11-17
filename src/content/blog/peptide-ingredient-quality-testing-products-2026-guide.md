@@ -2,6 +2,7 @@
 title: "Peptide Ingredient Quality Testing: A 2026 Panel Guide"
 slug: "peptide-ingredient-quality-testing-products-2026-guide"
 description: "How to build a peptide ingredient testing panel: sampling, HPLC and LC-MS, net content, endotoxin, sterility, stability, and the laboratory evidence to request."
+author: "POC Tech Team"
 ---
 Peptide ingredient quality testing is a panel, not a product. The minimum credible panel covers identity, purity, water, counterion, net peptide content, and endotoxin, with sterility added when the material is intended for cell culture or a sterile process. Each test uses a different method and produces a different kind of number, so the buyer's job is to match the panel to the research use rather than to collect the longest certificate.
 

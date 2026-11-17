@@ -29,6 +29,7 @@ const isActive = (href: string) => (href === '/' ? path === '/' : path === href 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     <meta name="description" content={metaDescription} />
+    <meta name="author" content="POC Tech Team" />
     {noindex && <meta name="robots" content="noindex, follow" />}
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />

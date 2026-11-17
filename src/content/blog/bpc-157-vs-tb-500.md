@@ -7,6 +7,7 @@ description: "Comparison of BPC-157 and TB-500 for tissue repair research. Mecha
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines bpc 157 vs tb 500 from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

@@ -2,6 +2,7 @@
 title: "Terms And Conditions"
 slug: "terms-and-conditions"
 description: "Terms governing use of Peptides of China and its request-based B2B sourcing process for research products: eligibility, orders, payment, shipping, liability, and governing law."
+author: "POC Tech Team"
 ---
 
 The terms governing use of our platform and **china peptide** sourcing services.

@@ -11,13 +11,26 @@ const { item } = Astro.props;
 const { Content } = await render(item);
 const full = `${item.data.title} | Peptides of China`;
 const seoTitle = full.length <= 60 ? full : (item.data.title.length <= 60 ? item.data.title : item.data.title.slice(0, 57).trimEnd() + '…');
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: item.data.title,
+  description: item.data.description || item.data.title,
+  author: {
+    '@type': 'Organization',
+    name: 'POC Tech Team',
+    url: 'https://peptidesofchina.com/author/poc-tech-team/',
+  },
+};
 ---
 <BaseLayout title={seoTitle} description={item.data.description}>
+  <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
   <p class="crumbs"><a href="/news/">News</a> ›</p>
   <div class="article-shell">
     <header class="article-header">
       <h1>{item.data.title}</h1>
       {item.data.description && <p class="lede">{item.data.description}</p>}
+      <p class="muted">By <a href="/author/poc-tech-team/">POC Tech Team</a></p>
     </header>
     <article>
       <Content />

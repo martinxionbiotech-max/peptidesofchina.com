@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Retatrutide research peptide, 5–40 mg lyophilized vials, ≥98% HPLC specification, factory-coordinated sourcing with lot-linked identity and purity records."
 image: "/images/products/retatrutide-bottle.webp"
 
+author: "POC Tech Team"
 ---
 Retatrutide is an investigational triple agonist that acts at the GIP, GLP-1 and glucagon receptors. It is offered here as a lyophilized powder in vials from 5 mg to 40 mg, with a ≥98% HPLC specification, for laboratory research only. No regulatory authority has approved it, no pharmacopoeial monograph defines it, and there is no finished product to compare a vial against. That absence shapes everything about how this compound should be bought, documented and handled, and it is the main subject of this page.
 

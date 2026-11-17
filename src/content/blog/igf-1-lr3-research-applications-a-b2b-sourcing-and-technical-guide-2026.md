@@ -6,6 +6,7 @@ description: "A 2026 technical guide to IGF-1 LR3 research applications. Learn t
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines igf 1 lr3 research applications a b2b sourcing and technical guide 2026 from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

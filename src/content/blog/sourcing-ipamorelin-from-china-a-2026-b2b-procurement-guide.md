@@ -2,6 +2,7 @@
 title: "Sourcing Ipamorelin From China: 2026 B2B Guide"
 slug: "sourcing-ipamorelin-from-china-a-2026-b2b-procurement-guide"
 description: "Source ipamorelin from China with a verifiable chain: facility checks, HPLC and MS acceptance limits, salt-form math, MOQ pricing and a 30-day qualification protocol."
+author: "POC Tech Team"
 ---
 Sourcing ipamorelin from China comes down to four documents and one calculation: a batch-linked certificate of analysis, a mass spectrum that matches the theoretical mass, a chromatogram with an integrable impurity profile, and a net-peptide-content figure that lets you compare price per milligram of peptide rather than price per vial. If a supplier cannot produce those four items for the exact lot being shipped, the quote is not comparable to a qualified one, whatever the headline price says.
 

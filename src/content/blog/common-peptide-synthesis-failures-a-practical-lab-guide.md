@@ -2,6 +2,7 @@
 title: "Common Peptide Synthesis Failures: A Buyer's Lab Guide"
 slug: "common-peptide-synthesis-failures-a-practical-lab-guide"
 description: "Where peptide synthesis fails: incomplete coupling, aspartimide, racemisation, oxidation, and how each impurity shows up in HPLC and mass spectra."
+author: "POC Tech Team"
 ---
 **Peptide synthesis rarely fails in one step. It fails by accumulation.** Thirty coupling cycles at 98% efficiency each still leave a crude product where roughly half the material is not the full-length target. The vial can look normal, dissolve cleanly, and pass a casual purity check while carrying deletion sequences, diastereomers, and oxidized species that matter to a sensitive assay.
 

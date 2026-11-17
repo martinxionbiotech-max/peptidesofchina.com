@@ -2,6 +2,7 @@
 title: "How to Choose a High-Purity Peptide Supplier"
 slug: "how-to-choose-a-high-purity-peptide-supplier"
 description: "A buyer's screen for high-purity peptide suppliers: lot-linked COAs, HPLC and LC-MS evidence, net peptide content, endotoxin data, and checkable facility claims."
+author: "POC Tech Team"
 ---
 A high-purity peptide supplier is one whose purity number can be traced to a specific lot, a named analytical method, and a chromatogram you are allowed to inspect. The headline percentage is the least useful part of the offer. Identity, net peptide content, counterion load, water content, and endotoxin are separate measurements, and a supplier that can discuss them separately is usually the one worth onboarding.
 

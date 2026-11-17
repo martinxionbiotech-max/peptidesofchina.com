@@ -6,6 +6,7 @@ description: "A B2B sourcing analysis of thymosin alpha-1 vs tb-500. We detail s
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines thymosin alpha 1 vs tb 500 a b2b sourcing comparison for research labs from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

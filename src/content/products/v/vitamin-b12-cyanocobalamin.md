@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Cyanocobalamin as an analytical reference standard: identity, photostability and what a vitamin label does not tell a lab."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Cyanocobalamin is not a peptide, and treating it like one is the first mistake a laboratory can make with this catalogue item. It is an organometallic cobalamin with a cobalt centre, a corrin ring, and a cyano ligand, and it is supplied here as a 10 mg vial at a price that reflects its status as a bulk fermentation product rather than a custom synthesis. The chemistry is well characterised, the analytical methods are mature, and the sourcing risk is almost entirely about grade and documentation rather than molecular complexity.
 

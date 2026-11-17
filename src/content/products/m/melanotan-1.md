@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Melanotan-1 (afamelanotide) 13-mer for melanocortin research. D-Phe chirality, amidation and batch documentation explained."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Melanotan-1 is a linear 13-residue analogue of α-melanocyte-stimulating hormone, supplied as a lyophilized powder for laboratory research. Its sequence carries two non-natural features: norleucine at position 4 and D-phenylalanine at position 7. The D-amino acid is the analytical issue that separates a documented batch from a catalogue entry, because standard amino acid analysis cannot distinguish it from the natural L-form. This page explains the MC1R research context, the records a batch should carry, and the light-protection routine the molecule requires.
 

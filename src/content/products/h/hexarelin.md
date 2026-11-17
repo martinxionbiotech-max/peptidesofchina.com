@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Hexarelin, a synthetic hexapeptide GHS-R1a agonist also studied for CD36-mediated cardiac effects. Identity, batch records and handling."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Hexarelin is a six-residue synthetic peptide with an unusual amino acid at position two and a second receptor story that has kept it in the literature long after most early growth-hormone secretagogues faded from view. It is small, cheap to synthesise in principle, and awkward to make well in practice: the 2-methyltryptophan residue and the C-terminal amide are both places where a careless synthesis produces a peptide that looks right on a certificate and behaves differently in an assay.
 

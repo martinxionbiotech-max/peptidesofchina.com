@@ -2,6 +2,7 @@
 title: "Semaglutide Stability Testing Protocols: 2026 Lab Guide"
 slug: "semaglutide-stability-testing-protocols-a-2026-reference-for-research-labs"
 description: "A laboratory protocol for semaglutide stability testing: forced degradation, HPLC and LC-MS methods, ICH storage conditions, sample handling and acceptance limits."
+author: "POC Tech Team"
 ---
 Semaglutide stability testing starts with a method that can separate the intact molecule from its degradation products, then applies a defined storage condition and a defined time point. A purity result without a method, a condition, and a time point is not a stability result. It is a single measurement of unknown significance.
 

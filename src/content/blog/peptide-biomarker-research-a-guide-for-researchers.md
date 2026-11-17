@@ -7,6 +7,7 @@ description: "Discover what peptide biomarker research is and how it offers grou
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines peptide biomarker research a guide for researchers from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

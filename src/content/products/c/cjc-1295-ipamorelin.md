@@ -7,6 +7,7 @@ status: "In Stock"
 description: "CJC-1295 without DAC plus ipamorelin, pre-combined for GHRH/GHSR-1a research. 5+5 mg and 10+10 mg vials, ≥98% HPLC purity."
 image: "/images/products/cjc-1295-ipamorelin-stack-bottle.webp"
 
+author: "POC Tech Team"
 ---
 CJC-1295 + Ipamorelin is a two-component research blend: Mod GRF 1-29 supplies GHRHR activation, and ipamorelin supplies GHSR-1a activation. The pair is studied together because the two receptors use separate second-messenger pathways that converge on the same secretory machinery, and co-administration produces a larger GH response than either component alone in rodent models. This listing covers pre-combined vials at 5 + 5 mg and 10 + 10 mg, with a ≥98% HPLC specification. The analytical question for a blend is different from the question for a single peptide, and most of this page is about that difference.
 

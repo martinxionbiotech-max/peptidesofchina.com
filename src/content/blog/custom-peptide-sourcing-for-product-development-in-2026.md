@@ -2,6 +2,7 @@
 title: "Custom Peptide Sourcing for Product Development in 2026"
 slug: "custom-peptide-sourcing-for-product-development-in-2026"
 description: "How to specify a custom peptide: sequence review, purity tiers, release panel, scale-up milestones, and the terms worth fixing before a deposit."
+author: "POC Tech Team"
 ---
 **Custom peptide sourcing succeeds or fails on the specification, not the price list.** A sequence pasted into an email is not an order. It becomes an order when length, modifications, counterion, fill format, purity method, and release tests are written down in a form both sides can inspect. Suppliers quote the ambiguity, and the buyer pays for it later as a re-run, a re-purification, or a batch that cannot be released.
 

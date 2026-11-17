@@ -2,6 +2,7 @@
 title: "TFA Removal from Peptides: Methods and Verification"
 slug: "tfa-removal-peptides"
 description: "How to remove trifluoroacetate from peptides with HCl exchange, ion-exchange chromatography, and lyophilisation, plus 19F-NMR and HPLC-ELSD verification."
+author: "POC Tech Team"
 ---
 **Trifluoroacetate has to be removed before assay work that is sensitive to ionic strength, pH, or counterion identity, and the removal has to be verified rather than assumed.** The baseline method is a controlled exchange against dilute hydrochloric acid, typically 10 mM, repeated until the residual trifluoroacetate falls below the tolerance of the assay. The verification step is what most protocols omit: 19F-NMR, ion chromatography, or HPLC-ELSD, run against a standard, with a numeric result.
 

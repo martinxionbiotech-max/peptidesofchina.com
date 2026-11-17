@@ -7,6 +7,7 @@ description: "Learn the professional protocol for long term storage of BPC-157. 
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines long term storage of bpc 157 a professional laboratory protocol for 2026 from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

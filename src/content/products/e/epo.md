@@ -6,6 +6,7 @@ price: 143.0
 status: "In Stock"
 description: "Erythropoietin (EPO) for preclinical erythropoiesis research, supplied as 3,000 IU vials with identity, potency and purity documentation."
 image: "/images/products/generic-vial.png"
+author: "POC Tech Team"
 ---
 Erythropoietin is the one entry in this catalogue that is not really a peptide in the sense the other pages use. It is a 165-residue glycoprotein, produced in mammalian cells, with four carbohydrate chains and a molecular mass around 30 kDa once glycosylated. A specification written for synthetic peptides — "≥98% by HPLC" — does not describe it adequately, and a buyer who reads it as if it did will miss the two properties that matter most: potency and glycosylation.
 

@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Bremelanotide (PT-141), a cyclic MC3R/MC4R agonist for melanocortin pharmacology research. Lyophilized vials, ≥98% HPLC purity, batch documentation."
 image: "/images/products/pt-141-bottle.webp"
 
+author: "POC Tech Team"
 ---
 PT-141, whose international nonproprietary name is bremelanotide, is a cyclic heptapeptide and melanocortin receptor agonist supplied as a lyophilized powder for laboratory research. It is a metabolite-analogue of Melanotan-2, modified by removal of the C-terminal amide and closure of a lactam bridge between the aspartic acid and lysine side chains. Those two changes alter receptor selectivity and, more importantly for a buyer, they create specific analytical risks: a ring that can hydrolyse, a D-phenylalanine that can epimerise, and an aspartimide pathway that appears at neutral and alkaline pH. This page explains what a batch record should prove and why the cheapest vial is often the least documented.
 

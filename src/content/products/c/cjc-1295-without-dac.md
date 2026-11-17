@@ -7,6 +7,7 @@ status: "In Stock"
 description: "CJC-1295 without DAC (Mod GRF 1-29), a 29-amino-acid GHRHR agonist for GH-axis research. 2, 5 and 10 mg vials, ≥98% HPLC purity."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 CJC-1295 without DAC, also called Mod GRF 1-29, is a 29-amino-acid GHRHR agonist built for short, discrete stimulation rather than sustained exposure. It is the GHRH-side tool in pulse-design studies, usually paired with a GHSR-1a agonist such as ipamorelin. This listing covers 2 mg, 5 mg and 10 mg vials at a ≥98% HPLC specification, with identity by mass spectrometry confirmed per batch. The four substitutions that separate it from native GHRH(1–29) are the reason it lasts roughly half an hour instead of a few minutes, and they are also the first thing to verify in a batch record.
 

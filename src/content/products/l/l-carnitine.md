@@ -7,6 +7,7 @@ status: "In Stock"
 description: "L-Carnitine research powder, CAS 541-15-1. Carnitine shuttle biology, assay methods and batch documentation for laboratory buyers."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 L-Carnitine is not a peptide, but it appears in peptide catalogues for a practical reason: laboratories that order lyophilised vials also order small-molecule reagents, and consolidating suppliers reduces paperwork. The compound is a zwitterionic quaternary ammonium acid, supplied here as a powder in 600 mg vials, and it is one of the few materials in this catalogue whose analytical story is harder than its biology.
 

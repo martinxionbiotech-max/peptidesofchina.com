@@ -7,6 +7,7 @@ description: "Struggling with peptide sourcing? This guide reveals how to use a 
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines peptides production an operational guide to large scale synthesis and sourcing from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

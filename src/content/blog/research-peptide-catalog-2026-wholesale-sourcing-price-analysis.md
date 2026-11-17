@@ -2,6 +2,7 @@
 title: "Peptide Catalog Pricing: A 2026 Cost-per-Milligram Analysis"
 slug: "research-peptide-catalog-2026-wholesale-sourcing-price-analysis"
 description: "Compare 2026 peptide catalog prices on a common unit: landed cost per milligram of peptide content, including purity, salt form, water, MOQ, freight, and duty."
+author: "POC Tech Team"
 ---
 Two 2026 peptide catalogs can list the same compound at the same fill mass and the same purity, and one can be 25% more expensive per milligram of peptide. The difference is not visible on the price line. It sits in content, salt form, water, minimum order quantity, freight terms, and what the supplier has included in the quote.
 

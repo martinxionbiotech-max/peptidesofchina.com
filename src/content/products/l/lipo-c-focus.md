@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Carnitine, ATP and MIC blend in 10 mL ampoules at 425 mg/mL. Analytical and documentation notes for laboratory research."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Lipo-C Focus is the odd one out in the Lipo family. It pairs L-carnitine and the methionine–inositol–choline complex with adenosine triphosphate, and it is supplied at 425 mg/mL in 10 mL ampoules rather than vials. The concentration is roughly double that of the 216 mg/mL blends, and the presence of ATP changes the analytical problem more than the number suggests.
 

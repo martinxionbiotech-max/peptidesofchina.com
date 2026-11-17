@@ -2,6 +2,7 @@
 title: "Peptide Sourcing Myths vs. Procurement Reality in 2026"
 slug: "peptide-sourcing-myths-the-operational-reality-of-research-procurement-in-2026"
 description: "Eight sourcing claims that survive in sales decks but fail in procurement: 99% purity, GMP certificates, guaranteed customs, and interchangeable lots."
+author: "POC Tech Team"
 ---
 Most peptide sourcing myths survive because they contain a true word. Purity is real. Certificates are real. Customs is real. The myth is the inference a buyer makes from each one, and the inference usually costs more than the product.
 

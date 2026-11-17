@@ -2,6 +2,7 @@
 title: "Peptide Supply Chain Management: 2026 Direct Sourcing"
 slug: "peptide-supply-chain-management-2026-direct-sourcing-guide"
 description: "Design a peptide supply chain that survives lead-time shocks: tier mapping, dual sourcing, safety stock, customs documents and QC release milestones."
+author: "POC Tech Team"
 ---
 Peptide supply chain management is the work of keeping qualified material available without holding more inventory than the budget allows. For a research laboratory, that means knowing who actually makes the peptide, how long each stage takes, how much variation exists between lots, and which documents have to be correct before a shipment moves.
 

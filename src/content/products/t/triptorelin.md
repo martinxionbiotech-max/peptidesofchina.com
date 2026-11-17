@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Triptorelin decapeptide research reagent: epimer analysis, batch records and the regulatory line between reagent and medicine."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Triptorelin is a synthetic decapeptide analogue of gonadotropin-releasing hormone, supplied here as a 2 mg lyophilized vial in a ten-vial pack. It is also, in several countries, the active ingredient of a registered prescription medicine. Those two facts sit in the same sentence on purpose. A research catalogue can sell the peptide as a laboratory reagent, but it cannot pretend the regulatory context does not exist, and a buyer who ignores that context is exposed in a way that a purity certificate will never cover.
 

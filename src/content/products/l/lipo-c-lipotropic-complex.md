@@ -7,6 +7,7 @@ status: "In Stock"
 description: "MIC lipotropic blend with B12 and optional carnitine, B2, B1 and B5. Composition and analytical notes for laboratory research."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Lipo-C (Lipotropic Complex) is the product in this family with a variable formula. The declared per-millilitre composition includes L-carnitine 200 mg, L-arginine 20 mg, methionine 25 mg, inositol 50 mg, choline 50 mg, dexpanthenol 25 mg, pyridoxine 25 mg, and cyanocobalamin 1 mg. The profile also lists optional components: L-carnitine, riboflavin, thiamine, and dexpanthenol, depending on the batch.
 

@@ -7,6 +7,7 @@ description: "A B2B guide to sourcing peptides for preclinical research, with pr
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines sourcing peptides for preclinical research b2b guide from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

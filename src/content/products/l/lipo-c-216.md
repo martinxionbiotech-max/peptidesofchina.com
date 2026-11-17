@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Eight-component lipotropic blend with carnitine, arginine, methionine, inositol, choline and B6, B5, B12. Laboratory research material."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Lipo-C 216 is the broadest of the 216 mg/mL blends: eight declared components, one vial, and a composition that reaches into four separate metabolic systems at once. The declared amounts per millilitre are L-carnitine 20 mg, L-arginine 20 mg, methionine 25 mg, inositol 50 mg, choline 50 mg, pyridoxine 25 mg, dexpanthenol 25 mg, and methylcobalamin 1 mg.
 

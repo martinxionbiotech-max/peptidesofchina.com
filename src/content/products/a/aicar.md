@@ -7,6 +7,7 @@ status: "In Stock"
 description: "AICAR (acadesine) is a cell-permeable AMPK activator supplied for metabolic research. Identity, purity and NMR verification explained."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 AICAR has been a laboratory workhorse for three decades, and that longevity is both an advantage and a problem. The advantage is a deep literature: if you want to activate AMPK pharmacologically, there are hundreds of papers describing what happens next. The problem is that the market is full of material that is cheap to make, easy to dilute, and hard to distinguish from the real thing without an NMR spectrum.
 

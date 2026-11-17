@@ -2,6 +2,7 @@
 title: "Sterility Testing for Research Peptides: A USP 71 Protocol Guide"
 slug: "sterility-testing-for-research-peptides-a-protocol-guide"
 description: "How a USP 71 sterility test is run on a research peptide: method choice, sample size, media and incubation, controls, method suitability, and COA review."
+author: "POC Tech Team"
 ---
 
 A sterility test on a research peptide is a growth-based presence/absence assay, and five decisions determine whether the result means anything: membrane filtration or direct inoculation, the number of units sampled, the two media and their incubation temperatures across 14 days, the positive and negative controls run alongside, and whether method suitability has been demonstrated for that peptide matrix. Miss the fifth and a contaminated vial can read as clean.

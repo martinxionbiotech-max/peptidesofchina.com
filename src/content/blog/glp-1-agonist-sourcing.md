@@ -7,6 +7,7 @@ description: "Ensure safe GLP-1 agonist sourcing with this essential procurement
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines glp 1 agonist sourcing from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

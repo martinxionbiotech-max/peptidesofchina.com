@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Retatrutide and cagrilintide supplied as two lyophilized vials in 5 + 5 mg and 10 + 10 mg kits for multi-pathway metabolic research, with lot-linked records."
 image: "/images/products/retatrutide-bottle.webp"
 
+author: "POC Tech Team"
 ---
 Retatrutide + Cagrilintide is a two-vial research kit that pairs a triple incretin agonist with an amylin analogue. The catalog offers 5 + 5 mg and 10 + 10 mg configurations, each with ten vials per kit. No clinical programme has studied this exact pair, so the kit is a hypothesis-generating tool rather than a replication of published work. That changes what the documentation has to prove and how a result should be interpreted, and those two problems are the subject of this page.
 

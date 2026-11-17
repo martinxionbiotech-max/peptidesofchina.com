@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Four-component GABA, melatonin, arginine and glutamine liquid blend for laboratory research. Analytics and batch notes."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Relaxation PM is not a peptide. It is a four-component aqueous blend: GABA at 100 mg/mL, melatonin at 1 mg/mL, L-arginine at 100 mg/mL and L-glutamine at 25 mg/mL, supplied in a 10 mL vial. The catalogue classifies it as a neurotransmitter and neuromodulator combination. That description is more useful than the product name, because the analytical problem here is not peptide identity. It is the simultaneous measurement of four small molecules with different detection chemistries, different stabilities and different solubilities in one liquid matrix.
 

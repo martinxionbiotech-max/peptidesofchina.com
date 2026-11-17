@@ -6,6 +6,7 @@ description: "CJC-1295 and Ipamorelin. Learn how these compounds interact within
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines cjc 1295 ipamorelin from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

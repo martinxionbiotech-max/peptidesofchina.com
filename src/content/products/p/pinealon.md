@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Pinealon (Glu-Asp-Arg) tripeptide bioregulator for laboratory research. Identity, purity and handling notes for research buyers."
 image: "/images/products/pinealon-bottle.webp"
 
+author: "POC Tech Team"
 ---
 Pinealon is a three-residue peptide — Glu-Asp-Arg — sold as a pineal-series bioregulator. It is the smallest product on this shelf and the cheapest, which makes it easy to treat as a commodity. That would be a mistake for one analytical reason: the peptide has no aromatic residue, so it has almost no ultraviolet absorbance beyond the peptide bond. A purity claim at 280 nm is meaningless for this molecule, and a chromatogram run at low wavelength on a conventional C18 column can look worse than the peptide actually is.
 

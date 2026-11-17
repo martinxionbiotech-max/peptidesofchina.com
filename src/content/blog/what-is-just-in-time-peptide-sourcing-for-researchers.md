@@ -7,6 +7,7 @@ description: "Discover what is just in time peptide sourcing and how it enhances
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines what is just in time peptide sourcing for researchers from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

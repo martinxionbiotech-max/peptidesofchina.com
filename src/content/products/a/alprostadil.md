@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Alprostadil (prostaglandin E1) is a research-grade eicosanoid for cAMP and vascular-signalling studies. Identity and stability testing explained."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Alprostadil is not a peptide, and the analytical habits that make a peptide purchase safe do not transfer to it cleanly. It is a prostaglandin — a twenty-carbon lipid-derived signalling molecule — and its weak points are chemical rather than biological. It dehydrates under acid, oxidizes in air, and isomerizes when a solution sits too long at room temperature. A certificate that reports 98% purity on the day of release says little about what is in the vial six months later.
 

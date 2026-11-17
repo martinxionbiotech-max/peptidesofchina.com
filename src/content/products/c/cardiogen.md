@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Cardiogen (Ala-Glu) is a dipeptide bioregulator studied in cardiac gene-expression and cardiomyocyte research. 20 mg vials, ≥98%."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Cardiogen is a dipeptide: alanine followed by glutamic acid, two residues and a free N-terminus. At that size the molecule is barely a peptide. It has no secondary structure to preserve, no disulfide to mispair, and no hydrophobic core to aggregate. What it does have is a specification problem that most peptide buyers have never had to think about, because a two-residue chain sits at the boundary between a peptide and a small organic acid.
 

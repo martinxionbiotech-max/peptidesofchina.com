@@ -6,6 +6,7 @@ description: "Send PYUSD on Solana from eligible PayPal or Venmo accounts, or pa
 
 
 
+author: "POC Tech Team"
 ---
 Payment options for **china peptide** orders, including the methods we accept and why.
 

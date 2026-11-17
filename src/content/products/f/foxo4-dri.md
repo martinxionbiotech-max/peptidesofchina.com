@@ -6,6 +6,7 @@ price: 480.0
 status: "In Stock"
 description: "FOXO4-DRI, a D-retro-inverso 18-residue peptidomimetic for senescence research, supplied lyophilized with HPLC and LC-MS documentation."
 image: "/images/products/generic-vial.png"
+author: "POC Tech Team"
 ---
 FOXO4-DRI is a D-retro-inverso peptide built to interfere with the FOXO4–p53 interaction in senescent cells. It is 18 residues long, carries D-amino acids throughout, and has an approximate mass of 2,448 Da. The catalogue supplies it as a lyophilized powder in 10 mg vials, ten to a pack, with a ≥98% HPLC specification.
 

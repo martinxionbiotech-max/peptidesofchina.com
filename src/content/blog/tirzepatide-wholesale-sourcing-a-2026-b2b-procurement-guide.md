@@ -2,6 +2,7 @@
 title: "Tirzepatide Wholesale Sourcing: 2026 B2B Guide"
 slug: "tirzepatide-wholesale-sourcing-a-2026-b2b-procurement-guide"
 description: "A procurement file for tirzepatide research material: identity data, acceptance limits, batch records, supplier vetting, receipt testing, and landed cost."
+author: "POC Tech Team"
 ---
 Tirzepatide wholesale sourcing is a documentation exercise before it is a purchasing one. The buyer needs to establish three things in order: that the material is the intended 39-residue peptide, that the batch record connects the vial to a defined manufacturing event, and that the commercial terms define what happens when a result misses the specification. A supplier's price list answers none of those questions.
 

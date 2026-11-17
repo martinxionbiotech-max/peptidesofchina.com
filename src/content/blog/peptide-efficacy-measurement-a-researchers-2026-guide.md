@@ -7,6 +7,7 @@ description: "Discover what is peptide efficacy measurement in our 2026 guide. L
 
 
 
+author: "POC Tech Team"
 ---
 This guide examines peptide efficacy measurement a researchers 2026 guide from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 

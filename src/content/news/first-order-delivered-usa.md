@@ -8,6 +8,7 @@ description: "Our first order, placed on April 14, has been successfully deliver
 
 
 
+author: "POC Tech Team"
 ---
 Peptides of China — our platform for **china peptides** sourcing — publishes short updates like this one whenever something material changes: catalog additions, quality-process notes, and sourcing announcements. The substance of this update is below.
 

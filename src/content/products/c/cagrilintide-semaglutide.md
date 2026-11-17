@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Cagrilintide and semaglutide as separate lyophilized vials for dual amylin/GLP-1 receptor research, ≥98% HPLC specification, 5 mg + 5 mg per kit."
 image: "/images/products/cagrilintide-bottle.webp"
 
+author: "POC Tech Team"
 ---
 Cagrilintide + Semaglutide is a two-vial research kit: one vial of cagrilintide, a long-acting amylin analogue, and one vial of semaglutide, a GLP-1 receptor agonist. Each is lyophilized, each carries a ≥98% HPLC specification, and the standard kit pairs 5 mg with 5 mg. Supplying them separately rather than pre-mixed lets a laboratory set its own ratio and characterise each component before combining them. Nothing here is a finished combination product, and nothing is intended for human use.
 

@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Semaglutide research peptide in 10 mg and 20 mg lyophilized vials, ≥98% HPLC specification, factory-coordinated sourcing from China with batch-level paperwork."
 image: "/images/products/semaglutide-bottle.webp"
 
+author: "POC Tech Team"
 ---
 Semaglutide is a 31-residue GLP-1 receptor agonist supplied here as lyophilized powder for laboratory work, most often in 10 mg and 20 mg vials. This listing exists for one kind of buyer: a lab or reseller that needs a stated purity specification, a traceable batch and a supplier who can answer questions about how the molecule was made. It is not a finished medicine, not a pen device, and not a product for human use. What follows is the technical case for the compound, the paperwork worth requesting before payment, and the handling notes that matter once the vial is open.
 

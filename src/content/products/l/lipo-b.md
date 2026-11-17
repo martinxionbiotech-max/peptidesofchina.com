@@ -7,6 +7,7 @@ status: "In Stock"
 description: "Lipotropic blend with L-carnitine, arginine, methionine, inositol, choline and B vitamins. Analytical notes for laboratory research."
 image: "/images/products/generic-vial.png"
 
+author: "POC Tech Team"
 ---
 Lipo-B is an eight-component aqueous blend supplied at 216 mg/mL in 10 mL vials. The declared components are L-carnitine, L-arginine, methionine, inositol, choline, and vitamins B5, B6, and B12. It belongs to the same family as the Lipo-C products in this catalogue, and the family resemblance is the first thing a buyer has to work through: several listings share a total concentration and a similar component list, and only the quantitative table separates them.
 
