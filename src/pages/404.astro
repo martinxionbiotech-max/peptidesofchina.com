@@ -1,0 +1,23 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Page not found — Peptides of China"
+  description="The page you requested does not exist. Browse the peptide catalog, research blog or contact the team."
+  noindex
+>
+  <div class="wrap">
+    <p class="crumb"><a href="/">Home</a> › Page not found</p>
+    <h1>Page not found</h1>
+    <p class="lede">
+      The URL may be mistyped, or the page may have moved. Use the catalog to find a compound, the
+      blog for sourcing and quality guidance, or contact the team with the product you need.
+    </p>
+    <div class="grid">
+      <a class="card" href="/catalog/"><strong>Peptide catalog</strong><span>Browse compounds and pack sizes.</span></a>
+      <a class="card" href="/blog/"><strong>Research blog</strong><span>Sourcing, COA and quality guides.</span></a>
+      <a class="card" href="/contact/"><strong>Contact</strong><span>Ask about a product or document.</span></a>
+    </div>
+  </div>
+</BaseLayout>

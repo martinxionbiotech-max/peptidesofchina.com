@@ -2,8 +2,13 @@
 interface Props {
   title: string;
   description?: string;
+  noindex?: boolean;
 }
-const { title, description } = Astro.props;
+const { title, description, noindex = false } = Astro.props;
+const metaDescription = (() => {
+  const text = description || title;
+  return text.length > 160 ? `${text.slice(0, 157).trimEnd()}…` : text;
+})();
 const path = Astro.url.pathname;
 const nav = [
   { href: '/catalog/', label: 'Catalog' },
@@ -23,7 +28,8 @@ const isActive = (href: string) => (href === '/' ? path === '/' : path === href 
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
-    <meta name="description" content={description || title} />
+    <meta name="description" content={metaDescription} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
