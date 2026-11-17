@@ -33,7 +33,7 @@ const structuredData = [
     <header class="article-header">
       <h1>{post.data.title}</h1>
       {post.data.description && <p class="lede">{post.data.description}</p>}
-      <p class="muted">By <a href="/author/poc-tech-team/">POC Tech Team</a></p>
+      <p class="muted">By <a href="/author/poc-tech-team/">POC Tech Team</a>{post.data.updated && <> · Updated {post.data.updated}</>}</p>
     </header>
     <article>
       <Content />

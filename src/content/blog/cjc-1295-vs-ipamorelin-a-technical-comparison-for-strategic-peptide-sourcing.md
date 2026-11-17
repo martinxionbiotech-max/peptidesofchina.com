@@ -7,6 +7,7 @@ description: "A technical guide to CJC-1295 vs Ipamorelin for B2B sourcing. Lear
 
 
 author: "POC Tech Team"
+updated: "2026-11-17"
 ---
 This guide examines cjc 1295 vs ipamorelin a technical comparison for strategic peptide sourcing from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
@@ -145,6 +146,21 @@ The minimum order requirement for professional-grade procurement through Peptide
 ### Is it safer to source peptides from a domestic reseller or a direct manufacturer?
 
 Direct manufacturer access is generally safer for professional labs because it improves traceability and reduces the risk of batch substitution. Domestic resellers often introduce supply chain opacity by relabeling vials and reusing old analytical reports for different batches. While direct sourcing involves international logistics, it eliminates the mark-ups and documentation risks associated with multiple intermediary layers, providing a more reliable chain of custody.
+
+## The Author's Take
+
+**Position.** CJC-1295 and ipamorelin should be sourced as two separately documented peptides, even when a study uses them together.
+
+**Reasoning.** The DAC/no-DAC distinction changes the half-life and the release pattern; ipamorelin's selectivity is a separate property. A combined label does not prove the identity, purity or ratio of either component. Ask for component-level batch data before treating the pair as one procurement unit.
+
+**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is a sourcing judgement, not medical advice.
+
+## Sources
+
+- [CJC-1295 — Wikipedia](https://en.wikipedia.org/wiki/CJC-1295)
+- [CJC-1295 pharmacokinetics — PubMed 9849822](https://pubmed.ncbi.nlm.nih.gov/9849822/)
+- [FDA docket FDA-2019-P-5654-0002](https://www.regulations.gov/document/FDA-2019-P-5654-0002)
+- [PubMed search: CJC-1295 ipamorelin](https://pubmed.ncbi.nlm.nih.gov/?term=CJC-1295+ipamorelin)
 
 ## Related Products
 

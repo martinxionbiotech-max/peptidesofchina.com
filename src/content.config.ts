@@ -28,6 +28,7 @@ const blog = defineCollection({
     slug: z.string(),
     description: z.string().optional(),
     author: z.string().optional(),
+    updated: z.string().optional(),
     keywords: z.array(z.string()).optional(),
   }),
 });
