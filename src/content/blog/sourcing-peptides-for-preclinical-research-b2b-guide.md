@@ -138,4 +138,4 @@ None of these is proof of bad faith. Each is a missing fact, and missing facts b
 8. Begley CG, Ellis LM. Drug development: Raise standards for preclinical cancer research. Nature. 2012;483:531–533. https://doi.org/10.1038/483531a
 9. D'Hondt M, et al. Related impurities in peptide medicines. Journal of Pharmaceutical and Biomedical Analysis. 2014;101:2–30. https://doi.org/10.1016/j.jpba.2014.06.012
 
-For the analytical tests behind these limits, see [peptide quality testing](/peptide-quality-testing/). For lot documentation, see the [peptide documentation package](/blog/peptide-documentation-package/). Current catalog specifications are listed in the [catalog](/catalog/), and ordering terms are on [how it works](/how-it-works/).
+For the analytical tests behind these limits, see [peptide quality testing](/peptide-quality-testing/). For lot documentation, see the [peptide documentation package](/blog/peptide-documentation-package/). Current catalog specifications are listed in the [catalog](/catalog/).

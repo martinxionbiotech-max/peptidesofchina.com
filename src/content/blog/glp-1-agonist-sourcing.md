@@ -28,7 +28,7 @@ The first procurement step is therefore to name the molecule, the sequence, and 
 
 The masses above are approximate and depend on the salt form and the presence of counterions. The exact theoretical mass should come from the sequence and the declared modifications, not from a catalog title. PubChem lists semaglutide at a molecular weight of about 4,114 and tirzepatide at about 4,813; the certificate should state whether the reported value is monoisotopic or average.
 
-The fatty-acid chain is the part that makes these molecules difficult. It increases hydrophobicity, promotes albumin binding, and can produce carryover and adducts in mass spectrometry. A method that works for an unmodified peptide may not resolve the acylated species from its des-acyl impurity. The [HPLC versus LC-MS comparison](/blog/hplc-vs-lc-ms-peptides/) explains why the method choice changes the result.
+The fatty-acid chain is the part that makes these molecules difficult. It increases hydrophobicity, promotes albumin binding, and can produce carryover and adducts in mass spectrometry. A method that works for an unmodified peptide may not resolve the acylated species from its des-acyl impurity, and the choice of HPLC versus LC-MS changes what the method can see.
 
 ## API, finished material, and research-grade lots
 
@@ -38,13 +38,13 @@ An API is an active pharmaceutical ingredient manufactured under a quality syste
 
 Research laboratories usually buy the third type. That does not make the lot inferior, but it changes the evidence package. A research-grade certificate may report purity, identity, water, and counterion without the full batch record, stability data, or impurity identification that an API buyer would expect. The buyer should decide which of those records the study needs before comparing prices.
 
-A supplier that presents research material as a finished drug, or implies that a catalog lot is approved for human use, is making a claim the documents do not support. The [research-grade specification guide](/blog/research-grade-peptides-2026-lab-procurement-guide/) sets out the evidence tiers.
+A supplier that presents research material as a finished drug, or implies that a catalog lot is approved for human use, is making a claim the documents do not support. Research-grade material has a different evidence tier, and the certificate should make that tier explicit.
 
 ## Purity and impurity expectations for a GLP-1 batch
 
 Purity by reverse-phase HPLC is the first number buyers compare, and it is the least standardized. A result of 98% by area at 220 nm means that 98% of the integrated UV signal came from the main peak under that method. It does not mean 98% of the mass is peptide, and it does not identify the impurities that make up the remaining 2%.
 
-For a GLP-1 analogue, the impurities worth asking about are the ones the chemistry predicts: deletion and truncation sequences from incomplete coupling, des-acyl species from incomplete acylation, oxidation products, and isomers from aggregation or rearrangement. The [impurity review](/blog/why-impurities-affect-clinical-study-outcomes/) explains why an unidentified impurity is a variable in a study, not a cosmetic defect.
+For a GLP-1 analogue, the impurities worth asking about are the ones the chemistry predicts: deletion and truncation sequences from incomplete coupling, des-acyl species from incomplete acylation, oxidation products, and isomers from aggregation or rearrangement. An unidentified impurity is a variable in a study, not a cosmetic defect.
 
 A practical buyer specification for research material includes purity of at least 98% by area, individual related substances below a stated limit, total related substances below a stated limit, identity by mass with a tolerance, water content, counterion, and net peptide content. The exact limits are a risk decision. The important part is that they are written down before the lot is quoted.
 
@@ -83,7 +83,7 @@ A certificate that reports “GLP-1 agonist, 99%” without the sequence and the
 
 Lyophilised peptide is more stable than a solution, but it is not indestructible. Heat, moisture, and repeated temperature cycling degrade the material. Shipping conditions should match the storage condition on the certificate, and the shipment should include a temperature indicator or logger for international orders.
 
-For a lyophilised lot, a common storage condition is −20 °C for long-term use, with short-term handling at 2–8 °C. For a reconstituted solution, the storage condition depends on the compound and the buffer, and it should be defined by the laboratory, not assumed from the catalog. The [stability and handling guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers the general sequence.
+For a lyophilised lot, a common storage condition is −20 °C for long-term use, with short-term handling at 2–8 °C. For a reconstituted solution, the storage condition depends on the compound and the buffer, and it should be defined by the laboratory, not assumed from the catalog. The general handling sequence is the same one used for other lyophilised peptides.
 
 Customs and import documentation are a separate risk. The invoice should describe the goods specifically, with the compound name, quantity, and declared value. A line that says “peptide sample” creates a classification and traceability problem. The [customs documentation guide](/blog/research-peptide-customs-clearance-a-professional-b2b-sourcing-guide-2026/) covers the field-level requirements, and the [HS code guide](/blog/hs-code-for-peptides/) explains why classification is molecule-specific.
 
@@ -100,15 +100,15 @@ A first order should be treated as a qualification batch, not as inventory. The 
 7. Calculate peptide mass per vial and price per milligram of peptide.
 8. Record the results in a supplier qualification file before placing a repeat order.
 
-The [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) covers the site-level questions that sit behind this workflow. The [documentation package guide](/blog/peptide-documentation-package/) lists the records to request for a full review.
+The [documentation package guide](/blog/peptide-documentation-package/) lists the records to request for a full review.
 
 ## Commercial terms and MOQ
 
 GLP-1 analogues are longer and more heavily modified than short research peptides, so the synthesis and purification cost per gram is higher, and the minimum order quantity is often set by batch economics rather than by catalog policy. A supplier that quotes a very low price per milligram for a 5 mg vial may be spreading a batch cost across a large number of vials, or may be selling material with a different specification.
 
-Ask for the price at two or three fill masses, the lead time from purchase order to dispatch, and the terms for a failed retest. A quote that does not state the fill mass, content basis, or retest policy is not comparable to one that does. The [bulk ordering guide](/blog/how-to-buy-peptides-in-bulk-a-2026-direct-to-manufacturer-sourcing-protocol/) covers the volume side of the negotiation.
+Ask for the price at two or three fill masses, the lead time from purchase order to dispatch, and the terms for a failed retest. A quote that does not state the fill mass, content basis, or retest policy is not comparable to one that does. Volume pricing usually improves at larger fill masses, but only if the specification stays the same.
 
-For a laboratory that expects repeat orders, a blanket purchase order with a fixed specification and a defined release schedule is often better than a series of one-off orders. The [blanket purchase order guide](/blog/how-blanket-purchase-orders-work-peptides/) explains the mechanics.
+For a laboratory that expects repeat orders, a blanket purchase order with a fixed specification and a defined release schedule is often better than a series of one-off orders. The specification stays fixed while the delivery schedule absorbs demand variation.
 
 ## The Author's Take
 
@@ -130,4 +130,4 @@ For a laboratory that expects repeat orders, a blanket purchase order with a fix
 8. USP &lt;1058&gt;, Analytical Instrument Qualification. https://doi.org/10.31003/uspnf_m1124_10101_01
 9. D'Hondt M, et al. Related impurities in peptide medicines. Journal of Pharmaceutical and Biomedical Analysis. 2014;101:2–30. https://doi.org/10.1016/j.jpba.2014.06.012
 
-For compound-specific procurement notes, see the [semaglutide sourcing guide](/blog/semaglutide-wholesale-supplier-guide-direct-to-manufacturer-sourcing-in-2026/) and the [tirzepatide sourcing guide](/blog/tirzepatide-wholesale-sourcing-a-2026-b2b-procurement-guide/). For the analytical panel, see [peptide quality testing](/peptide-quality-testing/). Catalog listings are in the [catalog](/catalog/), including [semaglutide](/catalog/semaglutide/) and [tirzepatide](/catalog/tirzepatide/).
+For compound-specific procurement notes, see the [semaglutide sourcing guide](/blog/semaglutide-wholesale-supplier-guide-direct-to-manufacturer-sourcing-in-2026/) and the [tirzepatide sourcing guide](/blog/tirzepatide-wholesale-sourcing-a-2026-b2b-procurement-guide/). For the analytical panel, see [peptide quality testing](/peptide-quality-testing/). The [semaglutide catalog listing](/catalog/semaglutide/) shows a current specification.

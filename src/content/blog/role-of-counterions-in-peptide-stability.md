@@ -100,7 +100,7 @@ A counterion-aware certificate has six fields that make the salt form auditable.
 | Net peptide content | Percentage, with the basis stated | Converts fill mass to peptide mass |
 | Residual solvents | Percentage or ppm, if measured | Completes the mass balance and supports handling |
 
-A certificate that says “acetate salt” without a numeric result is a declaration, not a measurement. A certificate that reports a counterion percentage but not the method is a number without a basis. The [COA verification guide](/blog/coa-verified-peptides-wholesale-2026-sourcing-verification-guide/) covers the full document review, and the [research-grade specification guide](/blog/research-grade-peptides-2026-lab-procurement-guide/) shows where these rows fit in a purchase specification.
+A certificate that says “acetate salt” without a numeric result is a declaration, not a measurement. A certificate that reports a counterion percentage but not the method is a number without a basis. The [COA verification guide](/blog/coa-verified-peptides-wholesale-2026-sourcing-verification-guide/) covers the full document review.
 
 ## Stability, storage, and the hygroscopic problem
 

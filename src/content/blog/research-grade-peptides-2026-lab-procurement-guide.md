@@ -135,4 +135,4 @@ A workable first-order sequence is: issue a purchase order that names the specif
 9. USP, Reference Standards to Support Quality of Synthetic Peptide Therapeutics. https://www.usp.org/sites/default/files/usp/document/our-work/biologics/reference_standards_to_support_quality_of_synthetic_peptide_therapeutics.pdf
 10. FDA, Data Integrity and Compliance With Drug CGMP: Questions and Answers (2018). https://www.fda.gov/regulatory-information/search-fda-guidance-documents/data-integrity-and-compliance-drug-cgmp-questions-and-answers
 
-For the release tests behind these rows, see the [peptide quality testing](/peptide-quality-testing/) pillar. For current catalog lots and specifications, use the [catalog](/catalog/); ordering terms are on [how it works](/how-it-works/), and common procurement questions are answered in the [FAQ](/faq/).
+For the release tests behind these rows, see the [peptide quality testing](/peptide-quality-testing/) pillar. For current catalog lots and specifications, use the [catalog](/catalog/).
