@@ -1,194 +1,133 @@
 ---
-title: "Glp 1 Agonist Sourcing"
+title: "GLP-1 Agonist Sourcing: A Procurement Checklist for Labs"
 slug: "glp-1-agonist-sourcing"
-description: "Ensure safe GLP-1 agonist sourcing with this essential procurement checklist, covering analysis certifications and quality standards."
-
-
-
-
-
+description: "GLP-1 agonist sourcing differs by molecule, salt form, and assay. A procurement checklist for documentation, batch testing, and cold-chain handling."
 author: "POC Tech Team"
-updated: "2026-11-17"
+updated: "2026-11-18"
 ---
-This guide examines glp 1 agonist sourcing from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
+GLP-1 agonist sourcing is not a single product category. Semaglutide, tirzepatide, liraglutide, and the newer triple agonists differ in sequence, fatty-acid modification, molecular mass, and analytical behavior. A specification written for one molecule does not transfer to another, and a certificate copied from one product family is a warning sign rather than a convenience.
 
-Require a full certificate of analysis with MS/MS peptide mapping, LC-HRMS raw data, a traceable batch number, and a documented retained-sample policy before accepting any GLP-1 agonist API or finished peptide for research use. A percentage on a label proves nothing on its own. **GLP-1 agonist sourcing** decisions live or die on whether the supplier can produce the underlying data behind that number, referenced against standards like ICH Q3A/Q3B for impurity thresholds.
+This guide is a procurement checklist for research laboratories buying GLP-1 receptor agonist material. It covers the molecule-level differences that change a purchase order, the documentation that should accompany a lot, the content arithmetic that determines price per milligram of peptide, and the cold-chain and verification steps that follow delivery. It does not discuss human dosing, administration, or therapeutic effects.
 
-When a supplier responds to your inquiry, three things happen in the first exchange:
+## The class is not one product
 
-1. Ask for raw chromatograms, not a summary PDF, covering both LC-UV and LC-HRMS runs.
-2. Ask directly what the batch retention policy is and for how long samples are held.
-3. If the vendor cannot produce MS raw data, insist on an independent third-party assay before any funds move.
+The GLP-1 receptor agonist class includes peptides with different lengths, different receptor profiles, and different half-life extension strategies. Semaglutide is a 31-amino-acid analogue with a C18 fatty diacid attached through a linker, designed to bind albumin. Tirzepatide is a 39-amino-acid dual GIP/GLP-1 agonist with a similar albumin-binding strategy. Liraglutide is a 31-amino-acid analogue with a C16 fatty acid. Retatrutide is a 39-amino-acid triple agonist that adds glucagon receptor activity.
 
-A supplier that hesitates on any of these three points has told you something important before you have spent a dollar.
+Those differences are not marketing detail. They change the molecular mass, the hydrophobicity, the purification challenge, and the analytical method. A laboratory that writes one generic “GLP-1 agonist” specification and applies it to all four will mis-specify at least three of them.
 
-## Key Takeaways
+The first procurement step is therefore to name the molecule, the sequence, and the declared salt form. A catalog listing that says “GLP-1” without a compound name is not a specification. A certificate that does not repeat the sequence is not a lot record.
 
-Reproducible GLP-1 agonist research depends on demanding raw MS/MS and LC-HRMS data, batch traceability, and retained samples instead of trusting a headline purity figure.
+## Molecule-by-molecule sourcing differences
 
-| Point | Details |
-| --- | --- |
-| Demand raw data, not summaries | Insist on native HRMS files, MS/MS spectra, and UV chromatograms, not rendered PDFs. |
-| Interpret purity as a range | UV purity and MS purity can diverge sharply; low-abundance impurities need HRMS to surface. |
-| Match verification to supplier model | Resellers need upstream COAs and audit summaries; direct API manufacturers shorten the chain of custody. |
-| Document research-only intent | Keep an affidavit, retained split sample, and a nonconformance clause with every order. |
-| Choose suppliers built for transparency | Peptides of China coordinates manufacturer-side sourcing and international logistics. Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory. Buyers requiring independent verification may arrange third-party analytical testing. |
+| Molecule | Approximate mass | Structural feature | Analytical implication |
+| --- | --- | --- | --- |
+| Semaglutide | About 4,114 Da | 31 residues; Aib substitution; C18 diacid via linker | Hydrophobic tail drives late elution and strong MS adducts |
+| Tirzepatide | About 4,813 Da | 39 residues; dual GIP/GLP-1 agonist; fatty acid chain | Larger molecule; more charge states; impurity profile differs |
+| Liraglutide | About 3,751 Da | 31 residues; C16 fatty acid | Lower mass; different retention and solubility |
+| Retatrutide | Molecule-specific | 39 residues; GIP/GLP-1/glucagon triple agonist | Method transfer required; do not assume a semaglutide method |
 
-### Standards And Application Notes Worth Keeping On File
+The masses above are approximate and depend on the salt form and the presence of counterions. The exact theoretical mass should come from the sequence and the declared modifications, not from a catalog title. PubChem lists semaglutide at a molecular weight of about 4,114 and tirzepatide at about 4,813; the certificate should state whether the reported value is monoisotopic or average.
 
-- ICH Q3A/Q3B, Q6A, and Q11 guidance for impurity thresholds and identity testing.
-- The Waters UNIFI LC-HRMS application note for impurity-library workflows.
-- The Agilent LC-MS peptide impurity note for method-transfer parameters.
+The fatty-acid chain is the part that makes these molecules difficult. It increases hydrophobicity, promotes albumin binding, and can produce carryover and adducts in mass spectrometry. A method that works for an unmodified peptide may not resolve the acylated species from its des-acyl impurity. The [HPLC versus LC-MS comparison](/blog/hplc-vs-lc-ms-peptides/) explains why the method choice changes the result.
 
-## Table of Contents
+## API, finished material, and research-grade lots
 
-- Minimum Acceptance Checklist For GLP-1 Agonist Peptide And API Purchases
-- What Analytical Methods Should You Request?
-- API Manufacturer, Reseller, Or Finished-Peptide Supplier?
-- Storage, Stability, And Shipping: What Should Arrive With The Order
-- Ordering Logistics: MOQ, Lead Time, And First-Batch Testing
-- Research-Only Compliance: What To Document With Every Order
-- Verifying A Batch On Arrival: A Step-By-Step Workflow
-- Where Peptides of China Fits Into This Checklist
-- Frequently Asked Questions
-- Sources
+Three product types appear in sourcing conversations, and they are not interchangeable.
 
-## Minimum Acceptance Checklist For GLP-1 Agonist Peptide And API Purchases
+An API is an active pharmaceutical ingredient manufactured under a quality system, usually ICH Q7 for chemical APIs. A finished product is a formulated medicine with excipients, a container, and a label approved by a regulator. A research-grade lot is material sold for laboratory use, often released against a supplier specification rather than a pharmacopeial monograph.
 
-Score every quote against a fixed list rather than a gut feeling. The following items belong in a “no negotiate” column, meaning an offer that fails to produce them should be declined, not renegotiated.
+Research laboratories usually buy the third type. That does not make the lot inferior, but it changes the evidence package. A research-grade certificate may report purity, identity, water, and counterion without the full batch record, stability data, or impurity identification that an API buyer would expect. The buyer should decide which of those records the study needs before comparing prices.
 
-**Documentation the COA must contain:**
+A supplier that presents research material as a finished drug, or implies that a catalog lot is approved for human use, is making a claim the documents do not support. The [research-grade specification guide](/blog/research-grade-peptides-2026-lab-procurement-guide/) sets out the evidence tiers.
 
-- Identity confirmation via MS/MS peptide mapping, not a single mass check.
-- Assay value calculated on a weight-basis comparison against a certified reference standard, per the approach FDA CMC reviewers expect for therapeutic peptides.
-- A full impurity profile listing individual impurities by percent relative abundance, not a single aggregate purity figure.
-- Chromatograms from both LC-UV and LC-MS runs, with visible baseline and integration parameters.
-- Stability data tied to a defined storage condition and an assigned expiry or retest date.
+## Purity and impurity expectations for a GLP-1 batch
 
-**Batch and supply-chain records to demand:**
+Purity by reverse-phase HPLC is the first number buyers compare, and it is the least standardized. A result of 98% by area at 220 nm means that 98% of the integrated UV signal came from the main peak under that method. It does not mean 98% of the mass is peptide, and it does not identify the impurities that make up the remaining 2%.
 
-- A specific batch number that maps to a retained physical sample.
-- A statement of manufacturing model: is this an API manufacturer’s own batch, or a repackaged lot from a finished-peptide producer?
-- Notes on how the batch is tracked internally, whether through a LIMS, a chromatography data system export, or a simpler spreadsheet ledger.
+For a GLP-1 analogue, the impurities worth asking about are the ones the chemistry predicts: deletion and truncation sequences from incomplete coupling, des-acyl species from incomplete acylation, oxidation products, and isomers from aggregation or rearrangement. The [impurity review](/blog/why-impurities-affect-clinical-study-outcomes/) explains why an unidentified impurity is a variable in a study, not a cosmetic defect.
 
-**Commercial terms to pin down early:** minimum order quantity, realistic lead time (not the marketing number), a price-per-mg range across quantity breaks, and a separate cost estimate for independent sample testing.
+A practical buyer specification for research material includes purity of at least 98% by area, individual related substances below a stated limit, total related substances below a stated limit, identity by mass with a tolerance, water content, counterion, and net peptide content. The exact limits are a risk decision. The important part is that they are written down before the lot is quoted.
 
-**Pro Tip:** *When requesting raw analytical files, specify the format up front: vendor CDS export, mzML/mzXML, or native HRMS instrument files. A supplier who sends a screenshot of a chromatogram instead of the underlying file has either lost the raw data or never generated it.*
+ICH Q3A(R2) provides a useful reference for how regulatory systems treat impurity thresholds, including reporting, identification, and qualification limits. Those thresholds apply to drug substances under a regulatory framework, not to research-grade catalog lots, but they give a buyer a vocabulary for asking which impurities were identified and at what level.
 
-## What Analytical Methods Should You Request?
+## Assay and content: the milligram label is not a milligram of peptide
 
-A COA is only as good as the methods behind it, and different techniques prove different things. LC-UV (via HPLC or UPLC) gives you a fast, optical read on purity based on peak area, but it cannot distinguish co-eluting impurities that share a retention time with the main peak. Amino acid analysis confirms composition but not sequence order. MS/MS peptide mapping, by contrast, fragments the peptide and reconstructs its sequence, catching deletions, truncations, and unexpected modifications that a UV trace will never flag.
+A 5 mg vial contains 5 mg of material. The peptide mass is lower, because the material includes water and counterion. For a strongly basic, acylated peptide, the counterion fraction can be several percentage points.
 
-This is where optical and mass-spec purity figures diverge, sometimes sharply. One documented case using a Waters UNIFI LC-HRMS workflow found that purity measurements by UV and high-resolution mass spectrometry can differ significantly, revealing co-eluting species that UV detection alone may miss.
+Content arithmetic:
 
-That gap is the reason LC-HRMS plus MS/MS mapping, not LC-UV alone, is the baseline for low-abundance impurity identification. Chromatographic method choice matters here too: mobile-phase modifiers like trifluoroacetic acid can suppress MS sensitivity, while formic-acid methods run on peptide-optimized stationary phases transfer more cleanly between UV and MS detection, according to [Agilent’s peptide impurity analysis work](https://www.agilent.com.cn/cs/library/applications/application-synthetic-peptides-impurities-LCMSMS-advancebio-peptide-plus-5994-2760en-agilent.pdf).
+Peptide mass (mg) = fill mass (mg) × net peptide content (%) ÷ 100
 
-**Data to request from every vendor:**
+Price per milligram of peptide = vial price ÷ peptide mass (mg)
 
-- Raw HRMS files in native or mzML format, not a rendered PDF.
-- MS/MS spectra covering the full peptide mapping run, not selected fragments.
-- UV chromatograms with method parameters (column, gradient, flow rate) attached.
+The second formula is the only fair price comparison across suppliers. A 5 mg vial at 85% content contains 4.25 mg of peptide. A 5 mg vial at 92% content contains 4.6 mg. At the same price, the second is about 8% cheaper per milligram of peptide, before any difference in purity or documentation is considered.
 
-**Pro Tip:** *Ask the vendor to identify and quantify any impurity at or above* [0.1%](https://pmc.ncbi.nlm.nih.gov/articles/PMC3255420/) *relative abundance where the method allows it, and request replicate data or %RSD figures for peaks near the detection threshold. A lab confident in its data will have this on hand already.*
+Assay is a separate measurement from content. An assay by HPLC compares the sample response with a reference standard and reports the potency of the peptide present. Content by mass balance reports the fraction of the fill mass that is peptide. A certificate that reports one but labels it as the other is not auditable.
 
-## API Manufacturer, Reseller, Or Finished-Peptide Supplier?
+## Documentation for a GLP-1 lot
 
-Not every “supplier” occupies the same position in the supply chain, and the model changes what verification you need to demand. A **direct API manufacturer** runs synthesis in-house and can hand you batch-specific analytical data straight from their own instruments. A **contract manufacturer (CMO)** synthesizes to a client’s specification, often under a private label, and should still produce equivalent batch records. A **finished-peptide producer** takes raw API and lyophilizes it into vials, adding a step where cross-contamination or mislabeling can occur if quality control is weak. A **reseller or marketplace intermediary** sells someone else’s batch, often without ever touching the material.
+| Document | Minimum content | Why the buyer needs it |
+| --- | --- | --- |
+| Certificate of analysis | Product, sequence, lot, methods, results, limits, approver, date | Ties the lot to a specification |
+| Identity record | Theoretical and observed mass, charge states, method | Confirms the molecule, not just the family |
+| Purity record | Chromatogram, column, gradient, wavelength, integration | Allows a method review |
+| Content record | Water, counterion, net peptide, basis | Converts fill mass to peptide mass |
+| Endotoxin record | Method, limit, numeric result | Required for cell-based work |
+| Sterility record | Method, sample size, result | Required when the process claim matters |
+| Storage and shipping record | Temperature condition, date, handling | Supports the stability chain |
+| Safety data sheet | Handling and disposal information | Required by most institutions |
 
-Direct API sourcing makes sense when you need bulk raw material and want the shortest possible chain of custody to the synthesis lab. A finished-peptide supplier is acceptable when they can produce the upstream manufacturer’s COA alongside their own vialing records and retained samples, not just their own paperwork.
+A certificate that reports “GLP-1 agonist, 99%” without the sequence and the lot-specific methods fails the first row. A certificate that reports a purity but no content fails the fourth. The [COA verification guide](/blog/coa-verified-peptides-wholesale-2026-sourcing-verification-guide/) explains how to cross-check the fields against the packing list and label.
 
-Resellers require the most scrutiny. Demand the original manufacturer’s COA, not a relabeled version, along with any supplier audit summary or qualification documentation the reseller has on file. Standardized purification platforms and harmonized analytical packages across a manufacturer’s product line are a good sign of process maturity, since they tend to [stabilize impurity profiles across batches](https://www.biologicsguide.com/peptide-purification-impurity-characterization-guide/).
+## Cold chain and shipping
 
-**Pro Tip:** *A reseller who cannot name their upstream manufacturer, or who gets vague when asked for raw HRMS files, is functionally asking you to trust a chain of custody you cannot see.*
+Lyophilised peptide is more stable than a solution, but it is not indestructible. Heat, moisture, and repeated temperature cycling degrade the material. Shipping conditions should match the storage condition on the certificate, and the shipment should include a temperature indicator or logger for international orders.
 
-## Storage, Stability, And Shipping: What Should Arrive With The Order
+For a lyophilised lot, a common storage condition is −20 °C for long-term use, with short-term handling at 2–8 °C. For a reconstituted solution, the storage condition depends on the compound and the buffer, and it should be defined by the laboratory, not assumed from the catalog. The [stability and handling guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers the general sequence.
 
-Lyophilized peptide vials and raw API powder carry different storage expectations, but both need documented conditions, typically frozen or refrigerated storage with desiccant protection and minimal exposure to ambient humidity. The COA should state an expiry or retest date tied explicitly to a storage condition, not a bare date with no context.
+Customs and import documentation are a separate risk. The invoice should describe the goods specifically, with the compound name, quantity, and declared value. A line that says “peptide sample” creates a classification and traceability problem. The [customs documentation guide](/blog/research-peptide-customs-clearance-a-professional-b2b-sourcing-guide-2026/) covers the field-level requirements, and the [HS code guide](/blog/hs-code-for-peptides/) explains why classification is molecule-specific.
 
-For cold-chain shipments, ask for a temperature logger report alongside the shipping manifest so you can confirm the material never excursed outside its stated range in transit.
+## First-batch verification workflow
 
-- On receipt, visually inspect vials for cake collapse, discoloration, or moisture intrusion before anything else.
-- Weigh vials against the stated fill weight to catch underfilling early.
-- Quarantine any shipment with an ambiguous temperature log or damaged packaging until it clears review.
+A first order should be treated as a qualification batch, not as inventory. The workflow below keeps the evidence together.
 
-**Pro Tip:** *Keep a simple quarantine shelf, physical or logical, so an uncertain shipment never mixes with verified inventory while you wait on answers.*
+1. Write the specification before requesting the quote: molecule, sequence, salt form, fill mass, purity, identity, content, endotoxin, sterility if needed, and documents.
+2. Request a lot-specific certificate and confirm that the lot code will match the shipment.
+3. On receipt, photograph the labels beside the packing list and check the lot, fill mass, and quantity.
+4. Draw at least three vials from different positions; retain two unopened.
+5. Commission identity and purity testing from a laboratory with a relevant scope.
+6. Compare the observed mass and chromatogram with the certificate, not just the summary number.
+7. Calculate peptide mass per vial and price per milligram of peptide.
+8. Record the results in a supplier qualification file before placing a repeat order.
 
-## Ordering Logistics: MOQ, Lead Time, And First-Batch Testing
+The [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) covers the site-level questions that sit behind this workflow. The [documentation package guide](/blog/peptide-documentation-package/) lists the records to request for a full review.
 
-MOQ and lead time vary by model. Direct API manufacturers often set higher minimums but shorter turnaround once synthesis is scheduled, while finished-peptide suppliers may offer smaller MOQs at a price premium. Price per mg tracks sequence complexity, scale, salt form, and whether the peptide ships as raw powder or a vialed, lyophilized product.
+## Commercial terms and MOQ
 
-Budget separately for independent verification. Third-party LC-HRMS and MS/MS peptide mapping runs are a real line item, and costs shift with turnaround speed and the number of impurities flagged for structural confirmation.
+GLP-1 analogues are longer and more heavily modified than short research peptides, so the synthesis and purification cost per gram is higher, and the minimum order quantity is often set by batch economics rather than by catalog policy. A supplier that quotes a very low price per milligram for a 5 mg vial may be spreading a batch cost across a large number of vials, or may be selling material with a different specification.
 
-A workable first-batch strategy runs in three stages: review the vendor’s COA and raw files on paper first, run a quick in-house identity check, then send a split sample to an independent lab for confirmatory HRMS and impurity profiling before scaling the order.
+Ask for the price at two or three fill masses, the lead time from purchase order to dispatch, and the terms for a failed retest. A quote that does not state the fill mass, content basis, or retest policy is not comparable to one that does. The [bulk ordering guide](/blog/how-to-buy-peptides-in-bulk-a-2026-direct-to-manufacturer-sourcing-protocol/) covers the volume side of the negotiation.
 
-## Research-Only Compliance: What To Document With Every Order
-
-Every purchase order should carry a short compliance package: a research-only intended-use statement, any contractual language addressing mislabeling or nonconforming batches, and shipping declarations where the carrier or destination requires them.
-
-- Keep a signed research-only affidavit or clause on file per order.
-- Retain a split of every batch independently of the vendor’s own retained sample.
-- Build a contract clause specifying remedy if third-party testing contradicts the vendor’s COA.
-
-Treat any vendor marketing language implying patient use, dosing guidance, or therapeutic supply as a red flag, since that framing sits outside the research-only scope this sourcing process is built around.
-
-## Verifying A Batch On Arrival: A Step-By-Step Workflow
-
-1. Review the COA and raw analytical files before the shipment even leaves the supplier’s facility.
-2. On physical receipt, log the batch number, lot documentation, and file formats received into your LIMS or a supplier scorecard.
-3. Run an in-house spot check, MALDI or a quick LC pass, to confirm gross identity and mass.
-4. Send a retained split to an external lab for confirmatory HRMS and MS/MS peptide mapping.
-5. If verification fails at any stage, quarantine the lot immediately and open a formal dispute with the vendor rather than proceeding on assumption.
-
-**Pro Tip:** *Escalation only works if you have documented the discrepancy in the vendor’s own file format alongside your third-party report, since a vague “results didn’t match” claim rarely resolves in your favor.*
-
-### Why Impurity Profiling Matters More Than A Purity Number
-
-Solvent residue is harmless; a reactive deletion fragment sitting at the same threshold is not, and it can quietly wreck reproducibility across a study. Demand the raw MS/MS evidence behind every purity claim, not the rounded number on the label.
-
-## Where Peptides of China Fits Into This Checklist
-
-The checklist above describes buyer-defined diligence, not documentation guaranteed by Peptides of China. Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory.
-
-Peptides of China works directly with a limited network of verified manufacturing facilities as a specialized sales and sourcing channel. Manufacturer-side analytical documentation may be available depending on the product and batch. Buyers requiring independent verification may arrange third-party analytical testing.[research peptide catalog](/catalog) and request batch documentation before any payment moves forward.
-
-## Frequently Asked Questions
-
-**What is the single most important document to request when sourcing GLP-1 agonists for research?**
-A complete COA with MS/MS peptide mapping and raw LC-HRMS files behind it. A summary purity number without the underlying spectra tells you almost nothing about impurity composition.
-
-**Why isn’t a** [99%](https://www.facebook.com/61592339383071/posts/what-does-purity-actually-meanyouve-probably-seen-numbers-like-98-99-or-99-purit/122105217651411312/) **purity claim enough on its own?**
-Because the remaining fraction could be inert solvent residue or a reactive deletion fragment, and only impurity profiling by HRMS distinguishes the two.
-
-**Should I buy raw API or a finished lyophilized vial?**
-Raw API from a direct manufacturer gives the shortest chain of custody for bulk work; a finished-peptide supplier is fine if they provide the upstream manufacturer’s COA plus their own vialing and retained-sample records.
-
-**How do I handle a batch that fails independent verification?**
-Quarantine it immediately, document the discrepancy against the vendor’s own file formats, and escalate through a predefined contractual clause rather than an informal dispute.
-
-**What analytical methods matter most for GLP-1 receptor agonist sourcing?**
-LC-HRMS combined with MS/MS peptide mapping, backed by LC-UV/UPLC chromatograms and, where available, amino acid analysis for composition confirmation.
-
-This article is general information, not a substitute for advice from a qualified doctor. Consult a qualified healthcare professional about your own circumstances before acting on anything here.
+For a laboratory that expects repeat orders, a blanket purchase order with a fixed specification and a defined release schedule is often better than a series of one-off orders. The [blanket purchase order guide](/blog/how-blanket-purchase-orders-work-peptides/) explains the mechanics.
 
 ## The Author's Take
 
-**Position.** In GLP-1 sourcing, the useful unit is a documented batch, not a class label.
+**Position.** I would not compare GLP-1 agonist quotes until each supplier has stated the molecule, the salt form, the net peptide content, and the lot-specific test panel. A price per vial without those four facts is not a price for the same product.
 
-**Reasoning.** “GLP-1 agonist” covers different molecules, salt forms and presentation formats. The buyer needs the specific identity, purity method, impurity profile and storage condition before comparing suppliers. A class-level claim is a starting point for a technical conversation, not a purchasing specification.
+**Reasoning.** These molecules differ enough that a generic specification is almost always wrong for at least one of them. The fatty-acid chain changes the analytical behavior, the counterion changes the peptide mass, and the impurity profile changes with the synthesis route. Buyers who reduce the comparison to a purity percentage end up choosing between numbers that were produced by different methods on different molecules. The suppliers worth keeping are the ones who answer a specification request with a lot file, because that file is what makes a repeat order comparable. The cost of that discipline is a slower first purchase. The cost of skipping it is a study that cannot be repeated.
 
-**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is a sourcing judgement, not medical advice.
+**Disclosure.** Peptides of China sells research peptides. This article is a sourcing and documentation judgment, not an effects claim or a therapeutic recommendation. Products are supplied for laboratory research use only and are not for human or veterinary use.
 
 ## Sources
 
-- Analysis of a synthetic peptide and its impurities (Agilent application note)
+1. Lau J, Bloch P, Schäffer L, et al. Discovery of the Once-Weekly Glucagon-Like Peptide-1 (GLP-1) Analogue Semaglutide. Journal of Medicinal Chemistry. 2015;58(18):7370–7380. https://doi.org/10.1021/acs.jmedchem.5b00726
+2. PubChem, Semaglutide, CID 56843331. https://pubchem.ncbi.nlm.nih.gov/compound/56843331
+3. PubChem, Tirzepatide, CID 166567236. https://pubchem.ncbi.nlm.nih.gov/compound/166567236
+4. PubChem, Liraglutide, CID 16134956. https://pubchem.ncbi.nlm.nih.gov/compound/16134956
+5. European Medicines Agency, Ozempic EPAR. https://www.ema.europa.eu/en/medicines/human/EPAR/ozempic
+6. ICH Q3A(R2), Impurities in New Drug Substances (2006). https://database.ich.org/sites/default/files/Q3A%28R2%29%20Guideline.pdf
+7. ICH Q6A, Specifications: Test Procedures and Acceptance Criteria (1999). https://database.ich.org/sites/default/files/Q6A%20Guideline.pdf
+8. USP &lt;1058&gt;, Analytical Instrument Qualification. https://doi.org/10.31003/uspnf_m1124_10101_01
+9. D'Hondt M, et al. Related impurities in peptide medicines. Journal of Pharmaceutical and Biomedical Analysis. 2014;101:2–30. https://doi.org/10.1016/j.jpba.2014.06.012
 
-## China Peptides Sourcing Perspective
-
-Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page. For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
-
-## Related Products
-
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+For compound-specific procurement notes, see the [semaglutide sourcing guide](/blog/semaglutide-wholesale-supplier-guide-direct-to-manufacturer-sourcing-in-2026/) and the [tirzepatide sourcing guide](/blog/tirzepatide-wholesale-sourcing-a-2026-b2b-procurement-guide/). For the analytical panel, see [peptide quality testing](/peptide-quality-testing/). Catalog listings are in the [catalog](/catalog/), including [semaglutide](/catalog/semaglutide/) and [tirzepatide](/catalog/tirzepatide/).
