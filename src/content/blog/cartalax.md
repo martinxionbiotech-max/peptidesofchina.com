@@ -1,97 +1,172 @@
 ---
-title: "Cartalax"
+title: "Cartalax and the AED Tripeptide: Evidence and Identity"
 slug: "cartalax"
-description: "A review of Cartalax and the AED tripeptide literature, including chondrocyte studies, mechanistic claims, and the absence of a validated human protocol."
-
-
-
-
+description: "Cartalax mapped to the AED tripeptide: chondrocyte SASP data, sequence-isomer risk, LC-MS checks, and COA fields research buyers can verify."
 author: "POC Tech Team"
-updated: "2026-11-17"
+updated: "2026-11-20"
 ---
-This guide examines cartalax from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
-Cartalax is a commercial name commonly associated with the short peptide AED, written as Ala-Glu-Asp. The published literature most often discusses the AED sequence rather than a standardized global product called Cartalax. That distinction matters: a brand or vial name does not by itself verify sequence, identity, quantity, purity, or formulation.
+Cartalax is a trade name, not a chemical specification. In the research literature and in most catalog listings, the name refers to the tripeptide AED, written Ala-Glu-Asp. The published work behind that sequence is limited to cell and tissue models, mainly chondrocytes and mesenchymal stem-cell differentiation. It does not establish cartilage repair, a clinical benefit, or a human protocol.
 
-The directly relevant research is limited and largely mechanistic. It can support laboratory hypotheses about chondrocytes and chondrogenic differentiation, but it does not establish cartilage repair, osteoarthritis treatment, anti-aging effects, or a human dosing schedule.
+For a buyer, the practical problem is narrower and more immediate: a vial labelled Cartalax can contain the AED sequence, a positional isomer of it, a different peptide entirely, or the right peptide at the wrong net content. None of those failures is visible by eye. The certificate has to resolve them.
 
-## Evidence at a glance
+## Cartalax Is a Trade Name, Not a Specification
 
-- Evidence source: Myakisheva et al., 2023; Model: Chondrocyte study; Reported observation: AED and a cartilage polypeptide complex changed selected senescence-associated and inflammatory markers; Main limitation: Not a controlled clinical efficacy trial
-- Evidence source: Linkova et al., 2023; Model: Review of chondrogenic differentiation research; Reported observation: Discusses molecular pathways and short peptides, including AED, in cell differentiation research; Main limitation: Review and mechanistic synthesis; does not validate a treatment protocol
+Peptide bioregulators are often sold under short brand names that map loosely to sequences. Cartalax is one of them. The same name can appear on a product page with no sequence, no molecular mass, and no statement of salt form — three fields that determine what the powder actually is.
 
-## What the 2023 chondrocyte paper reported
+AED is a three-residue peptide: alanine, glutamic acid, aspartic acid. Its formula is C13H21N3O8 and its average mass is 333.3 Da. The free peptide carries two acidic side chains and a C-terminal carboxylate, so it is deprotonated at neutral pH and carries a net charge of about −2. That has direct analytical consequences, covered below.
 
-A 2023 paper examined the senescence-associated secretory phenotype in chondrocytes and compared the effects of AED with a cartilage polypeptide complex. The abstract reports changes in proteins associated with cell-cycle regulation and senescence, including p16, p21, and p53; inflammatory cytokines including TNF-alpha and IL-1alpha; and Sirt1.
+The name-to-sequence gap matters for two reasons. First, commercial naming is not regulated in the research-supply market; a supplier can use "Cartalax" for a product that differs from another supplier's material. Second, the published studies generally describe AED or "peptide AED," not a standardized finished product called Cartalax. A citation to an AED paper therefore supports statements about AED, not about every vial sold under the brand name.
 
-Those are molecular or cellular readouts. They are not the same as showing improved pain, mobility, cartilage thickness, disease progression, or long-term safety in people. Describing the result as “cartilage regeneration” would go beyond what this study measured.
+## What the Chondrocyte SASP Study Measured
 
-## Chondrogenic differentiation is a research context, not a clinical outcome
+The most directly relevant paper is Myakisheva et al., published in *Advances in Gerontology* in 2023. The study characterized the senescence-associated secretory phenotype of chondrocytes and compared the effect of AED with a cartilage polypeptide complex.
 
-A separate 2023 review discusses signaling pathways involved in mesenchymal stem-cell differentiation toward chondrocytes and summarizes research involving short peptides such as AED. This literature can help define experiments involving gene expression or differentiation markers. It does not demonstrate that a marketed Cartalax product repairs a joint or reverses osteoarthritis.
+The authors reported that senescent chondrocytes showed increased synthesis of p16, p21, and p53, increased TNF-α and IL-1α, and decreased Sirt1. Treatment with AED or the cartilage complex was reported to normalize the synthesis of these markers.
 
-## Why p16, p21, p53, and Sirt1 require careful wording
+That is a marker-level result in a cell model. It does not measure cartilage thickness, joint space, pain, mobility, or disease progression. The paper's own framing places the finding in molecular gerontology and proposes a geroprotective hypothesis; it does not report a clinical trial.
 
-These proteins participate in complex networks involving cell-cycle control, DNA-damage responses, apoptosis, and cellular senescence. A change in a marker in a particular culture model is not automatically beneficial, and it should not be converted into a broad “longevity” claim. Direction, timing, cell type, concentration, and experimental conditions all matter.
+A companion paper by the same group, published in *Advances in Gerontology* later in 2023, reviews the chondrocyte secretory phenotype in osteoarthritis and the prospects for peptide bioregulation. It is a review, and it should be read as one.
 
-The defensible wording is that AED has been studied for effects on selected molecular markers in chondrocyte-related models. Claims of systemic rejuvenation or proven geroprotection require evidence that is not supplied by those experiments.
+## The Chondrogenic Review and the Marker Problem
 
-## What has not been established
+A second paper frequently cited in Cartalax listings is Linkova et al., "Peptide Regulation of Chondrogenic Stem Cell Differentiation," published in the *International Journal of Molecular Sciences* in 2023.
 
-The cited literature does not establish:
+The review describes peptides derived from growth-factor structures and extracellular matrix components — SK2.1, BMP-derived peptides, B2A, SSPEPS, LPP, CFOGER, CMP, RDG, and an N-cadherin mimetic peptide — and their effects on WNT, ERK-p38, and Smad 1/5/8 signaling, COL2, SOX9, and ACAN expression.
 
-- a validated Cartalax treatment for osteoarthritis or another disease;
+AED is not among the peptide classes named in the indexed abstract. That does not prove the full text never mentions it, but it does mean the paper cannot be used as direct evidence for AED activity without checking the relevant section. This kind of citation drift is common in supplement and peptide marketing: a review of a field gets attached to a specific product because both concern cartilage.
+
+The distinction matters when a buyer asks whether a supplier's claims are evidence-based. A citation that does not study the molecule in the vial is not support for the molecule in the vial.
+
+The four markers in the chondrocyte study sit in overlapping networks: cell-cycle arrest, DNA-damage response, apoptosis, and senescence. A change in any one of them is not automatically beneficial, and the direction of change depends on context.
+
+p16 and p21 are cyclin-dependent kinase inhibitors. Higher levels can indicate senescence or a protective growth arrest. p53 can push a cell toward repair, arrest, or apoptosis depending on the damage and the cell type. Sirt1 is a NAD-dependent deacetylase involved in stress responses and metabolism; its increase or decrease can be adaptive or maladaptive depending on the tissue.
+
+A study that reports "normalization" of these markers in cultured chondrocytes is reporting a pattern, not a mechanism proven to reverse joint disease. The appropriate wording is that AED has been reported to alter senescence-associated markers in a chondrocyte model. Wording that says AED "reverses cellular aging" or "repairs cartilage" goes beyond the measurement.
+
+## Where the AED Literature Stops
+
+The published record does not establish:
+
 - regeneration of human articular cartilage;
-- an injectable, oral, sublingual, or topical human dose;
-- a cycle length or repeat frequency;
-- comparative effectiveness against an approved therapy;
-- long-term human safety;
-- equivalence between every product sold as Cartalax and the AED material used in a paper.
+- a treatment effect in osteoarthritis or any other disease;
+- an effective or safe human dose, route, or cycle;
+- equivalence between research-grade AED and any pharmaceutical product;
+- a benefit from combining AED with BPC-157, TB-500, or other peptides;
+- long-term safety in humans;
+- a defined mechanism that explains all reported marker changes.
 
-## Research and sourcing questions
+There is also a publication-base issue. Much of the AED literature comes from a small number of research groups, often publishing in gerontology and bioregulation journals. That does not make the work invalid, but it means independent replication is limited. A buyer reading a supplier page should ask whether the cited studies are independent of the product being sold.
 
-For an AED research material, verify the sequence and molecular identity rather than relying on the commercial name. A useful batch documentation package should identify the batch, test date, method, acceptance criteria, and result. HPLC can characterize chromatographic purity, while mass spectrometry can support molecular identity; neither alone answers every quality question.
+## Identity Testing and Certificate Review
 
-Researchers should also confirm the quantity basis, counterion or salt form when relevant, water content, storage conditions, and any microbiological or endotoxin requirements appropriate to the planned laboratory work.
+AED is analytically awkward in ways that are easy to miss.
+
+It has no aromatic residue. There is no phenylalanine, tyrosine, or tryptophan, so UV absorbance at 280 nm is effectively zero. Purity methods must use the peptide bond at 214 nm, mass spectrometry, or amino acid analysis. A certificate that reports "UV 280" for AED is reporting noise.
+
+It is acidic and hydrophilic. On a standard C18 reversed-phase column with a water/acetonitrile gradient, AED elutes close to the solvent front, where resolution is poor and injection-solvent effects are large. Ion-pairing reagents such as trifluoroacetic acid or heptafluorobutyric acid improve retention; HILIC is an alternative. The method matters, and a certificate that gives only a percentage without the column, gradient, and wavelength is not reproducible.
+
+It has positional isomers. The three residues can be arranged in six orders, and all six have the same elemental composition and the same nominal mass. Mass spectrometry alone cannot tell AED from ADE, EAD, DEA, DAE, or EDA. Sequence confirmation needs fragmentation data, co-elution with a certified standard, or an orthogonal method such as NMR or amino acid analysis after hydrolysis. For a tripeptide, the fragments are few, so the MS/MS evidence is weaker than it is for a longer peptide.
+
+| Attribute | Method | What it establishes | What it can miss |
+| --- | --- | --- | --- |
+| Identity (mass) | ESI-MS, negative mode, [M−H]− near m/z 332.1 | Elemental composition consistent with AED | Positional isomers |
+| Sequence | MS/MS fragmentation, co-elution with standard, or NMR | Residue order | Modified residues that preserve mass |
+| Purity | RP-HPLC-UV 214 nm with ion pairing, or HILIC | Chromatographic purity | Non-UV-active impurities and salts |
+| Counterion | Ion chromatography | Acetate, sodium, or other counterion | Counterions outside the method |
+| Water | Karl Fischer | Moisture content | Residual solvents bound in the cake |
+| Endotoxin | LAL per USP <85> | Endotoxin burden | Non-endotoxin pyrogens |
+| Bioburden | USP <61>/<62> | Viable count | Non-culturable organisms |
+
+The negative-mode detail is practical. AED carries acidic residues and ionizes readily as [M−H]−, while positive-mode ionization is weaker. A lab that runs only positive mode may report a poor spectrum and conclude the sample is impure when the method is the problem.
+
+A certificate for a trade-named peptide has to do more work than one for a sequence-named product, because it must establish the link between the name and the molecule.
+
+| Field | What to look for | Why it matters |
+| --- | --- | --- |
+| Sequence declaration | Ala-Glu-Asp, written out | Separates the name from the molecule |
+| Calculated and observed mass | 333.3 Da calculated; observed value with charge state | Confirms composition |
+| Sequence evidence | MS/MS fragments, standard co-elution, or NMR | Distinguishes positional isomers |
+| HPLC method | Column, gradient, wavelength 214 nm, injection volume | Makes the purity number reproducible |
+| Purity result | Area percentage with chromatogram | Shows what the method detected |
+| Net peptide content | Nitrogen or amino acid analysis, % by weight | Converts powder weight to peptide mass |
+| Counterion | Identity and percentage | Explains mass balance and pH behavior |
+| Water content | Karl Fischer result | Stability and weighing accuracy |
+| Endotoxin | Method and limit, e.g. ≤10 EU/mg | Relevant for cell-based work |
+| Storage and retest | Temperature and date | Defines the usable window |
+
+The sequence-evidence line is the one that separates a serious supplier from a label printer. A certificate that lists "purity 98.5%" and "mass confirmed" but gives no fragment data and no standard comparison has not addressed the isomer problem. For a tripeptide, that is the central identity question.
+
+The [molecular weight verification guide](/blog/peptide-molecular-weight-verification-steps/) explains how to read the mass spectrum, and the [COA authentication guide](/blog/coa-verified-peptides-supplier-how-to-authenticate-research-purity-in-2026/) covers the cross-checks between certificate and vial.
+
+## Solubility, Salt Form, and Stability
+
+AED is freely water-soluble because of its two acidic residues. That makes stock preparation easy and creates two common errors.
+
+The first is pH. A concentrated AED solution is acidic unless buffered. Adding it directly to a cell-culture medium can shift the pH of the well, especially in small volumes. Buffering the stock or dialyzing before use is a standard control.
+
+The second is the counterion. An acetate salt and a sodium salt of the same peptide have different mass per vial and different solution behavior. The certificate should state which form was supplied, and the buyer should calculate concentration from the peptide content rather than the vial label.
+
+The powder is hygroscopic. Lyophilized AED should be stored desiccated at −20 °C, brought to room temperature before opening, and reconstituted with water or buffer according to the intended assay. Repeated freeze-thaw of a solution concentrates the peptide at the ice interface and can promote aggregation; aliquoting before freezing avoids that.
+
+These are handling points, not stability claims. A supplier that states a shelf life should also state the storage condition and the data behind it.
+
+## Supplier Verification for a Bioregulator Peptide
+
+The verification questions for Cartalax differ slightly from those for a well-known research peptide, because the name itself is ambiguous.
+
+1. **What sequence does this product correspond to?** The answer should be Ala-Glu-Asp, not "Cartalax peptide."
+2. **Is the sequence confirmed by fragmentation, standard co-elution, or NMR?** Mass alone is insufficient for a tripeptide.
+3. **Which HPLC method was used?** Column, gradient, wavelength, and injection volume.
+4. **What is the net peptide content, and how was it measured?**
+5. **Which counterion is present?**
+6. **What are the endotoxin and bioburden results?**
+7. **Who manufactures the batch, and has the process changed since the last lot?**
+8. **What storage condition and retest date apply?**
+
+A supplier that answers these questions is describing a controlled product. A supplier that answers with a brand story is describing a label. The [supplier GMP assessment guide](/blog/how-to-assess-peptide-supplier-gmp-compliance-in-2026/) covers the site-level questions, the [endotoxin explainer](/blog/endotoxin-testing-peptide-manufacturing/) covers the microbiological side, and the [solubility guide](/blog/peptide-solubility-troubleshooting/) covers buffer and stock preparation. The [Cartalax catalog listing](/catalog/cartalax/) states the current sequence and batch documentation, and the [FAQ](/faq/) covers ordering questions.
 
 ## FAQ
 
-### What peptide is Cartalax associated with?
+### What peptide is Cartalax?
 
-Cartalax is commonly associated with the tripeptide AED, or Ala-Glu-Asp. The actual identity of a supplied product must be verified from batch-specific analytical documentation.
+Cartalax is commonly associated with the tripeptide AED, or Ala-Glu-Asp. The sequence must be confirmed by batch documentation; the trade name alone does not specify it.
 
-### Has Cartalax been proven to repair human cartilage?
+### Has Cartalax been shown to repair cartilage?
 
-The literature summarized here does not establish repair of human cartilage in a controlled clinical trial.
+No. The published studies report changes in senescence-associated markers in chondrocyte models. They do not establish cartilage repair or a clinical benefit.
 
-### What did the chondrocyte study measure?
+### What did the 2023 chondrocyte study measure?
 
-It reported changes in selected senescence-associated proteins, inflammatory cytokines, and Sirt1 in a chondrocyte research context. These are laboratory markers, not direct clinical outcomes.
+It measured p16, p21, p53, TNF-α, IL-1α, and Sirt1 in a chondrocyte senescence model, and reported that AED and a cartilage polypeptide complex normalized the pattern.
 
-### Is there an established Cartalax dosage?
+### Does AED have an established human dose?
 
-The cited research does not establish a human dose or administration schedule. This page provides no human-use instructions.
+No human dose is established by the cited literature. This page provides no dosing or administration guidance.
 
-### Why should the product name and peptide sequence be separated?
+### Why is mass spectrometry not enough to confirm AED?
 
-Commercial naming can vary. Sequence and identity must be supported by analytical evidence tied to the supplied batch.
+The six possible orderings of Ala, Glu, and Asp have the same mass. Distinguishing them requires fragmentation data, a certified reference standard, or an orthogonal method.
 
-## References
+### What should a Cartalax certificate of analysis include?
 
-1. Myakisheva SN, et al. Peptides prevent the forming of secretory phenotype of chondrocytes associated with the aging. Advances in Gerontology. 2023;36(2):234-238. PMID 37356100. https://pubmed.ncbi.nlm.nih.gov/37356100/
-2. Linkova N, et al. Peptide Regulation of Chondrogenic Stem Cell Differentiation. International Journal of Molecular Sciences. 2023;24(9):8415. PMID 37176122. https://pubmed.ncbi.nlm.nih.gov/37176122/
-
-Research-use notice: This page summarizes published research for informational purposes. It does not provide medical advice, dosing guidance, or instructions for human or animal use.
-
-## Related Products
-
-- [Buy Cartalax](/catalog/cartalax/)
+A written sequence, calculated and observed mass, sequence evidence, HPLC method and purity, net peptide content, counterion, water content, endotoxin result, storage condition, and retest date.
 
 ## The Author's Take
 
-**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+**Position.** Cartalax is a brand name in search of a specification. The underlying AED sequence has interesting chondrocyte data and a thin, concentrated evidence base. Buyers should insist on sequence-level documentation and treat marker-level findings as hypotheses, not benefits.
 
-**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Reasoning.** The strongest AED paper measures six markers in cultured chondrocytes and reports normalization against a senescent phenotype. That is a real result in that system, and it is also a long way from a joint. The review often cited alongside it does not name AED among the peptide classes it discusses, which is the kind of citation drift that makes supplier bibliographies unreliable. Analytically, AED is a worst case for casual verification: no aromatic chromophore, poor reversed-phase retention, and six positional isomers with identical mass. A certificate that does not address isomer discrimination has not established identity, even if the purity number looks good.
 
-**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+**Disclosure.** Peptides of China sells research-use peptides, including Cartalax. This is a procurement and analytical judgement, not a claim of efficacy. Nothing here is medical advice, and all material is supplied for laboratory research only, not for human or veterinary use.
 
+## Sources
+
+1. Myakisheva SN, Linkova NS, Kozhevnikova EO, Polyakova VO, Ryzhak GA. Peptides prevent the forming of secretory phenotype of chondrocytes associated with the aging. *Advances in Gerontology*. 2023;36(2):234–238. PMID 37356100. https://pubmed.ncbi.nlm.nih.gov/37356100/
+2. Myakisheva SN, et al. Chondrocytes secretory phenotype associated with aging: role in the pathogenesis of osteoarthritis and prospects for peptide bioregulation. *Advances in Gerontology*. 2023;36(3):313–323. PMID 37782637. https://pubmed.ncbi.nlm.nih.gov/37782637/
+3. Linkova N, Khavinson V, Diatlova A, Myakisheva S, Ryzhak G. Peptide regulation of chondrogenic stem cell differentiation. *International Journal of Molecular Sciences*. 2023;24(9):8415. PMID 37176122. https://pubmed.ncbi.nlm.nih.gov/37176122/
+4. Khavinson VK, et al. Feasibility of transport of 26 biologically active ultrashort peptides via LAT and PEPT family transporters. *Biomolecules*. 2023;13(3):552. PMID 36979488. https://pubmed.ncbi.nlm.nih.gov/36979488/
+5. Khavinson V, et al. Senescence-associated secretory phenotype of cardiovascular system cells and inflammaging: perspectives of peptide regulation. *Cells*. 2023;12(1):106. PMID 36611900. https://pubmed.ncbi.nlm.nih.gov/36611900/
+6. Arutjunyan AV, Popovich IG, Kozina LS, Ryzhak GA. Peptide regulation of ageing: from experiment to practice. *Current Aging Science*. 2026;19(1):30–41. PMID 42839866. https://pubmed.ncbi.nlm.nih.gov/42839866/
+7. International Council for Harmonisation. ICH Q2(R2): Validation of Analytical Procedures. 2023. https://www.ich.org/page/quality-guidelines
+8. U.S. Food and Drug Administration. Guidance for Industry: Pyrogen and Endotoxins Testing: Questions and Answers. 2012. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pyrogen-and-endotoxins-testing-questions-and-answers
