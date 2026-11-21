@@ -1,143 +1,145 @@
 ---
-title: "Why Validated Synthesis Facilities Matter Brands"
+title: "Why a Validated Synthesis Facility Matters for Brands"
 slug: "why-validated-synthesis-facilities-matter-brands"
-description: "Discover how validated synthesis facilities enhance product reliability by ensuring traceability and compliance, critical for brand integrity."
-
-
-
-
-
+description: "A validated peptide facility shows how a lot was made, not just how it tested. The six-part file, analytical package, change control, and 30-day audit."
 author: "POC Tech Team"
-updated: "2026-11-17"
+updated: "2026-11-21"
 ---
-This guide examines why validated synthesis facilities matter brands from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
+A validated synthesis facility matters to a peptide brand for one reason: it can show how a lot was made, not just what a sample tested. That difference protects reproducibility, regulatory readiness, and supply continuity. A certificate without a batch record is a snapshot of one sample. A validated facility produces a traceable chain from raw material intake through synthesis, purification, lyophilisation, and vial release.
 
-A validated peptide synthesis facility gives brands batch-traceable, analytically verified material that protects reproducibility, regulatory readiness, and supply continuity. Without that foundation, every downstream claim a brand makes about its product, from purity to potency, rests on documentation the brand never actually saw.
+For a brand putting its name on a vial, the facility is part of the product. This article sets out what "validated" should mean in a peptide context, the documents a brand should demand, and the points where private-label scale-up usually fails.
 
-For procurement teams, this comes down to three checks before any purchase order goes out:
+## Validation Is a Document Trail, Not a Logo
 
-- **Request a Certificate of Analysis** showing both HPLC purity and mass spectrometry identity confirmation, not a single collapsed number.
-- **Ask for batch traceability records**, including lot numbers tied to raw material sourcing and process documentation.
-- **Confirm retention sample availability** so disputes over identity or content can be resolved without re-ordering.
+"Validated facility" is not a protected term. Any supplier can print it on a website. The useful question is narrower: which processes have been validated, against which acceptance criteria, and who approved the results?
 
-Manufacturer-side analytical documentation may be available depending on the product and batch. It is not guaranteed with every order and is not independent verification by Peptides of China. Buyers may arrange third-party analytical testing when required.
+In pharmaceutical manufacturing, process validation is the documented evidence that a process consistently produces a product meeting its predetermined specifications. That evidence usually comes from three consecutive successful lots, supported by equipment qualification, analytical method validation, and a deviation history. A facility that has qualified its equipment but never validated the peptide process has completed part of the work.
 
-## Key Takeaways
+For research peptides, the same logic applies even when the material is not marketed as a drug. A brand that cannot trace a lot to a batch record is relying on the supplier's reputation rather than on evidence.
 
-Validated peptide synthesis facilities matter because they turn purity claims into verifiable data, protecting brands from batch inconsistency, mislabeled content, and reproducibility failures that surface only after a product ships.
+## What "Validated" Means for Peptide Synthesis
 
-| Point | Details |
+Solid-phase peptide synthesis is a repeated cycle: deprotect the resin-bound amino acid, couple the next amino acid, wash, and confirm the coupling. Each step has parameters that can drift.
+
+A documented process states the resin type and loading, the coupling reagent and equivalents, the deprotection conditions, the washing protocol, the cleavage cocktail, and the purification method. A common deprotection uses 20% piperidine in dimethylformamide. A common cleavage cocktail is trifluoroacetic acid with triisopropylsilane and water at 95:2.5:2.5. Coupling is often monitored with a Kaiser test, which detects free primary amines; a negative result indicates that the coupling is complete enough to proceed.
+
+Those details are not trade secrets in the abstract. They are the parameters that determine whether a 30-mer with a fatty-acid modification will purify to the requested specification or produce a family of truncated sequences that are difficult to remove.
+
+The EMA guideline on the development and manufacture of synthetic peptides, adopted in December 2025, sets out expectations for starting materials, process controls, impurity profiling, and specification setting. It was written for medicinal products, but it is the most detailed public benchmark for what a peptide manufacturer should be able to explain. A facility that cannot describe its coupling and cleavage controls in those terms is unlikely to survive a serious audit.
+
+## The Six-Part Qualification File
+
+A brand should be able to assemble six documents for any facility it uses. If one is missing, the qualification is incomplete.
+
+| Part | Document | What it proves | What it does not prove |
+| --- | --- | --- | --- |
+| 1 | Site master file or facility overview | What the site does and how it is organised | That the specific process is validated |
+| 2 | Equipment qualification records (DQ/IQ/OQ/PQ) | Instruments and utilities are fit for purpose | That the peptide method is validated |
+| 3 | Process validation report, three consecutive lots | The process is reproducible at the current scale | That every future lot will match |
+| 4 | Analytical method validation | The test methods are suitable for their intended use | That the sample was taken correctly |
+| 5 | Batch records for the lots offered | What was actually charged, done, and yielded | That the record was reviewed independently |
+| 6 | Deviation and change-control log | How failures were handled and what changed | That no undisclosed change occurred |
+
+The sixth part is the one buyers ask for least and learn from most. A facility with no deviations in three years is either very good or not recording them. A facility that can show a deviation, a root cause, a corrective action, and a follow-up lot that passed is demonstrating a working quality system.
+
+## Analytical Package: Identity, Purity, Content, Counterion
+
+A certificate with a single purity number is not an analytical package. The package should answer four separate questions.
+
+| Question | Method | Typical acceptance criterion | What a weak report omits |
+| --- | --- | --- | --- |
+| Is it the right molecule? | ESI-MS or MALDI-TOF, with MS/MS where needed | Mass within ±0.5 Da (unit resolution) or ±5 ppm (HRMS) | Charge states, tolerance, or sequence coverage |
+| How pure is the main peak? | RP-HPLC at 220 nm | ≥98.0% by area, with impurities integrated | Column, gradient, wavelength, or impurity list |
+| How much peptide is present? | Assay by HPLC, nitrogen analysis, or mass balance | Stated as a range on the labelled basis | Basis (as-is or anhydrous), water, counterion |
+| What else is in the powder? | Karl Fischer, ion chromatography, residual solvents | Water ≤5.0%; counterion within specification | Water result, counterion identity, or solvent data |
+
+The four questions are independent. A lot can be 99% pure by HPLC and still contain 20% water and counterion by mass. A lot can have the right mass and the wrong counterion. A brand that prints "99% pure" without a basis is repeating a number it cannot defend.
+
+For a brand's own release testing, the minimum is an identity check and a purity check on receipt, with a retained sample from each lot. The [COA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports/) walks through the field order, and the [quality assurance process guide](/blog/peptide-quality-assurance-process-a-researchers-guide-to-sourcing-integrity/) covers the incoming inspection workflow.
+
+## Process Documentation and In-Process Controls
+
+A batch record should show more than the final yield. It should show the sequence of operations, the quantities charged, the in-process results, and the identity of the operator and reviewer.
+
+For peptide synthesis, the useful in-process controls include resin loading, coupling completion, deprotection completion, cleavage efficiency, purification fraction pooling, and lyophilisation cycle parameters. Each control should have a target, a method, and a response when the target is missed.
+
+The lyophilisation cycle deserves separate attention because it is often the least documented step. A cycle has three phases: freezing, primary drying under vacuum, and secondary drying. The product temperature during primary drying must stay below the collapse temperature of the formulation, or the cake can melt, shrink, or form a skin that traps moisture. A facility that cannot produce a cycle summary and a cake appearance record cannot explain why one lot reconstitutes cleanly and another does not.
+
+ICH Q7 lists the batch record content expected for an active pharmaceutical ingredient: batch number, dates, quantities, process steps, in-process controls, yields, and deviations. The list is a useful audit checklist even for a research peptide.
+
+## Change Control and Lot-to-Lot Consistency
+
+Most lot-to-lot variation is not a synthesis failure. It comes from a change: a new resin supplier, a different coupling reagent lot, a revised cleavage cocktail, a longer hold time before purification, or a new lyophiliser load.
+
+A functioning change-control system evaluates those changes before they are implemented. It asks whether the change affects the specification, whether analytical method suitability needs to be rechecked, and whether a bridging lot is required. A facility that changes raw material suppliers without notifying the brand has removed the brand's ability to investigate a later failure.
+
+The brand's protection is contractual and practical. The quality agreement should require notification of changes to the manufacturing process, the raw material source, the analytical method, and the site of manufacture. The brand should also keep retention samples from each lot, typically for six to twelve months past the labelled expiry, so a later dispute can be tested rather than argued.
+
+Three consecutive lots are the minimum evidence for process consistency. A brand that sees a specification failure in the first three lots should not scale up until the cause is identified.
+
+## Private-Label Scale-Up: What Breaks First
+
+Scale-up changes the surface-to-volume ratio, the mixing regime, the filtration time, and the lyophilisation load. The chemistry is the same; the physics is not.
+
+The first failure is usually incomplete coupling on a longer sequence. The second is an impurity that was below the detection limit at small scale and becomes visible when the load increases. The third is a lyophilisation cycle that was transferred without adjusting the shelf temperature and vacuum for the larger load. The fourth is packaging: a vial that was adequate for a 5 mg fill may not protect a 10 mg fill from moisture ingress.
+
+A brand should plan scale-up as a sequence, not a jump:
+
+1. Qualify the facility and the analytical methods.
+2. Run a small validation lot and test it on receipt.
+3. Run three consecutive lots at the target scale.
+4. Compare impurity profiles, water content, and cake appearance across the three.
+5. Hold a bridging lot before committing to a full production run.
+
+The [large-scale synthesis and sourcing guide](/blog/peptides-production-an-operational-guide-to-large-scale-synthesis-and-sourcing/) covers the operational sequence, and the [manufacturer verification protocol](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) provides a vendor scorecard structure.
+
+## A 30-Day Qualification Sequence
+
+A brand does not need a year to decide whether a facility is worth a first order. It needs a structured four-week review.
+
+**Days 1–5: Document request.** Ask for the site overview, the equipment list, the process flow, the analytical method summaries, and a sample batch record with commercial information redacted.
+
+**Days 6–10: Certificate review.** Select one lot and read the certificate in field order. Check the dates, the methods, the mass tolerance, the water result, and the counterion. Ask for the raw chromatogram and spectrum.
+
+**Days 11–15: Capability interview.** Ask how coupling completion is monitored, how truncated sequences are removed, how the lyophilisation cycle is designed, and what happens when a lot fails specification. Record the answers.
+
+**Days 16–20: Sample order.** Place a small order. Keep one vial unopened, test one on receipt, and retain the third. Compare the receipt result with the certificate.
+
+**Days 21–25: Deviation probe.** Ask for a redacted deviation report and the corrective action. A facility that cannot produce one has not had a deviation, or does not document them.
+
+**Days 26–30: Commercial review.** Confirm the quality agreement, the change-notification clause, the retention-sample period, and the lead time for a repeat lot. Decide whether to qualify, qualify with conditions, or decline.
+
+## Red Flags in Facility Claims
+
+| Claim | Why it needs a follow-up |
 | --- | --- |
-| Demand orthogonal identity data | Require both RP-HPLC purity and MS identity confirmation, since a single purity number hides content and counterion issues. |
-| Treat retention samples as standard | Ask for a defined retention-sample period so identity or content disputes can be resolved without reordering. |
-| Build audit rights into contracts | Include right-to-audit, recall, and holdback clauses so supplier commitments are enforceable, not just verbal. |
-| Track supplier performance numerically | Monitor batch-acceptance rate and COA turnaround across multiple lots, not just a single purchase. |
-| Choose suppliers built for traceability | Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory. |
+| "GMP-certified" | GMP is a regulatory framework, not a certificate issued by a global body; ask which authority and which scope |
+| "ISO-certified" | ISO 9001 covers quality management, not peptide-specific process validation |
+| "99% purity guaranteed" | A guarantee without a method, a basis, and a lot number is a marketing statement |
+| "Third-party tested" | Ask which laboratory, which method, and whether the report is lot-specific |
+| "No deviations" | Ask whether deviations are recorded and whether the log is available |
+| "Same facility as a major brand" | Ask for the site name and the scope of the work; a shared site is not a shared process |
+| "Custom synthesis in 10 days" | Ask whether the time includes purification, lyophilisation, and release testing |
 
-## Table of Contents
+Inconsistent quality across lots is covered in [why peptide suppliers are inconsistent](/blog/why-peptide-suppliers-inconsistent-quality/). A facility that answers these questions directly is not necessarily a good facility. A facility that cannot answer them is a poor bet for a brand that intends to stay in the market.
 
-- Why Validated Synthesis Facilities Matter for Brands Sourcing Research Peptides
-- What Goes Wrong When Brands Skip Facility Validation
-- The Analytical and Process Checklist Brands Should Require
-- What to Ask Suppliers Before Signing a Contract
-- How Validation Supports Private-Label Scale-Up
-- Sourcing Through Peptides of China’s Validated Facility Network
-- Sources
-
-## Why Validated Synthesis Facilities Matter for Brands Sourcing Research Peptides
-
-A validated facility, in the peptide-specific sense procurement teams need, runs reproducible solid-phase peptide synthesis (SPPS) with documented process controls, maintains master batch records for every lot, and preserves chain-of-custody from raw material intake through final vialing. That combination is what separates a manufacturer from a reseller repackaging whatever stock happens to be available that quarter.
-
-A facility worth qualifying should be able to produce, on request:
-
-- A COA showing both RP-HPLC purity and MS-confirmed identity.
-- Executed batch records tied to a specific lot number.
-- Retention samples held for a defined period after shipment.
-- Stability data and, for parenteral-intended material, endotoxin testing results.
-
-The EMA’s 2026 guidance on synthetic peptides was written for pharmaceutical development, but its analytical expectations, [orthogonal identity confirmation, explicit impurity profiling, documented process controls](https://www.chemverify.com/learn/ema-synthetic-peptide-guideline-2026), work as a benchmarking reference even when the material in question is labeled for research use only. A supplier that voluntarily meets that bar is signaling something a purity number alone cannot.
-
-## What Goes Wrong When Brands Skip Facility Validation
-
-Sourcing from unvalidated suppliers introduces risks that rarely show up until a brand has already committed inventory or, worse, published research built on inconsistent material.
-
-- **Mislabeled purity.** Purity claims often represent chromatographic area percent rather than actual peptide content by mass once counterions and residual salts are factored in.
-- **Variable peptide content.** Two vials from the same nominal lot can carry meaningfully different amounts of active peptide once salt form and moisture content are accounted for.
-- **Unreported impurities.** Peptide-related impurities can sit below a vendor’s detection threshold simply because nobody ran an orthogonal method to look for them.
-- **Batch-to-batch drift.** Even competent synthesis operations show lot variation; without retention samples and incoming QC, that drift goes undetected.
-
-> A vendor showing strong analytical characterization on one lot offers no guarantee the next lot will match it. [Lot-to-lot variability is a known feature of peptide synthesis](https://compoundreview.org/methods/peptide-purity-standards/), not an edge case, which is exactly why incoming verification and retention samples exist.
-
-Downstream, these gaps surface as failed QC on receipt, biological activity that shifts between lots for no obvious reason, or, in published research, results that other labs simply cannot reproduce.
-
-## The Analytical and Process Checklist Brands Should Require
-
-Procurement teams and lab managers get the most protection from a short, non-negotiable analytical package attached to every purchase order.
-
-1. **Identity confirmation by mass spectrometry.** HPLC alone tells you something eluted at the right retention time, not that it’s the right molecule.
-2. **Chromatographic purity via RP-HPLC**, ideally referencing a defined method consistent with USP <621> practices so results are comparable across suppliers.
-3. **Peptide content or assay data**, separate from purity percentage, since content by mass and area percent are different measurements that get conflated constantly in vendor marketing.
-4. **Counterion characterization.** Acetate, TFA, and other salt forms affect both mass calculations and, in some research contexts, biological response.
-5. **Impurity profiling with stated thresholds.** The EMA guideline flags peptide-related impurities above 1.0% as requiring identification, using orthogonal methods like mass spec rather than HPLC alone.
-6. **Executed batch records**, including in-process control logs. Coupling completeness checks (Kaiser, chloranil, or TNBS tests) tell you whether the synthesis itself was monitored, not just the finished product.
-7. **Lyophilization and vialing cycle summaries.** Freeze-drying parameters affect reconstitution behavior and long-term stability, and a facility that can’t produce cycle data usually can’t explain inconsistent reconstitution complaints either.
-8. **Stability data and storage instructions**, tied to the specific formulation and vial type shipped.
-
-On-receipt, the minimum defensible workflow is a rapid RP-HPLC area-percent check. If that result looks off-spec, request the vendor’s raw MS spectrum and assay data before accepting or rejecting the lot. Escalate to independent third-party testing only when identity or content disputes persist after that exchange.
-
-**Pro Tip:** *For mechanistic studies where exact concentration matters less than molecular identity, prioritize MS confirmation first. For dose-response work, prioritize the assay/content data first, since a purity percentage tells you almost nothing about the actual mass of active peptide in a vial.*
-
-## What to Ask Suppliers Before Signing a Contract
-
-The questions procurement asks during qualification determine how much leverage a brand has later, when something goes wrong.
-
-1. **Request full COAs for the last three lots produced**, not just the one being offered for sale. This surfaces batch-to-batch consistency issues before you’ve committed to a purchase.
-2. **Ask for a description of the SPPS process itself**, including resin type, coupling chemistry, and whether in-process monitoring (Kaiser test, coupling equivalence records) is documented.
-3. **Confirm change-control policy.** If a facility switches raw material suppliers or coupling reagents, does that trigger new validation, or does nobody tell you?
-4. **Establish audit availability**, even if it’s a documentation review rather than an on-site visit.
-
-Contract language should include a right-to-audit clause, a defined retention-sample period (commonly six months to a year past expiry), recall and holdback terms if a lot fails post-shipment testing, and acceptance sampling windows with clear dispute-resolution timelines. [Master batch records, executed batch records, and documented deviation handling](https://peptideforge.com/process-automation.html) are standard asks in industrial peptide manufacturing contexts, and a facility that resists providing them is telling you something about its own internal controls.
-
-Custom peptide batches typically run several weeks from order confirmation to shipment, depending on sequence complexity and batch size, with sample testing windows layered on top before full production release. Track supplier performance with concrete metrics: batch-acceptance rate on incoming QC, COA turnaround time, and deviation frequency across consecutive lots. These numbers, tracked over two or three purchase cycles, tell you more about a supplier than any single COA ever will. For teams building out a formal vendor scorecard, a [vendor qualification checklist](/blog/china-peptide-manufacturer-verification-a-2026-b2b-sourcing-protocol/) built around these categories keeps evaluations consistent across suppliers.
-
-## How Validation Supports Private-Label Scale-Up
-
-Brands scaling a private-label peptide line depend on predictability more than almost anything else. A validated facility delivers that in a few concrete ways:
-
-- **Faster scale-up**, because process parameters are already documented instead of being reverse-engineered from a single successful lot.
-- **Predictable batch release**, since in-process controls catch problems before a batch ships rather than after a customer complains.
-- **Fewer QC rejections at receipt**, which reduces the internal lab workload spent re-testing material that should have passed the first time.
-- **Simpler continuity planning**, because a facility with documented change control won’t quietly swap raw materials without notice.
-
-A practical sequence looks like this: order an initial validation lot, run full incoming QC against the vendor’s COA, transfer the analytical method to in-house testing once confidence is established, then set retention-sample checkpoints for every subsequent lot. That structure turns supplier qualification into an ongoing verification habit rather than a one-time trust exercise. For teams formalizing this into a repeatable operational process, an [operational guide to large-scale synthesis and sourcing](/blog/peptides-production-an-operational-guide-to-large-scale-synthesis-and-sourcing) walks through the scale-up sequence in more detail.
-
-### A procurement-side note on where to spend your time
-
-Verify identity and content on day one. That’s non-negotiable. Batch records and retention sample policies can be confirmed slightly later in the relationship, once a supplier has proven the analytical basics hold up across two or three lots. Where I’d tell any procurement lead to spend audit bandwidth: process documentation and change control, not marketing copy. A facility that can explain its coupling chemistry and show you a deviation log is worth more than one with a glossy purity certificate and nothing behind it. Balance cost and lead time against documentation completeness, and never let a fast quote override a supplier’s inability to produce records.
-
-## Sourcing Through Peptides of China’s Validated Facility Network
-
-Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory.
-
-For teams evaluating a first order, the [Epithalon product page](/catalog/epithalon) shows the COA-inclusion approach in practice, and [PE-22-28](/catalog/pe-22-28) is a common starting point for procurement teams running an initial validation lot before committing to volume. If you’re building a supplier qualification file, request a COA and batch record sample directly through the product page before placing a full order. That single step will tell you more about a facility than any marketing claim on its site.
-
-## Sources
-
-- [EMA Synthetic Peptide Guideline 2026 Explained | ChemVerify](https://www.chemverify.com/learn/ema-synthetic-peptide-guideline-2026)
-- [Peptide purity standards: HPLC, mass spec, and what >98% really means | Compound Review](https://compoundreview.org/methods/peptide-purity-standards/)
-- [Peptide Forge | Industrial Peptide Manufacturing Documentation](https://peptideforge.com/process-automation.html)
+For catalog examples of the qualification approach, see [Epithalon](/catalog/epithalon/) and [PE-22-28](/catalog/pe-22-28/); ordering terms are in the [FAQ](/faq/).
 
 ## The Author's Take
 
-**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+**Position.** I would qualify a peptide facility on its batch records and change-control log before I looked at its certificate. The certificate tells me what one sample did. The batch record tells me whether the next lot has a chance of doing the same. For a private-label brand, the second question is the business.
 
-**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Reasoning.** Purity numbers are easy to market and hard to verify. The documents that predict consistency are less photogenic: coupling controls, cleavage records, lyophilisation cycles, deviation reports, and change notifications. A facility that maintains them can explain a failure; a facility that does not will explain it with a new certificate. The EMA guideline and ICH Q7 give a buyer a public standard to ask against, which shifts the conversation from trust to evidence.
 
-**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+**Disclosure.** Peptides of China sells research peptides. This article is a supplier-qualification judgment, not an effects claim, and all products discussed are for research use only.
 
-## Related Products
+## Sources
 
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+1. European Medicines Agency. Guideline on the Development and Manufacture of Synthetic Peptides. EMA/CHMP/CVMP/QWP/367182/2025. https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-development-manufacture-synthetic-peptides_en.pdf
+2. International Council for Harmonisation. Q7: Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients. https://database.ich.org/sites/default/files/Q7%20Guideline.pdf
+3. International Council for Harmonisation. Q2(R2): Validation of Analytical Procedures. https://database.ich.org/sites/default/files/ICH_Q2%28R2%29_Guideline_2023_1130.pdf
+4. International Council for Harmonisation. Q1A(R2): Stability Testing of New Drug Substances and Products. https://database.ich.org/sites/default/files/Q1A%28R2%29%20Guideline.pdf
+5. U.S. Food and Drug Administration. Analytical Procedures and Methods Validation for Drugs and Biologics: Guidance for Industry. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/analytical-procedures-and-methods-validation-drugs-and-biologics
+6. United States Pharmacopeia. USP General Chapter &lt;1058&gt; Analytical Instrument Qualification. https://doi.org/10.31003/uspnf_m1124_10101_01
+7. Kaiser E, Colescott RL, Bossinger CD, Cook PI. Color test for detection of free terminal amino groups in the solid-phase synthesis of peptides. Analytical Biochemistry. 1970;34(2):595–598. https://doi.org/10.1016/0003-2697(70)90146-6
+8. U.S. Food and Drug Administration. Part 11, Electronic Records; Electronic Signatures. https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-11
