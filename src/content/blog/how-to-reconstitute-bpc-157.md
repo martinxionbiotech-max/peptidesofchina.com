@@ -112,16 +112,12 @@ For a laboratory that prepares stocks regularly, keep a preparation log with the
 
 ## Common Failure Modes
 
-| Symptom | Likely cause | Corrective action |
-| --- | --- | --- |
-| Cloudy solution | Incomplete dissolution, contaminated solvent, or pH outside the solubility range | Check solvent and pH; swirl longer; filter and inspect |
-| Persistent film on the vial wall | Peptide adsorbed to glass or incomplete wetting | Use low-binding tubes; add solvent in portions; check concentration |
-| Foam that does not dissipate | Shaking or rapid solvent addition | Swirl gently; vent the vial; let the foam settle |
-| Low concentration by HPLC | Content lower than label; volumetric error; filter adsorption | Recalculate from the certificate; check glassware; measure after filtration |
-| New impurity peak | Degradation, oxidation, or contamination | Discard the stock; check storage and light exposure |
-| Cake collapsed before opening | Lyophilisation failure or moisture ingress | Do not use; request a replacement lot and a cycle record |
-
-More troubleshooting is in the [solubility guide](/blog/peptide-solubility-troubleshooting/). For the catalog listing, see [BPC-157](/catalog/bpc-157/); ordering terms are in the [FAQ](/faq/).
+- **Cloudy solution.** Incomplete dissolution, contaminated solvent, or a pH outside the solubility range. Check the solvent and pH, swirl longer, then filter and inspect.
+- **Persistent film on the vial wall.** Peptide adsorbed to glass or incomplete wetting. Use low-binding tubes, add solvent in portions, and measure the concentration after transfer.
+- **Foam that does not dissipate.** Shaking or rapid solvent addition. Swirl gently, vent the vial, and let the foam settle before measuring.
+- **Low concentration by HPLC.** Content lower than the label, a volumetric error, or filter adsorption. Recalculate from the certificate, check the glassware, and measure after filtration.
+- **New impurity peak.** Degradation, oxidation, or contamination. Discard the stock and check storage and light exposure.
+- **Collapsed cake before opening.** Lyophilisation failure or moisture ingress. Do not use the vial; request a replacement lot and a cycle record.
 
 ## The Author's Take
 
