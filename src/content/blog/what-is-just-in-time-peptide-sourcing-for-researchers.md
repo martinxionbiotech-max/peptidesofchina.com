@@ -1,166 +1,143 @@
 ---
-title: "What Is Just In Time Peptide Sourcing For Researchers"
+title: "Just-in-Time Peptide Sourcing: Where It Works"
 slug: "what-is-just-in-time-peptide-sourcing-for-researchers"
-description: "Discover what is just in time peptide sourcing and how it enhances efficiency in research. Learn to streamline your supply chain today!"
-
-
-
-
-
+description: "JIT procurement for research peptides: lead-time mapping, vial-level demand signals, buffer-stock math, and the QC steps that cannot be compressed."
 author: "POC Tech Team"
-updated: "2026-11-17"
+updated: "2026-11-22"
 ---
-This guide examines what is just in time peptide sourcing for researchers from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
+Just-in-time works when lead time is short relative to the cost of holding stock. For research peptides, synthesis and release set a floor that no procurement team can compress, so JIT becomes a forecasting and buffer problem rather than a zero-inventory policy. The labs that run it well hold less stock than their peers, not none.
 
-Just-in-time (JIT) peptide sourcing is defined as the procurement or production of peptide materials precisely when needed to match downstream synthesis schedules, eliminating excess inventory and minimizing lead-time risk. In practice, this means [synchronizing critical inputs](https://www.sinopep.com/in-house-biocatalytic-synthesis-of-non-canonical-amino-acids/) such as non-canonical amino acids (NCAAs) with solid-phase peptide synthesis (SPPS) timelines rather than stockpiling materials in advance. Organizations like Sinopep and GenScript have demonstrated that this model reduces supply chain vulnerabilities while improving manufacturing efficiency. For researchers and procurement professionals, understanding JIT peptide sourcing is the foundation for building a supply chain that delivers consistent quality and predictable availability across every study phase.
+This guide explains where JIT fits in peptide procurement, how to map the lead time you actually have, how to size a buffer with a defensible calculation, and when a stockpiling model is the better choice. It is written for laboratory operations and research purchasing.
 
-## What is just-in-time peptide sourcing and how does it work?
+## JIT is a lead-time problem, not a storage trick
 
-JIT peptide sourcing aligns the procurement or production of critical starting materials (CSMs) strictly with the immediate requirements of the peptide synthesis schedule. The model eliminates the traditional practice of holding large pre-synthesized batches, replacing it with tightly coordinated supply windows that match each production run. This approach is most clearly demonstrated in the integration of enzymatic NCAA production with downstream SPPS workflows.
+The core idea is simple: order so that material arrives shortly before it is needed, and avoid paying for inventory that sits unused. The idea assumes that replenishment is reliable and that the cost of a stockout is manageable. Both assumptions need testing before a lab adopts JIT for a peptide that takes weeks to make.
 
-The operational sequence follows a defined logic:
+A peptide is not a catalog consumable with a two-day restock. The synthesis run, purification, lyophilization, release testing, and documentation each take time. Some of those steps can be parallelized; few can be shortened without changing the product. JIT therefore starts with a lead-time map, not a spreadsheet of order quantities.
 
-1. Map the SPPS schedule and identify all CSMs required at each synthesis stage.
-2. Qualify suppliers or establish in-house biocatalytic capacity to produce NCAAs on demand.
-3. Set procurement triggers based on synthesis milestones rather than calendar-based reorder points.
-4. Confirm batch quality and stereochemical purity before each synthesis run begins.
-5. Adjust procurement windows dynamically as synthesis timelines shift during development.
+The second assumption is the cost of a stockout. If a study can pause for a week without losing a cohort or a scheduled instrument slot, a thin buffer is reasonable. If a delay invalidates a run, the buffer should be sized to the cost of failure, not to the carrying cost of a few vials.
 
-In-house biocatalytic synthesis of NCAAs enables JIT manufacturing by providing controlled, stereochemically pure CSMs synchronized to the SPPS schedule. This model removes dependence on third-party chemical suppliers, which is the most common source of unplanned delays in peptide programs. When a CDMO or research facility produces NCAAs internally, it controls both the timing and the quality of the input, eliminating the inventory buffers that traditional sourcing requires.
+## Map the lead time you actually have
 
-Supply chain security in peptide manufacturing begins at enzymatic NCAA production, which cannot be effectively outsourced without increasing risk. This is a structural reality, not a preference. Outsourcing this step introduces a single point of failure that JIT models are specifically designed to avoid.
+Ask the supplier for a written lead time broken into stages. A single average hides the step that is most likely to move. The table below shows a planning range for a catalog peptide; confirm the actual values for the product and season you are buying.
 
-**Pro Tip:** *Before adopting a JIT model, map every CSM to its sole-source supplier. Any input with only one qualified external vendor is a single point of failure. Address these dependencies first, either by qualifying a second supplier or establishing in-house production capacity.*
-
-## What are the benefits and challenges compared to traditional sourcing?
-
-Late-stage peptide development prioritizes [supply reliability and timeline risk](https://pharmasource.global/content/expert-insight/peptide-synthesis-strategy-for-late-stage-development-what-biotech-and-pharma-buyers-need-to-know/) over cost minimization, which is the core reason JIT sourcing has gained traction in advanced programs. Traditional bulk inventory sourcing offers simplicity but introduces its own risks: material degradation during storage, capital tied up in unused stock, and quality drift across long-held batches. JIT sourcing addresses each of these directly.
-
-| Factor | JIT sourcing | Traditional bulk sourcing |
+| Stage | Planning range | What can move it |
 | --- | --- | --- |
-| Inventory cost | Low; materials procured on demand | High; large batches held in storage |
-| Supply reliability | High when synchronized correctly | Moderate; dependent on batch shelf life |
-| Lead-time risk | Reduced through schedule alignment | Higher; delays affect entire stockpile |
-| Quality consistency | Controlled per synthesis run | Variable across stored batches |
-| Scalability | Requires precise coordination | Easier to scale with pre-built stock |
-| Regulatory exposure | Lower with in-house production | Higher with multiple external vendors |
+| Order confirmation and stock check | 1–2 working days | Custom requirements, payment review |
+| Synthesis or stock allocation | 10–20 working days | Queue position, resin availability |
+| Purification and lyophilization | 3–7 working days | Crude purity, cycle scheduling |
+| Release testing | 3–5 working days | HPLC queue, sterility incubation |
+| Documentation | 1–2 working days | Certificate review, signatory |
+| Transit and customs | 5–10 working days | Route, carrier, inspection |
 
-The benefits are clear for programs with defined synthesis schedules. JIT sourcing reduces inventory carrying costs, improves batch-to-batch consistency, and shortens the gap between material availability and synthesis execution. For procurement teams managing multiple peptide programs simultaneously, these advantages compound across the portfolio.
+The total is not the sum of the midpoints. The stages overlap in some suppliers and queue behind each other in others. Ask which stages run in parallel and which are gated by a single instrument or a single signatory. A release laboratory with one HPLC and one analyst is a bottleneck that a large order cannot fix.
 
-The challenges are equally real. JIT sourcing depends on timing accuracy at every stage. A delay in NCAA delivery of even 48 hours can halt an SPPS run, creating downstream schedule failures that are difficult to recover from. Upstream supply risks, including vendor capacity constraints and raw material shortages, become more consequential when there is no inventory buffer to absorb them.
+Track actual arrival dates against the quoted lead time for at least three orders. The difference between the quote and the observed dates is the number to use in planning. A supplier that quotes 30 days and delivers in 45 is a 45-day supplier, whatever the quote says. The [lead-time evaluation guide](/blog/how-to-evaluate-peptide-supplier-lead-times-in-2026/) sets out the questions to ask at the quotation stage.
 
-Peptide synthesis strategy choices directly impact cost, supply reliability, and commercial timelines, with risks escalating for longer and more complex peptides. This means JIT sourcing is not universally appropriate. Programs involving highly complex sequences with elevated batch failure risk may require hybrid approaches that combine JIT procurement for standard inputs with strategic buffering for high-risk CSMs.
+## Why peptide QC cannot be compressed
 
-**Pro Tip:** *For programs where a single CSM has no qualified backup supplier, maintain a minimum 30-day safety stock for that input only. Apply JIT principles to all other materials. This hybrid buffer strategy preserves the efficiency gains of JIT while protecting against the highest-consequence failure points.*
+Some steps can be accelerated with more capacity. Release testing is not one of them, because the methods have fixed durations and the results have to be valid.
 
-## Which peptide manufacturing strategies align best with JIT sourcing?
+A reversed-phase HPLC assay typically takes 30–60 minutes per injection, plus column equilibration and a system suitability run. Karl Fischer titration takes 5–10 minutes per sample. A LAL endotoxin assay takes about an hour, including controls. Sterility testing under USP &lt;71&gt; requires a 14-day incubation. None of these can be shortened by paying for priority service without changing the method or the acceptance criteria.
 
-The synthesis method selected for a peptide program determines how well JIT sourcing can be integrated. Three primary approaches exist: solid-phase peptide synthesis (SPPS), liquid-phase peptide synthesis (LPPS), and hybrid synthesis combining elements of both.
+That has two consequences for JIT. First, the QC leg sets a minimum replenishment time even when the peptide is in stock. Second, a supplier that offers "same-week release" for a sterile product is either holding pre-tested stock or describing a test it did not run. Ask which tests were performed on the shipped lot and when.
 
-| Synthesis method | JIT compatibility | Key advantage | Primary limitation |
+The release panel also determines how much stock you need to hold. If a lot must be quarantined until sterility results are available, the effective lead time includes the 14-day incubation. A JIT model that ignores the quarantine period will run out of material while the certificate is pending.
+
+## Demand signal at vial level
+
+Most labs forecast in milligrams and order in kits. The mismatch produces either excess or a shortage. Convert demand to the unit you actually consume: vials opened per week, at the fill mass you use.
+
+A workable demand signal has three inputs:
+
+- **Planned experiments.** The number of runs, replicates, and timepoints that will consume the peptide.
+- **Consumption per run.** Measured from previous runs, not estimated from the label.
+- **Attrition.** Vials lost to failed preparations, repeats, and quality holds.
+
+Track the three separately for a quarter. The planned number is usually stable; attrition is the variable that causes surprises. A lab that plans 20 vials and consumes 26 has a 30% attrition rate, and a buffer sized on the plan will fail.
+
+For multi-compound studies, track demand at the compound level but order at the kit level. A 10-vial kit may cover several months for one compound and two weeks for another. The [bulk order minimum guide](/blog/bulk-peptide-order-minimums-2026-research-lab-guide/) explains how kit configuration and minimum order values interact with that calculation.
+
+## Reorder point math that survives variability
+
+A reorder point is the inventory level that triggers a new order. The simple version is average daily use multiplied by lead time. The version that survives real variability adds a safety stock:
+
+**Reorder point = (daily use × lead time) + (z × daily use × lead-time standard deviation)**
+
+The first term covers demand during the lead time. The second covers the chance that the lead time is longer than expected. The z value sets the service level: 1.65 for 95%, 2.33 for 99%.
+
+A worked example. A lab uses 1.2 vials per day, the supplier's observed lead time is 35 days, and the standard deviation of that lead time is 6 days. At a 95% service level:
+
+- Demand during lead time: 1.2 × 35 = 42 vials.
+- Safety stock: 1.65 × 1.2 × 6 = 11.9 vials.
+- Reorder point: 42 + 11.9 = 53.9, rounded to 54 vials.
+
+That is the level at which the next order should be placed, not the level at which the lab runs out. The calculation is only as good as the lead-time data; a supplier with no history gets a wider standard deviation and a larger buffer.
+
+| Model | Stock held | Best for | Main risk |
 | --- | --- | --- | --- |
-| SPPS | High | Modular, step-by-step synthesis aligns with JIT input timing | Batch failure risk increases with peptide length |
-| LPPS | Moderate | Cost-effective for shorter sequences | Less modular; harder to synchronize with JIT windows |
-| Hybrid SPPS/LPPS | Highest | Fragment-level quality control; reduces batch failure risk | Greater coordination complexity |
+| Pure JIT | Minimal, frequent orders | Stable demand, short lead time, low stockout cost | A single delay stops the study |
+| Reorder-point JIT | Buffer sized to lead-time variability | Most research labs | Buffer can drift out of date |
+| Seasonal stockpile | Several months of cover | Long lead times, predictable campaigns | Storage and expiry risk |
+| Vendor-managed stock | Supplier holds inventory | High-volume repeat orders | Less visibility and control |
 
-SPPS is the most widely used method and aligns naturally with JIT sourcing because each synthesis cycle requires a defined set of protected amino acids at a specific time. This modularity makes procurement scheduling straightforward. However, escalating peptide length and complexity significantly increases batch failure risk in SPPS, which means longer sequences require more precise input quality control to protect the JIT schedule.
+The reorder-point model is the practical middle. It keeps inventory visible and ties the buffer to a number rather than a feeling. The [safety stock guide](/blog/role-of-safety-stock-in-peptide-procurement/) covers the same calculation from the supplier side, and the [procurement KPI guide](/blog/procurement-kpis-for-peptide-sourcing-2026-guide/) lists the metrics worth tracking.
 
-Hybrid peptide synthesis, which combines SPPS and LPPS, offers advantages in purity, scalability, and sustainability that align directly with JIT sourcing needs. By synthesizing peptide fragments separately and then coupling them, hybrid methods allow quality verification at the fragment level before final assembly. This reduces the risk of a full-batch failure caused by a single defective input, which is the most costly failure mode in JIT manufacturing.
+## Supplier capacity and booking
 
-[Integrated manufacturing strategies](https://fb-resources.fiercebiotech.com/free/w_asym03/?ch=LS-WP-Asymchem-listing-052126) for peptide programs emphasize scale, speed, supply security, and sustainability to meet evolving development demands. For procurement professionals evaluating CDMOs, the critical question is whether the CDMO controls its own CSM production or relies on external vendors for NCAAs and other specialized inputs. A CDMO that sources NCAAs externally introduces the same single-point-of-failure risk that JIT sourcing is designed to eliminate.
+A JIT model assumes the supplier can slot your order into the queue when you place it. That assumption fails when the supplier's capacity is booked by larger customers or when a single raw material is short.
 
-## What steps should researchers take to implement JIT peptide sourcing?
+Ask three questions before relying on JIT:
 
-Implementing JIT peptide sourcing requires a structured assessment of the existing supply chain before any procurement changes are made. The goal is to identify where the current model introduces risk and where JIT synchronization can replace it.
+1. How many production lines can make this product, and what is the current booking lead time?
+2. Is the resin or a key protected amino acid single-sourced?
+3. What happens to my queue position if I increase the order at short notice?
 
-- Audit all CSMs used in active peptide programs and map each to its current supplier, lead time, and quality record.
-- Identify single-source dependencies, particularly for NCAAs and other specialized inputs that cannot be rapidly substituted.
-- Evaluate whether in-house biocatalytic production of NCAAs is feasible given program scale and facility capabilities.
-- Qualify at least two suppliers for every high-risk input where in-house production is not viable.
-- Establish synthesis-milestone-based procurement triggers to replace calendar-based reorder systems.
-- Implement supply chain monitoring tools that provide real-time visibility into vendor lead times and batch release status.
-- Verify that all suppliers meet applicable quality standards. Researchers and procurement teams must [verify peptide origins and manufacturing methods](https://www.ama-assn.org/public-health/prevention-wellness/what-doctors-want-patients-know-about-injectable-peptides) to avoid risks associated with non-approved or grey-market materials.
-- Document the JIT procurement schedule as part of the program’s quality management system to support regulatory submissions.
+A supplier that cannot answer the first question is not managing capacity; it is accepting orders. A supplier that names a single-source raw material is telling you where the next delay will come from. A supplier that can hold a capacity slot for a standing order is offering something more valuable than a discount.
 
-The [quality verification process](/peptide-quality) applied to each incoming batch is as important as the timing of procurement. A material that arrives on schedule but fails purity specifications causes the same schedule disruption as a late delivery. Full-sequence validation and certificate of analysis review must be built into the JIT workflow, not treated as optional steps.
+For a study with a fixed start date, book the batch rather than the vial. A capacity reservation with a defined specification and a delivery window is more useful than a promise of stock. Put the reservation in writing, with the lot size, the release tests, and the latest acceptable ship date.
 
-Demand forecasting tools, including ERP systems with synthesis-schedule integration, reduce the coordination burden on procurement teams managing multiple programs. The objective is to automate procurement triggers wherever possible, reserving manual oversight for high-risk inputs and exception management.
+## A JIT scorecard
 
-## Key takeaways
+Measure the model, not the intention. Six metrics are enough for a quarterly review.
 
-JIT peptide sourcing delivers supply reliability and batch consistency only when procurement is synchronized with synthesis schedules and every critical starting material has a qualified, verified supply pathway.
+| Metric | Definition | Target |
+| --- | --- | --- |
+| On-time delivery | Orders received within the quoted window | ≥90% |
+| Lead-time accuracy | Quoted versus actual, by stage | Within ±5 working days |
+| Stockout events | Days without usable material | 0 |
+| Inventory cover | Weeks of stock at current use | 6–12 weeks |
+| Expired or unused vials | Value written off | <5% of annual spend |
+| Certificate completeness | Lots with full document pack | 100% |
 
-| Point | Details |
-| --- | --- |
-| JIT definition | Procurement of peptide materials timed precisely to synthesis schedules, eliminating excess inventory. |
-| NCAA synchronization | In-house biocatalytic NCAA production is the most reliable enabler of true JIT supply alignment. |
-| Synthesis method matters | Hybrid SPPS/LPPS offers the highest JIT compatibility for complex, late-stage peptide programs. |
-| Single points of failure | Every sole-source CSM supplier represents a structural risk that must be addressed before JIT adoption. |
-| Quality verification | Batch purity validation must be integrated into the JIT workflow, not treated as a separate process. |
+The targets are starting points. A lab with a long study and expensive downtime may want a higher cover; a lab with a short campaign may accept less. The point is to review the numbers together. On-time delivery without lead-time accuracy is luck; inventory cover without stockout data is guesswork.
 
-## Why JIT sourcing deserves more strategic attention in 2026
+## When JIT is the wrong model
 
-I have watched procurement teams in peptide research treat sourcing as a logistics function rather than a scientific one. That framing is the root cause of most supply chain failures I have seen in this field. When a synthesis run stalls because an NCAA shipment is delayed or a batch fails purity on arrival, the downstream cost is not just financial. It is weeks of lost experimental time and, in commercial programs, potential regulatory timeline slippage.
+JIT is a poor fit in four situations:
 
-What strikes me about the JIT model is that it forces a discipline that most procurement teams avoid: mapping dependencies before they become failures. The organizations that implement JIT sourcing well are the ones that have already done the hard work of qualifying their supply base and understanding exactly where their synthesis schedules are vulnerable. The JIT model does not create that discipline. It reveals whether it already exists.
+- **The product is custom or single-source.** A custom sequence may have a 12–20 week first run and a long requalification if the route changes. Holding a batch is cheaper than restarting.
+- **The study has a fixed start date.** A delay is not a carrying cost; it is a lost cohort or an idle instrument.
+- **The material is stability-limited.** A buffer that exceeds the retest period becomes waste. Size the buffer to the stability data, not to the discount.
+- **The supplier's capacity is opaque.** If you cannot get a booking commitment, you cannot run JIT.
 
-The emerging role of biocatalytic NCAA production as a JIT enabler is the development I find most significant in 2026. When a facility can produce stereochemically pure NCAAs on a defined schedule tied directly to its SPPS calendar, it removes the most unpredictable variable in the entire supply chain. That is not a marginal improvement. It is a structural change in how peptide manufacturing risk is managed.
-
-My recommendation for procurement professionals evaluating their sourcing models: do not adopt JIT as a cost-reduction strategy. Adopt it as a quality and reliability strategy. The inventory savings are real, but they are secondary to the primary benefit, which is a supply chain that does not fail at the worst possible moment.
-
-> *— Samir*
-
-## How Peptides of China supports reliable peptide sourcing
-
-Peptides of China coordinates sourcing from established Chinese manufacturing facilities together with international logistics. Every peptide in the [research catalog](/catalog) is backed by full-sequence validation and a certificate of analysis, giving procurement teams the documentation they need to integrate sourcing into a JIT workflow without additional verification overhead. Products like [Epithalon](/catalog/epithalon) and [SNAP-8](/catalog/snap-8) are available with consistent batch quality and delivery timelines aligned to research schedules. For teams that cannot afford supply disruptions, Peptides of China coordinates sourcing from established Chinese manufacturing facilities together with international logistics.
-
-## FAQ
-
-### What is just-in-time peptide sourcing?
-
-Just-in-time peptide sourcing is the practice of procuring or producing peptide materials precisely when needed to match synthesis schedules, eliminating excess inventory and reducing lead-time risk. It typically involves synchronizing critical starting materials such as NCAAs with the SPPS production timeline.
-
-### How does JIT sourcing differ from traditional peptide procurement?
-
-Traditional procurement holds large pre-synthesized batches in storage, while JIT sourcing triggers procurement based on synthesis milestones. JIT reduces inventory costs and improves batch consistency but requires precise supply chain coordination and qualified suppliers.
-
-### What is the biggest risk in JIT peptide sourcing?
-
-The primary risk is a single point of failure at the CSM level, particularly for NCAAs sourced from a sole external vendor. In-house biocatalytic production of these inputs is the most effective way to eliminate this vulnerability.
-
-### Which synthesis method works best with JIT peptide delivery?
-
-Hybrid synthesis combining SPPS and LPPS offers the highest compatibility with JIT sourcing because it allows fragment-level quality control and reduces full-batch failure risk. SPPS alone is suitable for shorter, less complex sequences.
-
-### How should procurement teams verify peptide quality in a JIT model?
-
-Teams must verify manufacturing origin and quality systems for every supplier and require a certificate of analysis for each incoming batch. Quality verification must be built into the JIT procurement workflow, not conducted as a separate downstream step.
-
-## Recommended
-
-- [Research Peptide Quality — How We Source and What We Verify](/peptide-quality)
-- [Buy SNAP-8 | Research Grade | Peptides of China](/catalog/snap-8)
-- Buy Research Peptides of China | Manufacturer Direct
-- [Buy KLOW | Research Grade | Peptides of China](/catalog/klow)
+In those cases, a stockpile with a defined retest date is the safer model. The [lyophilized stability guide](/blog/peptide-stability-why-lyophilized-peptides-are-far-more-stable-than-you-think/) explains why dry peptide stores well, and the [reconstitution guide](/blog/peptide-lyophilization-reconstitution-guide-for-researchers/) covers the point at which storage changes from an asset to a liability.
 
 ## The Author's Take
 
-**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+**Position.** JIT is useful for the consumable part of a peptide program and misleading for the synthesis part. A lab should run a reorder-point model with a buffer sized to lead-time variability, and it should book capacity for any custom or long-lead item. Calling that "JIT" is fine; pretending the buffer is zero is not.
 
-**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Reasoning.** The lead time is dominated by steps the buyer cannot accelerate: synthesis queue, purification, lyophilization, and release testing. A zero-inventory policy converts those fixed durations into study risk. The reorder-point calculation keeps the risk visible and prices it in vials rather than in vague assurances. The scorecard then shows whether the supplier is actually delivering the lead time it quoted. That is a more honest model than either pure JIT or a freezer full of unlabelled stock.
 
-**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+**Disclosure.** Peptides of China sells research peptides. This article is an operations and sourcing judgment, not a claim about any compound's effects. Products are supplied for laboratory research use only and are not for human or veterinary use. Lead-time ranges are planning examples; confirm current values with the supplier before committing to a study schedule.
 
 ## Sources
 
-- [www.sinopep.com](https://www.sinopep.com/in-house-biocatalytic-synthesis-of-non-canonical-amino-acids/)
-- [pharmasource.global](https://pharmasource.global/content/expert-insight/peptide-synthesis-strategy-for-late-stage-development-what-biotech-and-pharma-buyers-need-to-know/)
-- [fb-resources.fiercebiotech.com](https://fb-resources.fiercebiotech.com/free/w_asym03/?ch=LS-WP-Asymchem-listing-052126)
-- [www.ama-assn.org](https://www.ama-assn.org/public-health/prevention-wellness/what-doctors-want-patients-know-about-injectable-peptides)
-
-## Related Products
-
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+1. ICH Q7, Good Manufacturing Practice Guide for Active Pharmaceutical Ingredients (2000). https://database.ich.org/sites/default/files/Q7%20Guideline.pdf
+2. ICH Q10, Pharmaceutical Quality System (2008). https://database.ich.org/sites/default/files/Q10%20Guideline.pdf
+3. ICH Q1A(R2), Stability Testing of New Drug Substances and Products (2003). https://database.ich.org/sites/default/files/Q1A%28R2%29%20Guideline.pdf
+4. ICH Q6A, Specifications: Test Procedures and Acceptance Criteria (1999). https://database.ich.org/sites/default/files/Q6A%20Guideline.pdf
+5. ISO 9001:2015, Quality management systems — Requirements. https://www.iso.org/standard/62085.html
+6. 21 CFR 211.166, Stability testing. https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211/subpart-F/section-211.166
+7. 21 CFR 211.84, Testing and approval or rejection of components, drug product containers, and closures. https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211/subpart-E/section-211.84
+8. PIC/S, GMP Guide and publications. https://picscheme.org/en/publications
