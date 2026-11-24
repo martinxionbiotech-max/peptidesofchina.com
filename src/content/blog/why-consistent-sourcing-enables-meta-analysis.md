@@ -1,150 +1,135 @@
 ---
-title: "Why Consistent Sourcing Enables Meta Analysis"
+title: "Why Consistent Sourcing Enables Meta-Analysis"
 slug: "why-consistent-sourcing-enables-meta-analysis"
-description: "Discover why consistent sourcing is essential for reliable peptide meta-analysis, ensuring data integrity and reproducibility across studies."
-
-
-
-
-
+description: "How lot-level sourcing records decide whether peptide studies can be pooled: metadata fields, COA evidence, batch bridging, and exclusion rules."
 author: "POC Tech Team"
-updated: "2026-11-17"
+updated: "2026-11-24"
 ---
-This guide examines why consistent sourcing enables meta analysis from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
-Pooling peptide-based experimental results across lots or labs only works when you can prove the input material was consistent. A single Certificate of Analysis tells you about one lot and nothing else. Demonstrating consistency requires comparing [COAs and chromatograms across multiple orders](https://peptideresearchreviews.com/articles/batch-to-batch-consistency-peptide-manufacturing), confirming identity by LC-MS, and running periodic third-party checks against the vendor’s own data.
+A meta-analysis pools effect estimates across studies. Before that arithmetic can mean anything, the inputs have to be comparable. For peptide research, comparability is partly a material question: the same compound name can describe different sequences, different counterions, different purity levels, and different net peptide content. If the lot is not recorded, the analyst cannot tell whether a difference between studies is biological, methodological, or simply a different vial.
 
-The minimum defensible evidence package looks like this:
+That is why sourcing records belong in the methods section of a pooled analysis, not in a procurement appendix. This guide sets out the lot-level metadata worth collecting, what a certificate of analysis can and cannot prove, how to bridge two lots before pooling them, and the exclusion rules that keep a synthesis honest.
 
-- Lot-matched COAs from at least three to five consecutive orders, not just the most recent one
-- Raw chromatogram exports (not screenshots) showing retention time and peak shape
-- LC-MS identity confirmation per lot, since purity percentage alone can’t distinguish a clean peptide from one riddled with isobaric impurities
-- Independent lab verification on a recurring subset of orders, not a one-time audit
+## Pooling is a material question before it is statistical
 
-When these four data points exist and agree with each other across lots, you have grounds to treat the material as a controlled variable in your pooled dataset. When they don’t exist, any statistical comparison across studies is really just measuring supplier noise.
+Heterogeneity in a meta-analysis is usually discussed in statistical terms: fixed versus random effects, I², tau-squared, subgroup analysis. Those tools describe how much the estimates differ. They do not explain why.
 
-## Key Takeaways
+Three sources of difference sit underneath the statistics. Biological variation comes from the model, the sample, and the assay. Methodological variation comes from study design, blinding, and analysis. Material variation comes from the peptide itself: sequence, salt form, purity, water content, and handling history. Material variation is the one most often left uncoded, because the average paper reports a vendor and a catalog number, not a lot.
 
-Pooling peptide data across lots or labs is only defensible when lot-matched COAs, raw chromatograms, LC-MS identity confirmation, and periodic independent testing all agree with each other.
+When material variation is uncoded, it is absorbed into the residual heterogeneity. The analysis then reports that "effects varied across studies" without being able to say whether the variation came from the biology or from the supply chain. That is a weaker conclusion than the data might support, and it is avoidable at the procurement stage.
 
-| Point | Details |
-| --- | --- |
-| One COA proves one lot | Consistency requires comparing COAs and chromatograms across multiple orders, not a single certificate. |
-| Purity percentage alone is insufficient | Two lots at the same purity percentage can have different impurity profiles that shift assay outcomes. |
-| Metadata determines comparability | Lot number, synthesis date, counterion form, and method IDs must be recorded for every batch. |
-| Independent checks catch drift early | A recurring spot-check cadence, not a one-time audit, is what reveals supplier drift over time. |
-| Peptides of China supports traceable sourcing | Manufacturer-side analytical documentation may be available depending on the product and batch, while buyers may arrange independent testing when required. |
+## The minimum dataset for a pooled peptide analysis
 
-## Table of Contents
+The table below is the minimum I would want before assigning a study to a material stratum. It is deliberately short. A dataset that captures these fields can support a lot-level sensitivity analysis; a dataset that captures only the catalog name cannot.
 
-- Why Consistent Sourcing Enables Meta Analysis Across Peptide Lots
-- How to Verify Batch Consistency Before You Pool the Data
-- The Metadata Fields Pooled Analysis Actually Requires
-- Procurement Checklist: Questions to Ask Before You Order
-- Balancing Verification Depth With Budget and Speed
-- Sourcing Peptides With Traceability Built In
-- Frequently Asked Questions
-- Sources
+| Field | Example entry | Why it is needed | Where it comes from |
+| --- | --- | --- | --- |
+| Compound and sequence | Full sequence with terminal modifications | A name does not uniquely identify the molecule | COA, specification sheet |
+| Salt or counterion | Acetate, trifluoroacetate, hydrochloride | Counterion changes mass, solubility, and content | COA, specification |
+| Lot identifier | Manufacturer lot string | Links the study result to a specific batch | Vial label, COA, packing list |
+| Purity method and result | RP-HPLC, C18, 214 nm, 97.4% area | Area percent is method-dependent | COA, chromatogram |
+| Identity method and result | LC-ESI-MS, observed versus theoretical mass | Purity does not confirm sequence | COA, mass spectrum |
+| Water and content | Karl Fischer 3.8% w/w; net peptide 86% | Explains label mass versus peptide mass | COA, amino acid analysis |
+| Storage history | -20 °C since receipt; one freeze-thaw | Handling can change the material | Receiving log, study record |
+| Study identifier | Internal protocol number | Connects the material record to the outcome | Laboratory notebook |
 
-## Why Consistent Sourcing Enables Meta Analysis Across Peptide Lots
+A study that reports the vendor and catalog number but not the lot can still enter a narrative review. It cannot enter a lot-level pooled analysis, because there is no way to tell whether two studies used the same material.
 
-Meta-analysis, in the laboratory sense researchers actually mean when they pool QC and experimental results, depends on one assumption that almost never gets stated out loud: the input material is the same thing every time. Batch consistency isn’t a compliance checkbox. It’s the variable that determines whether your dose-response curve reflects biology or reflects a supply chain hiccup.
+## What a COA can and cannot prove across lots
 
-Synthesis and purification drift is the usual culprit. Lyophilization technique matters too. A poorly controlled freeze-dry cycle changes residual moisture and reconstitution behavior even when the peptide backbone itself is unchanged. [Purity percentage without mass-spec identity confirmation and impurity profiling is not sufficient](https://compoundreview.org/methods/peptide-purity-standards/) to say two lots are equivalent.
+A certificate of analysis is a lot-specific document. It reports the tests performed on a sample from that lot, the methods used, and the results against specified limits. It does not prove that the manufacturing process was controlled across lots, and it does not prove that the sample tested was representative of every vial in the batch.
 
-Here’s a concrete failure mode: Lot A and Lot B both clear [98%](https://en.biotech-pack.com/lqa12.html) HPLC purity. Lot A’s residual [2%](https://pmc.ncbi.nlm.nih.gov/articles/PMC7718793/) is mostly a truncated synthesis byproduct with no receptor activity. Lot B’s residual [2%](https://pubmed.ncbi.nlm.nih.gov/33957255/) is a deamidated variant that partially antagonizes the target receptor. Run both lots in a binding assay and you’ll get two different EC50 values that have nothing to do with the biology you’re studying.
+That distinction matters when a supplier provides a folder of certificates with nearly identical values. Identical purity figures across five lots can mean a stable process. They can also mean that the certificate was copied, that the same sample was tested repeatedly, or that the values were rounded to the same number. The way to tell the difference is to look at the underlying records: chromatogram shape, retention time, impurity profile, mass spectrum, and the date of analysis.
 
-**Statistically, this shows up as inflated between-study heterogeneity.** When researchers pool results assuming uniform input material that wasn’t actually uniform, the variance they attribute to biological effect is partly just supplier variance. That inflates confidence intervals, and in the worst case, it biases the pooled point estimate if the inconsistency correlates with study timing (an early cohort using one lot, a later cohort using a drifted one).
+The [guide to reading a peptide COA](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports) covers the document field by field. For the purpose of a pooled analysis, three checks matter most:
 
-## How to Verify Batch Consistency Before You Pool the Data
+1. **Is the lot string consistent across the certificate, the vial label, and the packing list?**
+2. **Does the certificate name the method, column, gradient, wavelength, and integration rule?**
+3. **Is the chromatogram attached, and does the impurity profile change in a plausible way between lots?**
 
-Treat verification as an ongoing ledger, not a one-time gate. Every order adds a data point, and the pattern across orders is what actually tells you whether a supplier is stable.
+A supplier that cannot answer those questions is not necessarily shipping bad material. It is shipping material whose consistency cannot be demonstrated, which is a different problem with the same consequence for the analysis. The broader pattern is described in [why peptide suppliers deliver inconsistent quality](/blog/why-peptide-suppliers-inconsistent-quality).
 
-1. **Archive every COA the moment it arrives**, tagged with lot number, order date, and vendor batch ID. A COA you can’t retrieve six months later is worthless when a reviewer asks how you know your lots were consistent.
-2. **Request raw chromatogram and LC-MS export files**, not just the summary PDF. Summary sheets round numbers and often crop the baseline, hiding shoulder peaks that matter.
-3. **Align retention times across lots** using the same column type and gradient method where possible. A retention-time shift of even a few tenths of a minute, with no corresponding change in the method, is worth flagging.
-4. **Inspect chromatogram shape**, not just the purity number. A widening peak base or a new shoulder near the main peak usually signals an emerging impurity, even if the integrated purity percentage looks stable.
-5. **Send a subset to an independent lab periodically.** A reasonable cadence is one out of every four to six batches, or a fixed percentage of total order volume, whichever gives you more frequent checks during a new supplier relationship.
-6. **Build a drift-response threshold in advance.** Decide before you see the data what change in retention time, impurity percentage, or LC-MS signal triggers a hold on using that lot in pooled analysis.
+## Batch bridging: showing two lots are interchangeable
 
-**Pro Tip:** *Keep a running spreadsheet with one row per lot and columns for retention time, purity, top impurity percentage, and LC-MS confirmation status. Trends jump out in a spreadsheet in ways they never do scanning individual PDFs.*
+Two lots are interchangeable for a study when the evidence shows that the measured attributes stay inside a margin that the study declares in advance. That is a bridging exercise, not a purity comparison.
 
-Third-party verification matters most in the first several orders with a new vendor, since that’s when you’re establishing whether their [process controls](/blog/peptide-quality-assurance-process-a-researchers-guide-to-sourcing-integrity) are actually reproducible or just lucky once.
+A practical bridge has four elements:
 
-## The Metadata Fields Pooled Analysis Actually Requires
+| Element | Design | Example acceptance rule |
+| --- | --- | --- |
+| Method | Same column, mobile phase, gradient, and detector for both lots | System suitability passes on each run |
+| Reference | Same reference standard and the same integration parameters | Retention time within the established window |
+| Replication | At least three injections per lot, preferably on separate days | Mean difference and confidence interval reported |
+| Margin | A pre-declared equivalence margin tied to the assay's sensitivity | Purity difference no more than 1.0% absolute; mass within 0.1% |
 
-Chromatograms and COAs are only useful if they’re tagged with enough context to compare apples to apples. Analysts pooling results across lots or labs need a standardized metadata schema attached to every batch, not a folder of loose PDFs.
+The margin should be chosen before the comparison. A study that measures a 2% change in a cell assay might tolerate a 1% purity difference; a study that measures a subtle impurity effect might not. The point is to write the number down, then compare the lots against it.
 
-The minimum set includes vendor name, lot number, synthesis date, purification method (and cut, if the peptide went through more than one purification pass), counterion form, analytical methods used (HPLC column and gradient, LC-MS instrument and ionization mode), and reconstitution or storage conditions at the time of testing. Without these fields, you can’t tell whether a shift in assay results reflects a real batch difference or just a different testing method applied inconsistently.
+If the bridge fails, the lots are not automatically unusable. They are simply not interchangeable for pooling. The analyst can keep them as separate strata, report the lot as a covariate, or run a sensitivity analysis that excludes one lot. What the analyst should not do is pool them and attribute the difference to the intervention. For mass verification specifically, the [molecular weight workflow](/blog/peptide-molecular-weight-verification-steps) shows how to compare theoretical and observed values without mixing mass modes.
 
-| Metadata Field | Why It Matters for Pooling |
-| --- | --- |
-| Lot number | Anchors every downstream data point to a specific manufacturing run |
-| Synthesis/purification date | Flags aging or storage-related drift between test and use |
-| Counterion form | Acetate vs. trifluoroacetate salts affect solubility and bioactivity comparisons |
-| Analytical method ID | Lets you confirm chromatograms were generated under comparable conditions |
-| Storage/reconstitution notes | Explains variance that has nothing to do with the peptide itself |
+## Assay drift is a confounder, not a supplier defect
 
-Standardizing instrument and method IDs matters more than it sounds. A chromatogram run on a different column chemistry or gradient slope isn’t directly comparable to one from a prior lot, even if both peptides are chemically identical. Retain raw files in original export formats (not converted screenshots) and keep them indefinitely, since [pharmacopoeial reference standards](https://onlinelibrary.wiley.com/doi/10.1002/psc.1167) shift over time and you may need to re-benchmark old lots against a newer specification. A [structured verification workflow](/blog/peptide-testing-and-analysis-a-professional-guide-to-laboratory-verification) built around these fields turns a stack of certificates into an actual dataset.
+A result can move between two runs of the same lot without anything changing in the vial. Column age, mobile-phase age, instrument calibration, sample preparation, and analyst technique all shift the measurement. If those shifts are not recorded, they can be mistaken for lot-to-lot variation.
 
-## Procurement Checklist: Questions to Ask Before You Order
+Three controls reduce the confusion. First, run a system suitability check before every sequence and keep the values. Second, include a QC sample at the start, middle, and end of the run. Third, record the instrument identifier, column serial number, and analysis date in the study file.
 
-Before a supplier earns a repeat order, procurement teams should confirm they can actually produce the documentation trail this whole approach depends on. Most vendors will hand over one COA without hesitation. Fewer will commit to ongoing traceability.
+CLSI EP05 describes a design for estimating repeatability and within-laboratory precision: 20 days, two runs per day, two replicates per run. That design is more than most research labs need for every batch, but the logic applies at a smaller scale. A lab that has never measured its own precision cannot say whether a two-point difference between lots is meaningful.
 
-1. **Ask for lot-matched COAs from the last three to five batches**, not just a sample certificate from their marketing materials.
-2. **Request raw chromatogram and LC-MS files**, and see how quickly they can produce them. A vendor who has to “check with the lab” for basic export files probably doesn’t archive this data systematically.
-3. **Ask whether they’ll accommodate an independent third-party spot check** on an upcoming order. Hesitation here is a bigger red flag than the answer to almost any other question.
-4. **Ask about their process controls directly**, meaning validated synthesis methods, calibrated instruments, and documented SOPs, rather than accepting a vague assurance of “quality manufacturing.”
-5. **Compare their answers against known gray-market patterns.** Reporting on the [research peptide supply chain](https://www.nutritioninsight.com/news/supplement-peptides-gray-market-oral-delivery.html) has flagged vendors who rotate sourcing without disclosure as a recurring problem; a supplier who can’t explain where a given lot’s API originated is one to scrutinize further. A [comparison of direct manufacturers versus resellers](/blog/direct-sourcing-vs-peptide-resellers) is worth reviewing before locking in a new vendor relationship.
+The [method standardization guide](/blog/how-peptide-protocols-get-standardized-labs) covers the suitability and documentation side in more detail. The key point for meta-analysis is that assay drift belongs in the methods record, because it is a competing explanation for the same observed difference.
 
-Acceptable answers are specific: named lot numbers, dated files, and a described testing cadence. Vague reassurance (“we’re always quality tested”) without documentation is the response pattern that tends to precede batch surprises.
+## Exclusion and sensitivity rules for supplier heterogeneity
 
-## Balancing Verification Depth With Budget and Speed
+Exclusion rules should be written before the analysis begins. A rule written after seeing the result is a decision about the result, not a rule about the data.
 
-Full orthogonal characterization on every lot is expensive and often unnecessary once a vendor has a track record. The practical approach is to front-load scrutiny during the first several orders with any new supplier, then shift to a spot-check cadence once chromatograms and LC-MS results have shown consistent agreement across five or six lots.
+A defensible hierarchy looks like this:
 
-That phased approach does two things: it builds an empirical baseline for what “normal” variation looks like from that specific supplier, and it lets a procurement team set testing budgets around risk rather than testing everything at maximum depth indefinitely. A vendor relationship that has already demonstrated traceable, batch-matched documentation reduces the friction of this process considerably, since you’re verifying continuity rather than starting from zero each order.
+- **Exclude from lot-level analysis:** studies with no lot identifier and no way to obtain one. They can remain in a study-level narrative synthesis.
+- **Downgrade:** studies that report a purity figure without a method. The value can be used as a crude descriptor but not as a quantitative covariate.
+- **Sensitivity analysis:** studies whose material falls below the review's purity threshold, or whose salt form differs from the majority. Run the analysis with and without them and report both.
+- **Stratify:** studies grouped by lot, manufacturer, or documented bridge. Report the between-stratum difference rather than pooling it away.
 
-## Sourcing Peptides With Traceability Built In
+A random-effects model with a reported I² is a starting point, not an answer. If purity varies across studies, a meta-regression with purity as a covariate can show whether the effect estimate tracks material quality. That analysis needs enough studies and a reliable purity measure; with three studies and three different methods, it is more likely to mislead than to inform.
 
-Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory.
+The [reagent sourcing and replication guide](/blog/why-reagent-sourcing-affects-study-replication) covers the adjacent question of how material variation affects the probability that an individual study replicates.
 
-That documentation trail is what separates a usable research input from a guess. Instead of piecing together chromatograms from three different email threads, you can pull batch history and analytical files in one place and build the metadata record your pooled analysis actually needs. The [peptide catalog](/catalog) lists currently available lots, and product pages like [Epithalon](/catalog/epithalon) and KPV show what a lot-matched analytical disclosure looks like in practice. If your lab or procurement group needs a documented batch history before committing to a bulk order, submitting a sourcing request through the catalog is the fastest way to get that conversation started.
+## A procurement file that supports pooled analysis
 
-## Frequently Asked Questions
+The file structure is simple enough to maintain and specific enough to audit. For each order, keep:
 
-**Why does consistent sourcing matter more for pooled analysis than for a single experiment?**
-A single experiment only needs the material to be well characterized once. Pooled analysis assumes the material was the *same* across every study or batch being compared, so any undetected lot variation gets misread as biological signal.
+1. The purchase order and the supplier's proforma invoice, with the catalog number and quantity.
+2. The lot-specific COA, including the chromatogram and mass spectrum.
+3. The packing list and the shipping documents, showing the lot string that was shipped.
+4. The receiving record: date, condition, temperature indicator, and label photographs.
+5. The storage log, including any excursion and the action taken.
+6. Any deviation, replacement, or credit note.
 
-**Is a Certificate of Analysis from the manufacturer enough on its own?**
-No. A COA documents one specific lot, not the supplier’s overall consistency. You need matched COAs and chromatograms from multiple orders to establish a pattern.
+Retain at least one or two vials from each lot under the labeled condition. The retain sample is the only material that can answer a later question about whether the vial changed after receipt. The [characterization reporting checklist](/blog/peptide-characterization-reporting-checklist) lists the analytical documents worth requesting alongside the certificate.
 
-**How often should independent third-party testing happen?**
-A common approach is testing one out of every four to six batches, with more frequent checks during the first several orders from a new supplier and a reduced cadence once a consistency pattern is established.
+Link the lot identifier to the study identifier in the laboratory notebook, not just in the procurement system. The person analyzing the data may never see the purchase order; the notebook is where the two records meet.
 
-**What’s the biggest documentation gap procurement teams miss?**
-Raw chromatogram and LC-MS export files. Summary PDFs often round numbers and crop details that reveal early-stage impurity drift before it shows up in the headline purity percentage.
+## When the evidence is not good enough
 
-**Can inconsistent sourcing be fixed after the fact with statistical adjustment?**
-Not reliably. Statistical correction assumes you know the source and magnitude of the variance. Undocumented lot-to-lot drift is exactly the kind of unmeasured confounder that statistical adjustment can’t recover from cleanly.
+Sometimes the honest conclusion is that the material cannot be treated as a controlled variable. If the lot is unknown, the method is unstated, and no retain sample exists, the study can still be described, but it cannot be pooled at the material level.
 
-## Sources
+That is a limitation to report, not a reason to discard the study. The reviewer can state that lot-level consistency was not verifiable, group the study with others from the same vendor, and run a sensitivity analysis. What the reviewer should not do is assert that the material was consistent because the supplier's website says so.
 
-- [Batch-to-batch consistency: peptide manufacturing](https://peptideresearchreviews.com/articles/batch-to-batch-consistency-peptide-manufacturing)
-- [Peptide purity standards: HPLC, mass spec, and what >98% really means | Compound Review](https://compoundreview.org/methods/peptide-purity-standards/)
-- [Compendial peptide specifications review (European Peptide Society / Wiley)](https://onlinelibrary.wiley.com/doi/10.1002/psc.1167)
+For future work, the fix is procedural: buy from a supplier who will provide lot-specific records, request three to five consecutive lot certificates before a long study begins, and bridge a new lot against the retained reference before switching. The [sourcing and verification workflow](/blog/research-peptides-an-operational-guide-to-sourcing-and-verification-in-2026) sets out that sequence from specification to receiving. The [catalog](/catalog/) lists the compounds for which current batch documentation can be requested.
 
 ## The Author's Take
 
-**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+**Position.** A meta-analysis of peptide studies is only as strong as its material record. If the lot is not in the dataset, the analysis cannot separate supplier variation from biological variation, and the heterogeneity estimate becomes a catch-all for both.
 
-**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Reasoning.** Statistical tools describe variance; they do not identify its source. A study that reports a vendor name and a catalog number has told the reviewer almost nothing about the material that produced the result. A study that reports the lot, the sequence, the salt form, the purity method, and the water content has given the reviewer a chance to test whether the material changed. That is a higher standard of reporting, and it is achievable at the procurement stage for the cost of a document request. Reviewers who accept the lower standard are pooling noise and calling it heterogeneity.
 
-**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+**Disclosure.** Peptides of China sells research peptides. This article is about sourcing records and analytical comparability, not about any compound's effects. Products are supplied for laboratory research use only and are not for human or veterinary use.
 
-## Related Products
+## Sources
 
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+1. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. *BMJ.* 2021;372:n71. https://doi.org/10.1136/bmj.n71
+2. Cochrane Collaboration. *Cochrane Handbook for Systematic Reviews of Interventions.* https://training.cochrane.org/handbook
+3. The MDAR (Materials Design Analysis Reporting) Framework for transparent reporting in the life sciences. *Proceedings of the National Academy of Sciences.* 2021;118(17):e2103238118. https://doi.org/10.1073/pnas.2103238118
+4. EMA. *ICH Q6A: Specifications, Test Procedures and Acceptance Criteria for New Drug Substances and New Drug Products.* https://www.ema.europa.eu/en/scientific-guidelines/ich-q6a-specifications-test-procedures-acceptance-criteria-new-drug-substances-new-drug-products-chemical-substances
+5. ICH. *Q2(R2): Validation of Analytical Procedures.* 2023. https://database.ich.org/sites/default/files/ICH_Q2%28R2%29_Guideline_2023_1130.pdf
+6. FDA. *Bioanalytical Method Validation: Guidance for Industry.* 2018. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/bioanalytical-method-validation-guidance-industry
+7. CLSI. *EP05: Evaluation of Precision of Quantitative Measurement Procedures.* https://clsi.org/standards/products/method-evaluation/
+8. D'Hondt M, et al. Related impurities in peptide medicines. *Journal of Pharmaceutical and Biomedical Analysis.* 2014;101:2–30. https://doi.org/10.1016/j.jpba.2014.06.012
+9. USP. *&lt;1058&gt; Analytical Instrument Qualification.* https://doi.org/10.31003/uspnf_m1124_10101_01

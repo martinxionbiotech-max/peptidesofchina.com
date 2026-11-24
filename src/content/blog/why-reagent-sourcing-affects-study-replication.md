@@ -1,206 +1,135 @@
 ---
 title: "Why Reagent Sourcing Affects Study Replication"
 slug: "why-reagent-sourcing-affects-study-replication"
-description: "Discover why proper reagent sourcing is critical for replicating scientific studies. Ensure accuracy and reliability in your experiments."
-
-
-
-
-
+description: "How lot identity, purity, and handling records change replication outcomes, with a verification ladder labs can apply before a reagent enters a study."
 author: "POC Tech Team"
-updated: "2026-11-17"
+updated: "2026-11-24"
 ---
-This guide examines why reagent sourcing affects study replication from the perspective of a **china peptide** buyer. For researchers and resellers sourcing **chinese peptides**, the practical questions are the same regardless of compound: who manufactured the vial, what the batch documentation shows, and whether the specification matches the listing. We answer those questions below.
 
-Reagent sourcing failures, not flawed hypotheses, are behind a large share of failed replication attempts, because an unverified lot or a misidentified material changes what the assay actually measures. If you run bench work, act now: log every lot number tied to a result, run a functional check on any reagent you did not personally validate, and freeze use of unverified stock until it clears.
+Replication failure is usually discussed as a design problem: small samples, flexible analyses, selective reporting. Those factors are real, and they are not the whole story. A reagent that is not what the label says, or is not the same material as the previous lot, changes what the assay measures before any statistical choice is made. The experiment can be well powered and still fail to replicate because the input was different.
 
-Do this before your next experiment:
+For peptide work, the risk is concentrated in three attributes: identity, purity, and content. This guide explains how each one can move a result, what a buyer can check on receipt, and how to document a lot so that a later replication attempt has a material record to work from.
 
-1. Pull lot numbers and Certificates of Analysis (COAs) for every reagent in your current protocol.
-2. Flag any reagent purchased through a reseller rather than a manufacturer or authorized distributor.
-3. Run a positive/negative control check on any lot you have not personally validated.
-- Document supplier, catalog number, and lot for every reagent tied to a publishable result.
-- Quarantine unverified stock rather than assuming “it’s probably fine.”
+## Replication failure often starts at the reagent shelf
 
-## Key Takeaways
+Surveys of researchers put the scale of the problem in plain numbers. A 2016 *Nature* survey of 1,576 scientists found that about 70% had tried and failed to reproduce another scientist's experiment, and about 50% had failed to reproduce one of their own. The Open Science Collaboration's 2015 attempt to replicate 100 psychology studies found that only 36% produced significant results again, against 97% in the original reports. A 2015 analysis estimated that irreproducible preclinical research in the United States alone accounted for about $28.2 billion per year.
 
-Reagent sourcing failures, driven by contamination, batch drift, and missing identifiers, cause a substantial share of failed replications, and they are preventable with documented traceability and functional validation.
+Those figures do not isolate reagents as the cause. They describe a system in which many causes coexist. What they do support is a practical point: when a replication fails, the material record is one of the first things to inspect, because it is cheap to check and it can invalidate every downstream comparison.
 
-| Point | Details |
-| --- | --- |
-| Treat lots as variables | Validate every new reagent lot with a functional control before using it in an experiment. |
-| Demand lot-specific COAs | Require Certificates of Analysis tied to the exact lot received, not generic product documents. |
-| Authenticate biological materials | Run STR profiling and mycoplasma testing on cell lines on a fixed schedule. |
-| Report full material metadata | Include supplier, catalog number, lot number, and RRID in every methods section. |
-| Choose traceable supply | Peptides of China coordinates manufacturer-side sourcing; documentation availability depends on the product and batch, and buyers may arrange independent testing. |
+## Three ways a peptide lot changes an experiment
 
-## Table of Contents
+A peptide can differ from the expected material in ways that are invisible on the vial label. The table below groups the common mechanisms by what the laboratory observes.
 
-- Why Reagent Sourcing Affects Study Replication at the Chemical Level
-- Common Reagent-Driven Causes of Failed Replication
-- How to Qualify Reagent Suppliers Before They Enter Your Protocol
-- Lab Workflows That Catch Reagent Variation Before It Reaches Your Data
-- What Publications Need to Report for Faithful Replication
-- Supply-Chain Traceability for Complex Reagents Like Peptide APIs
-- Why I Think Sourcing Deserves the Same Rigor as Protocol Design
-- Reducing Sourcing Risk With Traceable Peptide Supply
-- Frequently Asked Questions
-- Sources
+| Mechanism | What changes | Typical observation | How to detect it |
+| --- | --- | --- | --- |
+| Identity substitution | A different sequence, terminus, or modification | Activity is absent, reduced, or unexpectedly broad | Intact mass and, where needed, peptide mapping |
+| Purity and impurity load | Truncations, deletions, oxidation, residual counterion | Concentration-response shifts; off-target interference; inconsistent blanks | RP-HPLC impurity profile, mass spectrum, counterion assay |
+| Content error | Fill mass is not peptide mass; water or counterion varies | Concentrations calculated from the label are wrong by a fixed percentage | Karl Fischer, amino acid analysis, mass balance |
 
-## Why Reagent Sourcing Affects Study Replication at the Chemical Level
+The third mechanism is the least dramatic and often the most consequential. A vial labeled 10 mg may contain 8.5 mg of peptide after water and counterion are counted. If every concentration in the study is calculated from 10 mg, every result is offset by the same proportion. The biology may look weaker or stronger than it is, and a replication that uses a different fill basis will not agree.
 
-Reagent purity, concentration, and stability are not fixed properties. They drift, and that drift moves assay outputs in ways that look like biology but are actually chemistry. A peptide stock that has degraded [8%](https://pmc.ncbi.nlm.nih.gov/articles/PMC10887077/) during shipping produces a smaller effect size in a dose-response curve, and nobody sees the degradation, only the weaker curve. An antibody with reduced binding affinity in a new lot generates a dimmer western blot band that gets interpreted as reduced protein expression, when the real story is a manufacturing variance.
+A worked example makes the scale visible. Take a 10 mg fill with 95% chromatographic purity, 4% water, and 6% acetate counterion. The peptide fraction is roughly 0.95 × (1 − 0.04 − 0.06) = 0.855, or 8.55 mg of peptide in the vial. A protocol that dissolves the whole vial to a nominal 1 mg/mL is actually at about 0.855 mg/mL. If the next lot has 2% water and 3% acetate, the same calculation gives about 0.90 mg/mL. The two solutions differ by roughly 5% before any biological variable is considered. That is enough to move a borderline result, and it is invisible unless the certificate reports water and counterion content.
 
-Contamination adds a second layer. It arrives through three main routes: synthesis-stage impurities, in-transit temperature excursions that trigger degradation, and handling contamination once a reagent is opened and reused across projects. Each leaves a fingerprint. Endotoxin contamination in a supposedly clean reagent, for instance, can trigger inflammatory signaling that gets misread as a treatment effect.
+## What "same reagent" means across purchases
 
-Batch-to-batch variability compounds all of this. [Swapping an antibody lot or changing a media vendor can fundamentally alter experimental outcomes](https://www.labmanager.com/ensuring-reproducibility-in-biological-research-34610), even when nothing else in the protocol changes.
+A catalog number identifies a product line, not a material. Two orders of the same catalog number can differ in sequence (if the vendor changed a supplier), salt form, fill mass, purity method, and storage history. A replication protocol that records only the catalog number has not specified the reagent.
 
-**Statistic callout:** In one of the most cited replication efforts in the sciences, [direct replications of psychology studies reproduced statistically significant original findings far less often than originally reported](https://www.science.org/doi/10.1126/science.aac4716). Reagent-dependent fields face an analogous problem: the protocol replicates, but the material does not.
+The minimum material identity for a peptide includes:
 
-**Pro Tip:** *Treat every new reagent lot as an unproven variable, not a drop-in replacement, until it clears its own functional control.*
+- The full sequence, including terminal modifications and any non-standard residues.
+- The salt or counterion form.
+- The lot identifier.
+- The purity method and result.
+- The water content and, where relevant, net peptide content.
+- The storage condition from manufacture to receipt.
 
-## Common Reagent-Driven Causes of Failed Replication
+That list is short enough to put in a laboratory notebook header. It is also the list a reviewer needs in order to decide whether two studies used the same material. The [quality standards guide](/blog/research-peptide-quality-standards-2026-guide) sets out how those attributes are specified and tested.
 
-Most replication failures trace back to a small set of recurring problems, and they tend to hide in plain sight because the protocol on paper looks identical across labs.
+## A verification ladder for incoming lots
 
-Misidentified and cross-contaminated cell lines are the classic case. A line believed to be one tissue type is, on inspection, a different line entirely, or it carries a mycoplasma infection that alters growth rate and metabolic output without visible signs. [Authentication and low-passage materials are essential precisely because misidentified or over-passaged lines can render results non-reproducible](https://www.atcc.org/resources/white-papers/improving-accuracy-and-reproducibility-in-life-science-research).
+Not every study needs the same depth of incoming testing. A pilot screen and a confirmatory study have different tolerances for uncertainty. The ladder below lets a lab choose a level and state why.
 
-Antibody specificity is another repeat offender. Two lots from the same catalog number can bind different epitopes with different affinity, and most vendors publish thin validation data to catch it.
+| Level | Check | Method | Evidence produced | Typical use |
+| --- | --- | --- | --- | --- |
+| 0 | Document match | Label, packing list, COA lot string | Three-way match record | Every order |
+| 1 | Identity | Intact mass by LC-MS or MALDI-TOF | Spectrum and calculated versus observed mass | Any new lot |
+| 2 | Purity and content | RP-HPLC, Karl Fischer, net content | Chromatogram, water result, content figure | Studies with quantitative endpoints |
+| 3 | Orthogonal confirmation | Peptide mapping, amino acid analysis, reference standard comparison | Sequence coverage and content data | Lead lots, long studies, disputed results |
 
-Kit reformulations and discontinued catalog items round out the list. A vendor quietly changes a buffer formulation, keeps the same product name, and a protocol that worked for three years stops working with no announced change.
+Level 0 costs minutes and catches the most common paperwork failure: a certificate that belongs to a different lot. Level 1 catches a substitution that a purity figure would miss. Level 2 catches the content error described above. Level 3 is reserved for the lots that anchor a study or a dispute.
 
-| Failure mode | Typical trigger | Downstream effect |
-| --- | --- | --- |
-| Misidentified cell line | Cross-contamination between cultures | Wrong biology attributed to results |
-| Antibody lot drift | Unvalidated batch-to-batch affinity change | False negative or inflated signal |
-| Kit reformulation | Unannounced vendor formulation change | Protocol failure with no clear cause |
+The [incoming verification guide](/blog/how-to-source-high-quality-peptides-a-2026-laboratory-verification-guide) describes how these checks fit into a supplier qualification. The [COA reading guide](/blog/how-to-read-a-peptide-coa-a-researchers-guide-to-hplc-and-ms-reports) explains what the supplier's document should contain at each level.
 
-> Variability in essential biological reagents is a primary threat to reproducibility, and it is often invisible until a lab tries to repeat someone else’s result and cannot.
+## Controls that detect reagent drift
 
-**Pro Tip:** *Before troubleshooting your protocol, ask whether the reagent catalog number you’re using has changed hands, formulation, or manufacturing site since the original study was published.*
+A control is only useful if it can fail. A positive control that always works, run at a concentration where everything works, does not tell the analyst whether the reagent changed. The controls need to sit near the decision boundary.
 
-## How to Qualify Reagent Suppliers Before They Enter Your Protocol
+Four controls are worth building into a peptide study:
 
-Procurement controls are where most of this gets fixed or gets ignored. A supplier evaluation should treat documentation as a testable claim, not a formality.
+1. **A reference standard.** A characterized aliquot of the same peptide, stored separately, run alongside each batch. The reference should have its own documented identity and purity.
+2. **A positive and a negative control.** The positive control confirms that the assay responds; the negative control confirms that it does not respond to the vehicle alone.
+3. **A spike recovery.** A known amount of reference material added to the sample matrix shows whether the matrix suppresses or enhances the signal.
+4. **A blinded aliquot.** A sample prepared by a second person, labeled without the expected result, catches analyst bias in subjective readouts.
 
-Require these at minimum:
+For chromatographic methods, system suitability is the drift check: resolution, tailing, and replicate precision before the sample sequence. For cell-based methods, the equivalent is a reference lot run at the same passage and under the same conditions. The [purity and concentration guide](/blog/why-purity-and-concentration-tests-are-not-enough) explains why a single purity number cannot substitute for these controls.
 
-- A current COA tied to the specific lot you are receiving, not a generic product-level document.
-- Manufacturing site identification and provenance, especially for peptides, antibodies, and custom syntheses.
-- Stability data covering your actual storage and use window.
-- Chain-of-custody documentation from synthesis or manufacture through to your bench.
+## Documentation that makes replication possible
 
-Ask vendors directly about their sample testing policy, whether they retain hold-back samples from each lot, and how they notify customers when a formulation changes. A vendor unwilling to answer any of these is telling you something.
+A replication attempt needs to reconstruct the material, not just the method. The record should let a second lab answer: what exactly was in the vial, when was it tested, and how was it stored?
 
-To interpret a COA correctly, check the assay method used (HPLC purity figures mean little without knowing the column and gradient), the reference standard, and the date relative to your receipt date. When a COA looks thin or the vendor cannot produce the underlying chromatogram, commission independent third-party testing before committing.
+At minimum, keep the following with the study file:
 
-1. Confirm lot-specific COA availability before ordering.
-2. Request hold-back sample and retesting policy in writing.
-3. Set documented acceptance criteria (purity threshold, appearance, functional pass/fail) before the shipment arrives, not after.
-4. Reject and document any lot that fails acceptance criteria, rather than adjusting the protocol to accommodate it.
+- Vendor, catalog number, lot string, and order date.
+- The lot-specific COA, including chromatogram and mass spectrum.
+- The receiving record: date, condition, temperature indicator, and label photograph.
+- The storage log, including any excursion and the action taken.
+- The preparation record: weighed mass, diluent, concentration basis, and date.
+- The assay record: instrument, column, method version, and system suitability.
 
-**Pro Tip:** *Negotiate lot retention and reformulation notification into your purchase agreement, not just your quality manual. A supplier that agrees on paper to notify you of formulation changes is a supplier that has already thought about this problem.*
+The MDAR framework for transparent reporting in the life sciences asks authors to report materials with enough specificity that another lab can identify them. 21 CFR 211.194(a) provides a useful model for the laboratory record itself: analyst, method, sample identification, weights, dilutions, and results. Research labs are not bound by that manufacturing regulation, but the record structure is a sound template.
 
-## Lab Workflows That Catch Reagent Variation Before It Reaches Your Data
+## When to quarantine a lot
 
-Validation belongs at the bench, not just in procurement. Reagent validation and authentication remain frequently overlooked causes of irreproducibility, despite standard protocols existing for validating compounds, antibodies, cell lines, and kits.
+Quarantine is a decision to stop using a lot until a question is answered. It is cheaper than repeating a study on material that may be wrong.
 
-Minimum steps for any new lot:
+Five triggers justify it:
 
-- Visual inspection for color, clarity, and particulates against a known reference.
-- A functional assay run against positive and negative controls before the lot touches an actual experiment.
-- Spot-check stability if the lot will sit in storage for more than a few weeks before use.
+- The lot string on the vial does not match the certificate or the packing list.
+- The intact mass falls outside the pre-declared tolerance.
+- An unknown impurity peak exceeds the reporting threshold, or the impurity profile differs from the reference lot.
+- Water content is outside the specification, or the cake looks melted, wet, or discolored.
+- Reconstitution behavior is visibly different from the reference lot at the same concentration.
 
-Cell line authentication through STR (short tandem repeat) profiling and routine mycoplasma testing should happen on a fixed schedule, not only when something looks wrong.
+A quarantine does not require a conclusion about the cause. It requires a record of the trigger, the material set aside, and the person who will decide the next step. If the supplier is asked to investigate, the retained vials and the original packaging are the evidence.
 
-1. Log receipt date, storage condition, and freeze/thaw cycles for every reagent lot.
-2. Run the functional control before the first experimental use.
-3. Archive an aliquot of every verified lot before it is consumed.
+## Designing procurement for replication
 
-**Pro Tip:** *Split every new lot into an experimental aliquot and an archived reference aliquot the day it arrives. When a result looks strange six months later, you will have the exact material to retest against, not a guess.*
+The most reliable way to avoid a mid-study material change is to buy enough of one lot for the whole study, plus a reserve. A reserve of 10–20% of the study material is a practical starting point; it covers a dropped vial, a failed preparation, and a repeat of the final assay.
 
-## What Publications Need to Report for Faithful Replication
+Three other practices reduce risk:
 
-A materials and methods section that omits catalog number, lot number, and a unique identifier is not a full method. Studies evaluating biomedical articles found that many reported resources cannot be uniquely identified from the methods text, which forces replicating labs to guess at sourcing.
+- **Bridge before switching.** If a new lot is unavoidable, run a side-by-side comparison against the retained reference before the study continues. The [batch consistency method](/blog/why-consistent-sourcing-enables-meta-analysis) describes the design.
+- **Qualify a second supplier without switching to it.** A backup source is useful only if its material has been characterized before an emergency.
+- **Keep the lot constant across compared arms.** If two arms receive different lots, the lot becomes a confounder. Randomize or block within lot where the design allows.
 
-Include, at minimum:
-
-- Supplier name and catalog number.
-- Lot number and RRID (Research Resource Identifier) or equivalent registry ID where one exists.
-- Storage and handling notes specific to that reagent.
-
-[Major funders now recommend authenticated materials and detailed methods reporting as core rigor practices](https://www.nih.gov/research-training/rigor-reproducibility), and COAs or validation data can go in supplemental files or a public repository rather than cluttering the main text.
-
-**Pro Tip:** *Adapt a simple template: “Reagent X, Supplier Y, Cat# Z, Lot #, RRID: [ID], stored at [condition].” Five fields, every reagent, every paper.*
-
-## Supply-Chain Traceability for Complex Reagents Like Peptide APIs
-
-Peptide active pharmaceutical ingredients (APIs) move through several handoffs before they reach a bench, and each handoff is a place traceability can quietly disappear. The typical flow runs from raw API synthesis, through vialing and lyophilization, to COA generation, and finally through distribution, which may include one or more reseller layers.
-
-Opaque distribution networks obscure API provenance, while direct-from-manufacturer transparency and retained-sample traceability reduce supply-chain risk for high-stakes reagents.
-
-A workable traceability checklist for peptides and similar complex reagents:
-
-- Manufacturer lot ID tied to a specific synthesis batch, not a repackaged distributor lot.
-- Analytical chromatograms (HPLC/MS) available on request, not just a summary purity number.
-- A retained sample from the same batch, held by the supplier for retesting disputes.
-| Traceability element | What it confirms |
-| --- | --- |
-| Manufacturer lot ID | Batch originates from a specific, identifiable synthesis run |
-| Chromatogram availability | Purity claim is independently checkable |
-| Retained sample policy | Disputes can be resolved against physical material |
-
-Independent third-party HPLC or mass spectrometry testing should sit inside your acceptance criteria for any peptide reagent that materially affects your results, not as an occasional audit. Our [research peptide quality standards guide](/blog/research-peptide-quality-standards-2026-guide) walks through how to read a chromatogram against a purity claim.
-
-**Pro Tip:** *When comparing two supply options at similar price, favor the one with a direct manufacturer relationship and documented lot retention over the one with a cheaper price and an opaque origin story. The savings rarely survive the first failed replication.*
-
-## Why I Think Sourcing Deserves the Same Rigor as Protocol Design
-
-Labs spend enormous effort standardizing pipetting technique and incubation times while treating the reagent bottle as a fixed, trustworthy input. It rarely is. I have seen a single antibody lot swap quietly erase a signal that took a graduate student a year to characterize, and the only reason the team caught it was an archived aliquot from the original lot that let them retest side by side. Traceability is not paperwork. It is the difference between chasing a phantom biological effect and catching a batch problem in an afternoon. Reagents deserve treatment as experiment-critical assets, with the same documentation discipline labs already apply to instrumentation calibration.
-
-## Reducing Sourcing Risk With Traceable Peptide Supply
-
-The traceability practices this article recommends should be confirmed for the particular supplier, product, and batch. Peptides of China works directly with a limited network of verified manufacturing facilities as a specialized sales and sourcing channel. Products are subject to the manufacturer’s applicable quality-control procedures and specifications. Manufacturer-side analytical documentation may be available depending on the product and batch. Peptides of China is not an independent analytical testing laboratory.
-
-When evaluating any peptide or research compound vendor for a study where reproducibility matters, ask three questions during the RFP process: Can you produce a lot-specific COA with chromatogram data on request? Do you retain hold-back samples for retesting disputes? Will you notify me before any formulation or synthesis-site change? A supplier that hesitates on any of the three is a supply-chain risk you are choosing to accept.
-
-Peptides of China’s [research peptide catalog](/catalog) identifies available products, and the [Epithalon product page](/catalog/epithalon) provides product information. Order-specific documentation availability should be confirmed during processing. For labs building out a validation SOP, an automated platform like [Qualitum](https://www.qualitum.ai/platform/overview) can help standardize the acceptance-testing workflow across incoming lots. If reagent-driven variability has cost your lab a replication attempt before, start your next procurement cycle by requesting a lot-specific COA before you commit to an order.
-
-## Frequently Asked Questions
-
-**Why does reagent sourcing affect study replication so heavily compared to protocol differences?**
-
-Protocols can be copied precisely, but a reagent’s chemistry can differ between lots even under an identical catalog number, which means two labs running the same steps can still get different results because the material itself was never the same.
-
-**What is the fastest way to check if a reagent lot is reliable?**
-
-Run it against a positive and negative control in a small functional assay before committing it to a full experiment. A lot that fails this cheap check saves you from a much more expensive failed replication later.
-
-**Do RRIDs actually solve the identification problem?**
-
-RRIDs help significantly because they point to a specific, registered resource rather than a generic name, but they only work if authors actually include them, and many published methods sections still omit unique identifiers entirely.
-
-**Is buying direct from a manufacturer always better than using a distributor?**
-
-Direct sourcing generally improves traceability because provenance and lot data stay intact through fewer handoffs, though a reputable distributor with documented chain-of-custody and lot-specific COAs can still meet the same standard.
-
-## Sources
-
-- [Ensuring Reproducibility in Biological Research | Lab Manager](https://www.labmanager.com/ensuring-reproducibility-in-biological-research-34610)
-- [Estimating the reproducibility of psychological science (Open Science Collaboration)](https://www.science.org/doi/10.1126/science.aac4716)
-- [Improving accuracy and reproducibility in life science research (ATCC white paper)](https://www.atcc.org/resources/white-papers/improving-accuracy-and-reproducibility-in-life-science-research)
+The [quality assurance process](/blog/peptide-quality-assurance-process-a-researchers-guide-to-sourcing-integrity) covers the supplier-side records that support these practices, and the [reference standard guide](/blog/types-of-peptide-reference-standards-a-lab-guide) explains the traceability levels behind a working reference. For current compounds and batch documentation, see the [catalog](/catalog/).
 
 ## The Author's Take
 
-**Position.** Everything discussed above applies to the broader question of sourcing **china peptides**: the compound's research profile matters, but the manufacturer and the batch documentation decide whether the vial in your hand matches the description on the page.
+**Position.** Reagent sourcing affects replication most often through the boring attributes: fill mass, water content, counterion, and lot identity. The dramatic failure — a completely different peptide — is rarer and easier to catch. The quiet failure is a vial that is 15% lighter in peptide than the label implies, used across an entire study.
 
-**Reasoning.** For catalog listings, batch specifications, and ordering information, see the [catalog](/catalog/) or [how sourcing works](/how-it-works/).
+**Reasoning.** A replication attempt compares a result to a prior result. If the material basis changed, the comparison is between two different experiments, however identical the protocol looks on paper. The fix is not a more elaborate statistical model; it is a material record that lets the second lab see what the first lab used. That record costs a document request and a notebook field. It saves the cost of a study that cannot be interpreted, which is the more expensive outcome. The evidence on reproducibility does not prove that reagents are the main cause, but it does show that the system has enough failure modes to justify controlling the ones a buyer can control.
 
-**Disclosure.** POC Tech Team is the editorial and technical team of Peptides of China, a supplier of research materials. This is an editorial and sourcing judgement, not medical advice.
+**Disclosure.** Peptides of China sells research peptides. This article is about material verification and study documentation, not about any compound's effects. Products are supplied for laboratory research use only and are not for human or veterinary use.
 
-## Related Products
+## Sources
 
-- [BPC-157](/catalog/bpc-157/)
-- [Semaglutide](/catalog/semaglutide/)
-- [Tirzepatide](/catalog/tirzepatide/)
-- [TB-500](/catalog/tb-500/)
+1. Open Science Collaboration. Estimating the reproducibility of psychological science. *Science.* 2015;349(6251):aac4716. https://doi.org/10.1126/science.aac4716
+2. Freedman LP, Cockburn IM, Simcoe TS. The economics of reproducibility in preclinical research. *PLOS Biology.* 2015;13(6):e1002165. https://doi.org/10.1371/journal.pbio.1002165
+3. Begley CG, Ioannidis JPA. Reproducibility in science: improving the standard for basic and preclinical research. *Circulation Research.* 2015;116(1):116–126. https://doi.org/10.1161/CIRCRESAHA.114.303819
+4. Baker M. 1,500 scientists lift the lid on reproducibility. *Nature.* 2016;533:452–454. https://doi.org/10.1038/533452a
+5. The MDAR (Materials Design Analysis Reporting) Framework for transparent reporting in the life sciences. *Proceedings of the National Academy of Sciences.* 2021;118(17):e2103238118. https://doi.org/10.1073/pnas.2103238118
+6. ICH. *Q2(R2): Validation of Analytical Procedures.* 2023. https://database.ich.org/sites/default/files/ICH_Q2%28R2%29_Guideline_2023_1130.pdf
+7. USP. *&lt;1058&gt; Analytical Instrument Qualification.* https://doi.org/10.31003/uspnf_m1124_10101_01
+8. D'Hondt M, et al. Related impurities in peptide medicines. *Journal of Pharmaceutical and Biomedical Analysis.* 2014;101:2–30. https://doi.org/10.1016/j.jpba.2014.06.012
+9. CLSI. *EP05: Evaluation of Precision of Quantitative Measurement Procedures.* https://clsi.org/standards/products/method-evaluation/
